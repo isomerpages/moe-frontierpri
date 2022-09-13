@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Our Stakeholders/School Advisory Committee.md
       - Our Stakeholders/.keep
