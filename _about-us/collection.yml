@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Calendar.md
       - School Information/School Gate Operational Hours.md
       - School Information/School Vendors.md
       - School Information/.keep
