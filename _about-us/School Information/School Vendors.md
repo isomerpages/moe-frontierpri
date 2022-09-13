@@ -24,65 +24,11 @@ _Note: Parents may only enter the school to make their purchase 30 minutes after
 
 #### **Book Lists**
 
-<table>
-<thead>
-  <tr>
-    <th>Level</th>
-    <th>Booklist</th>
-    <th>Level &amp; Combination</th>
-    <th>Booklist</th>
-    <th>Level &amp; Combination</th>
-    <th>Booklist</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>P1</td>
-    <td>Download</td>
-    <td>P5 4S1H</td>
-    <td>Download</td>
-    <td>P6 4S1H</td>
-    <td>Download</td>
-  </tr>
-  <tr>
-    <td>P2</td>
-    <td>Download</td>
-    <td>P5 4S</td>
-    <td>Download</td>
-    <td>P6 4S</td>
-    <td>Download</td>
-  </tr>
-  <tr>
-    <td> P3</td>
-    <td>Download</td>
-    <td>P5 2S2F</td>
-    <td>Download</td>
-    <td>P6 2S2F</td>
-    <td>Download</td>
-  </tr>
-  <tr>
-    <td>P4</td>
-    <td>Download</td>
-    <td>P5 3S1FMA</td>
-    <td>Download</td>
-    <td>P6 3S1FMA</td>
-    <td>Download</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>P5 3S1FMTL</td>
-    <td>Download</td>
-    <td>P6 3S1FMTL</td>
-    <td>Download</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>P5 4F</td>
-    <td>Download</td>
-    <td>P6 4F</td>
-    <td>Download</td>
-  </tr>
-</tbody>
-</table>
+| Level | Booklist | Level & Combination | Booklist | Level & Combination | Booklist |
+|:-----:|:--------:|:-------------------:|:--------:|:-------------------:|:--------:|
+|   P1  | [Download](/files/Frontier-Primary-School-Booklist-AY-2022-P1.pdf) |       P5 4S1H       | [Download](/files/Frontier-Primary-School-Booklist-AY-2022-P5-4S1HMT.pdf) |       P6 4S1H       | [Download](/files/Frontier-Primary-School-Booklist-AY-2022-P6-4S1HMT.pdf) |
+|   P2  | [Download](/files/Frontier-Primary-School-Booklist-AY-2022-P2.pdf) |        P5 4S        | Download |        P6 4S        | Download |
+|   P3  | [Download](/files/Frontier-Primary-School-Booklist-AY-2022-P3.pdf) |       P5 2S2F       | Download |       P6 2S2F       | Download |
+|   P4  | [Download](/files/Frontier-Primary-School-Booklist-AY-2022-P4.pdf) |      P5 3S1FMA      | Download |      P6 3S1FMA      | Download |
+|       |          |      P5 3S1FMTL     | Download |      P6 3S1FMTL     | Download |
+|       |          |        P5 4F        | Download |        P6 4F        | Download |
