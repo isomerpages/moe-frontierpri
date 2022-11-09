@@ -15,7 +15,8 @@ contacts:
   - content:
       - phone: +65 6578 9555
       - email: frontier_ps@moe.edu.sg
-      - other: "For Feedback, go here: https://forms.cwp.gov.sg/frontierpri/feedback"
+      - other: "For Feedback, please go here:
+          https://forms.cwp.gov.sg/frontierpri/feedback"
     title: Telephone
   - content:
       - phone: +65 6790 8596
