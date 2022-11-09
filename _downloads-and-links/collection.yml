@@ -2,5 +2,6 @@ collections:
   downloads-and-links:
     output: true
     order:
+      - For Students and Parents.md
       - For Teachers.md
       - For Alumni.md
