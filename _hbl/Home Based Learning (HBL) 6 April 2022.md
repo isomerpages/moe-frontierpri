@@ -3,6 +3,14 @@ title: Home Based Learning (HBL) 6 April 2022
 permalink: /hbl-links-for-6-april/
 description: ""
 ---
+<p>Dear Parents,</p>
+<p>Please find the links to the HBL instructions for each level and class below:</p>
+<p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-6april">https://go.gov.sg/p1-hbl-6april</a></strong></p>
+<p>P2:&nbsp;<strong><a href="https://go.gov.sg/p2-hbl-6april">https://go.gov.sg/p2-hbl-6april</a></strong></p>
+<p>P3:&nbsp;<strong><a href="https://go.gov.sg/p3-hbl-6april">https://go.gov.sg/p3-hbl-6april</a></strong></p>
+<p>P4:&nbsp;<strong><a href="https://go.gov.sg/p4-hbl-6april">https://go.gov.sg/p4-hbl-6april</a></strong></p>
+<p>P5:&nbsp;<strong><a href="https://go.gov.sg/p5-hbl-6april">https://go.gov.sg/p5-hbl-6april</a></strong></p>
+<p>P6:&nbsp;<strong><a href="https://go.gov.sg/p6-hbl-6april">https://go.gov.sg/p6-hbl-6april</a></strong></p>
 <p>For password reset and unlocking of accounts, please click on the web link and fill out the form. Our personnel will get back to you as soon as possible. For feedback, other technical assistance or enquiries, please refer to the following table for the point of contact.</p>
 <table border="3">
 <tbody>
