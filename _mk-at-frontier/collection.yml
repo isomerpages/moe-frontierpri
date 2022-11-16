@@ -2,6 +2,7 @@ collections:
   mk-at-frontier:
     output: true
     order:
+      - Open House.md
       - Virtual Tour of MOE Kindergarten @ Frontier.md
       - Collaborations.md
       - Downloads and Links/For Parents.md
