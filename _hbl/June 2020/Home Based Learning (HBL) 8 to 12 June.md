@@ -4,7 +4,6 @@ permalink: /hbl-8-to-12-june/
 description: ""
 third_nav_title: June 2020
 ---
-
 <p>Dear Parents,</p>
 <p>Please find the links to the HBL instructions for each level and class below:</p>
 <p>P4:&nbsp;<a href="https://tinyurl.com/P4-HBL-8to12-June" target="_blank" rel="noopener"><strong>https://tinyurl.com/P4-HBL-8to12-June</strong></a></p>
@@ -94,7 +93,7 @@ third_nav_title: June 2020
 <p>SLS helpdesk</p>
 </td>
 <td>
-<p>6702 6513</p>
+<p>67026513</p>
 </td>
 <td colspan="2">
 <p>helpdesk@sls.ufinity.com</p>
@@ -116,7 +115,7 @@ third_nav_title: June 2020
 <p>School</p>
 </td>
 <td>
-<p>6578 9555</p>
+<p>65789555</p>
 </td>
 <td colspan="2">
 <p>frontier_ps@moe.edu.sg</p>
