@@ -2,6 +2,7 @@ collections:
   downloads-and-links:
     output: true
     order:
+      - Announcements/10th Anniversary Special Edition.md
       - Announcements/Information and Links on Library Matters.md
       - Announcements/Announcements.md
       - Announcements/.keep
