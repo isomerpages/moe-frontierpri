@@ -2,4 +2,5 @@ collections:
   mk-at-frontier:
     output: true
     order:
+      - Downloads and Links/For Teachers.md
       - Downloads and Links/.keep
