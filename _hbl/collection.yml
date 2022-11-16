@@ -2,6 +2,7 @@ collections:
   hbl:
     output: true
     order:
+      - June 2020/Home Based Learning (HBL).md
       - June 2020/HBL June.md
       - June 2020/.keep
       - HBL for 13 to 14 August.md
