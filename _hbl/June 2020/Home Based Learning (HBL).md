@@ -56,6 +56,9 @@ third_nav_title: June 2020
 <td>
 <p>Subject Teachers / Form Teachers</p>
 </td>
+<td>
+<p>&nbsp;</p>
+</td>
 <td colspan="2">
 <p>Refer to HBL Plan for contact details of Subject Teachers</p>
 </td>
