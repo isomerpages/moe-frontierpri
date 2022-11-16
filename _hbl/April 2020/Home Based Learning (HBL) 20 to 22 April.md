@@ -95,7 +95,7 @@ third_nav_title: April 2020
 <p>SLS helpdesk</p>
 </td>
 <td>
-<p>6702 6513</p>
+<p>67026513</p>
 </td>
 <td colspan="2">
 <p>helpdesk@sls.ufinity.com</p>
@@ -117,7 +117,7 @@ third_nav_title: April 2020
 <p>School</p>
 </td>
 <td>
-<p>6578 9555</p>
+<p>65789555</p>
 </td>
 <td colspan="2">
 <p>frontier_ps@moe.edu.sg</p>
