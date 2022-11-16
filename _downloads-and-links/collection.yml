@@ -2,6 +2,7 @@ collections:
   downloads-and-links:
     output: true
     order:
+      - Announcements/School Visits by Alumni.md
       - Announcements/5th Text Recital Competition.md
       - Announcements/HBL Links for 6 April 2022.md
       - Announcements/Primary School Pilot for Learning with Personal Learning
