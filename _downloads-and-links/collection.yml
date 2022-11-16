@@ -2,6 +2,7 @@ collections:
   downloads-and-links:
     output: true
     order:
+      - Announcements/HBL Links for 6 April 2022.md
       - Announcements/Primary School Pilot for Learning with Personal Learning
         Device (P4).md
       - Announcements/10th Anniversary Special Edition.md
