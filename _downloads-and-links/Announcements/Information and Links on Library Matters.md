@@ -37,3 +37,15 @@ third_nav_title: Announcements
 </ul>
 </li>
 </ul>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">For Apple users, please scan the QR code below to access the App Store</td>
+<td style="width: 50%;">For Android users, please scan the QR code below to access the Play Store.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/qr1.png"></td>
+<td style="width: 50%;"><img src="/images/qr2.png"></td>
+</tr>
+</tbody>
+</table>
