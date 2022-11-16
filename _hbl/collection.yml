@@ -2,6 +2,8 @@ collections:
   hbl:
     output: true
     order:
+      - April 2020/.keep
+      - April 2020/HBL Links for April.md
       - April 2020/Home Based Learning (HBL) 30 April to 4 May.md
       - April 2020/Home Based Learning (HBL) 27 to 29 April.md
       - April 2020/Home Based Learning (HBL) 23 to 24 April.md
@@ -10,8 +12,6 @@ collections:
       - April 2020/Home Based Learning (HBL) 13 to 15 April.md
       - April 2020/Home Based Learning (HBL) 8 to 10 April.md
       - April 2020/Home Based Learning (HBL) 1 April.md
-      - April 2020/HBL Links for April.md
-      - April 2020/.keep
       - June 2020/.keep
       - June 2020/HBL June.md
       - June 2020/Home Based Learning (HBL) 22 to 26 June.md
