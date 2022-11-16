@@ -2,6 +2,7 @@ collections:
   mk-at-frontier:
     output: true
     order:
+      - About MK.md
       - MK Teaching Staff.md
       - Total MK Curriculum.md
       - Open House.md
