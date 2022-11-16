@@ -2,5 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2020/.keep
       - Event Gallery 2021/.keep
       - Event Gallery 2022/.keep
