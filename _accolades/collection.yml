@@ -2,4 +2,5 @@ collections:
   accolades:
     output: true
     order:
+      - Students' Achievements/Pupils' Achievements 2019.md
       - Students' Achievements/.keep
