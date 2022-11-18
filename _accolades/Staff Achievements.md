@@ -225,11 +225,11 @@ description: ""
 <tr>
 <td>
 <p>Ms Hannaria Srihanum Tumbuck</p>
-<img style="width: 55%;" src="/images/staff9.jpg" align = "left" />
+<img style="width: 65%;" src="/images/staff9.jpg" align = "left" />
 </td>
 <td>
 <p>Ms Lim Lan Shii</p>
-<img style="width: 60%;" src="/images/staff10.jpg" align = "left" />
+<img style="width: 70%;" src="/images/staff10.jpg" align = "left" />
 </td>
 </tr>
 <tr>
