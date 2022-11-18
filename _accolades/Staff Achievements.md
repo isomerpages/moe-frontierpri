@@ -311,3 +311,136 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table width="837">
+<tbody>
+<tr>
+<td colspan="2">
+<p><strong>President&rsquo;s Award for Teachers Nominees</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Ms Lim Weiqing Eulindra</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Mr Yang Qidong</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Mdm Asmahwaty Binte Abdullah</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Mdm Chua Si Wei</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Mdm Heng Ju Imm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="707">
+<tbody>
+<tr>
+<td>
+<p><strong>Inspiring Teacher of English Award Nominee</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Eulindra Lim</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>Abundance Mindset</strong></h4>
+<p>As an affirmation to our teachers&rsquo; efforts in levelling up the quality of teaching of learning, the following teachers have shared with the teaching fraternity at various platforms at cluster and national levels.</p>
+<h4><span style="text-decoration: underline;"><strong>2019</strong></span></h4>
+<table width="609">
+<tbody>
+<tr>
+<td>
+<p><strong>Teachers Conference</strong></p>
+<p>Supporting Learning in Art Classrooms through Peer Feedback</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Presenter: Ms Guo Xuanyun</p>
+<img style="width: 50%;" src="/images/staff20.jpg" align = "left" />
+</td>
+</tr>
+</tbody>
+</table>
+<table width="609">
+<tbody>
+<tr>
+<td>
+<p><strong>West 3 Cluster Annual Chinese Sharing</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Lim Lan Shii</p>
+<p>Mr Li Lei</p>
+<img style="width: 50%;" src="/images/staff21.jpg" align = "left" />
+</td>
+</tr>
+</tbody>
+</table>
+<table width="609">
+<tbody>
+<tr>
+<td>
+<p><strong>West 3 Cluster Networked Learning Circle</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Li Jia Yang</p>
+<p>Ms Lim Jing Xian</p>
+<p>Mdm Li Yixian</p>
+<p>Mdm Chia Qian Lin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="609">
+<tbody>
+<tr>
+<td>
+<p><strong>AGAB Professional Sharing for Parents</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Topic: Engaging Strategies using Non-conventional Drama Techniques to Enthuse Oracy Skill Amongst Parents and Children at Home</p>
+<p>Presenter: Mdm Rasidah Mohd Rasit</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="609">
+<tbody>
+<tr>
+<td>
+<p><strong>iMTL Portal NLC Professional Sharing 2017</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Topic: Effectiveness of iMTL Portal in the Teaching and Learning of Reading Comprehension</p>
+<p>Amongst Primary 5 Pupils</p>
+<p>Presenters: Mr Mohammed Nidzam Zakariah, Mdm Norhayati Ibnor</p>
+</td>
+</tr>
+</tbody>
+</table>
