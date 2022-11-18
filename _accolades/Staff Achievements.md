@@ -203,3 +203,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><span style="text-decoration: underline;"><strong>2020</strong></span></h4>
+<table width="837">
+<tbody>
+<tr>
+<td colspan="2">
+<p><strong>Caring Teacher Award (organised by National Institute of Education)<br /></strong></p>
+<p>The Caring Teacher Awards is organised by the National Institute of Education every year to acknowledge teachers who go beyond the call of duty for the holistic development of their pupils and to ensure that their charges grow up to be confident and independent learners for our nation. The following teachers have been awarded the Caring Teacher Award this year:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Lim Weiqing Eulindra</p>
+<img style="width: 50%;" src="/images/staff7.jpg" align = "left" />
+</td>
+<td>
+<p>Ms Su-En Loh</p>
+<img style="width: 55%;" src="/images/staff8.jpg" align = "left" />
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Hannaria Srihanum Tumbuck</p>
+<img style="width: 55%;" src="/images/staff9.jpg" align = "left" />
+</td>
+<td>
+<p>Ms Lim Lan Shii</p>
+<img style="width: 60%;" src="/images/staff10.jpg" align = "left" />
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Tan Choon Seng Anderson</p>
+<img style="width: 55%;" src="/images/staff11.jpg" align = "left" />
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
