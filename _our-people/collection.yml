@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Executive And Administrative Staff.md
       - Our Stakeholders/Parent Partnership Community (PPC).md
       - Our Stakeholders/Parent Volunteer Scheme.md
       - Our Stakeholders/Student Care Center.md
