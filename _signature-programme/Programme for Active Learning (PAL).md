@@ -37,3 +37,62 @@ description: ""
 <li>Incorporates values education and social &amp; emotional learning&ndash; Through the individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast changing and globalised world.</li>
 <li>Fun and Enjoyable&ndash;Students are provided with opportunities to discover the world around them and expand into new areas that are both enjoyable and challenging so that they are able to make connections and appreciate the process of learning.</li>
 </ul>
+<p><strong>PAL Schedule for 2022</strong></p>
+<table width="743">
+<tbody>
+<tr>
+<td><strong>Pri One</strong></td>
+<td>SCATA</td>
+<td>DaMo</td>
+<td>Sports and Games</td>
+</tr>
+<tr>
+<td><strong>Pri Two</strong></td>
+<td>RhyMo</td>
+<td>PAL Drama</td>
+<td>Senses In Exploration</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="123"><strong>Level</strong></td>
+<td style="text-align: center;" width="134"><strong>Domain</strong></td>
+<td style="text-align: center;" width="163"><strong>Modules</strong></td>
+<td style="text-align: center;" width="287"><strong>Objectives</strong></td>
+</tr>
+<tr>
+<td rowspan="3" width="123"><strong>Pri One</strong></td>
+<td width="134">Sports &amp; Games</td>
+<td width="163">Sports and Games</td>
+<td width="287">Students will explore various games that have been modified to make them age-appropriate for our Primary One students. Through the programme, students will learn sportsmanship, turn-taking and build character values as they stay active and have fun together. Provides opportunity for Social Emotional Learning.</td>
+</tr>
+<tr>
+<td width="134">Visual Arts</td>
+<td width="163">SCATA&nbsp;(Stories Come Alive Thru Art)</td>
+<td width="287">Students will gain creative insight through the development of visual perception and usage of fine motor skills. They will produce an illustration with the use of clay modelling (jumping clay), based on a story. The creation process will enable students to confidently extend their creativity into physical and illusionary space. Provides opportunity for Social Emotional Learning.</td>
+</tr>
+<tr>
+<td width="134">Performing Arts</td>
+<td width="163">DaMo&nbsp;(Dance &amp; Movement)</td>
+<td width="287">In this module, students will learn the basics of Line Dance through gamification, where they will be going against monsters using dance movement. Agents (Form Teachers) will be there to guide them to become Super Movement Champions.</td>
+</tr>
+<tr>
+<td rowspan="3" width="123"><strong>Pri Two</strong></td>
+<td width="134">Outdoor Education</td>
+<td width="163">Senses In Exploration&nbsp;(SE)</td>
+<td width="287">Students will cultivate an appreciation for nature and a caring spirit through learning activities outside the classroom. Inter-disciplinary in nature, it includes photography, outdoor experiential learning &amp; leadership development. Students&rsquo; character, leadership and 21st Century Competencies will be developed in this module.</td>
+</tr>
+<tr>
+<td width="134">Performing Arts</td>
+<td width="163">PAL Drama</td>
+<td width="287">Students will take on various roles and act out short stories portraying friendship and conflict, The programme aims to assist them in learning to manage their responses, and to develop their communication skills through drama.</td>
+</tr>
+<tr>
+<td width="134">Performing Arts</td>
+<td width="163">RhyMo&nbsp;(Rhythm &amp; Movement)</td>
+<td width="287">Students will be introduced to different countries and develop a creative musical sense through the learning of different cultures&rsquo; Music and Dances while working in groups.</td>
+</tr>
+</tbody>
+</table>
