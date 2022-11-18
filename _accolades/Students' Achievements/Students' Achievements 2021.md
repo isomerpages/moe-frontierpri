@@ -399,7 +399,7 @@ third_nav_title: Students' Achievements
 </td>
 </tr>
 <tr>
-<td colspan="3" width="696">&nbsp;</td>
+<td colspan="3" width="696"><img style="width: 70%;" src="/images/sa6.png" /></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
