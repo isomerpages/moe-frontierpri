@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - In The News.md
       - Staff Achievements.md
       - Students' Achievements/Students' Achievements 2022.md
       - Students' Achievements/Students' Achievements 2021.md
