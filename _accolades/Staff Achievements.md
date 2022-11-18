@@ -98,3 +98,72 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><span style="text-decoration: underline;"><strong>2020</strong></span></h4>
+<table width="571">
+<tbody>
+<tr>
+<td>
+<p><strong>Management and Leadership in Schools Programme (17 weeks full-time programme)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Toh Bee Choo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Lee Hao Yih Dorcas</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="571">
+<tbody>
+<tr>
+<td>
+<p><strong>Instructional Mentor Training (Instructional Mentoring Programme)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Anisia Teng</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Hannaria Srihanum</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><span style="text-decoration: underline;"><strong>2019</strong></span></h4>
+<table width="571">
+<tbody>
+<tr>
+<td>
+<p><strong>Management and Leadership in Schools Programme (17 weeks full-time programme)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Nusraat Begum</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="571">
+<tbody>
+<tr>
+<td>
+<p><strong>Teacher Leaders Programme 1 (10-week full-time programme)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Chia Qian Lin</p>
+<p><img style="width: 50%;" src="/images/staff4.jpeg" align = "left" /></p>
+</td>
+</tr>
+</tbody>
+</table>
