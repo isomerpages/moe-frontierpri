@@ -425,3 +425,200 @@ third_nav_title: Students' Achievements
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" width="696">
+<h4><strong>Draw My Stamp Story Art Competition</strong></h4>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696">Draw My Stamp Story Art Competition 2021 is organized by Singapore Philatelic Museum.<br />The objective is for students to appreciate the designs on Singapore postage stamps and create a drawing to tell the story behind the stamp.<br />More than 800 primary and secondary school students nationwide submitted entries in the annual competition.</td>
+</tr>
+<tr>
+<td colspan="3" width="696"><img style="width: 50%;" src="/images/sa7.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong>Award</strong></p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p>Gold</p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p>Keyang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" width="696">
+<h4><strong>National Heritage Board &ldquo;Get Curious! Appreciation Campaign&rdquo;</strong></h4>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696">
+<p>The campaign was developed in conjunction with the special NHB exhibition, &rdquo;Home, Truly: Growing Up with Singapore, 1950s to the Present&rdquo;.</p>
+<p>Objective of the campaign is to:<br />- Discover stories of family members from different generations<br />- Create meaningful artworks dedicated to their loved ones<br />- Provide a platform for children to showcase their artistic talent in response to the theme</p>
+<p>Artwork is displayed at the National Heritage Gallery during the March Holidays.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696"><img style="width: 50%;" src="/images/sa8.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong>Award</strong></p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p>Finalist</p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p>Ariel Yeo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" width="696">
+<h4><strong>Asian Art Association: World Charity Painting Competition, &ldquo; FIGHT COVID-19&rdquo;</strong></h4>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696">
+<p>The objective of the competition is to:<br />- Inspire the world with the art of painting.</p>
+<p>Show concern to lives affected by the outbreak.Asian Art Association teamed up with famous painters from around the world to be the judges. The best works will be donated to a hospital or auctioned to a coronavirus patient. The proceeds will be used to set up a public welfare fund for those affected by the coronavirus.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696"><img style="width: 50%;" src="/images/sa9.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong>Award</strong></p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p>Gold</p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p>Ariel Yeo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<h4><strong>MOE GEB&rsquo;s Creative Writing Programme</strong></h4>
+</td>
+</tr>
+<tr>
+<td>
+<p>P5 pupils interested in the programme have to prepare a 5-piece portfolio. Based on the portfolios submitted, selected pupils will be invited to take part in a Creative Writing Camp where participants get the chance to speak with published authors and have these authors look at their writing and provide them with feedback.</p>
+</td>
+</tr>
+<tr>
+<td><img style="width: 35%;" src="/images/sa10.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Claire Ong</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" width="696">
+<h4><strong>e-Think Challenge 2020</strong></h4>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696">
+<p>A science competition organized by Temasek JC, where participants from primary schools get to experience the collaborative problem-based inquiry learning approach called the THINK&copy; Cycle and last year, they posed a mystery box challenge for the participants to solve and present their findings.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696"><img style="width: 35%;" src="/images/sa11.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong>Award</strong></p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p>Bronze</p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p>Jayden Lim</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>National Chinese Calligraphy Competition 2021</strong></h4>
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>The theme for this year's competition is "Inkception", where participants use their creativity to express hopes for the new year and motivate Singaporeans to look forward to a prosperous new year through the form of words.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3"><img style="width: 50%;" src="/images/sa12.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong>Award</strong></p>
+</td>
+<td style="text-align: center;" colspan="2">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>MERIT AWARD<br />(Category A)</p>
+</td>
+<td style="text-align: center;" colspan="2">
+<p>MEGAN HUANG</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>SECOND<br />(Category B)</p>
+</td>
+<td style="text-align: center;" colspan="2">
+<p>CHENG WEI</p>
+</td>
+</tr>
+</tbody>
+</table>
