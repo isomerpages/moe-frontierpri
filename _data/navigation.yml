@@ -1,5 +1,9 @@
 logo: /images/logo.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
   - title: Downloads & Links
     collection: downloads-and-links
   - title: Contact Us
