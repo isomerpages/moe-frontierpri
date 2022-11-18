@@ -408,6 +408,7 @@ description: ""
 <p>Ms Lim Jing Xian</p>
 <p>Mdm Li Yixian</p>
 <p>Mdm Chia Qian Lin</p>
+<img style="width: 50%;" src="/images/staff22.jpg" align = "left" />
 </td>
 </tr>
 </tbody>
@@ -423,7 +424,7 @@ description: ""
 <td>
 <p>Topic: Engaging Strategies using Non-conventional Drama Techniques to Enthuse Oracy Skill Amongst Parents and Children at Home</p>
 <p>Presenter: Mdm Rasidah Mohd Rasit</p>
-<p>&nbsp;</p>
+<img style="width: 35%;" src="/images/staff23.jpg" align = "left" />
 </td>
 </tr>
 </tbody>
