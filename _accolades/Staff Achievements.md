@@ -167,3 +167,39 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>Affirmation (Staff Awards)</strong></h4>
+<h4><span style="text-decoration: underline;"><strong>2022</strong></span></h4>
+<table width="837">
+<tbody>
+<tr>
+<td>
+<p><strong>Scouts Distinguished&nbsp;</strong><strong>Award</strong></p>
+<p>In recognition of her valuable contribution and significant service to the The Singapore Scout Association. She has served the SSA for almost 20 years.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Annabelle Tan</p>
+<p><img style="width: 50%;" src="/images/staff5.jpg" align = "left" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><span style="text-decoration: underline;"><strong>2021</strong></span></h4>
+<table width="837">
+<tbody>
+<tr>
+<td>
+<p><strong>MOE Division-Level Innovation Award</strong></p>
+<p>The MOE Division-Level Innovation Award recognises MOE staff who has injected innovation in the work to improve the experience of the division's internal or external stakeholders.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Jeannett Lay Jia Xin</p>
+<p><img style="width: 40%;" src="/images/staff6.jpg" align = "left" /></p>
+</td>
+</tr>
+</tbody>
+</table>
