@@ -9,9 +9,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Siti Aisyah Khan<br /></strong><em>Centre Head</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Yang Kai Ying<br /></strong><em>Level Head</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Nur Afiqah Mohd Ali<br /></strong><em>Senior Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts2.jpg"><strong>Ms Siti Aisyah Khan<br /></strong><em>Centre Head</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts3.jpg"><strong>Ms Yang Kai Ying<br /></strong><em>Level Head</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts4.jpg"><strong>Ms Nur Afiqah Mohd Ali<br /></strong><em>Senior Teacher</em></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">
@@ -30,9 +30,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Wu Zhijing<br /></strong><em>Senior Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Nursyura Binte Supari<br /></strong><em>English Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Cindy Peck Xin Ying<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts5.jpg"><strong>Ms Wu Zhijing<br /></strong><em>Senior Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts6.jpg"><strong>Ms Nursyura Binte Supari<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts7.jpg"><strong>Ms Cindy Peck Xin Ying<br /></strong><em>English Language Teacher</em></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -49,9 +49,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Li Guizhen<br /></strong><em>English Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Poonam Kaur d/o Basant Sing<br /></strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Wan Nurul Fazeerin Binte Wan Anuwar</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts8.jpg"><strong>Ms Li Guizhen<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts9.jpg"><strong>Ms Poonam Kaur d/o Basant Sing<br /></strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts10.jpg"><strong>Ms Wan Nurul Fazeerin Binte Wan Anuwar</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -68,9 +68,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Khong Mei Chan<br /></strong><em>English Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Sandhya Muralli<br /></strong><em>English Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Zuraidah Binte Abdul Hamid<br /></strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts11.png"><strong>Ms Khong Mei Chan<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts12.jpg"><strong>Ms Sandhya Muralli<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts13.jpg"><strong>Ms Zuraidah Binte Abdul Hamid<br /></strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -87,9 +87,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Lim Qian Qi Karis<br /></strong><em>English Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Dania Amelina Binte Jumari<br /></strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Lyann Lock Soo San<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts14.jpg"><strong>Ms Lim Qian Qi Karis<br /></strong><em>English Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts15.jpg"><strong>Ms Dania Amelina Binte Jumari<br /></strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts16.jpg"><strong>Ms Lyann Lock Soo San<br /></strong><em>English Language Teacher</em></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -106,9 +106,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Yu Ying<br /></strong><em>Chinese Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Caroline Tan Hui Yee<br /></strong><em>Chinese Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms See Tho Sun Ein<br /></strong><em>Chinese Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts17.jpg"><strong>Ms Yu Ying<br /></strong><em>Chinese Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts18.jpg"><strong>Ms Caroline Tan Hui Yee<br /></strong><em>Chinese Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts19.jpg"><strong>Ms See Tho Sun Ein<br /></strong><em>Chinese Language Teacher</em></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -125,9 +125,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Liu Hui</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Loh Hwee Boon<br /></strong><em>Chinese Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Luo Huangli<br /></strong><em>Chinese Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts20.jpg"><strong>Ms Liu Hui</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts21.jpg"><strong>Ms Loh Hwee Boon<br /></strong><em>Chinese Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts22.jpg"><strong>Ms Luo Huangli<br /></strong><em>Chinese Language Teacher</em></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -144,8 +144,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Nurafida Abdul Razak<br /></strong><em>Malay Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Siti Nur Amira Khalim<br /></strong><em>Malay Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts23.jpg"><strong>Ms Nurafida Abdul Razak<br /></strong><em>Malay Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts24.png"><strong>Ms Siti Nur Amira Khalim<br /></strong><em>Malay Language Teacher</em></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -160,8 +160,8 @@ description: ""
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Shunmugamathi d/o Senthil Nathan<br /></strong><em>Tamil Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Gunasekaran Anuradha<br /></strong><em>Tamil Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts25.jpg"><strong>Ms Shunmugamathi d/o Senthil Nathan<br /></strong><em>Tamil Language Teacher</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts26.jpg"><strong>Ms Gunasekaran Anuradha<br /></strong><em>Tamil Language Teacher</em></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
