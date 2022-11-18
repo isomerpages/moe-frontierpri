@@ -241,3 +241,73 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table width="837">
+<tbody>
+<tr>
+<td colspan="2">
+<p><strong>The MOE Service Excellence Award (MSEA)</strong></p>
+<p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving our stakeholders and partners with C.A.R.E (courtesy, accessibility, responsiveness and effectiveness). The following officers have been awarded the MSEA 2020 in recognition of their service excellence:</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><span style="text-decoration: underline;"><strong>Platinum and Gold</strong></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Mr Wong Teong Man</p>
+<img style="width: 33%;" src="/images/staff12.jpg" align = "left" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Gold</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Hannaria Srihanum Tumbuck</p>
+<img style="width: 55%;" src="/images/staff13.jpg" align = "left" />
+</td>
+<td>
+<p>Ms Lim Lan Shii</p>
+<img style="width: 61%;" src="/images/staff14.jpg" align = "left" />
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Lee Hao Yih Dorcas</p>
+<img style="width: 55%;" src="/images/staff15.jpg" align = "left" />
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Silver</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Aneesah Beevi Bte Amssah</p>
+<img style="width: 55%;" src="/images/staff16.jpg" align = "left" />
+</td>
+<td>
+<p>Mdm Norhayati Binte Ibnor</p>
+<img style="width: 61%;" src="/images/staff17.jpg" align = "left" />
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Nusraat Begum Bte Akbar Ali</p>
+<img style="width: 55%;" src="/images/staff18.jpg" align = "left" />
+</td>
+<td>
+<p>Ms Peh Shu Yu</p>
+<img style="width: 61%;" src="/images/staff19.jpg" align = "left" />
+</td>
+</tr>
+</tbody>
+</table>
