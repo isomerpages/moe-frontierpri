@@ -97,3 +97,17 @@ description: ""
 <li>Reflect</li>
 </ul>
 <p>Ours students will be exposed to unstructured play and make use of recycled materials such as cardboards, plastic bottles, toilet rolls and aluminium foil to solve the issue presented to them. They can experiment and refine their creation over the learning process.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/alp10.png"></td>
+<td style="width: 33.3333%;"><img src="/images/alp11.png"></td>
+<td style="width: 33.3333%;"><img src="/images/alp12.png"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/alp13.png"></td>
+<td style="width: 33.3333%;"><img src="/images/alp14.png"></td>
+<td style="width: 33.3333%;"><img src="/images/alp15.png"></td>
+</tr>
+</tbody>
+</table>
