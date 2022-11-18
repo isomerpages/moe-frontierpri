@@ -12,12 +12,12 @@ description: ""
 <img src="/images/Fashion-Check.jpeg">
 <p><strong>School Attire and Personal Grooming</strong></p>
 <p>Frontier PE Attire</p>
-<img style="width: 65%;" src="/images/Attire-2.jpeg">
+<img style="width: 75%;" src="/images/Attire-2.jpeg">
 <p>Frontier Formal School Attire and School eLF Attire</p>
-<img style="width: 65%;" src="/images/Attire-1.jpeg">
+<img style="width: 75%;" src="/images/Attire-1.jpeg">
 <p>Grooming</p>
-<img style="width: 65%;" src="/images/Grooming-1.jpeg">
-<img style="width: 65%;" src="/images/Grooming-2.jpeg">
+<img style="width: 75%;" src="/images/Grooming-1.jpeg">
+<img style="width: 75%;" src="/images/Grooming-2.jpeg">
 <p>Pupils will wear the school uniform as shown below:</p>
 <p>Name tags are to be secured to the shirt in the following manner:</p>
 <table border="0">
