@@ -22,3 +22,49 @@ description: ""
 <h4><strong><u>Stay future-ready: Refreshed Curriculum</u></strong></h4>
 <p>With changes to SBA, the use of freed-up curriculum time allows our students to focus on the &nbsp;<em>process of learning</em>. The P3-P5 IPW activities are designed to enable students to learn deeply and apply their knowledge and skills across various subjects and domains.</p>
 <img src="/images/alp2.jpg">
+<h4><strong><u>Nurturing Frontierers who are Adaptive, Communicative and Empowered for&nbsp;</u></strong><strong><u>tomorrow through ALP Structure</u></strong></h4>
+<p>In Frontier, we help our students to acquire Communication and Thinking skills through Experiential Learning via our ALP Lessons that are conducted weekly. After acquiring the thinking and communication skills, our students will apply these skills through Project-Based Learning via P3-P5 Interdisciplinary Project Work (IPW). The skill set acquired is also deepned through Maker@Frontier.</p>
+<ol>
+<li>
+<p>Acquisition of Communication and Thinking skills through Experiential Learning (Weekly ALP Lessons)</p>
+</li>
+<ul>
+<li><em>Nurturing Adaptive &amp; Communicative Frontierers through :</em></li>
+<li><em><u>L</u></em><em>earn &amp;&nbsp;<u>E</u>xplore Through&nbsp;<u>P</u>lay</em></li>
+<li><em>News/ Financial Literacy</em></li>
+<li><em>MT ALIVE!</em></li>
+</ul>
+</ol>
+<ol start="2">
+<li>
+<p>Application of Communication &amp; Thinking skills through Project-Based Learning (P3-5 IPW)</p>
+</li>
+</ol>
+<table border="3" width="467">
+<tbody>
+<tr>
+<td colspan="2"><strong><em>Thematic-Based Approach in our IPW</em></strong></td>
+</tr>
+<tr>
+<td>P3</td>
+<td>Young Communicator</td>
+</tr>
+<tr>
+<td>P4</td>
+<td>Young Investigator</td>
+</tr>
+<tr>
+<td>P5</td>
+<td>Young Explorer</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/alp4.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/alp5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 60%;" src="/images/alp6.jpg"></td>
+</tr>
+</tbody>
+</table>
