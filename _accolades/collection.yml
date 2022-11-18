@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - Students' Achievements/Students' Achievements 2021.md
       - Students' Achievements/Pupils' Achievements 2020.md
       - Students' Achievements/Pupils' Achievements 2019.md
       - Students' Achievements/.keep
