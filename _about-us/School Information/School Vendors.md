@@ -70,59 +70,147 @@ third_nav_title: School Information
 </tr>
 </tbody>
 </table>
-
-#### **SCHOOL UNIFORM**
-
-**My Uniform Shop (ASIA) Pte Ltd**  
-Address: 209 New Upper Changi Road #03-651 Singapore 460209  
-Tel: 6276 6689 (during physical outlet’s operating hours only)  
-Email: [myuniformshopasia@gmail.com](mailto:myuniformshopasia@gmail.com)  
-Website: [www.myuniformshop.com.s](http://www.myuniformshop.com.sg/)[g](http://www.myuniformshop.com.sg/)
-
-#### **Purchase of School Uniforms & Name Tags**
-
-1.  #### Sale in School  
-    Parents and students can purchase school shirts, shorts and culottes from the school bookshop during term time.  
-    Parents may wish to call the bookshop to verify the availability before making a trip to the school.  
-    Please refer to the School Bookshop section above for the contact number.
-     _Note: Parents may only enter the school to make their purchase 30 minutes after the school’s last staggered dismissal time._
-    
-
-2.  #### Online Shop  
-    Place orders for uniforms and name tags online via [www.myuniformshop.com.s](http://www.myuniformshop.com.sg/)[g](http://www.myuniformshop.com.sg/).
-    
-
-3.  #### Physical Outlet  
-    Refer to the supplier’s website for the latest operating hours.
-		
-#### **BUS SERVICES**
-
-JK59 Transport Pte Ltd
-
-Tel: 6465 5959  
-Fax: 6466 5959
-
-#### **SCHOOL DENTAL SERVICE**
-
- **SDT Suryani Bte Kamsidin**
-
-Tel: 9114 6562
-
-#### **General Operating Hours**  
-Monday-Thursday: 8:00am to 5:30pm  
-Friday: 8:00am to 5:00pm  
-Lunch: 1:00pm to 2:00pm
-
-Please call the General Office for the latest clinic schedule before visiting. For emergencies (such as dental trauma, facial/gum swelling or toothache) during clinic closure, please call the Health Promotion Board's School Dental Centre at 6435 3782 for assistance.
-
-#### **SCHOOL CANTEEN**
-
-| Stall No. |   Stall Name   |       Food Type      |   Menu   |
-|:---------:|:--------------:|:--------------------:|:--------:|
-|     1     |   WaterMelon   |  Cold Drinks/Snacks  | ![](/images/Stall-1.jpeg) |
-|     2     |   Sweet Corn   |  Muslim Rice (Halal) | ![](/images/Stall-2.jpeg) |
-|     3     |  Fresh Cabbage |    Chinese Noodles   | ![](/images/Stall-3.jpeg) |
-|     5     | Bean and Grain |   Hot Drinks/Snacks  | ![](/images/Stall-5.jpeg) |
-|     6     |   Cauliflower  |     Chinese Rice     | ![](/images/Stall-6.jpeg) |
-|     7     |  Cherry Tomato |     Japanese Food    | ![](/images/Stall-7.jpeg) |
-|     8     |   Bell Pepper  | Western Food (Halal) | ![](/images/Stall-8.jpeg) |
+<p><strong>SCHOOL UNIFORM</strong></p>
+<p><strong><u>My Uniform Shop (ASIA) Pte Ltd<br /></u></strong>Address: 209 New Upper Changi Road #03-651 Singapore 460209<br />Tel: 6276 6689 (during physical outlet&rsquo;s operating hours only)<br />Email:&nbsp;<a href="mailto:myuniformshopasia@gmail.com">myuniformshopasia@gmail.com</a><br />Website:&nbsp;<a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a></p>
+<p><strong>Purchase of School Uniforms &amp; Name Tags</strong></p>
+<ol>
+<li>
+<p>Sale in School<br />Parents and students can purchase school shirts, shorts and culottes from the school bookshop during term time.<br />Parents may wish to call the bookshop to verify the availability before making a trip to the school.<br />Please refer to the School Bookshop section above for the contact number.</p>
+<p><em>Note: Parents may only enter the school to make their purchase 30 minutes after the school&rsquo;s last staggered dismissal time.</em></p>
+</li>
+</ol>
+<ol start="2">
+<li>
+<p>Online Shop<br />Place orders for uniforms and name tags online via&nbsp;<a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a>.</p>
+</li>
+</ol>
+<ol start="3">
+<li>
+<p>Physical Outlet<br />Refer to the supplier&rsquo;s website for the latest operating hours.</p>
+</li>
+</ol>
+<p><strong>BUS SERVICES</strong></p>
+<p><strong><u>JK59 Transport Pte Ltd</u></strong></p>
+<p>Tel: 6465 5959<br />Fax: 6466 5959</p>
+<p><strong>SCHOOL DENTAL SERVICE</strong></p>
+<p><strong><u>SDT Suryani Bte Kamsidin</u></strong></p>
+<p>Tel: 9114 6562</p>
+<p><strong>General Operating Hours</strong><br />Monday-Thursday: 8:00am to 5:30pm<br />Friday: 8:00am to 5:00pm<br />Lunch: 1:00pm to 2:00pm</p>
+<p>Please call the General Office for the latest clinic schedule before visiting. For emergencies (such as dental trauma, facial/gum swelling or toothache) during clinic closure, please call the Health Promotion Board's School Dental Centre at 6435 3782 for assistance.</p>
+<p><strong>SCHOOL CANTEEN</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong>Stall No.</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Stall Name</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Food Type</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Menu</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>1</p>
+</td>
+<td style="text-align: center;">
+<p>WaterMelon</p>
+</td>
+<td style="text-align: center;">
+<p>Cold Drinks/Snacks</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-1.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>2</p>
+</td>
+<td style="text-align: center;">
+<p>Sweet Corn</p>
+</td>
+<td style="text-align: center;">
+<p>Muslim Rice (Halal)</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-2.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>3</p>
+</td>
+<td style="text-align: center;">
+<p>Fresh Cabbage</p>
+</td>
+<td style="text-align: center;">
+<p>Chinese&nbsp;Noodles</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-3.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>5</p>
+</td>
+<td style="text-align: center;">
+<p>Bean and Grain</p>
+</td>
+<td style="text-align: center;">
+<p>Hot Drinks/Snacks</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-5.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>6</p>
+</td>
+<td style="text-align: center;">
+<p>Cauliflower</p>
+</td>
+<td style="text-align: center;">
+<p>Chinese Rice</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-6.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>7</p>
+</td>
+<td style="text-align: center;">
+<p>Cherry Tomato</p>
+</td>
+<td style="text-align: center;">
+<p>Japanese Food</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-7.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>8</p>
+</td>
+<td style="text-align: center;">
+<p>Bell Pepper</p>
+</td>
+<td style="text-align: center;">
+<p>Western Food (Halal)</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/images/Canteen-Menu-Stall-8.jpeg" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>
+</tbody>
+</table>
