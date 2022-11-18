@@ -386,3 +386,42 @@ third_nav_title: Students' Achievements
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" width="696">
+<h4><strong>12th Global Village International Children and Youths Bilingual Speech Competition (Singapore Station)</strong></h4>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696">
+<p>This competition is organised by the Goodtalk Culture Communication Co. Ltd, sponsored by China Education Association for International Exchange and Goodtalk Youth and Children Cultural Communication Centre in an effort to support the Speak Mandarin Campaign of Singapore.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="696">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong>Award</strong></p>
+</td>
+<td style="text-align: center;" colspan="2" width="216">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">Gold</td>
+<td style="text-align: center;" colspan="2" width="216">Bowei</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="3" width="208">Most Potential</td>
+<td style="text-align: center;" colspan="2" width="216">Tong Xin</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2" width="216">Xin Rui</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2" width="216">Cheng Wei</td>
+</tr>
+</tbody>
+</table>
