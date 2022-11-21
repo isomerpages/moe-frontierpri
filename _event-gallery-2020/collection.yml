@@ -1,4 +1,5 @@
 collections:
   event-gallery-2020:
     output: true
-    order: []
+    order:
+      - Frontier Gratitude Programme 2020.md
