@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2022/SHINE Photography Exhibition.md
       - Event Gallery 2022/P2 Learning Journey 2022.md
       - Event Gallery 2022/5th Text Recital Competition.md
       - Event Gallery 2022/.keep
