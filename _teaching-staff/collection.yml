@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Mathematics Department.md
       - MTL Department.md
       - Science Department.md
       - Character & Citizenship Education Department.md
