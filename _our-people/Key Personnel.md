@@ -152,5 +152,19 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:vincent_soh_boon_yew@schools.gov.sg">vincent_soh_boon_yew@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp11.jpg" />
+<p><strong>Mdm Chua Si Wei</strong></p>
+<p><strong><em>ST/Mathematics</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“There is a brilliant child in every pupil. Through my teaching, I hope to bring out the brilliance in each of my pupils. I like my pupils to be thoughtful people. Hence, it is important for me to teach the children how to think.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 209</p>
+<p>Email:&nbsp;<a href="mailto:chua_si_wei@schools.gov.sg">chua_si_wei@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
