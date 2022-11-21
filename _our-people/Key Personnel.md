@@ -387,7 +387,27 @@ description: ""
 </td>
 <td style="width: 16.66666%; text-align: center;">
 <p>Tel ext: 246</p>
-<p>mail:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
+<p>Email:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Character and Citizenship Education (CCE) Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp26.jpg" />
+<p><strong>Mdm Rasidah Bte Mohd Rasit</strong></p>
+<p><strong><em>School Staff Developer (SSD) /
+HOD/ICT (Covering)</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that pupils should be empowered to take charge of their own learning. They learn best when they are actively involved in real world activities as well as collaborating and making discoveries with their peers. My role as a teacher is not as the information giver, but a coach, facilitator and co-learner.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 128</p>
+<p>mail:&nbsp;<a href="mailto:rasidah_mohd_rasit@schools.gov.sg">rasidah_mohd_rasit@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
