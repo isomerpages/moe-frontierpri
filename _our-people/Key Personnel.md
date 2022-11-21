@@ -168,3 +168,38 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>Science Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp12.jpg" />
+<p><strong>Miss Lee Yan Ling, Aderine Andrielle</strong></p>
+<p><strong><em>HOD/Science</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"I believe education is a lifelong journey, and every child can LEARN, ACHIEVE and CONTRIBUTE in their unique ways. I'm grateful for the opportunity to journey together with Frontierers to discover more about themselves, others and the environment around them. As we explore and grow together, I hope Frontierers will develop their strengths, interests and positively impact the people and environment around them."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 130</p>
+<p>Email:&nbsp;<a href="mailto:Andrielle_LEE@schools.gov.sg">Andrielle_LEE@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp13.jpg" />
+<p><strong>Mrs Chong - Pang Chu Keng</strong></p>
+<p><strong><em>LH/Science</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that learning is to pass on knowledge so that others can reap the benefits of the learning process and its outcomes. This is why I teach. I strongly believe that the values that pupils learn will form a lasting core that enable them to use their knowledge & skills to excel in their lives & benefit others.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 243</p>
+<p>Email:&nbsp;<a href="mailto:pang_chu_keng@schools.gov.sg">pang_chu_keng@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
