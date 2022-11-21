@@ -233,9 +233,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>5 Resilience 6</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/science-department/#Nelson_" target="_blank" rel="noopener">Mr Nelson Tong Meng Yang</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/pam-and-cca-department/#Isaac_" target="_blank" rel="noopener">Mr Leng Song Dao, Isaac</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/our-people/staff/key-personnel-2/#Menglee_" target="_blank" rel="noopener">Mdm Luk Meng Lee</a></td>
+<td><a href="/science-department/#Nelson_" target="_blank" rel="noopener">Mr Nelson Tong Meng Yang</a></td>
+<td><a href="/pam-and-cca-department/#Isaac_" target="_blank" rel="noopener">Mr Leng Song Dao, Isaac</a></td>
+<td><a href="/key-personnel-2/#Menglee_" target="_blank" rel="noopener">Mdm Luk Meng Lee</a></td>
 </tr>
 <tr>
 <td colspan="4">
@@ -244,38 +244,38 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Loyalty 1</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/mathematics-department/#Elsa_" target="_blank" rel="noopener">Miss Cheong Yok Theng Elsa</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/mtl-department/#LiLei_" target="_blank" rel="noopener">Mr Li Lei</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/our-people/staff/key-personnel-2/#Huieyuan_" target="_blank" rel="noopener">Mdm Yap Huie Yuan</a></td>
+<td><a href="/mathematics-department/#Elsa_" target="_blank" rel="noopener">Miss Cheong Yok Theng Elsa</a></td>
+<td><a href="/mtl-department/#LiLei_" target="_blank" rel="noopener">Mr Li Lei</a></td>
+<td><a href="/key-personnel-2/#Huieyuan_" target="_blank" rel="noopener">Mdm Yap Huie Yuan</a></td>
 </tr>
 <tr>
 <td><strong>6 Loyalty 2</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/mathematics-department/#Sally_" target="_blank" rel="noopener">Mdm Heng Ju Imm, Sally</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/our-people/staff/key-personnel-2/#Eugena_" target="_blank" rel="noopener">Miss Eugena Ooi Weiling</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/key-personnel-2/#Vincentchua_" target="_blank" rel="noopener">Mr Chua Boon Meng, Vincent</a></td>
+<td><a href="/mathematics-department/#Sally_" target="_blank" rel="noopener">Mdm Heng Ju Imm, Sally</a></td>
+<td><a href="/key-personnel-2/#Eugena_" target="_blank" rel="noopener">Miss Eugena Ooi Weiling</a></td>
+<td><a href="/key-personnel-2/#Vincentchua_" target="_blank" rel="noopener">Mr Chua Boon Meng, Vincent</a></td>
 </tr>
 <tr>
 <td><strong>6 Loyalty 3</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/science-department/#Atiqah_" target="_blank" rel="noopener">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/character-citizenship-education-department/#Aneesah_" target="_blank" rel="noopener">Mdm Aneesah Beevi</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/our-people/staff/key-personnel-2/#Nellie_" target="_blank" rel="noopener">Mdm Soh Wee Hong, Nellie</a></td>
+<td><a href="/science-department/#Atiqah_" target="_blank" rel="noopener">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a></td>
+<td><a href="/character-citizenship-education-department/#Aneesah_" target="_blank" rel="noopener">Mdm Aneesah Beevi</a></td>
+<td><a href="/key-personnel-2/#Nellie_" target="_blank" rel="noopener">Mdm Soh Wee Hong, Nellie</a></td>
 </tr>
 <tr>
 <td><strong>6 Loyalty 4</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/key-personnel-2/#Vincent_" target="_blank" rel="noopener">Mr S</a><a href="https://frontierpri.moe.edu.sg/key-personnel-2/#Vincent_" target="_blank" rel="noopener">oh Boon Yew, Vincent</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/mtl-department/#Huangfang_" target="_blank" rel="noopener">Miss Huang Fang</a></td>
+<td><a href="/key-personnel-2/#Vincent_" target="_blank" rel="noopener">Mr S</a><a href="/key-personnel-2/#Vincent_" target="_blank" rel="noopener">oh Boon Yew, Vincent</a></td>
+<td><a href="/mtl-department/#Huangfang_" target="_blank" rel="noopener">Miss Huang Fang</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td><strong>6 Loyalty 5</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/english-department/#Ali_" target="_blank" rel="noopener">Mr Muhammad Ali Bin Mohamed Yasin</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/key-personnel-2/#Jeannett_" target="_blank" rel="noopener">Miss Jeannett Lay Jia Xin</a></td>
+<td><a href="/english-department/#Ali_" target="_blank" rel="noopener">Mr Muhammad Ali Bin Mohamed Yasin</a></td>
+<td><a href="/key-personnel-2/#Jeannett_" target="_blank" rel="noopener">Miss Jeannett Lay Jia Xin</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td><strong>6 Loyalty 6</strong></td>
-<td><a href="https://frontierpri.moe.edu.sg/our-people/staff/key-personnel-2/#Anisia_" target="_blank" rel="noopener">Mdm Lim Li-Chern, Anisia</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/our-people/staff/key-personnel-2/#Mary_" target="_blank" rel="noopener">Mrs Loh-Lim Cheng Nee, Mary</a></td>
+<td><a href="/key-personnel-2/#Anisia_" target="_blank" rel="noopener">Mdm Lim Li-Chern, Anisia</a></td>
+<td><a href="/key-personnel-2/#Mary_" target="_blank" rel="noopener">Mrs Loh-Lim Cheng Nee, Mary</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -285,31 +285,31 @@ description: ""
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a href="https://frontierpri.moe.edu.sg/mtl-department/#Hamimah_" target="_blank" rel="noopener">Mdm Hamimah Sulaiman</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/english-department/#Magdalein_" target="_blank" rel="noopener">Mdm Magdalein Goh</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/mathematics-department/#Eileen_" target="_blank" rel="noopener">Mdm Oon Saw Kim, Eileen</a></td>
+<td><a href="/mtl-department/#Hamimah_" target="_blank" rel="noopener">Mdm Hamimah Sulaiman</a></td>
+<td><a href="/english-department/#Magdalein_" target="_blank" rel="noopener">Mdm Magdalein Goh</a></td>
+<td><a href="/mathematics-department/#Eileen_" target="_blank" rel="noopener">Mdm Oon Saw Kim, Eileen</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a href="https://frontierpri.moe.edu.sg/mtl-department/#Simon_" target="_blank" rel="noopener">Mr Chen Dunqiang</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/science-department/#Laykoon_" target="_blank" rel="noopener">Mrs Yong-Yap Lay Koon</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/science-department/#Michelle_" target="_blank" rel="noopener">Mrs Michelle Tan Soh Soke Mei</a></td>
+<td><a href="/mtl-department/#Simon_" target="_blank" rel="noopener">Mr Chen Dunqiang</a></td>
+<td><a href="/science-department/#Laykoon_" target="_blank" rel="noopener">Mrs Yong-Yap Lay Koon</a></td>
+<td><a href="/science-department/#Michelle_" target="_blank" rel="noopener">Mrs Michelle Tan Soh Soke Mei</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a href="https://frontierpri.moe.edu.sg/mtl-department/#Raychua_" target="_blank" rel="noopener">Mdm Goh Kai Sin (Mrs Ray Chua)</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/science-department/#Ganges_" target="_blank" rel="noopener">Mr Ganges Lim Zi Yang</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/mathematics-department/#Yoga_" target="_blank" rel="noopener">Mr Yogarrajah A E C</a></td>
+<td><a href="/mtl-department/#Raychua_" target="_blank" rel="noopener">Mdm Goh Kai Sin (Mrs Ray Chua)</a></td>
+<td><a href="/science-department/#Ganges_" target="_blank" rel="noopener">Mr Ganges Lim Zi Yang</a></td>
+<td><a href="/mathematics-department/#Yoga_" target="_blank" rel="noopener">Mr Yogarrajah A E C</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a href="https://frontierpri.moe.edu.sg/mtl-department/#Brema_" target="_blank" rel="noopener">Mrs Shanmugam Brema</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/mtl-department/#Mingmin_" target="_blank" rel="noopener">Mdm Hee Ming Min</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/pam-and-cca-department/#Annie_" target="_blank" rel="noopener">Miss Yee Annie</a></td>
+<td><a href="/mtl-department/#Brema_" target="_blank" rel="noopener">Mrs Shanmugam Brema</a></td>
+<td><a href="/mtl-department/#Mingmin_" target="_blank" rel="noopener">Mdm Hee Ming Min</a></td>
+<td><a href="/pam-and-cca-department/#Annie_" target="_blank" rel="noopener">Miss Yee Annie</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a href="https://frontierpri.moe.edu.sg/teaching-staff/science-department/#Serene_" target="_blank" rel="noopener">Mdm Ng Xiao Wei, Serene</a></td>
+<td><a href="/science-department/#Serene_" target="_blank" rel="noopener">Mdm Ng Xiao Wei, Serene</a></td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
@@ -320,15 +320,15 @@ description: ""
 </tr>
 <tr>
 <td>School Counselor</td>
-<td><a href="https://frontierpri.moe.edu.sg/allied-educators/#Joyce_" target="_blank" rel="noopener">Mdm Joyce Siew Phui Yee&nbsp;</a></td>
+<td><a href="/allied-educators/#Joyce_" target="_blank" rel="noopener">Mdm Joyce Siew Phui Yee&nbsp;</a></td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td>AED / Learning &amp; Behaviour Support</td>
-<td><a href="https://frontierpri.moe.edu.sg/allied-educators/#Huishin_" target="_blank" rel="noopener">Miss Ng Hui Shin</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/allied-educators/#Suhada_" target="_blank" rel="noopener">Miss Suhada Binte Mohamed Sani</a></td>
-<td><a href="https://frontierpri.moe.edu.sg/allied-educators/#Salinah_" target="_blank" rel="noopener">Miss Salinah Bte Saleh</a></td>
+<td><a href="/allied-educators/#Huishin_" target="_blank" rel="noopener">Miss Ng Hui Shin</a></td>
+<td><a href="/allied-educators/#Suhada_" target="_blank" rel="noopener">Miss Suhada Binte Mohamed Sani</a></td>
+<td><a href="/allied-educators/#Salinah_" target="_blank" rel="noopener">Miss Salinah Bte Saleh</a></td>
 </tr>
 </tbody>
 </table>
