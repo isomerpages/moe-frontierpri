@@ -2,6 +2,8 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2021/Chinese New Year Celebration and Total Defence Day
+        Commemoration.md
       - Event Gallery 2021/P5 Interdisciplinary Project Work (IPW).md
       - Event Gallery 2021/P3 to P6 Sports Day 2021.md
       - Event Gallery 2021/International Friendship Day 2021.md
