@@ -248,5 +248,19 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:sri_arianti_ariffin@schools.gov.sg">sri_arianti_ariffin@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp17.jpg" />
+<p><strong>Mdm Chia Qian Lin</strong></p>
+<p><strong><em>ST/Chinese Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I chose teaching as a career because my teachers made a large impact in my life and I aspire to be like them. Teaching offers me the opportunity to inspire students everyday so that they can become creative thinkers and future leaders. I hope that I can be the one to help them discover their potential.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 273</p>
+<p>Email:&nbsp;<a href="mailto:chia_qian_lin@schools.gov.sg">chia_qian_lin@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
