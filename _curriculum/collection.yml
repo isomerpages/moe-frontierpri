@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT/.keep
       - ICT.md
       - PE, Art and Music (PAM).md
