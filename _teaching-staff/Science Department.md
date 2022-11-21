@@ -66,8 +66,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mrs Yong-Yap Lay Koon</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mrs Michelle Tan Soh Soke Mei</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 69%;" src="/images/sci10.jpg" /><strong>Mrs Yong-Yap Lay Koon</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/sci11.jpg" /><strong>Mrs Michelle Tan Soh Soke Mei</strong></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
