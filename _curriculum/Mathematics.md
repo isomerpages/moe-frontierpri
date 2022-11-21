@@ -88,3 +88,39 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>3. Verbalizing Thinking through Mathematics Reasoning and Communication</strong></p>
+<p>To develop confident problem solvers and communicators in Frontier, students in Frontier are exposed to reasoning and communication tasks to enhance their knowledge of key mathematical concepts and competencies. Students will be given opportunities to discuss and express their thoughts and ideas in both verbal and written forms. Teachers scaffolds students&rsquo; learning through the use of&nbsp; mathematical language.</p>
+<p>Through verbalising the thoughts processes while tackling reasoning and communication tasks, students develop the capacities to think logically, confidently, critically and creatively. These thinking dispositions are important for our Frontierers to lead a productive life and be life-long learners.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/maf7.jpg"></td>
+<td style="width: 50%;"><img src="/images/maf8.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/maf9.jpg"></td>
+<td style="width: 50%;"><img src="/images/maf10.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Key Programmes</u></strong></p>
+<p><strong><u>1. Developing students' confidence and enjoyment through Math &amp; Science Week</u></strong></p>
+<p>To learn Mathematics through play and exploration, our Frontierers&rsquo; learning is extended beyond classroom. They are exposed to practical and real-life examples as pupils apply their learning to authentic situations. The Department hopes that the experience gained will garner them to instil a positive attitude towards Mathematics and its uses in their daily lives.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/maf11.jpg"></td>
+<td style="width: 25%;"><img src="/images/maf12.jpg"></td>
+<td style="width: 25%;"><img src="/images/maf13.jpg"></td>
+<td style="width: 25%;"><img src="/images/maf14.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>2. <u>Provision of Opportunities through Talent Management</u></strong></p>
+<p>Math Stretch Programme is conducted for selected Primary 3 to Primary 5 Frontierers who have a strong foundation in Mathematics. These enrichment programmes aim to:</p>
+<ul>
+<li>To stimulate and develop Frontierers&rsquo; creative thinking and problem solving abilities.</li>
+<li>To enhance flexibility in Frontierers&rsquo; thinking and to expand their horizon that Mathematics learning is fun, exciting and challenging through a framework of problem solving approach</li>
+</ul>
+<p><strong>3.</strong>&nbsp;<strong><u>Working with our parents</u></strong></p>
+<p>As a Collaborative Partner, Parent Workshops are held annually to empower and equip parents with the relevant skills to support their child&rsquo;s learning at home. Parents will also gain a deeper understanding on the strategies our teachers are using in the classroom and can help to reinforce relevant mathematical concepts too! We are heartened to receive favourable feedback from parents on the workshops the department has been conducting. Do look forward to the upcoming workshops that the Math Department is organising for the parents!</p>
