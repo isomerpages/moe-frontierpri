@@ -92,3 +92,23 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>Mathematics Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp7.jpg" />
+<p><strong>Mdm Yap Huie Yuan</strong></p>
+<p><strong><em>HOD/Mathematics</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems.  I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 120</p>
+<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" target="_blank" rel="noopener">yap_huie_yuan@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
