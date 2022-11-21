@@ -6,9 +6,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Peh Shu Yu</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Callie Yu Shair-er</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Zabar Abuyamin Bin Mohammad Akbar</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 65%;" src="/images/pam1.jpg" /><strong>Miss Peh Shu Yu</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/pam2.png" /><strong>Mdm Callie Yu Shair-er</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/pam3.jpg" /><strong>Mr Zabar Abuyamin Bin Mohammad Akbar</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -25,9 +25,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Tan Yi Cong</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Ms Olivia Tao</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Norazimah Binte Mohamed Senin</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 65%;" src="/images/pam4.jpg" /><strong>Mr Tan Yi Cong</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 75%;" src="/images/pam5.jpg" /><strong>Ms Olivia Tao</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/pam6.jpg" /><strong>Miss Norazimah Binte Mohamed Senin</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -45,9 +45,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Muhammad Bin Jellanie</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Jazreel Ari Yeo Shu Yun</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Ho Qian Hui, Stephanie</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 70%;" src="/images/pam7.jpg" /><strong>Mr Muhammad Bin Jellanie</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 70%;" src="/images/pam8.jpg" /><strong>Miss Jazreel Ari Yeo Shu Yun</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/pam9.jpg" /><strong>Mdm Ho Qian Hui, Stephanie</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -61,8 +61,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Leng Song Dao, Isaac</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Yee Annie</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/pam10.jpg" /><strong>Mr Leng Song Dao, Isaac</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/pam11.jpg" /><strong>Miss Yee Annie</strong></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
