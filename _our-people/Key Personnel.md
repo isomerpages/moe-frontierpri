@@ -203,3 +203,50 @@ description: ""
 </tbody>
 </table>
 <hr>
+<h4><strong>Mother Tongue Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp14.jpg" />
+<p><strong>Mrs Loh - Lim Cheng Nee, Mary</strong></p>
+<p><strong><em>HOD/Mother Tongue</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe every Frontierer is unique and has the potential to excel if they put their mind to it. I wish to become a source of endless Motivation, Encouragement and Inspiration for them so that they can achieve their goals and realize their dreams.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 126</p>
+<p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg">lim_cheng_nee@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp15.jpg" />
+<p><strong>Mdm Lee Hao Yih, Dorcas</strong></p>
+<p><strong><em>SH/Mother Tongue</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“Education is about nurturing individuals into: A compass that directs one onto the right path, a torch that illuminates and brightens the lives of others, a melody that sings and spreads the message of love & courage.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 229</p>
+<p>Email:&nbsp;<a href="mailto:lee_hao_yih_dorcas@schools.gov.sg">lee_hao_yih_dorcas@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp16.jpg" />
+<p><strong>Mdm Sri Arianti Bte Ariffin</strong></p>
+<p><strong><em>SH/Malay and Tamil Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“An old African proverb says “It takes a whole village to raise a child”. This is true to my belief that the responsibility of moulding the child belongs to everyone. As such, with proper guidance and discipline, I feel that each and every child can and is able to learn AND reach his potential.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 204</p>
+<p>Email:&nbsp;<a href="mailto:sri_arianti_ariffin@schools.gov.sg">sri_arianti_ariffin@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
