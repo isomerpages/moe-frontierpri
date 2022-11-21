@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT/Digital Lifeskills Programme (DLP).md
       - ICT/.keep
       - ICT.md
       - PE, Art and Music (PAM).md
