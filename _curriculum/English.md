@@ -128,3 +128,17 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Excel@Frontier &ndash; EL Curricular Innovation</strong></h4>
+<p>The Primary 4 students participated in the MOE Personalised Digital Learning Programme (PDLP) Pilot Study in 2021. Students were each equipped with a personal learning device (PLD). The Primary 4 English Language teachers designed lessons which harnessed on e-pedagogy for effective student engagement and collaboration.</p>
+<p>With the use of Student Learning Space (SLS) and 1-to-1 PLD, the teachers have observed a positive change in students&rsquo; learning. Students have become more engaged and participative in the discussions. They are more confident to learn and are able to collaborate, synthesise ideas and respond to others&rsquo; responses respectfully. This pilot study will continue for our Primary 4 students in 2022.</p>
+<p><strong>1. Learning Support Programme<br /></strong>The Learning Support Programme (LSP) is an MOE-initiated programme which aims to provide early intervention and support for selected Primary 1 and Primary 2 students in their learning. The objective of LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom. These lessons are conducted in small groups daily during school curriculum hours by a trained Learning Support Coordinator (LSC).</p>
+<p><strong>2. School-based Dyslexia Remediation<br /></strong>The School-based Dyslexia Remediation (SDR) programme aims to provide support for Primary 3 and Primary 4 students who have been identified through a systematic screening process for dyslexia conducted at the end of Primary 2. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. Teachers will use a systematic set of strategies and activities which have been carefully designed by MOE in this programme.</p>
+<p><strong>3. Reading Remediation Programme<br /></strong>The Reading Remediation Programme (RRP) aims to provide support for Primary 3 and Primary 4 students who face consistent difficulty in reading despite having completed the Learning Support Programme in Primary 1 and Primary 2. This MOE-initiated programme exposes students to a range of strategies for reading comprehension which will enable them to recognise words and read grade-level texts with fluency and comprehension.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 66%;"><img src="/images/eng23.png"></td>
+<td style="width: 33%;"><img src="/images/eng24.jpg"></td>
+</tr>
+</tbody>
+</table>
