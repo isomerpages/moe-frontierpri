@@ -76,5 +76,19 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:lim_weiqing_eulindra@schools.gov.sg">lim_weiqing_eulindra@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp6.jpg" />
+<p><strong>Mdm Lim Li-Chern, Anisia</strong></p>
+<p><strong><em>ST/Learning Needs (Educational Support</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that all children are gifted. My duty as a teacher is to uncover the children’s potential and steer them in the right direction so that they will fulfill their potential.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 281</p>
+<p>Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg">lim_li-chern_anisia@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
