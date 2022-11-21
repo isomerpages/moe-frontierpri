@@ -312,3 +312,22 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Character and Citizenship Education (CCE) Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp21.jpg" />
+<p><strong>Miss Jeannett Lay Jia Xin</strong></p>
+<p><strong><em>HOD/CCE</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"A child’s smile melts everyone’s heart and it is even more heartening to see a child graduate from the six years of education with joy and happiness radiating from within him/her. In Frontier Primary School, our students, who are the future pillars of our nation, are at the forefront of everything. I strive to lead and work with the staff in building a G.R.E.A.T environment where our students grow, blossom and soar to greater heights."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 129</p>
+<p>Email:&nbsp;<a href="mailto:jeannett_lay_jia_xin@schools.gov.sg">jeannett_lay_jia_xin@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
