@@ -48,5 +48,19 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:nur_shirin_yaman_yuen@schools.gov.sg">nur_shirin_yaman_yuen@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp4.jpg" />
+<p><strong>Mr Yang Qidong, Alan</strong></p>
+<p><strong><em>ST/English Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“A consistent and positive classroom climate helps bring out and develops a pupil's potential. At the same time, it offers a safe environment to experiment, make mistakes and learn from them. This is the ideal classroom I try to create every day I teach in class.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 224</p>
+<p>Email:&nbsp;<a href="mailto:yang_qidong@schools.gov.sg">yang_qidong@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
