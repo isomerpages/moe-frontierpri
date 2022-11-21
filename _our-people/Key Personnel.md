@@ -62,5 +62,19 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:yang_qidong@schools.gov.sg">yang_qidong@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp5.jpg" />
+<p><strong>Miss Lim Weiqing, Eulindra</strong></p>
+<p><strong><em>ST/English Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that every child has the ability to excel when provided with adequate support. I endeavour thus to provide this support and help mould the pupils under my charge so that they possess the knowledge and values necessary for them to achieve their best potential in life.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 205</p>
+<p>Email:&nbsp;<a href="mailto:lim_weiqing_eulindra@schools.gov.sg">lim_weiqing_eulindra@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
