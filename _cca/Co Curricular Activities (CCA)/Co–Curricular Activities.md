@@ -13,3 +13,86 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Have the opportunity to specialize / participate at a competitive level.</li>
 </ul>
 <p>From 2019, Primary 3 students will select and participate in CCAs. Frontier Primary School currently offers the following CCAs (<em>You may click on the CCA in the table to find out more.)</em></p>
+<table border="1" cellpadding="10">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4">
+<p><strong>CCA Domains</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Sports</strong></p>
+</td>
+<td>
+<p><strong>Visual and Performing Arts</strong></p>
+</td>
+<td>
+<p><strong>Clubs and Societies</strong></p>
+</td>
+<td>
+<p><strong>Uniformed Groups</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p style="text-align: center;"><strong>CCAs</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><a href="/ccp/cca/sports/badminton/" target="_blank" rel="noopener"><strong>Badminton</strong></a></p>
+</td>
+<td style="text-align: center;">
+<p><a href="/ccp/cca/visual-and-performing-arts/art-club/" target="_blank" rel="noopener"><strong>Art and Crafts</strong></a></p>
+</td>
+<td style="text-align: center;">
+<p><a href="/ccp/cca/clubs-societies/environmental-club/" target="_blank" rel="noopener"><strong>Environmental Science</strong></a></p>
+</td>
+<td style="text-align: center;">
+<p><a href="/ccp/cca/uniformed-groups/red-cross/" target="_blank" rel="noopener"><strong>Red Cross Youth</strong></a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/sports/basketball/" target="_blank" rel="noopener">Basketball</a></strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong><a title="Chinese Dance" href="/ccp/cca/chinese-dance/" target="_blank" rel="noopener">Chinese Dance</a></strong></p>
+<p>(girls only)</p>
+</td>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/clubs-societies/robotics-and-new-media-club/" target="_blank" rel="noopener">Design and Innovation</a></strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/uniformed-groups/scouts/" target="_blank" rel="noopener">Scouts</a></strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/sports/rugby/" target="_blank" rel="noopener">Rugby</a></strong></p>
+<p>(boys only)</p>
+</td>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/sports/choir/" target="_blank" rel="noopener">Choir</a></strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/sports/softball/" target="_blank" rel="noopener">Softball</a></strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/danzwhiz/" target="_blank" rel="noopener">Modern Dance</a></strong></p>
+<p>(boys only)</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/sports/sport-climbing/" target="_blank" rel="noopener">Rockwall Climbing</a></strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong><a href="/ccp/cca/string-ensemble/" target="_blank" rel="noopener">String Ensemble</a></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
