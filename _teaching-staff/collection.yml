@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Character & Citizenship Education Department.md
       - PAM and CCA Department.md
       - Student Management Department.md
       - Allied Educators.md
