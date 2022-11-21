@@ -262,5 +262,53 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:chia_qian_lin@schools.gov.sg">chia_qian_lin@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp18.jpg" />
+<p><strong>Mrs Mageswari Sudhakar</strong></p>
+<p><strong><em>ST/Tamil Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that all children are uncut diamonds needing only enough pressure to knock off the rough edges so that the brilliance placed in each of their hearts will always shine through.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 287</p>
+<p>Email:&nbsp;<a href="mailto:mageswari_sudhakar@schools.gov.sg">mageswari_sudhakar@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>PE, ART, MUSIC (PAM) & CCA Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp19.jpg" />
+<p><strong>Mr Tan Choon Seng, Anderson</strong></p>
+<p><strong><em>HOD/PAM & CCA</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“In educating children physically and intellectually, teachers help them make sense of themselves and the bigger world that they are a part of. We harnessing their potential and set up the right environment for them to learn and internalise acts of virtue with strong, upstanding beliefs."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 122</p>
+<p>Email:<a href="mailto:tan_choon_seng_anderson@schools.gov.sg">tan_choon_seng_anderson@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp20.jpg" />
+<p><strong>Mr Choo Wee Pin</strong></p>
+<p><strong><em>SH/PE & Sports</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"Every child is unique. It is how we engage our pupils in their learning that will mould them into who they can become."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 213</p>
+<p>Email:&nbsp;<a href="mailto:choo_wee_pin@schools.gov.sg">choo_wee_pin@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
