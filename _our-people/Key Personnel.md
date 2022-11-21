@@ -429,5 +429,33 @@ HOD/ICT (Covering)</em></strong></p>
 <p>Email: <a href="mailto:lim_ming_hui@schools.gov.sg">lim_ming_hui@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp28.jpg" />
+<p><strong>Mdm Pek Bee Lay, Annabelle</strong></p>
+<p><strong><em>SH/Student Management</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“My philosophy for learning is that each child is unique and learns in their own way. I believe in hands-on experiences, learning creatively and learning though play. Character building is important to every child and I would be firm in discipline so that your child learns and grows to be a better individual.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 245</p>
+<p>Email:&nbsp;<a href="mailto:pek_bee_lay@schools.gov.sg">pek_bee_lay@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp29.jpg" />
+<p><strong>Mdm Pek Bee Lay, Annabelle</strong></p>
+<p><strong><em>SH/Student Management</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“My philosophy for learning is that each child is unique and learns in their own way. I believe in hands-on experiences, learning creatively and learning though play. Character building is important to every child and I would be firm in discipline so that your child learns and grows to be a better individual.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 245</p>
+<p>Email:&nbsp;<a href="mailto:pek_bee_lay@schools.gov.sg">pek_bee_lay@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
