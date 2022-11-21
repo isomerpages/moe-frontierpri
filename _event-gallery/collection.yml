@@ -1,5 +1,5 @@
 collections:
-  event-gallery-2020:
+  event-gallery:
     output: true
     order:
       - 5th Text Recital Competition.md
