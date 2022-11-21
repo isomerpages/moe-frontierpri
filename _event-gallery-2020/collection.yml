@@ -2,6 +2,7 @@ collections:
   event-gallery-2020:
     output: true
     order:
+      - 5th Text Recital Competition.md
       - Event Gallery 2020/Appreciation Day 2020.md
       - Event Gallery 2020/Frontier Gratitude Programme 2020.md
       - Event Gallery 2020/.keep
