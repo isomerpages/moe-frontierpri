@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE/MOE Sexuality Education in Schools.md
-      - CCE/Character and Citizenship Education.md
       - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
       - ICT/ICT.md
       - ICT/New Media Literacy Standards.md
       - ICT/Cyber Wellness.md
