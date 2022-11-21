@@ -8,6 +8,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp1.jpg" />
 <p><strong>Mr Chua Boon Meng, Vincent</strong></p>
 <p><strong><em>HOD/English Language</em></strong></p>
 </td>
