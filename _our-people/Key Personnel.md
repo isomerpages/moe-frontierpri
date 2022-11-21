@@ -36,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
-<img style="width: 100%;" src="/images/kp2.jpg" />
+<img style="width: 100%;" src="/images/kp3.jpg" />
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong></p>
 <p><strong><em>LH/English Language</em></strong></p>
 </td>
