@@ -447,14 +447,56 @@ HOD/ICT (Covering)</em></strong></p>
 <td style="width: 33.3333%; text-align: center;">
 <img style="width: 100%;" src="/images/kp29.jpg" />
 <p><strong>Mdm Pek Bee Lay, Annabelle</strong></p>
-<p><strong><em>SH/Student Management</em></strong></p>
+<p><strong><em>SH/Student Well-Being (Internal)</em></strong></p>
 </td>
 <td style="width: 50%; text-align: justify;">
-<p><em>“My philosophy for learning is that each child is unique and learns in their own way. I believe in hands-on experiences, learning creatively and learning though play. Character building is important to every child and I would be firm in discipline so that your child learns and grows to be a better individual.”</em></p>
+<p><em>“In the words of Aristotle, “educating the mind without educating the heart is no education at all”. I aim to help my pupils reach their potential academically, and inculcate strong moral values and character in them as I believe these are what make up the foundation of lasting success.”</em></p>
 </td>
 <td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 245</p>
-<p>Email:&nbsp;<a href="mailto:pek_bee_lay@schools.gov.sg">pek_bee_lay@schools.gov.sg</a></p>
+<p>Tel ext: 200</p>
+<p>Email:&nbsp;<a href="mailto:su-en_loh@schools.gov.sg">su-en_loh@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp30.jpg" />
+<p><strong>Mr Chan Chok Seng</strong></p>
+<p><strong><em>Year Head P1/2</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"I believe that every child can learn and want to learn. My vision is for every child to experience the joy of learning through my lessons and they will embrace learning as a lifelong pursuit."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 131</p>
+<p>Email:&nbsp;<a href="mailto:chan_chok_seng@schools.gov.sg">chan_chok_seng@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp31.jpg" />
+<p><strong>Mdm Soh Wee Hong, Nellie</strong></p>
+<p><strong><em>Year Head P3/6</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that every child should enjoy going to school and gain meaningful experiences each day of their school life. To me, being a teacher to a child, it is important for me to bond with the pupils as well as to inculcate in them the right values; apart from teaching them the curriculum.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 125</p>
+<p>Email:&nbsp;<a href="mailto:nellie_soh_wee_hong@schools.gov.sg">nellie_soh_wee_hong@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp32.jpg" />
+<p><strong>Mdm Luk Meng Lee</strong></p>
+<p><strong><em>Year Head P4/5</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"As a teacher, I believe all pupils can be nurtured to be wholesome individuals. With our total curriculum in place, I am confident that pupils' potential can be realized to the fullest, and they will be equipped to pursue their passions and serve the community."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 132</p>
+<p>Email:&nbsp;<a href="mailto:luk_meng_lee@schools.gov.sg">luk_meng_lee@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
