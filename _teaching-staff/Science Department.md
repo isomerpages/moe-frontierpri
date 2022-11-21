@@ -25,9 +25,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss You Xueli</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Nur Atiqah Syahirah</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Lin Renyi</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 64%;" src="/images/sci4.jpg" /><strong>Miss You Xueli</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 46%;" src="/images/sci5.jpg" /><strong>Miss Nur Atiqah Syahirah</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 64%;" src="/images/sci6.jpg" /><strong>Mr Lin Renyi</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -44,9 +44,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Li Shaohui</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Soh Kar Ling, Carrie</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Ganges Lim Zi Yang</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 77%;" src="/images/sci7.jpg" /><strong>Miss Li Shaohui</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 59%;" src="/images/sci8.jpg" /><strong>Miss Soh Kar Ling, Carrie</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 52%;" src="/images/sci9.jpg" /><strong>Mr Ganges Lim Zi Yang</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
