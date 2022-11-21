@@ -33,8 +33,7 @@ description: ""
 <p>Tel ext:&nbsp;264<br />Email:&nbsp;<a href="mailto:ng_hui_shin@schools.gov.sg">ng_hui_shin@schools.gov.sg</a></p>
 </td>
 <td style="width: 33.3333%; text-align: center;">
-<p>Tel ext: 276</p>
-<p>Email:&nbsp;<a href="mailto:salinah_saleh@schools.gov.sg">salinah_saleh@schools.gov.sg</a></p>
+<p>Tel ext: 276<br>Email:&nbsp;<a href="mailto:salinah_saleh@schools.gov.sg">salinah_saleh@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
