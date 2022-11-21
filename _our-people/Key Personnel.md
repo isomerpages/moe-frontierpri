@@ -138,5 +138,19 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:eugena_ooi_weiling@schools.gov.sg">eugena_ooi_weiling@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp10.jpg" />
+<p><strong>Mr Soh Boon Yew, Vincent</strong></p>
+<p><strong><em>ST/Mathematics</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe in providing children with a holistic learning experience where they gain knowledge and skills on how to develop a good character and become a good person who can contribute to the society. I also believe that learning has to be meaningful so that the learners will see connection to what they have learnt to their daily lives.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 284</p>
+<p>Email:&nbsp;<a href="mailto:vincent_soh_boon_yew@schools.gov.sg">vincent_soh_boon_yew@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
