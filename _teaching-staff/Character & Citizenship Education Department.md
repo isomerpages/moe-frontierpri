@@ -44,7 +44,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Chia Tze Miang Rachel</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/cha7.jpg" /><strong>Mdm Chia Tze Miang Rachel</strong></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
