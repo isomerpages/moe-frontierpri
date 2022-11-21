@@ -2,7 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - 5th Text Recital Competition.md
       - Event Gallery 2022/.keep
       - Event Gallery 2021/.keep
       - Event Gallery 2020/.keep
