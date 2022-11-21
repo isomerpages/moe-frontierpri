@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2022/5th Text Recital Competition.md
       - Event Gallery 2022/.keep
       - Event Gallery 2021/Maker@Frontier Induction.md
       - Event Gallery 2021/Chinese New Year Celebration and Total Defence Day
