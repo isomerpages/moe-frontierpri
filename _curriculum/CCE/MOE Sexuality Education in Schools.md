@@ -192,3 +192,125 @@ third_nav_title: CCE
 </tr>
 </tbody>
 </table>
+<p><strong>Primary 6</strong></p>
+<table width="0">
+<thead>
+<tr>
+<td width="72">
+<p><strong>UNIT</strong></p>
+</td>
+<td width="117">
+<p><strong>LESSONS / DURATION</strong></p>
+</td>
+<td width="338">
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, students&nbsp;will be able to:</strong></p>
+</td>
+<td width="90">
+<p><strong>TIME PERIOD</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" width="72">
+<p>Are We More Than Friends?</p>
+</td>
+<td width="117">
+<p>What is Love?</p>
+<p>(30 min)</p>
+</td>
+<td width="338">
+<ul>
+<li>identify the characteristics of love and infatuation</li>
+<li>distinguish between the characteristics of love versus infatuation</li>
+<li>identify strong feelings arising from infatuation.</li>
+</ul>
+</td>
+<td width="90">
+<p>Term 4</p>
+<p>Post-PSLE Programme</p>
+</td>
+</tr>
+<tr>
+<td width="117">
+<p>Am I Falling In Love?</p>
+<p>(30 min)</p>
+</td>
+<td width="338">
+<ul>
+<li>manage strong feelings arising from infatuation</li>
+<li>identify ways to manage and cope with teasing from peers</li>
+</ul>
+</td>
+<td width="90">
+<p>Term 4</p>
+<p>Post-PSLE Programme</p>
+</td>
+</tr>
+<tr>
+<td width="117">
+<p>Main Task</p>
+<p>(30 min)</p>
+</td>
+<td width="338">
+<p>Description of the Main Task:</p>
+<p>Students are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
+</td>
+<td width="90">
+<p>Term 4</p>
+<p>Post-PSLE Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="72">
+<p>Friends or Foes?</p>
+</td>
+<td width="117">
+<p>Are You Really My Friend?</p>
+<p>(30 min)</p>
+</td>
+<td width="338">
+<ul>
+<li>identify the pros and cons of forming relationships through social networking websites</li>
+<li>know ways to keep themselves safe when using social networking websites</li>
+</ul>
+</td>
+<td width="90">
+<p>Term 4</p>
+<p>Post-PSLE Programme</p>
+</td>
+</tr>
+<tr>
+<td width="117">
+<p>Is It All Safe?</p>
+<p>(30 min)</p>
+</td>
+<td width="338">
+<ul>
+<li>know that some information (like pornography) received through the Internet may be harmful</li>
+<li>know ways to keep themselves safe when using social networking websites or the Internet</li>
+</ul>
+</td>
+<td width="90">
+<p>Term 4</p>
+<p>Post-PSLE Programme</p>
+</td>
+</tr>
+<tr>
+<td width="72">&nbsp;</td>
+<td width="117">
+<p>Main Task</p>
+<p>(30 min)</p>
+</td>
+<td width="338">
+<p>Description of the Main Task:</p>
+<p>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.&nbsp; These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
+</td>
+<td width="90">
+<p>Term 4</p>
+<p>Post-PSLE Programme</p>
+</td>
+</tr>
+</tbody>
+</table>
