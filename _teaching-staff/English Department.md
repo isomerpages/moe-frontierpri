@@ -44,8 +44,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Magdalein Goh</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Cheong Yueh Tinng Evelyn</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 52%;" src="/images/eng7.jpg" /><strong>Mdm Magdalein Goh</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 51%;" src="/images/eng8.jpg" /><strong>Mdm Cheong Yueh Tinng Evelyn</strong></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 <tr>
