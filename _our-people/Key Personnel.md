@@ -110,5 +110,33 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" target="_blank" rel="noopener">yap_huie_yuan@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp8.jpg" />
+<p><strong>Miss Neo Jie Qi</strong></p>
+<p><strong><em>LH/Mathematics</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"I believe every student wants to and can learn.  It is my responsibility as an educator to provide a safe environment that will foster maximum learning and meet each student's individual needs. I also aim to develop a growth mindset in my students by helping them understand that with effective effort, practice and perseverance, all students can succeed."</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 212</p>
+<p>Email:&nbsp;<a href="mailto:neo_jie_qi@schools.gov.sg">neo_jie_qi@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp9.jpg" />
+<p><strong>Miss Eugena Ooi Weiling</strong></p>
+<p><strong><em>LH/Mathematics</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe both the mind and heart need to be educated. I encourage pupils to develop an inquisitive mind, express themselves confidently and be passionate about learning. I highly regard the importance of building partnership with parents and educators to help every child achieve his/her fullest potential.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 241</p>
+<p>Email:&nbsp;<a href="mailto:eugena_ooi_weiling@schools.gov.sg">eugena_ooi_weiling@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
