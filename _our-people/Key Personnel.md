@@ -343,5 +343,33 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:nusraat_begum_akbar_ali@schools.gov.sg">nusraat_begum_akbar_ali@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp23.jpg" />
+<p><strong>Mdm Hannaria Srihanum Tumbuck</strong></p>
+<p><strong><em>ST/Learning Needs (Lower Primary)</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that every pupil who enters my classroom can succeed. As a teacher, it is my duty to help pupils reach their full potential and enable them to be life-long learners. I believe pupils can be independent, yet have the skills necessary to work in a team.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 208</p>
+<p>Email:&nbsp;<a href="mailto:Hannaria_Srihanum_Tumbuck@schools.gov.sg">hannaria_srihanum_tumbuck@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp24.jpg" />
+<p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong></p>
+<p><strong><em>ST/Educational Support</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“In a classroom that instills a caring, safe and respectful environment, every student can blossom and grow. I believe that by engaging my students in meaningful learning experiences and guiding them through with the right values, they will grow to be motivated learners who are responsible, compassionate and have good self-awareness of their own strengths and potential.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 279</p>
+<p>Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg">siti_idzmaidar@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
