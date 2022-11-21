@@ -412,3 +412,22 @@ HOD/ICT (Covering)</em></strong></p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Management Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp27.jpg" />
+<p><strong>Mrs Teo Ming Hui</strong></p>
+<p><strong><em>HOD/Student Management</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“I believe that education is the key to success in life. Education encompasses not only the transfer of knowledge but also to inspire hope, ignite imagination and instill a love of learning.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 127</p>
+<p>Email: <a href="mailto:lim_ming_hui@schools.gov.sg">lim_ming_hui@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
