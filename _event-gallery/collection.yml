@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2021/Math Learning Corner.md
       - Event Gallery 2021/Racial Harmony Day 2021.md
       - Event Gallery 2021/Mother Tongue Language Fortnight Programme 2021.md
       - Event Gallery 2021/National Day Celebration 2021.md
