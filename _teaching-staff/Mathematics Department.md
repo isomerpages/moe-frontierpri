@@ -25,9 +25,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Sally Heng Ju Imm</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mrs Ang Cheng Chew Teh Ai Choo</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Siti Wahida Binte Zainal Abidin</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 57%;" src="/images/ma4.jpg" /><strong>Mdm Sally Heng Ju Imm</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ma5.jpg" /><strong>Mrs Ang Cheng Chew Teh Ai Choo</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/ma6.jpg" /><strong>Mdm Siti Wahida Binte Zainal Abidin</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -46,9 +46,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Bek Lai Lee</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Miss Eliza Law Wen Yu</strong></td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mdm Oon Saw Kim Eileen</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/ma7.jpg" /><strong>Mdm Bek Lai Lee</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 45%;" src="/images/ma8.jpg" /><strong>Miss Eliza Law Wen Yu</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 58%;" src="/images/ma9.jpg" /><strong>Mdm Oon Saw Kim Eileen</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -66,9 +66,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Yogarrajah</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/ma10.jpg" /><strong>Mr Yogarrajah</strong></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-<td style="width: 33.3333%; text-align: center;"><strong>Mr Derek Lee</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/ma11.jpg" /><strong>Mr Derek Lee</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">Tel&nbsp;ext: 299<br />Email:&nbsp;<a href="mailto:yogarrajah_a_e_c@schools.gov.sg">yogarrajah_a_e_c@schools.gov.sg</a></td>
