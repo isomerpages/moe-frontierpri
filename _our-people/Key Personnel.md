@@ -373,3 +373,22 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Character and Citizenship Education (CCE) Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp25.jpg" />
+<p><strong>Mr Mohammed Nidzam Bin Zakariah</strong></p>
+<p><strong><em>SH/ICT</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“In every student, a teacher plants the seeds of knowledge, sprinkles them with love and patiently nurtures their growth to produce tomorrow’s dreams. I am here to do just that!”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 246</p>
+<p>mail:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
+</td>
+</tr>
+</tbody>
+</table>
