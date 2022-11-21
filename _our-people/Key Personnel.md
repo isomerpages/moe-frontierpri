@@ -20,5 +20,33 @@ description: ""
 <p>Email:&nbsp;<a href="mailto:vincent_chua_boon_meng@schools.gov.sg">vincent_chua_boon_meng@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp2.jpg" />
+<p><strong>Mdm Toh Bee Choo, Ann</strong></p>
+<p><strong><em>LH/English Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>“Every child is unique and there is no single method to reach out to all. Hence, I believe in using different approaches in my teaching and that all pupils are capable of learning. As an educator, my constant goal is to ignite my pupils’ love for learning and ensure every child realises his/her fullest academic potential.”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 242</p>
+<p>Email:&nbsp;<a href="mailto:toh_bee_choo@schools.gov.sg">toh_bee_choo@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<img style="width: 100%;" src="/images/kp2.jpg" />
+<p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong></p>
+<p><strong><em>LH/English Language</em></strong></p>
+</td>
+<td style="width: 50%; text-align: justify;">
+<p><em>"Learning comes in many forms. As an educator, I hope that I can model learning for my pupils and engage them effectively and positively. I strongly believe that pupils can learn not just from what we teach but also from the experiences we can give them”</em></p>
+</td>
+<td style="width: 16.66666%; text-align: center;">
+<p>Tel ext: 242</p>
+<p>Email:&nbsp;<a href="mailto:nur_shirin_yaman_yuen@schools.gov.sg">nur_shirin_yaman_yuen@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
