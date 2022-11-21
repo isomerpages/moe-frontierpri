@@ -54,3 +54,62 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>Through different opportunities and resources such as hands-on activities, research and experiments and out-of-classroom experiences, we hope to spark our students' interest as they embark on a quest to understand the environment and things around us better.</p>
+<p style="text-align: center;"><strong>Hands-On Activities, Research and Experiments</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/sci3.png"></td>
+<td style="width: 33.3333%;"><img src="/images/sci4.png"></td>
+<td style="width: 33.3333%;"><img src="/images/sci5.png"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">Primary 3 STARSFRONT: Testing absorbency of face mask</td>
+<td style="width: 33.3333%; text-align: center;">Primary 4 STARSFRONT: Shadow Puppet Theatre</td>
+<td style="width: 33.3333%; text-align: center;">Primary 6 Research and Presentation</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Extension Of Learning Through Out-of-Classroom</strong></p>
+<p style="text-align: center;"><strong>&nbsp;Learning&nbsp;</strong><strong>Experiencesss</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/sci6.png"></td>
+<td style="width: 25%;"><img src="/images/sci7.png"></td>
+<td style="width: 25%;"><img src="/images/sci8.png"></td>
+<td style="width: 25%;"><img src="/images/sci9.png"></td>
+</tr>
+<tr>
+<td colspan = "2" style="width: 50%;">Learning Journeys to places such as Science Centre and Sungei Buloh Nature Reserve etc</td>
+<td colspan = "2" style="width: 50%;">Outdoor learning at the school garden and hydroponics</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Extension Of Learning Through Key Programmes</strong><strong>&nbsp;</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/sci10.png"></td>
+<td style="width: 33.3333%;"><img src="/images/sci11.png"></td>
+<td style="width: 33.3333%;"><img src="/images/sci12.png"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">Science Excellence 2000 (Science E2K)</td>
+<td style="width: 33.3333%; text-align: center;">Math &amp; Science Week 2021</td>
+<td style="width: 33.3333%; text-align: center;">Science Competitions such as Singapore Youth Science Fair (SYSF), Singapore Primary Science Olympiad (SPSO)</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<h4 class="fl-heading"><strong>Key Approaches</strong></h4>
+<p><strong>Communicating scientific reasoning through the Claim-Evidence-Reason approach</strong></p>
+<p>Students will be guided to use the Claim-Evidence-Reason approach to apply relevant scientific concepts and communicate scientific reasoning in different contexts.</p>
+</td>
+<td style="width: 50%;"><img src="/images/sci13.png"></td>
+</tr>
+</tbody>
+</table>
