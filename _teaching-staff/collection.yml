@@ -2,5 +2,6 @@ collections:
   teaching-staff:
     output: true
     order:
+      - PAM and CCA Department.md
       - Student Management Department.md
       - Allied Educators.md
