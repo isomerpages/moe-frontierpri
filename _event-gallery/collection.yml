@@ -2,6 +2,8 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2022/.keep
+      - Event Gallery 2022/5th Text Recital Competition.md
       - Event Gallery 2022/P1 Learning Journey 2022.md
       - Event Gallery 2022/P3 and P5 DANCEFRONT.md
       - Event Gallery 2022/PAM Splash and Busk@Recess.md
@@ -11,8 +13,6 @@ collections:
       - Event Gallery 2022/Learning Fest 2022.md
       - Event Gallery 2022/SHINE Photography Exhibition.md
       - Event Gallery 2022/P2 Learning Journey 2022.md
-      - Event Gallery 2022/5th Text Recital Competition.md
-      - Event Gallery 2022/.keep
       - Event Gallery 2021/Maker@Frontier Induction.md
       - Event Gallery 2021/Chinese New Year Celebration and Total Defence Day
         Commemoration.md
