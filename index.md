@@ -15,4 +15,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+  - resources:
+      title: Achievements
+      button: More Achievements
 ---
