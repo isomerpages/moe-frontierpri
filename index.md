@@ -12,4 +12,7 @@ sections:
         - title: Contact Us
           description: ""
           url: /contact-us/
+        - title: Announcements
+          description: ""
+          url: /announcements/
 ---
