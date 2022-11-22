@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2022/International Friendship Day 2022.md
       - Event Gallery 2022/ARTFRONT@ATAS Corner (Term 2).md
       - Event Gallery 2022/Inter–disciplinary Project Work (IPW) for P3&P4.md
       - Event Gallery 2022/Busk@Recess & Celebrate DANCEFRONT!.md
