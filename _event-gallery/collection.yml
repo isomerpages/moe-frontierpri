@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2022/Mother Tongue Language Fortnight Programme 2022.md
       - Event Gallery 2022/NE Show.md
       - Event Gallery 2022/Racial Harmony Day 2022.md
       - Event Gallery 2022/Collaboration with CWSS on Maker.md
