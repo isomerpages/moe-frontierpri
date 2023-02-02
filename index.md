@@ -9,12 +9,15 @@ sections:
   - hero:
       background: /images/BANNERS.gif
       key_highlights:
-        - title: Contact Us
+        - title: Students & Parents
           description: ""
-          url: /contact-us/
-        - title: Announcements
+          url: /for-students-and-parents/
+        - title: Teachers
           description: ""
-          url: /announcements/
+          url: /useful-links-for-teachers/
+        - title: Alumni
+          description: Key Highlight description
+          url: /for-alumni/
   - resources:
       title: Achievements
       button: More Achievements
