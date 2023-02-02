@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /useful-links-for-teachers/
         - title: Alumni
-          description: Key Highlight description
+          description: ""
           url: /for-alumni/
   - resources:
       title: Achievements
