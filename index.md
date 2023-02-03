@@ -19,8 +19,8 @@ sections:
           description: ""
           url: /for-alumni/
   - resources:
-      title: Announcements
-      button: More Announcements
+      title: Announcements & Achievements
+      button: More Information
   - infobar:
       title: Achievements
       button: More Achievements
