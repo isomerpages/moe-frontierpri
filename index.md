@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /for-alumni/
   - resources:
-      title: Achievements
+      title: Announcements
       button: More Achievements
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
