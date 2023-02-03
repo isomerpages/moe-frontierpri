@@ -21,8 +21,11 @@ sections:
   - resources:
       title: Announcements & Achievements
       button: More Information
-  - infobar:
-      title: Achievements
-      button: More Achievements
-      url: /2022/07/29/p1-learning-journey-2022/
+  - infopic:
+      title: iN-Touch
+      description: '"Checkout Frontier!"'
+      button: More Articles
+      url: https://staging.d331543a351h7b.amplifyapp.com/in-touch/
+      image: /images/favicon-isomer.ico
+      alt: Image alt text
 ---
