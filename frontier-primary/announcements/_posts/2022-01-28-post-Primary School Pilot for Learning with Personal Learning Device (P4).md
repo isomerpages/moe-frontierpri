@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<p>Dear Primary 4 parents,</p>
+<p>Please click <a href="https://go.gov.sg/p4-learning-with-pld-briefing" target="_blank" rel="noopener"><strong>here</strong></a>&nbsp;for the&nbsp;<strong>Primary 4 Learning with Personal Learning Device</strong>&nbsp;<strong>Briefing 2022</strong>&nbsp;video.</p>
