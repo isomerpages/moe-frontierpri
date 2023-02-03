@@ -20,10 +20,9 @@ sections:
           url: /for-alumni/
   - resources:
       title: Announcements
-      button: More Achievements
+      button: More Announcements
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Achievements
+      button: More Achievements
+      url: /2022/07/29/p1-learning-journey-2022/
 ---
