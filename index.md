@@ -28,4 +28,8 @@ sections:
       url: https://staging.d331543a351h7b.amplifyapp.com/in-touch/
       image: /images/favicon-isomer.ico
       alt: Image alt text
+  - infobar:
+      title: Achievements
+      subtitle: Celebrating Our
+      button: Button Text
 ---
