@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /for-alumni/
   - resources:
-      title: Announcements & Achievements
+      title: Announcements
       button: More Information
   - infopic:
       title: iN-Touch
