@@ -21,21 +21,17 @@ sections:
   - resources:
       title: Announcements
       button: More Information
-  - infobar:
+  - infopic:
       title: Achievements
       subtitle: Celebrating Our
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
   - infopic:
       title: iN-Touch
       description: '"Checkout Frontier!"'
       button: More Articles
       url: https://staging.d331543a351h7b.amplifyapp.com/in-touch/
       image: /images/favicon-isomer.ico
-      alt: Image alt text
-  - infopic:
-      title: Achievements
-      subtitle: Celebrating Our
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
 ---
