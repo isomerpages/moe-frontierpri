@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNERS.gif
+      background: /images/Staging Banner 1.gif
       key_highlights:
         - title: Students & Parents
           description: ""
