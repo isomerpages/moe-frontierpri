@@ -3,7 +3,7 @@ url: https://frontierpri.moe.edu.sg
 favicon: /images/logo2.png
 colors:
   primary-color: "#f79f0f"
-  secondary-color: "#000000"
+  secondary-color: "#bfc6c3"
   media-colors:
     - title: media-color-one
       color: "#c1c8c1"
