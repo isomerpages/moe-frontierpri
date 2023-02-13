@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /for-alumni/
   - resources:
-      title: Announcements
+      title: Announcements & Achievements
       button: More Information
   - infopic:
       title: Achievements
