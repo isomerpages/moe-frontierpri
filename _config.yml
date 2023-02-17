@@ -2,13 +2,13 @@ title: Frontier Primary School
 url: https://frontierpri.moe.edu.sg
 favicon: /images/logo2.png
 colors:
-  primary-color: "#f79f0f"
+  primary-color: "#f28500"
   secondary-color: "#bfc6c3"
   media-colors:
     - title: media-color-one
       color: "#000000"
     - title: media-color-two
-      color: "#f79f0f"
+      color: "#f28500"
     - title: media-color-three
       color: "#028a0f"
     - title: media-color-four
