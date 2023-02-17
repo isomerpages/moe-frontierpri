@@ -16,7 +16,7 @@ description: ""
 <tr>
 <td>ST /EL : Mr Alan Yang Qidong</td>
 <td>ST / EL : Miss Lim Weiqing, Eulindra</td>
-<td>ST / Edu. Support: Mrs Teng-Lim Li Chern, Anisia</td>
+<td>Mrs Raspal Singh</td>
 </tr>
 <tr>
 <td>Miss Harsharan Kaur d/o T S</td>
@@ -24,15 +24,19 @@ description: ""
 <td>Mdm Nurashikin Mohd Zamrabi</td>
 </tr>
 <tr>
-<td>Mdm Liyanna Bte Johan</td>
-<td>&nbsp;Mdm Lim Suat Peng, Tina</td>
+<td>Mrs Sabrina Zhang</td>
+<td>Mdm Lim Suat Peng, Tina</td>
 <td>Miss Sandra Phong Pei Shan</td>
 </tr>
 <tr>
 <td>Mdm Cheong Yueh Tinng Evelyn (CAJT)</td>
 <td>Mdm Magdalein Goh (FAJT)</td>
-<td>&nbsp;</td>
+<td>Miss Eliza Law</td>
 </tr>
+<tr>
+<td>
+<td>Miss Sheirin Habibah (FAJT)</td>
+<td>
 </tbody>
 </table>
 <h4><strong>Key Approaches</strong></h4>
