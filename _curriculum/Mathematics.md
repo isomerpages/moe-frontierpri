@@ -15,23 +15,28 @@ description: ""
 </tr>
 <tr>
 <td>Mr Vincent Soh (ST)</td>
-<td>Mdm Chua Si Wei (ST - Internal)</td>
+<td>Mdm Chua Si Wei (ST)</td>
 <td>Mdm Sally Heng</td>
 </tr>
 <tr>
 <td>Mr Patrick Chua Cherng Haur</td>
 <td>Mrs Ang Cheng Chew - Teh Ai Choo</td>
-<td>Miss Cheong Yok Theng Elsa</td>
+<td>Mdm Elaine Lee Sui Lyn</td>
 </tr>
 <tr>
-<td>Mdm Asmahwaty Binte Abdullah</td>
+<td>Miss Lim Jie Lin</td>
 <td>Mdm Siti Wahida Binte Zainal Abidin</td>
-<td>&nbsp;Mdm Bek Lai Lee</td>
+<td>Mdm Lim Pei Geok</td>
 </tr>
 <tr>
-<td>Mr Yogarrajah</td>
+<td>Miss Lim Wan Teng, Valerie</td>
 <td>Mdm Oon Saw Kim Eileen</td>
 <td>Mr Derek Lee</td>
+</tr>
+<tr>
+<td>Mdm Yap Lay Koon</td>
+<td>Mrs Tan-Lay Puay Kiang</td>
+<td></td>
 </tr>
 </tbody>
 </table>
