@@ -36,7 +36,7 @@ sections:
       description: '"Checkout Frontier!"'
       button: More Articles
       url: https://staging.d331543a351h7b.amplifyapp.com/in-touch/
-      image: /images/favicon-isomer.ico
+      image: /images/iN-Touch Logo.jpg
       alt: Image alt text
       subtitle: Our Termly Newsletter
 ---
