@@ -165,41 +165,37 @@ description: ""
 <td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 47.7969px;" rowspan="4"><strong>6</strong></td>
-<td style="width: 124.594px;">17 Oct, Mon</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking Exercise</td>
+<td style="border:1px solid black;" rowspan="5"><strong>6</strong></td>
+<td style="border:1px solid black;">6 Feb, Mon</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *TDD Rehearsal #4</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 124.594px;">18 Oct, Tue</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking Exercise
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P3 GEP Selection Exercise</p>
-</td>
+<td style="border:1px solid black;;">7 Feb, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #4 (3RY3 & 3RY6)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 124.594px;">19 Oct, Wed</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking Exercise
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P3 GEP Selection Exercise</p>
-</td>
+<td style="border:1px solid black;">8 Feb, Wed</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; *P3 to P5 Math Stretch #4</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 124.594px;">20 Oct, Thu</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking Exercise</td>
+<td style="border:1px solid black;">9 Feb, Thur</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #5 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;*P4 E2K Science #4<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;*P5 Science Stretch #3<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme</td>
+<td style="border:1px solid black;"></td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td style="width: 23.8281px;">&nbsp;</td>
-<td style="width: 101.156px;">21 Oct, Fri</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Science Centre (6LO2, 6LO5)</td>
+<td style="border:1px solid black;">10 Feb, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #5 (3RY1 & 3RY5)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
 <td style="width: 23.8281px;" rowspan="5"><strong>7</strong></td>
