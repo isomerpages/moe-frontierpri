@@ -3,8 +3,7 @@ title: School Calendar
 permalink: /our-parents/calendar-of-events/
 description: ""
 ---
-
-<p><strong>rontier Primary School - Term 4 Student Calendar 2022</strong></p>
+<p><strong>Frontier Primary School - Term 1 Student Calendar 2023</strong></p>
 <table>
 <tbody>
 <tr>
@@ -14,20 +13,38 @@ description: ""
 <td style="width: 348.109px;"><strong>Other Activities/ Remarks</strong></td>
 </tr>
 <tr>
-<td style="width: 47.7969px;" rowspan="2"><strong>1</strong></td>
-<td style="width: 124.594px;">12 Sep, Mon</td>
+<td style="width: 47.7969px;" rowspan="4"><strong>1</strong></td>
+<td style="width: 124.594px;">3 Jan, Tues</td>
 <td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of Term 4
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Annual HPB Screening (12 to 21 Sep)</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; P5 Camp Day 3</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Listening Comprehension Briefing for P6</p>
+<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of Term 1
+<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
+<p>
 </td>
 </tr>
 <tr>
-<td style="width: 124.594px;">16 Sep, Fri</td>
+<td style="width: 124.594px;">4 Jan, Wed</td>
 <td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Listening Comprehension</td>
+<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
+<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
+<p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.594px;">5 Jan, Wed</td>
+<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY2 & 3RY4)</td>
+<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Back to Frontier Day 2 for P2 to P6 students<p>
+<p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.594px;">6 Jan, Fri</td>
+<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY1 & 3RY5)</td>
+<td style="width: 348.109px;"><p>
+<p>
+<p>	
 </tr>
 <tr>
 <td style="width: 47.7969px;" rowspan="5"><strong>2</strong></td>
