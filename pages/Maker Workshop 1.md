@@ -10,3 +10,7 @@ description: ""
 <p style="text-align:justify;">Do look out for our Maker Workshop 2 and sign up as soon as possible due to the limited vacancies! Do not miss the next opportunity!
 
 ![](/images/Maker%20Workshop%201.jpeg)
+![](/images/Maker%20Workshop%202.jpeg)
+![](/images/Maker%20Workshop%203.jpeg)
+![](/images/Maker%20Workshop%204.jpeg)
+![](/images/Maker%20Workshop%205.jpeg)
