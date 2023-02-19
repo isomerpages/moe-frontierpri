@@ -28,7 +28,7 @@ description: ""
 <td style="border:1px solid black;"><strong>1 Respect 1</strong></td>
 <td style="border:1px solid black;"><a href="/mathematics-department/#Patrick_" target="_blank" rel="noopener">Mr Chua Cherng Haur, Patrick</a></td>
 <td style="border:1px solid black;"><a href="/mtl-department/#Mardiana_" target="_blank" rel="noopener">Mdm Mardiana Bte Abdul Manap</a></td>
-<td style="border:1px solid black;"><a href="/key-personnel-2/#Dorcas_" target="_blank" rel="noopener">Mdm Lee Hao Yih, Dorcas</a></td>
+<td style="border:1px solid black;"><a href="/key-personnel-2/" target="_Mdm Lee Hao Yih, Dorcas" rel="noopener">Mdm Lee Hao Yih, Dorcas</a></td>
 </tr>
 <tr>
 <td><strong>1 Respect 2</strong></td>
