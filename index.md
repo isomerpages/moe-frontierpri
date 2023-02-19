@@ -9,14 +9,14 @@ sections:
   - hero:
       background: /images/Staging Banner 1.gif
       key_highlights:
-        - title: In The News
-          description: ""
-          url: /in-the-news/
+        - title: Students & Parents
+          description: Downloadable Links
+          url: /for-students-and-parents/
         - title: Teachers
-          description: ""
+          description: Useful Links
           url: /useful-links-for-teachers/
         - title: Alumni
-          description: ""
+          description: Information for Alumnis
           url: /for-alumni/
   - resources:
       title: Highlights
