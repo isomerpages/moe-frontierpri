@@ -147,24 +147,20 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe education is a lifelong journey, and every child can LEARN, ACHIEVE and CONTRIBUTE in their unique ways. I'm grateful for the opportunity to journey together with Frontierers to discover more about themselves, others and the environment around them. As we explore and grow together, I hope Frontierers will develop their strengths, interests and positively impact the people and environment around them."</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 130</p>
-<p>Email:&nbsp;<a href="mailto:Andrielle_LEE@schools.gov.sg">Andrielle_LEE@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 130</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Andrielle_LEE@schools.gov.sg">Andrielle_LEE@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp13.jpg" style="width: 100%;">
 <p><strong>Mrs Chong - Pang Chu Keng</strong></p>
 <p><strong><em>LH/Science</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that learning is to pass on knowledge so that others can reap the benefits of the learning process and its outcomes. This is why I teach. I strongly believe that the values that pupils learn will form a lasting core that enable them to use their knowledge &amp; skills to excel in their lives &amp; benefit others.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 243</p>
-<p>Email:&nbsp;<a href="mailto:pang_chu_keng@schools.gov.sg">pang_chu_keng@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 243</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:pang_chu_keng@schools.gov.sg">pang_chu_keng@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
@@ -174,73 +170,63 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp14.jpg" style="width: 100%;">
 <p><strong>Mrs Loh - Lim Cheng Nee, Mary</strong></p>
 <p><strong><em>HOD/Mother Tongue</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe every Frontierer is unique and has the potential to excel if they put their mind to it. I wish to become a source of endless Motivation, Encouragement and Inspiration for them so that they can achieve their goals and realize their dreams.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 126</p>
-<p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg">lim_cheng_nee@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 126</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg">lim_cheng_nee@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp15.jpg" style="width: 100%;">
 <p><strong>Mdm Lee Hao Yih, Dorcas</strong></p>
 <p><strong><em>SH/Mother Tongue</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“Education is about nurturing individuals into: A compass that directs one onto the right path, a torch that illuminates and brightens the lives of others, a melody that sings and spreads the message of love &amp; courage.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 229</p>
-<p>Email:&nbsp;<a href="mailto:lee_hao_yih_dorcas@schools.gov.sg">lee_hao_yih_dorcas@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 229</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lee_hao_yih_dorcas@schools.gov.sg">lee_hao_yih_dorcas@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp16.jpg" style="width: 100%;">
 <p><strong>Mdm Sri Arianti Bte Ariffin</strong></p>
 <p><strong><em>SH/Malay and Tamil Language</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“An old African proverb says “It takes a whole village to raise a child”. This is true to my belief that the responsibility of moulding the child belongs to everyone. As such, with proper guidance and discipline, I feel that each and every child can and is able to learn AND reach his potential.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 204</p>
-<p>Email:&nbsp;<a href="mailto:sri_arianti_ariffin@schools.gov.sg">sri_arianti_ariffin@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 204</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:sri_arianti_ariffin@schools.gov.sg">sri_arianti_ariffin@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp17.jpg" style="width: 100%;">
 <p><strong>Mdm Chia Qian Lin</strong></p>
 <p><strong><em>ST/Chinese Language</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I chose teaching as a career because my teachers made a large impact in my life and I aspire to be like them. Teaching offers me the opportunity to inspire students everyday so that they can become creative thinkers and future leaders. I hope that I can be the one to help them discover their potential.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 273</p>
-<p>Email:&nbsp;<a href="mailto:chia_qian_lin@schools.gov.sg">chia_qian_lin@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 273</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chia_qian_lin@schools.gov.sg">chia_qian_lin@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp18.jpg" style="width: 100%;">
 <p><strong>Mrs Mageswari Sudhakar</strong></p>
 <p><strong><em>ST/Tamil Language</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that all children are uncut diamonds needing only enough pressure to knock off the rough edges so that the brilliance placed in each of their hearts will always shine through.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 287</p>
-<p>Email:&nbsp;<a href="mailto:mageswari_sudhakar@schools.gov.sg">mageswari_sudhakar@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 287</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:mageswari_sudhakar@schools.gov.sg">mageswari_sudhakar@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
@@ -250,31 +236,27 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp19.jpg" style="width: 100%;">
 <p><strong>Mr Tan Choon Seng, Anderson</strong></p>
 <p><strong><em>HOD/PAM &amp; CCA</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In educating children physically and intellectually, teachers help them make sense of themselves and the bigger world that they are a part of. We harnessing their potential and set up the right environment for them to learn and internalise acts of virtue with strong, upstanding beliefs."</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 122</p>
-<p>Email:<a href="mailto:tan_choon_seng_anderson@schools.gov.sg">tan_choon_seng_anderson@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 122</p>
+<p style="width: 100%; text-align: center;">Email:<a href="mailto:tan_choon_seng_anderson@schools.gov.sg">tan_choon_seng_anderson@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp20.jpg" style="width: 100%;">
 <p><strong>Mr Choo Wee Pin</strong></p>
 <p><strong><em>SH/PE &amp; Sports</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Every child is unique. It is how we engage our pupils in their learning that will mould them into who they can become."</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 213</p>
-<p>Email:&nbsp;<a href="mailto:choo_wee_pin@schools.gov.sg">choo_wee_pin@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 213</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:choo_wee_pin@schools.gov.sg">choo_wee_pin@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
@@ -283,73 +265,63 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp21.jpg" style="width: 100%;">
 <p><strong>Miss Jeannett Lay Jia Xin</strong></p>
 <p><strong><em>HOD/CCE</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"A child’s smile melts everyone’s heart and it is even more heartening to see a child graduate from the six years of education with joy and happiness radiating from within him/her. In Frontier Primary School, our students, who are the future pillars of our nation, are at the forefront of everything. I strive to lead and work with the staff in building a G.R.E.A.T environment where our students grow, blossom and soar to greater heights."</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 129</p>
-<p>Email:&nbsp;<a href="mailto:jeannett_lay_jia_xin@schools.gov.sg">jeannett_lay_jia_xin@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 129</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:jeannett_lay_jia_xin@schools.gov.sg">jeannett_lay_jia_xin@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp22.jpg" style="width: 100%;">
 <p><strong>Mdm Nusraat Begum Bte Akbar Ali</strong></p>
 <p><strong><em>SH/CCE</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Every child deserves the opportunity to grow and excel in his areas of passion. I strongly believe that it is imperative to understand a child's goals and dreams so that we can create opportunities for a meaningful and relevant educational experience for every child. These experiences will also mould him to become strong in character."</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 244</p>
-<p>Email:&nbsp;<a href="mailto:nusraat_begum_akbar_ali@schools.gov.sg">nusraat_begum_akbar_ali@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 244</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nusraat_begum_akbar_ali@schools.gov.sg">nusraat_begum_akbar_ali@schools.gov.sg</a></p>	
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp23.jpg" style="width: 100%;">
 <p><strong>Mdm Hannaria Srihanum Tumbuck</strong></p>
 <p><strong><em>ST/Learning Needs (Lower Primary)</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that every pupil who enters my classroom can succeed. As a teacher, it is my duty to help pupils reach their full potential and enable them to be life-long learners. I believe pupils can be independent, yet have the skills necessary to work in a team.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 208</p>
-<p>Email:&nbsp;<a href="mailto:Hannaria_Srihanum_Tumbuck@schools.gov.sg">hannaria_srihanum_tumbuck@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 208</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Hannaria_Srihanum_Tumbuck@schools.gov.sg">hannaria_srihanum_tumbuck@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp24.jpg" style="width: 100%;">
 <p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong></p>
 <p><strong><em>ST/Educational Support</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In a classroom that instills a caring, safe and respectful environment, every student can blossom and grow. I believe that by engaging my students in meaningful learning experiences and guiding them through with the right values, they will grow to be motivated learners who are responsible, compassionate and have good self-awareness of their own strengths and potential.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 279</p>
-<p>Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg">siti_idzmaidar@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 279</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg">siti_idzmaidar@schools.gov.sg</a></p>	
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp6.jpg" style="width: 100%;">
 <p><strong>Mdm Lim Li-Chern, Anisia</strong></p>
 <p><strong><em>ST/Learning Needs (Educational Support</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that all children are gifted. My duty as a teacher is to uncover the children’s potential and steer them in the right direction so that they will fulfill their potential.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 281</p>
-<p>Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg">lim_li-chern_anisia@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 281</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg">lim_li-chern_anisia@schools.gov.sg</a></p>	
 </td>
 </tr>
 </tbody>
@@ -358,17 +330,15 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp25.jpg" style="width: 100%;">
 <p><strong>Mr Mohammed Nidzam Bin Zakariah</strong></p>
 <p><strong><em>SH/ICT</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In every student, a teacher plants the seeds of knowledge, sprinkles them with love and patiently nurtures their growth to produce tomorrow’s dreams. I am here to do just that!”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 246</p>
-<p>Email:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 246</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>	
 </td>
 </tr>
 </tbody>
@@ -377,17 +347,15 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp26.jpg" style="width: 100%;">
 <p><strong>Mdm Rasidah Bte Mohd Rasit</strong></p>
 <p><strong><em>School Staff Developer (SSD)</em></strong></p>
 </td>
-<td style="width: 50%; text-align: justify;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that pupils should be empowered to take charge of their own learning. They learn best when they are actively involved in real world activities as well as collaborating and making discoveries with their peers. My role as a teacher is not as the information giver, but a coach, facilitator and co-learner.”</em></p>
-</td>
-<td style="width: 16.66666%; text-align: center;">
-<p>Tel ext: 128</p>
-<p>mail:&nbsp;<a href="mailto:rasidah_mohd_rasit@schools.gov.sg">rasidah_mohd_rasit@schools.gov.sg</a></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 128</p>
+<p style="width: 100%; text-align: center;">mail:&nbsp;<a href="mailto:rasidah_mohd_rasit@schools.gov.sg">rasidah_mohd_rasit@schools.gov.sg</a></p>	
 </td>
 </tr>
 </tbody>
