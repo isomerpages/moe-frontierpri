@@ -93,67 +93,76 @@ description: ""
 <td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; 4IN6 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 124.594px;">29 Sep, Thu</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *SHINE Programme</p>
+<td style="border:1px solid black;">18 Jan, Wed</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3to P5 Math Stretch #3</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; 4IN6 Code for Fun</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">19 Jan, Thur</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #3 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P4 E2K Science #1</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P5 E2K Science #2</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *TDD Rehearsal 1
 </td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE English Language (Written)</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; 4IN1 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 124.594px;">30 Sep, Fri</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Friday CCAs
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *S-eLF Council Meet</p>
-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Mathematics (Written)</td>
+<td style="border:1px solid black;" rowspan="3"><strong>4</strong></td>
+<td style="border:1px solid black;">25 Jan, Wed</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp; 4IN1 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 47.7969px;" rowspan="5"><strong>4</strong></td>
-<td style="width: 124.594px;">3 Oct, Mon</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp; PSLE Mother Tongue Language (Written)</td>
+<td style="border:1px solid black;">26 Jan, Thur</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P4 E2K Science #2<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P5 Science Stretch #1<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E. Programme #1</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp; 4IN2 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 124.594px;">4 Oct, Tue</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp; PSLE Science (Written)</td>
+<td style="border:1px solid black;">27 Jan, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #3 (3RY1 & 3RY5)
+<p>&middot;&nbsp;&nbsp;&nbsp; Start of P4 to P6 CCA
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp; 4IN2 Code for Fun<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P1 G.R.E.A.T Transition Day</td></td>
 </tr>
 <tr>
-<td style="width: 124.594px;">5 Oct, Wed</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS Programme</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp; PSLE Higher Mother-Tongue Language (Written)</td>
+
+<td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
+<td style="border:1px solid black;">30 Jan, Mon</td>
+<td style="border:1px solid black;;">&middot;&nbsp;&nbsp;&nbsp; Start of P4 to P6 CCA<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P3 to P6 Maker Workshop #1<p>
+&middot;&nbsp;&nbsp;&nbsp; *TDD Rehersal #2</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 124.594px;">6 Oct, Thu</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp; Children&rsquo;s Day Celebration and P1 and P2 Lower Primary Games Day</td>
+<td style="border:1px solid black;">31 Jan, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #3 (3RY3 & 3RY6)<p>
+&middot;&nbsp;&nbsp;&nbsp; Start of P4 and P5 Remedial<p>
+&middot;&nbsp;&nbsp;&nbsp; P6 Remedial</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; 4IN3 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 124.594px;">7 Oct, Fri</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Children&rsquo;s Day School Holiday</td>
-<td style="width: 348.109px;">-</td>
+<td style="border:1px solid black;">1 Feb, Wed</td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; 4IN3 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 47.7969px;" rowspan="4"><strong>5</strong></td>
-<td style="width: 124.594px;">10 Oct, Mon</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P5 End-of-Year Oral Examination</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Post-PSLE activities (10 Oct to 11 Nov)</td>
+<td style="border:1px solid black;">2 Feb, Thu</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #4 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P4 E2K Science #3<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P5 Science Stretch #2<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E. Programme #2<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *TDD Rehearsal #3</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 124.594px;">11 Oct, Tue</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P5 End-of-Year Oral Examination</td>
-<td style="width: 348.109px;">-</td>
-</tr>
-<tr>
-<td style="width: 124.594px;">12 Oct, Wed</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 End-of-Year Examination English Language Paper 1 and Listening Comprehension</td>
-</tr>
-<tr>
-<td style="width: 124.594px;">13 Oct, Thu</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 End-of-Year Examination Mother Tongue Language Paper 1 and Listening Comprehension</td>
+<td style="border:1px solid black;">3 Feb, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #4 (3RY1 & 3RY5)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
 <td style="width: 47.7969px;" rowspan="4"><strong>6</strong></td>
