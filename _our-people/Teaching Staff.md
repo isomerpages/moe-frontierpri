@@ -3,21 +3,20 @@ title: Teaching Staff
 permalink: /form-teachers/
 description: ""
 ---
-<p><strong>The list of Form and Co-Form Teachers in 2022 can be found below. To view a teacher&rsquo;s profile and contact information, please click on his or her name.</strong></p>
-<table class="table table-responsive table-bordered" border="1" cellpadding="10">
+<p><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To view a teacher's profile and contact information, please click on his or her name.</strong></p>
+<table class="table table-responsive table-bordered; border:1px solid black" cellpadding="0">
 <tbody>
 <tr>
 <td>
-<p><strong>CLASS</strong></p>
+<p style="border:1px solid black;"><strong>CLASS</strong></p>
 </td>
 <td>
-<p><strong>FORM TEACHER 1</strong></p>
+<p style="border:1px solid black;"><strong>FORM TEACHER 1</strong></p>
 </td>
 <td>
-<p><strong>FORM TEACHER 2</strong></p>
-</td>
+<p style="border:1px solid black;"><strong>FORM TEACHER 2</strong>
 <td>
-<p><strong>&nbsp;FORM TEACHER 3</strong></p>
+<p style="border:1px solid black;"><strong>FORM TEACHER 3</strong></p>
 </td>
 </tr>
 <tr>
@@ -26,10 +25,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>1 Respect 1</strong></td>
-<td><a href="/mathematics-department/#Patrick_" target="_blank" rel="noopener">Mr Chua Cherng Haur, Patrick</a></td>
-<td><a href="/mtl-department/#Mardiana_" target="_blank" rel="noopener">Mdm Mardiana Bte Abdul Manap</a></td>
-<td><a href="/key-personnel-2/#Dorcas_" target="_blank" rel="noopener">Mdm Lee Hao Yih, Dorcas</a></td>
+<td style="border:1px solid black;"><strong>1 Respect 1</strong></td>
+<td style="border:1px solid black;"><a href="/mathematics-department/#Patrick_" target="_blank" rel="noopener">Mr Chua Cherng Haur, Patrick</a></td>
+<td style="border:1px solid black;"><a href="/mtl-department/#Mardiana_" target="_blank" rel="noopener">Mdm Mardiana Bte Abdul Manap</a></td>
+<td style="border:1px solid black;"><a href="/key-personnel-2/#Dorcas_" target="_blank" rel="noopener">Mdm Lee Hao Yih, Dorcas</a></td>
 </tr>
 <tr>
 <td><strong>1 Respect 2</strong></td>
