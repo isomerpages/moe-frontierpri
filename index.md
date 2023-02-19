@@ -23,11 +23,14 @@ sections:
       button: More Information
       subtitle: Stay up to date with us
   - infopic:
-      title: Achievements
-      subtitle: Celebrating Our
-      description: Infopic description
-      button: Button Text
+      title: Maker Workshop 1
+      subtitle: Our Signature Programme
+      description: Frontier Primary School is proud to conduct our very first Maker
+        Workshop for our students on 30 January 2023, Monday.
+      button: Read more
       alt: Image alt text
+      url: https://frontierpri.moe.edu.sg/maker-workshop-1/
+      image: /images/Maker Workshop 1.jpeg
   - infopic:
       title: iN-Touch
       description: '"Checkout Frontier!"'
