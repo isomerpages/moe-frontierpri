@@ -188,7 +188,7 @@ description: ""
 <p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
 <p>&middot;&nbsp;&nbsp;&nbsp;*P4 E2K Science #4<p>
 <p>&middot;&nbsp;&nbsp;&nbsp;*P5 Science Stretch #3<p>
-<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme</td>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #3</td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr>
@@ -198,130 +198,132 @@ description: ""
 <td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 23.8281px;" rowspan="5"><strong>7</strong></td>
-<td style="width: 101.156px;">24 Oct, Mon</td>
-<td style="width: 264.328px;">&middot;&nbsp; Deepavali Public Holiday</td>
-<td style="width: 269.688px;">-</td>
+<td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
+<td style="border:1px solid black;">13 Feb, Mon</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Total Defence Day Commemoration</td>
 </tr>
 <tr>
-<td style="width: 101.156px;">25 Oct, Tue</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Gardens by the Bay (6LO1, 6LO3, 6LO5)</td>
+<td style="border:1px solid black;">14 Feb, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #5 (3RY3 & 3RY6)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *Start of P4/P5 E2K Math</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">26 Oct, Wed</td>
-<td style="width: 264.328px;"><strong>&nbsp;</strong>
-<p>&nbsp;</p>
-<p>-</p>
-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 End-of-Year Examination English Language Paper 2
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Gardens by the Bay (6LO2, 6LO4, 6LO6)</p>
-</td>
+<td style="border:1px solid black;">15 Feb, Wed</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; School eLF Council Meet #2 (virtual)</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Home-Based Learning #1 (P3 to P6)<p>
+<p>(P1 and P2 students will report to school as usual)</td>
 </tr>
 <tr>
-<td style="width: 101.156px;">27 Oct, Thu</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 End-of-Year Examination Science Paper</td>
+<td style="border:1px solid black;">16 Feb, Thu</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #6 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;*P4 E2K Science #5<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;*P5 Science Stretch #4<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #4</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">28 Oct, Fri</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Science Centre (6LO1, 6LO4)</td>
+<td style="border:1px solid black;">17 Feb, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #6 (3RY1 & 3RY5)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 23.8281px;" rowspan="5"><strong>8</strong></td>
-<td style="width: 101.156px;">31 Oct, Mon</td>
-<td style="width: 264.328px;">&middot;&nbsp; P6 Mother Tongue Language Learning Journey (2 Chinese Language classes)</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 End-of-Year Examination Mathematics Paper</td>
+<td style="border:1px solid black;" rowspan="4"><strong>8</strong></td>
+<td style="border:1px solid black;">20 Feb, Mon</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P5 Interdisciplinary PriheW (20 to 23 Feb)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P1 & P6 School Smart Card photo-taking</td>
 </tr>
 <tr>
-<td style="width: 101.156px;">1 Nov, Tue</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P5 End-of-Year Examination Higher Mother Tongue Language Paper 1 and 2</td>
+<td style="border:1px solid black;">21 Feb, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #6 (3RY3 & 3RY6)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P4/P5 E2K Math</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">2 Nov, Wed</td>
-<td style="width: 264.328px;">&middot;&nbsp; P6 Mother Tongue Language Fortnight Learning Journey (2 Chinese Language classes)
-<p>&nbsp;</p>
-<p>&middot;&nbsp; *S-eLF Council Meet</p>
-</td>
-<td style="width: 269.688px;">-</td>
+<td style="border:1px solid black;">23 Feb, Thur</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #7 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;*P4 E2K Science #6<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;*P5 Science Stretch #5<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #5</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P2 Learning Journey to National Orchid Garden</td>
 </tr>
 <tr>
-<td style="width: 101.156px;">3 Nov, Thu</td>
-<td style="width: 264.328px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Mother Tongue Language Fortnight Learning Journey (2 Chinese Language classes)
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *International Students and Permanent Residents Integration (ISPR) Programme</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *SHINE Programme</p>
-</td>
-<td style="width: 269.688px;">-</td>
+<td style="border:1px solid black;">24 Feb, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #7 (3RY1 & 3RY5)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P3 to P6 Maker Workshop #2</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">4 Nov, Fri</td>
-<td style="width: 264.328px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gratitude Programme</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Science Centre (6LO3, 6LO6)</td>
+<td style="border:1px solid black;" rowspan="5"><strong>9</strong></td>
+<td style="border:1px solid black;">27 Feb, Mon</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of P6 Timed Practice 1 (27 Feb to 9 Mar)</td>
 </tr>
 <tr>
-<td style="width: 23.8281px;" rowspan="5"><strong>9</strong></td>
-<td style="width: 101.156px;">7 Nov, Mon</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp; P4 Learning Journey (Virtual) to Singapore River (4IN1 to P4IN 3)
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp; P4 Calculator Workshop (4IN5 and 4IN6)</p>
-</td>
+<td style="border:1px solid black;">28 Feb, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #7 (3RY3 & 3RY6)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P4/P5 E2K Math</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">8 Nov, Tue</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp; P4 Calculator Workshop (4IN1 to 4IN4)</td>
+<td style="border:1px solid black;">1 Mar, Wed</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; School eLF Council Meet #3</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">9 Nov, Wed</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp; Admin Day</td>
+<td style="border:1px solid black;">2 Mar, Thu</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #8 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #6</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">10 Nov, Thu</td>
-<td style="width: 264.328px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *S-eLF Council Meet</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp; Start of early dismissal of students @1230</td>
+<td style="border:1px solid black;">3 Mar, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #8 (3RY1 & 3RY5)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA<p>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 101.156px;">11 Nov, Fri</td>
-<td style="width: 264.328px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Friday CCAs (last session)</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp; P6 Graduation Day (Last day of school for P6 students)</td>
+<td style="border:1px solid black;" rowspan="4"><strong>10</strong></td>
+<td style="border:1px solid black;">6 Mar, Mon</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P4 to P6 CCA<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *IFD Rehearsal #1</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 23.8281px;" rowspan="4"><strong>10</strong></td>
-<td style="width: 101.156px;">14 Nov, Mon</td>
-<td style="width: 264.328px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs (last session)</td>
-<td style="width: 269.688px;">-</td>
-</tr>
-<tr>
-<td style="width: 101.156px;">16 Nov, Wed</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Spring Cleaning
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Promotion Day</p>
-</td>
-</tr>
-<tr>
-<td style="width: 101.156px;">17 Nov, Thu</td>
-<td style="width: 264.328px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; S-eLF-L.E.S.S. C</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; PRIDE Day (Virtual)
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Last day of school for P1 to P5 students</p>
+<td style="border:1px solid black;">7 Mar, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #8 (3RY3 & 3RY6)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *P4/P5 E2K Math</td>
+<td style="border:1px solid black;"></td>
 </td>
 </tr>
 <tr>
-<td style="width: 101.156px;">18 Nov, Fri</td>
-<td style="width: 264.328px;">-</td>
-<td style="width: 269.688px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P1 Orientation (AM)</td>
+<td style="border:1px solid black;">9 Mar, Thu</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P4 to P6 Remedial<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #7<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *IFD/Friendship Beyond Border Prog Rehearsal #2</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 677px;" colspan="4"><strong>Nov/Dec School Holidays</strong></td>
+<td style="border:1px solid black;">10 Mar, Fri</td>
+<td style="border:1px solid black;;">&middot;&nbsp;&nbsp;&nbsp; S-eLF-L.E.S.S A</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Home-Based Learning #1 (P1 & P2)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; P3 to P6 Sports Day</td>
+</tr>
+<tr>
+<td style="border:1px solid black; text-align:center;" colspan="4"><strong>March School Holidays</strong></td>
 </tr>
 </tbody>
 </table>
 <p>*For selected students only</p>
-<p>**Information above is accurate as of 9 September 2022 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
+<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
