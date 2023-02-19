@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Staging Banner 1.gif
       key_highlights:
-        - title: Students & Parents
+        - title: In The News
           description: ""
-          url: /for-students-and-parents/
+          url: /in-the-news/
         - title: Teachers
           description: ""
           url: /useful-links-for-teachers/
