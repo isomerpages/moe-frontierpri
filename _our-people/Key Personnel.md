@@ -389,14 +389,14 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img src="/images/kp29.jpg" style="width: 100%;">
+<img src="/images/pam9.jpg" style="width: 100%;">
 <p><strong>Mdm Ho Qian Hui, Stephanie</strong></p>
 <p><strong><em>SH/Student Well-Being (Internal)</em></strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“In the words of Aristotle, “educating the mind without educating the heart is no education at all”. I aim to help my pupils reach their potential academically, and inculcate strong moral values and character in them as I believe these are what make up the foundation of lasting success.”</em></p>
-</p><p style="width: 100%; text-align: center;">
-<p style="width: 100%; text-align: center;">
+<p><em>“I truly believe that every child is capable of reaching their potential in everything that they do with proper guidance. I aim to equip students with not only knowledge and skills, but also with love, empathy and kindness, so that they may succeed in life while experiencing real joy.”</em></p>
+</p><p style="width: 100%; text-align: center;">Tel ext: 214</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ho_qian_hui@schools.gov.sg">ho_qian_hui@schools.gov.sg</a></p>	
 </td>
 </tr>
 <tr>
