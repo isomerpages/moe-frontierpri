@@ -5,100 +5,92 @@ description: ""
 ---
 <p><strong>Frontier Primary School - Term 1 Student Calendar 2023</strong></p>
 <table>
+<table style="border:1px solid black;">
 <tbody>
 <tr>
-<td style="width: 47.7969px;"><strong>Week</strong></td>
-<td style="width: 124.594px;"><strong>Date/Day</strong></td>
-<td style="width: 138.5px;"><strong>After-School Activities</strong></td>
-<td style="width: 348.109px;"><strong>Other Activities/ Remarks</strong></td>
+<td style="width: 47.7969px; border:1px solid black;"><strong>Week</strong></td>
+<td style="width: 124.594px; border:1px solid black;"><strong>Date/Day</strong></td>
+<td style="width: 190.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
+<td style="width: 348.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
 </tr>
+<table>
 <tr>
-<td style="width: 47.7969px;" rowspan="4"><strong>1</strong></td>
-<td style="width: 124.594px;">3 Jan, Tues</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of Term 1
+<td style="width: 75.7969px; border:1px solid black;" rowspan="4"><strong>1</strong></td>
+<td style="width: 140.594px; border:1px solid black;">3 Jan, Tues</td>
+<td style="width: 190.5px; border:1px solid black;">-</td>
+<td style="width: 348.109px; border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of Term 1
 <p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
 <p>
 </td>
 </tr>
 <tr>
-<td style="width: 124.594px;">4 Jan, Wed</td>
-<td style="width: 138.5px;">-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
+<td style="border:1px solid black;">4 Jan, Wed</td>
+<td style="border:1px solid black;">-</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
 <p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
-<p>
-</td>
-</tr>
-<tr>
-<td style="width: 124.594px;">5 Jan, Wed</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY2 & 3RY4)</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; Back to Frontier Day 2 for P2 to P6 students<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
 <p>
 </td>
 </tr>
 <tr>
-<td style="width: 124.594px;">6 Jan, Fri</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY1 & 3RY5)</td>
-<td style="width: 348.109px;"><p>
+<td style="border:1px solid black;">5 Jan, Wed</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY2 & 3RY4)</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Back to Frontier Day 2 for P2 to P6 students<p>
+<p>
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">6 Jan, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY1 & 3RY5)</td>
+<td style="border:1px solid black;"><p>
 <p>
 <p>	
 </tr>
 <tr>
-<td style="width: 47.7969px;" rowspan="5"><strong>2</strong></td>
-<td style="width: 124.594px;">19 Sep, Mon</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
+<td style="border:1px solid black;">10 Jan, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY3 & 3RY6)</p>
 </td>
-<td style="width: 348.109px;">-</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; 4IN4 Code For Fun<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *Integration Programme #1
 </tr>
 <tr>
-<td style="width: 124.594px;">20 Sep, Tue</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<td style="border:1px solid black;">11 Jan, Wed</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; *P3 to P5 Math Stretch #1</p>
 </td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp; P3 Learning Journey to Singapore Discovery Centre (3RY1, 3RY3, 3RY5)</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Temperature-Taking Exercise<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; 4IN4 Code for Fun</td>
 </tr>
 <tr>
-<td style="width: 124.594px;">21 Sep, Wed</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS Programme</td>
-<td style="width: 348.109px;">-</td>
+<td style="border:1px solid black;">12 Jan, Thur</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp;; P3 SwimSafer #2 (3RY2 & 3RY4)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P5 Science E2K #1
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp;4IN5 Code for Fun
 </tr>
 <tr>
-<td style="width: 124.594px;">22 Sep, Thu</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *SHINE Programme</p>
+<td style="border:1px solid black;">13 Jan, Fri</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer #2 (3RY1 & 3RY5)<p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *Learning Journey to Bukit Timah Hill</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; School eLF Council Meet #1</p>
 </td>
-<td style="width: 348.109px;">-</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp;4IN5 Code for Fun</td>
+</tr>
+
 </tr>
 <tr>
-<td style="width: 124.594px;">23 Sep, Fri</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Friday CCAs
-<p>&nbsp;</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp; *S-eLF Council Meet</p>
+<td style="border:1px solid black;" rowspan="4"><strong>3</strong></td>
+<td style="border:1px solid black;">16 Jan, Mon</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; *P3 to P5 Math Stretch #2</p>
 </td>
-<td style="width: 348.109px;">&middot;&nbsp; P3 Learning Journey to Singapore Discovery Centre (3RY2, 3RY4, 3RY6)</td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td style="width: 47.7969px;" rowspan="4"><strong>3</strong></td>
-<td style="width: 124.594px;">26 Sep, Mon</td>
-<td style="width: 138.5px;">P3 and P4 End-of-Year Oral
-<p>&nbsp;</p>
-<p>Examination</p>
-</td>
-<td style="width: 348.109px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P6 Study Break (26 to 28 Sept)</td>
-</tr>
-<tr>
-<td style="width: 124.594px;">27 Sep, Tue</td>
-<td style="width: 138.5px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp; P3 and P4 End-of-Year Oral Examination</td>
-<td style="width: 348.109px;">-</td>
+<td style="border:1px solid black;">17 Jan, Tue</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; P3 SwimSafer#2 (3RY3 & 3RY6)</p>
+<p>&middot;&nbsp;&nbsp;&nbsp; *Gratitude Programme #1</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; 4IN6 Code for Fun</td>
 </tr>
 <tr>
 <td style="width: 124.594px;">29 Sep, Thu</td>
