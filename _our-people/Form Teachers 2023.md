@@ -3,7 +3,7 @@ title: Form Teachers 2023
 permalink: /our-people/form-teachers-2023/
 description: ""
 ---
-<p style="text-align: justify;"><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To email to your Form Teacher, please click on his or her name. To view the teacher's contact information, you may click on Teaching Staff.</strong></p>
+<p style="text-align: justify;"><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To email your Form Teacher, please click on his or her name. To view the teacher's contact information, you may click on Teaching Staff.</strong></p>
 <table cellpadding="0" class="table table-responsive table-bordered; border:1px solid black">
 <tbody>
 <tr>
@@ -20,9 +20,7 @@ description: ""
 <tr>
 <td colspan="4">
 <h4 style="text-align: center;"><strong>Primary 1</strong></h4>
-</td>
 </tr>
-<tr>
 <td style="border:1px solid black;"><strong>1 Respect 1</strong></td>
 <td style="border:1px solid black;"><a href ="mailto:nurashikin_mohamed_zaa@schools.gov.sg">Mdm Nurashikin Mohamed Zamrabi</a></td>
 <td style="border:1px solid black;"><a href ="mailto:chen_lili@schools.gov.sg">Miss Chen Li Li</a></td>
