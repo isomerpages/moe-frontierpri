@@ -4,12 +4,11 @@ permalink: /school-vendors/
 description: ""
 third_nav_title: School Information
 ---
-
 <p><strong>SCHOOL BOOKSHOP</strong></p>
 <p><strong>Pacific Bookstores Pte Ltd</strong></p>
 <p>Main Office: 14 Arumugam Road, #08-01, LTC Building C, Singapore 409959<br />Tel: 6464 0111<br />Email:&nbsp;<a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br />Website:&nbsp;<a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
 <p><strong>School Bookshop</strong><br />Operating Hours: 9:00am to 3:30pm&nbsp;<em>(during term time, excluding half-days)</em><br />Tel: 9048 2311&nbsp;<em>(kindly WhatsApp instead of calling during recess and dismissal time)</em></p>
-<p><em>Note: Parents may only enter the school to make their purchase 30 minutes after the school&rsquo;s last staggered dismissal time.</em></p>
+<p><em>Note: Parents may only enter the school to make their purchase 30 minutes after the school&rsquo;s dismissal time.</em></p>
 <p><strong>Book Lists</strong></p>
 <table width="1533">
 <tbody>
