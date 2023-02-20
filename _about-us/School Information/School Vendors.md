@@ -75,7 +75,8 @@ third_nav_title: School Information
 <p><strong>Purchase of School Uniforms &amp; Name Tags</strong></p>
 <ol>
 <li>
-<p>Sale in School<br />Parents and students can purchase school shirts, shorts and culottes from the school bookshop during term time.<br />Parents may wish to call the bookshop to verify the availability before making a trip to the school.<br />Please refer to the School Bookshop section above for the contact number.</p>
+<p>Sale in School<br />
+Shirts, shorts and culottes are available for sale at the school bookshop during term time after January. Due to limited stock, parents are advised to call or message the school bookshop before making a trip to the school. Please refer to the School Bookshop section above for the contact number.</p>
 <p><em>Note: Parents may only enter the school to make their purchase 30 minutes after the school&rsquo;s last staggered dismissal time.</em></p>
 </li>
 </ol>
