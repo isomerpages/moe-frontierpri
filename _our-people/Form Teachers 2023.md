@@ -3,7 +3,7 @@ title: Form Teachers 2023
 permalink: /our-people/form-teachers-2023/
 description: ""
 ---
-<p><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To view a teacher's contact information, please click on his or her name.</strong></p>
+<p style="text-align: justify;"><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To email to your Form Teacher, please click on his or her name. To view the teacher's contact information, you may click on Teaching Staff.</strong></p>
 <table cellpadding="0" class="table table-responsive table-bordered; border:1px solid black">
 <tbody>
 <tr>
@@ -25,14 +25,14 @@ description: ""
 <tr>
 <td style="border:1px solid black;"><strong>1 Respect 1</strong></td>
 <td style="border:1px solid black;"><a href ="mailto:nurashikin_mohamed_zaa@schools.gov.sg">Mdm Nurashikin Mohamed Zamrabi</a></p>
-<td style="border:1px solid black;"><a rel="noopener" target="_blank" href="/mtl-department/#Mardiana_">Mdm Mardiana Bte Abdul Manap</a></td>
-<td style="border:1px solid black;"><a href="[Mdm">Mdm Lee Hao Yih, Dorcas</a></td>
+<td style="border:1px solid black;"><a href ="mailto:chen_lili@schools.gov.sg">Miss Chen Li Li</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>1 Respect 2</strong></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Annabelle_">Mdm Pek Bee Lay, Annabelle</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Stephanie_">Mdm Ho Qian Hui, Stephanie</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><strong>1 Respect 2</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:chia_tze_miang_rachel@schools.gov.sg">Mdm Chia Tze Miang, Rachel</a></td>
+<td style="border:1px solid black;"><a href ="mailto:li_lei@schools.gov.sg">Mr Li Lei</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td><strong>1 Respect 3</strong></td>
