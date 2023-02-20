@@ -56,7 +56,7 @@ description: ""
 <tr>
 <td style="border:1px solid black;"><strong>1 Respect 6</strong></td>
 <td style="border:1px solid black;"><a href="mailto:suria_mohamed_sani@schools.gov.sg">Mdm Suria Bte Mohamed Sani</a></td>
-<td style="border:1px solid black;"><a href="mailto:tao_heping@schools.gov.sg">Miss Olivia Taop Heping</a></td>
+<td style="border:1px solid black;"><a href="mailto:tao_heping@schools.gov.sg">Miss Olivia Tao Heping</a></td>
 <td style="border:1px solid black;"><a href="mailto:christine_yap_bao_yu@schools.gov.sg">Miss Christine Yap Bao Yu</a></td>
 </tr>
 <tr>
@@ -243,37 +243,37 @@ description: ""
 <td style="border:1px solid black;"><strong>6 Loyalty 1</strong></td>
 <td style="border:1px solid black;"><a href="mailto:kiranjeet_kaur@schools.gov.sg">Mrs Raspal Singh</a></td>
 <td style="border:1px solid black;"><a href="mailto:yap_huie_yuan@schools.gov.sg">Mdm Yap Huie Yuan</a></td>
-<td style="border:1px solid black;"><a href="mailto:pang_chu_keng@schools.gov.sg">Mrs Chong - Pang Chu Keng</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>6 Loyalty 2</strong></td>
-<td><a href="/mathematics-department/#Sally_" target="_blank" rel="noopener">Mdm Heng Ju Imm, Sally</a></td>
-<td><a href="/key-personnel-2/#Eugena_" target="_blank" rel="noopener">Miss Eugena Ooi Weiling</a></td>
-<td><a href="/key-personnel-2/#Vincentchua_" target="_blank" rel="noopener">Mr Chua Boon Meng, Vincent</a></td>
+<td style="border:1px solid black;"><a href="mailto:neo_jie_qi@schools.gov.sg">Mrs Lee - Neo Jie Qi</a></td>
+<td style="border:1px solid black;"><a href="mailto:lim_ming_hui@schools.gov.sg">Mrs Teo Ming Hui</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>6 Loyalty 3</strong></td>
-<td><a href="/science-department/#Atiqah_" target="_blank" rel="noopener">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a></td>
-<td><a href="/character-citizenship-education-department/#Aneesah_" target="_blank" rel="noopener">Mdm Aneesah Beevi</a></td>
-<td><a href="/key-personnel-2/#Nellie_" target="_blank" rel="noopener">Mdm Soh Wee Hong, Nellie</a></td>
+<td style="border:1px solid black;"><a href="mailto:yap_huijing_marie_noele@schools.gov.sg">Mrs Marie Ow Yong</a></td>
+<td style="border:1px solid black;"><a href="mailto:tan_yi_cong@schools.gov.sg">Mr Tan Yi Cong</a></td>
+<td style="border:1px solid black;"><a href="mailto:siti_idzmaidar@schools.gov.sg">Mdm Siti Idzmaidar Binte Amir Wahid</a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;">6 Loyalty 4</td>
-<td><a href="/key-personnel-2/#Vincent_" target="_blank" rel="noopener">Mr S</a><a href="/key-personnel-2/#Vincent_" target="_blank" rel="noopener">oh Boon Yew, Vincent</a></td>
-<td><a href="/mtl-department/#Huangfang_" target="_blank" rel="noopener">Miss Huang Fang</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href="mailto:chan_jia_hui_francesca@schools.gov.sg">Mrs Francesca D'armancourt</a></td>
+<td style="border:1px solid black;"><a href="mailto:wang_haijing@schools.gov.sg">Mdm Wang Haijing</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>6 Loyalty 5</strong></td>
-<td><a href="/english-department/#Ali_" target="_blank" rel="noopener">Mr Muhammad Ali Bin Mohamed Yasin</a></td>
-<td><a href="/key-personnel-2/#Jeannett_" target="_blank" rel="noopener">Miss Jeannett Lay Jia Xin</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href="mailto:lim_weiqing_eulindra@schools.gov.sg">Miss Lim Weiqing, Eulindra</a></td>
+<td style="border:1px solid black;"><a href="mailto:lim_cheng_nee@schools.gov.sg">Mrs Loh - Lim Cheng Nee, Mary</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>6 Loyalty 6</strong></td>
-<td><a href="/key-personnel-2/#Anisia_" target="_blank" rel="noopener">Mdm Lim Li-Chern, Anisia</a></td>
-<td><a href="/key-personnel-2/#Mary_" target="_blank" rel="noopener">Mrs Loh-Lim Cheng Nee, Mary</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href="mailto:vincent_soh_boon_yew@schools.gov.sg">Mr Soh Boon Yew, Vincent</a></td>
+<td style="border:1px solid black;"><a href="mailto:luk_meng_lee@schools.gov.sg">Mdm Luk Meng Lee</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td colspan="4">
