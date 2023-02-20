@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNER-GIF.gif
+      background: /images/BANNERGIF.gif
       key_highlights:
         - title: Students & Parents
           description: Downloadable Links
