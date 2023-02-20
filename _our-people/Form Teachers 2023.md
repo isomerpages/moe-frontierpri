@@ -24,7 +24,7 @@ description: ""
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>1 Respect 1</strong></td>
-<td style="border:1px solid black;"><a href ="mailto:nurashikin_mohamed_zaa@schools.gov.sg">Mdm Nurashikin Mohamed Zamrabi</a></p>
+<td style="border:1px solid black;"><a href ="mailto:nurashikin_mohamed_zaa@schools.gov.sg">Mdm Nurashikin Mohamed Zamrabi</a></td>
 <td style="border:1px solid black;"><a href ="mailto:chen_lili@schools.gov.sg">Miss Chen Li Li</a></td>
 <td style="border:1px solid black;"></a></td>
 </tr>
