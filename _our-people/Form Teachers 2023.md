@@ -80,31 +80,31 @@ description: ""
 <td style="border:1px solid black;"><a href ="mailto:gunasekar_ramya@schools.gov.sg">Mdm Gunasekar Ramya</a></td>
 </tr>
 <tr>
-<td><strong>2 Care 3</strong></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Nusraat_">Mdm Nusraat Begum Bte Akbar Ali</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Xiangyu_">Miss Cai Xiang Yu</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><strong>2 Care 3</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:kaur_harsharan_t_s@schools.gov.sg">Miss Harsharan Kaur</a></td>
+<td style="border:1px solid black;"><a href ="mailto:peh_shu_yu@schools.gov.sg">Miss Peh Shu Yu, Janele</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>2 Care 4</strong></td>
-<td><a rel="noopener" target="_blank" href="/science-department/#Shaohui_">Miss Li Shaohui</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Norazimah_">Mdm Norazimah Bte Mohamed Senin</a></td>
-<td>Miss Annabelle Woo Xue Qi</td>
+<td style="border:1px solid black;"><strong>2 Care 4</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:siti_nur_aishah_mohamad@schools.gov.sg">Mdm Siti Nur Aishah Bte Mohamad Zainudin</a></td>
+<td style="border:1px solid black;"><a href ="mailto:mardiana_abdul_manap@schools.gov.sg">Mdm Mardiana Bte Abdul Manap</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>2 Care 5</strong></td>
-<td><a rel="noopener" target="_blank" href="/student-management-department/#Suria_">Mdm Suria Bte Mohamed Sani</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Jazreel_">Miss Jazreel Ari Yeo Shu Yun</a></td>
-<td>Miss Lim Jie Lin</td>
+<td style="border:1px solid black;"><strong>2 Care 5</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:liyanna_johan@schools.gov.sg">Mdm Liyanna Bte Johan</a></td>
+<td style="border:1px solid black;"><a href ="mailto:lim_jing_xian@schools.gov.sg">Miss Lim Jing Xian</a></td>
+<td style="border:1px solid black;"><a href ="mailto:zabar_abuyamin_m_a@schools.gov.sg">Mr Zabar Abuyamin Bin Mohammad Akhbar</a></td>
 </tr>
 <tr>
-<td><strong>2 Care 6</strong></td>
+<td style="border:1px solid black;"><strong>2 Care 6</strong></td>
 <td><a rel="noopener" target="_blank" href="/english-department/#Sandra_">Miss Sandra Phong Pei Shan</a></td>
 <td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Olivia_">Miss Olivia Tao Heping</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>2 Care 7</strong></td>
+<td style="border:1px solid black;"><strong>2 Care 7</strong></td>
 <td><a rel="noopener" target="_blank" href="/key-personnel-2/#Alan_">Mr Yang Qidong, Alan</a></td>
 <td><a rel="noopener" target="_blank" href="/mathematics-department/#Asmah_">Mdm Asmahwaty Binte Abdullah</a></td>
 <td>&nbsp;</td>
