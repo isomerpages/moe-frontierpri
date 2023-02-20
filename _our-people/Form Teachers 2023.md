@@ -197,40 +197,40 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>5 Resilience 1</strong></td>
-<td><a rel="noopener" target="_blank" href="/character-citizenship-education-department/#Kiranjit_">Mrs Raspal Singh</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Weepin_">Mr Choo Wee Pin</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Nidzam_">Mr Mohammed Nidzam Bin Zakariah</a></td>
+<td style="border:1px solid black;"><strong>5 Resilience 1</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:cheng_voon_yen@schools.gov.sg">Miss Cheng Voon Yen</a></td>
+<td style="border:1px solid black;"><a href ="mailto:chua_kian_guan@schools.gov.sg">Mr Chua Kian Guan, Ben</a></td>
+<td style="border:1px solid black;"><a href ="mailto:cai_xiang_yu@schools.gov.sg">Mrs Chan - Cai Xiang Yu</a></td>
 </tr>
 <tr>
-<td><strong>5 Resilience 2</strong></td>
-<td><a rel="noopener" target="_blank" href="/character-citizenship-education-department/#Ben_">Mr Chua Kian Guan, Ben</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Zabar_">Mr Zabar Abuyamin Bin Mohammad Akbar</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Jieqi_">Miss Neo Jie Qi</a></td>
+<td style="border:1px solid black;"><strong>5 Resilience 2</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:lim_li-chern_anisia@schools.gov.sg">Mrs Teng - Lim Li-Chern, Anisia</a></td>
+<td style="border:1px solid black;"><a href ="mailto:aneesah_beevi_asah@schools.gov.sg">Mdm Aneesah Beevi</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>5 Resilience 3</strong></td>
-<td><a rel="noopener" target="_blank" href="/student-management-department/#Marie_">Mrs Marie Ow Yong</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Idzmaidar_">Mdm Siti Idzmaidar Binte Amir Wahid</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Yicong_">Mr Tan Yi Cong</a></td>
+<td style="border:1px solid black;"><strong>5 Resilience 3</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:chua_si_wei@schools.gov.sg">Mdm Chua Si Wei</a></td>
+<td style="border:1px solid black;"><a href ="mailto:chua_boon_meng@schools.gov.sg">Mr Chua Boon Meng, Vincent</a></td>
+<td style="border:1px solid black;"><a href ="mailto:lee_hao_yih_dorcas@schools.gov.sg">Mdm Lee Hao Yih, Dorcas</a></td>
 </tr>
 <tr>
-<td><strong>5 Resilience 4</strong></td>
-<td><a rel="noopener" target="_blank" href="/student-management-department/#Francesca_">Mrs Francesca D'armancourt</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Haijing_">Mdm Wang Haijing</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><strong>5 Resilience 4</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:wang_wan@schools.gov.sg">Miss Wang Wan</a></td>
+<td style="border:1px solid black;"><a href ="mailto:tan_choon_seng_anderson@schools.gov.sg">Mr Tan Choon Seng, Anderson</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>5 Resilience 5</strong></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Shirin_">Mdm Nur Shirin Bte Yaman Yuen</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Diana_">Mdm Mardiana Bte Mohd Ahzhar</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Meilian_">Mdm Liew Mei Lian</a></td>
+<td style="border:1px solid black;"><strong>5 Resilience 5</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:lim_pei_geok@schools.gov.sg">Mdm Lim Pei Geok</a></td>
+<td style="border:1px solid black;"><a href ="mailto:chen_peishi@schools.gov.sg">Miss Chen Peishi</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>5 Resilience 6</strong></td>
-<td><a rel="noopener" target="_blank" href="/science-department/#Nelson_">Mr Nelson Tong Meng Yang</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Isaac_">Mr Leng Song Dao, Isaac</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Menglee_">Mdm Luk Meng Lee</a></td>
+<td style="border:1px solid black;"><strong>5 Resilience 6</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:muhammad_ali_md_yasin@schools.gov.sg">Mr Muhammad Ali Bin Mohamed Yasin</a></td>
+<td style="border:1px solid black;"><a href ="mailto:jeannett_lay_jia_xin@schools.gov.sg">Miss Jeannett Lay Jia Xin</a></td>
+<td style="border:1px solid black;"><a href ="mailto:pang_chu_keng@schools.gov.sg">Mrs Chong - Pang Chu Keng</a></td>
 </tr>
 <tr>
 <td colspan="4">
