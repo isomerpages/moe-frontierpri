@@ -82,7 +82,7 @@ Shirts, shorts and culottes are available for sale at the school bookshop during
 </ol>
 <ol start="2">
 <li>
-<p>Online Shop<br />Place orders for **uniforms ** and **name tags** online via&nbsp;<a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a>.</p>
+<p>Online Shop<br />Place orders for **uniforms** and **name tags** online via <a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a>.</p>
 </li>
 </ol>
 <ol start="3">
