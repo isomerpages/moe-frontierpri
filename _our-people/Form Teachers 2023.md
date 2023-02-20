@@ -57,10 +57,10 @@ description: ""
 <td style="border:1px solid black;"><a href ="mailto:christine_yap_bao_yu@schools.gov.sg">Miss Christine Yap Bao Yu</a></td>
 </tr>
 <tr>
-<td><strong>1 Respect 7</strong></td>
-<td><a rel="noopener" target="_blank" href="/english-department/#Tina_">Mdm Lim Suat Peng, Tina</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#LiLi_">Miss Chen Li Li</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><strong>1 Respect 7</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:li_shaohui@schools.gov.sg">Miss Li Shaohui</a></td>
+<td style="border:1px solid black;"><a href ="mailto:muhammad_jellanie@schools.gov.sg">Mr Muhammad Bin Jellanie</a></td>
+<td style="border:1px solid black;"><a href ="mailto:choo_wee_pin@schools.gov.sg">Mr Choo Wee Pin</a></td>
 </tr>
 <tr>
 <td colspan="4">
@@ -68,16 +68,16 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>2 Care 1</strong></td>
-<td><a rel="noopener" target="_blank" href="/english-department/#Shikin_">Mdm Nurashikin Mohamed Zamrabi</a></td>
-<td>Mdm Gunasekar Ramya</td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Anderson_">Mr Tan Choon Seng Anderson</a></td>
+<td style="border:1px solid black;"><strong>2 Care 1</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:chua_cherng_haur@schools.gov.sg">Mr Chua Cherng Haur, Patrick</a></td>
+<td style="border:1px solid black;"><a href ="mailto:chan_chok_seng@schools.gov.sg">Mr Chan Chok Seng</a></td>
+<td style="border:1px solid black;"><a href ="mailto:lim_jie_lin@schools.gov.sg">Miss Lim Jie Lin</a></td>
 </tr>
 <tr>
-<td><strong>2 Care 2</strong></td>
-<td><a rel="noopener" target="_blank" href="/character-citizenship-education-department/#Rachel_">Mdm Chia Tze Miang, Rachel</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Lingjun_">Mdm Qin Lingjun</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Minghui_">Mrs Teo Ming Hui</a></td>
+<td style="border:1px solid black;"><strong>2 Care 2</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:ho_qian_hui@schools.gov.sg">Mdm Ho Qian Hui, Stephanie</a></td>
+<td style="border:1px solid black;"><a href ="mailto:cheong_yueh_tinng@schools.gov.sg">Mdm Cheong Yueh Tinng, Evelyn</a></td>
+<td style="border:1px solid black;"><a href ="mailto:gunasekar_ramya@schools.gov.sg">Mdm Gunasekar Ramya</a></td>
 </tr>
 <tr>
 <td><strong>2 Care 3</strong></td>
