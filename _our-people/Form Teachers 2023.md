@@ -99,15 +99,15 @@ description: ""
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>2 Care 6</strong></td>
-<td><a rel="noopener" target="_blank" href="/english-department/#Sandra_">Miss Sandra Phong Pei Shan</a></td>
-<td><a rel="noopener" target="_blank" href="/pam-and-cca-department/#Olivia_">Miss Olivia Tao Heping</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href ="mailto:ang_cheng_chew@schools.gov.sg">Mrs Ang Cheng Chew - Teh Ai Choo</a></td>
+<td style="border:1px solid black;"><a href ="mailto:leng_song_dao_isaac@schools.gov.sg">Mr Leng Song Dao, Isaac</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>2 Care 7</strong></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Alan_">Mr Yang Qidong, Alan</a></td>
-<td><a rel="noopener" target="_blank" href="/mathematics-department/#Asmah_">Mdm Asmahwaty Binte Abdullah</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href ="mailto:lim_suat_peng_tina@schools.gov.sg">Mdm Lim Suat Peng, Tina</a></td>
+<td style="border:1px solid black;"><a href ="mailto:norhayati_ibnor@schools.gov.sg">Mdm Norhayati Binti Ibnor</a></td>
+<td style="border:1px solid black;"><a href ="mailto:liyanna_johan@schools.gov.sg">Miss Lim Wan Teng</a></td>
 </tr>
 <tr>
 <td colspan="4">
