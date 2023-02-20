@@ -122,33 +122,33 @@ description: ""
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>3 Responsibility 2</strong></td>
-<td style="border:1px solid black;"><a href ="mailto:soh_kar_ling_carrie@schools.gov.sg">Mrs carrie Laksman</a></td>
+<td style="border:1px solid black;"><a href ="mailto:soh_kar_ling_carrie@schools.gov.sg">Mrs Carrie Laksman</a></td>
 <td style="border:1px solid black;"><a href ="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg">Mdm Mardiana Bte Mohd Ahzhar</a></td>
 <<td style="border:1px solid black;"><a href ="mailto:ganges_lim_zi_yang@schools.gov.sg">Mr Ganges Lim Zi Yang</a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>3 Responsibility 3</strong></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Wangwan_">Miss Wang Wan</a></td>
-<td><a rel="noopener" target="_blank" href="/english-department/#Evelyn_">Mdm Cheong Yueh Tinng, Evelyn</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Ann_">Mdm Toh Bee Choo, Ann</a></td>
+<td style="border:1px solid black;"><a href ="mailto:lai_soon_ling@schools.gov.sg">Mdm Lai Soon Ling</a></td>
+<td style="border:1px solid black;"><a href ="mailto:mohammed_nidzam_zakariah@schools.gov.sg">Mr Mohammed Nidzam Bin Zakariah</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>3 Responsibility 4</strong></td>
-<td><a rel="noopener" target="_blank" href="/character-citizenship-education-department/#Sabrina_">Mrs Sabrina Zhang Mei Qi</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Noryanti_">Mdm Noryanti Mohamed Yahya</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href ="mailto:su-en_loh@schools.gov.sg">Mrs Lim - Su-en Loh</a></td>
+<td style="border:1px solid black;"><a href ="mailto:liew_mei_lian@schools.gov.sg">Mdm Liew Mei Lian</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>3 Responsibility 5</strong></td>
-<td><a rel="noopener" target="_blank" href="/mathematics-department/#Eliza_">Miss&nbsp;Eliza Law Wen Yu</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#LanShii_">Mdm Lim Lan Shii</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href ="mailto:elaine_lee_sui_lyn@schools.gov.sg">Mdm Elaine Lee Sui Lyn</a></td>
+<td style="border:1px solid black;"><a href ="mailto:huang_fang@schools.gov.sg">Mdm Huang Fang</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td style="border:1px solid black;"><strong>3 Responsibility 6</strong></td>
-<td><a rel="noopener" target="_blank" href="/mathematics-department/#Wahida_">Mdm Siti Wahida Binte Zainal Abidin</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Jiayang_">Mdm Li Jia Yang</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><a href ="mailto:eugena_ooi_weiling@schools.gov.sg">Miss Eugena Ooi Weiling</a></td>
+<td style="border:1px solid black;"><a href ="mailto:mageswari_sudhakar@schools.gov.sg">Mrs Mageswari Sudhakar</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
 <td colspan="4">
