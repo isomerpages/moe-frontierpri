@@ -1,32 +1,42 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Frontier Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/BANNERGIF.gif
+      key_highlights:
+        - title: Students & Parents
+          description: Downloadable Links
+          url: /for-students-and-parents/
+        - title: Teachers
+          description: Useful Links
+          url: /useful-links-for-teachers/
+        - title: Alumni
+          description: Information for Alumnis
+          url: /for-alumni/
+  - resources:
+      title: Highlights
+      button: More Information
+      subtitle: Stay up to date with us
+  - infopic:
+      title: Maker Workshop 1
+      subtitle: Our Signature Programme
+      description: Frontier Primary School is proud to conduct our very first Maker
+        Workshop for our students on 30 January 2023, Monday.
+      button: Read more
+      alt: Image alt text
+      url: https://frontierpri.moe.edu.sg/maker-workshop-1/
+      image: /images/Maker Workshop 1.jpeg
+  - infopic:
+      title: iN-Touch
+      description: '"Checkout Frontier!"'
+      button: More Articles
+      url: https://staging.d331543a351h7b.amplifyapp.com/in-touch/
+      image: /images/iN-Touch Logo.jpg
+      alt: Image alt text
+      subtitle: Our Termly Newsletter
 ---
-

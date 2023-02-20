@@ -1,0 +1,12 @@
+collections:
+  teaching-staff:
+    output: true
+    order:
+      - English Department.md
+      - Mathematics Department.md
+      - MTL Department.md
+      - Science Department.md
+      - Character & Citizenship Education Department.md
+      - PAM and CCA Department.md
+      - Student Management Department.md
+      - Allied Educators.md
