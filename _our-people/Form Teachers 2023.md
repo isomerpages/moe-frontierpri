@@ -281,7 +281,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"></a></td>
 <td><a href="/mtl-department/#Hamimah_" target="_blank" rel="noopener">Mdm Hamimah Sulaiman</a></td>
 <td><a href="/english-department/#Magdalein_" target="_blank" rel="noopener">Mdm Magdalein Goh</a></td>
 <td><a href="/mathematics-department/#Eileen_" target="_blank" rel="noopener">Mdm Oon Saw Kim, Eileen</a></td>
