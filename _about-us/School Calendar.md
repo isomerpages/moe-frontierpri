@@ -17,22 +17,18 @@ description: ""
 <tr>
 <td style="width: 75.7969px; border:1px solid black;" rowspan="4"><strong>1</strong></td>
 <td style="width: 140.594px; border:1px solid black;">3 Jan, Tues</td>
-<td style="width: 190.5px; border:1px solid black;">-</td>
+<td style="width: 190.5px; border:1px solid black;"></td>
 <td style="width: 348.109px; border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of Term 1
 <p>
 <p>&middot;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
-<p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
-<p>
-</td>
+<p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p></td>
 </tr>
 <tr>
 <td style="border:1px solid black;">4 Jan, Wed</td>
-<td style="border:1px solid black;">-</td>
+<td style="border:1px solid black;"></td>
 <td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
 <p>
-<p>&middot;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
-<p>
-</td>
+<p>&middot;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p></td>
 </tr>
 <tr>
 <td style="border:1px solid black;">5 Jan, Wed</td>
