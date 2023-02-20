@@ -95,8 +95,8 @@ Shirts, shorts and culottes are available for sale at the school bookshop during
 <p>Tel: 6465 5959<br />Fax: 6466 5959</p>
 <p><strong>SCHOOL DENTAL SERVICE</strong></p>
 <p>Tel: 9114 6562</p>
-<p><strong>General Operating Hours</strong><br />Monday-Thursday: 8:00am to 5:30pm<br />Friday: 8:00am to 5:00pm<br />Lunch: 1:00pm to 2:00pm</p>
-<p>Please call the General Office for the latest clinic schedule before visiting. For emergencies (such as dental trauma, facial/gum swelling or toothache) during clinic closure, please call the Health Promotion Board's School Dental Centre at 6435 3782 for assistance.</p>
+<p><strong>General Operating Hours</strong><br />Monday-Thursday: 8:00am to 5:30pm<br />Friday: 8:00am to 5:00pm</p>
+<p>The clinic opens every alternate week. Please call the General Office for the latest clinic schedule before visiting. For emergencies (such as dental trauma, facial/gum swelling or toothache) during clinic closure, please call the Health Promotion Board's School Dental Centre at 6435 3782 for assistance.</p>
 <p><strong>SCHOOL CANTEEN</strong></p>
 <table>
 <tbody>
