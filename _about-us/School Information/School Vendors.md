@@ -82,7 +82,7 @@ Shirts, shorts and culottes are available for sale at the school bookshop during
 </ol>
 <ol start="2">
 <li>
-<p>Online Shop<br />Place orders for **uniforms** and **name tags** online via <a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a>.</p>
+<p>Online Shop<br />Place orders for <strong>uniforms</strong> and <strong>name tags</strong> online via <a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a>.</p>
 </li>
 </ol>
 <ol start="3">
@@ -94,7 +94,6 @@ Shirts, shorts and culottes are available for sale at the school bookshop during
 <p><strong><u>JK59 Transport Pte Ltd</u></strong></p>
 <p>Tel: 6465 5959<br />Fax: 6466 5959</p>
 <p><strong>SCHOOL DENTAL SERVICE</strong></p>
-<p><strong><u>SDT Suryani Bte Kamsidin</u></strong></p>
 <p>Tel: 9114 6562</p>
 <p><strong>General Operating Hours</strong><br />Monday-Thursday: 8:00am to 5:30pm<br />Friday: 8:00am to 5:00pm<br />Lunch: 1:00pm to 2:00pm</p>
 <p>Please call the General Office for the latest clinic schedule before visiting. For emergencies (such as dental trauma, facial/gum swelling or toothache) during clinic closure, please call the Health Promotion Board's School Dental Centre at 6435 3782 for assistance.</p>
