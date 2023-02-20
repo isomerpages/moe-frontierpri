@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /form-teachers/
 description: ""
 ---
-<p><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To view a teacher's profile and contact information, please click on his or her name.</strong></p>
+<p><strong>The list of Form and Co-Form Teachers in 2023 can be found below. To view a teacher's contact information, please click on his or her name.</strong></p>
 <table cellpadding="0" class="table table-responsive table-bordered; border:1px solid black">
 <tbody>
 <tr>
