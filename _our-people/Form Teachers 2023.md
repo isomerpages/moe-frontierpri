@@ -107,7 +107,7 @@ description: ""
 <td style="border:1px solid black;"><strong>2 Care 7</strong></td>
 <td style="border:1px solid black;"><a href ="mailto:lim_suat_peng_tina@schools.gov.sg">Mdm Lim Suat Peng, Tina</a></td>
 <td style="border:1px solid black;"><a href ="mailto:norhayati_ibnor@schools.gov.sg">Mdm Norhayati Binti Ibnor</a></td>
-<td style="border:1px solid black;"><a href ="mailto:liyanna_johan@schools.gov.sg">Miss Lim Wan Teng</a></td>
+<td style="border:1px solid black;"><a href ="mailto:lim_wan_teng_valerie@schools.gov.sg">Miss Lim Wan Teng</a></td>
 </tr>
 <tr>
 <td colspan="4">
@@ -115,37 +115,37 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>3 Responsibility 1</strong></td>
-<td><a rel="noopener" target="_blank" href="/science-department/#Xueli_">Miss You Xueli</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Sri_">Mdm Sri Arianti Bte Ariffin</a></td>
-<td><a rel="noopener" target="_blank" href="/mathematics-department/#Derek_">Mr Lee Shen Long, Derek</a></td>
+<td style="border:1px solid black;"><strong>3 Responsibility 1</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:lin_renyi@schools.gov.sg">Mr Lin Renyi</a></td>
+<td style="border:1px solid black;"><a href ="mailto:sri_arianti_ariffin@schools.gov.sg">Mdm Sri Arianti Bte Ariffin</a></td>
+<td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>3 Responsibility 2</strong></td>
-<td><a rel="noopener" target="_blank" href="/science-department/#Renyi_">Mr Lin Renyi</a></td>
-<td><a rel="noopener" target="_blank" href="/key-personnel-2/#Rasidah_">Mdm Rasidah Bte Mohd Rasit</a></td>
-<td><a rel="noopener" target="_blank" href="/mtl-department/#Juliet_">Mdm Robert Juliet</a></td>
+<td style="border:1px solid black;"><strong>3 Responsibility 2</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:soh_kar_ling_carrie@schools.gov.sg">Mrs carrie Laksman</a></td>
+<td style="border:1px solid black;"><a href ="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg">Mdm Mardiana Bte Mohd Ahzhar</a></td>
+<<td style="border:1px solid black;"><a href ="mailto:ganges_lim_zi_yang@schools.gov.sg">Mr Ganges Lim Zi Yang</a></td>
 </tr>
 <tr>
-<td><strong>3 Responsibility 3</strong></td>
+<td style="border:1px solid black;"><strong>3 Responsibility 3</strong></td>
 <td><a rel="noopener" target="_blank" href="/mtl-department/#Wangwan_">Miss Wang Wan</a></td>
 <td><a rel="noopener" target="_blank" href="/english-department/#Evelyn_">Mdm Cheong Yueh Tinng, Evelyn</a></td>
 <td><a rel="noopener" target="_blank" href="/key-personnel-2/#Ann_">Mdm Toh Bee Choo, Ann</a></td>
 </tr>
 <tr>
-<td><strong>3 Responsibility 4</strong></td>
+<td style="border:1px solid black;"><strong>3 Responsibility 4</strong></td>
 <td><a rel="noopener" target="_blank" href="/character-citizenship-education-department/#Sabrina_">Mrs Sabrina Zhang Mei Qi</a></td>
 <td><a rel="noopener" target="_blank" href="/mtl-department/#Noryanti_">Mdm Noryanti Mohamed Yahya</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>3 Responsibility 5</strong></td>
+<td style="border:1px solid black;"><strong>3 Responsibility 5</strong></td>
 <td><a rel="noopener" target="_blank" href="/mathematics-department/#Eliza_">Miss&nbsp;Eliza Law Wen Yu</a></td>
 <td><a rel="noopener" target="_blank" href="/mtl-department/#LanShii_">Mdm Lim Lan Shii</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>3 Responsibility 6</strong></td>
+<td style="border:1px solid black;"><strong>3 Responsibility 6</strong></td>
 <td><a rel="noopener" target="_blank" href="/mathematics-department/#Wahida_">Mdm Siti Wahida Binte Zainal Abidin</a></td>
 <td><a rel="noopener" target="_blank" href="/mtl-department/#Jiayang_">Mdm Li Jia Yang</a></td>
 <td>&nbsp;</td>
