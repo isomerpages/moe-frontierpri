@@ -35,10 +35,10 @@ description: ""
 <td style="border:1px solid black;"></a></td>
 </tr>
 <tr>
-<td><strong>1 Respect 3</strong></td>
-<td><a rel="noopener" target="_blank" href="/english-department/#Harsharan_">Miss Harsharan Kaur</a></td>
-<td><a rel="noopener" target="_blank" href="/character-citizenship-education-department/#Peishi_">Miss Chen Peishi</a></td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;"><strong>1 Respect 3</strong></td>
+<td style="border:1px solid black;"><a href ="mailto:nusraat_begum_akhbar_ali@schools.gov.sg">Mdm Nusraat Begum Bte Akbar Ali</a></td>
+<td style="border:1px solid black;"><a href ="mailto:chia_qian_lin@schools.gov.sg">Mdm Chia Qian Lin</a></td>
+<td style="border:1px solid black;"><a href ="mailto:hannaria_srihanum_tumbuck@schools.gov.sg">Mdm Hannaria Srihanum Tumbuck</a></td>
 </tr>
 <tr>
 <td><strong>1 Respect 4</strong></td>
