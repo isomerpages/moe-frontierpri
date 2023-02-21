@@ -321,5 +321,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>*For selected students only</p>
-<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
+
+*For selected students only
+
+**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.
+</p>
