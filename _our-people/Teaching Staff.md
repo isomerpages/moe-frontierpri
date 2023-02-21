@@ -318,16 +318,16 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>School Counselor</td>
-<td><a rel="noopener" target="_blank" href="/allied-educators/#Joyce_">Mdm Joyce Siew Phui Yee&nbsp;</a></td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="border:1px solid black;">School Counselor</td>
+<td style="border:1px solid black;"><a rel="noopener" target="_blank" href="/allied-educators/#Joyce_">Mdm Joyce Siew Phui Yee&nbsp;</a></td>
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"></td>
 </tr>
 <tr>
-<td>AED / Learning &amp; Behaviour Support</td>
-<td><a rel="noopener" target="_blank" href="/allied-educators/#Huishin_">Miss Ng Hui Shin</a></td>
-<td><a rel="noopener" target="_blank" href="/allied-educators/#Suhada_">Miss Suhada Binte Mohamed Sani</a></td>
-<td><a rel="noopener" target="_blank" href="/allied-educators/#Salinah_">Miss Salinah Bte Saleh</a></td>
+<td style="border:1px solid black;">AED / Learning &amp; Behaviour Support</td>
+<td style="border:1px solid black;"><a rel="noopener" target="_blank" href="/allied-educators/#Huishin_">Miss Ng Hui Shin</a></td>
+<td style="border:1px solid black;"><a rel="noopener" target="_blank" href="/allied-educators/#Suhada_">Miss Suhada Binte Mohamed Sani</a></td>
+<td style="border:1px solid black;"><a rel="noopener" target="_blank" href="/allied-educators/#Salinah_">Miss Salinah Bte Saleh</a></td>
 </tr>
 </tbody>
 </table>
