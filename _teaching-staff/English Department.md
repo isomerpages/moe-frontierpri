@@ -12,22 +12,19 @@ description: ""
 <p><strong>Mdm Nurashikin Mohamed Zamrabi</strong></p>
 </td>
 <td style="width: 100%; text-align: justify; border:1px solid black;">
-<p><em>"I believe in promoting the joy of reading and learning in order to build a positive learning attitude in our pupils. Pupils must feel curious and excited when they come to school. I will continue to motivate and inspire our pupils to become gracious individuals and passionate learners."</em></p>
-<p style="width: 100%; text-align: center;">Tel ext: 124</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:vincent_chua_boon_meng@schools.gov.sg">vincent_chua_boon_meng@schools.gov.sg</a></p>
+<p><em>"Education is not just about grades: it is about building and nurturing the character of a child. It is also about preparing the child for a changing future. Education should enable the children to grow up to be independent-thinking adults who are resilient in the face of challenges and failure. Education does not stop when school ends: it is a lifelong process."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 282</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nurashikin_mohamed_zaa@schools.gov.sg">nurashikin_mohamed_zaa@schools.gov.sg</a></p>
 </td>
-
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width: 100%;" src="/images/kp2.jpg">
-<p><strong>Mdm Toh Bee Choo, Ann</strong></p>
-<p><strong><em>LH/English Language</em></strong></p>
-</td>
+<img style="width: 100%;" src="/images/eng3.jpg">
+<p><strong>Ms Sandra Phong Pei Shan</strong></p></td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“Every child is unique and there is no single method to reach out to all. Hence, I believe in using different approaches in my teaching and that all pupils are capable of learning. As an educator, my constant goal is to ignite my pupils’ love for learning and ensure every child realises his/her fullest academic potential.”</em></p>
-<p style="width: 100%; text-align: center;">Tel ext: 242
-</p><p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:toh_bee_choo@schools.gov.sg">toh_bee_choo@schools.gov.sg</a></p>
+<p><em>"All children are unique and special in their own ways. I hope that by nurturing them both academically and holistically in a safe and caring environment, they will find joy in learning and can become the best versions of themselves."</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 201
+</p><p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:sandra_phong_pei_shan@schools.gov.sg">sandra_phong_pei_shan@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -70,25 +67,6 @@ description: ""
 </table>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng1.jpg" style="width: 51%;"><strong>Mdm Nurashikin Mohamed Zamrabi</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng2.jpg" style="width: 50%;"><strong>Mdm Liyanna Bte Johan</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng3.jpg" style="width: 53%;"><strong>Ms Sandra Phong Pei Shan</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Education is not just about grades: it is about building and nurturing the character of a child. It is also about preparing the child for a changing future. Education should enable the children to grow up to be independent-thinking adults who are resilient in the face of challenges and failure. Education does not stop when school ends: it is a lifelong process."</em></p>
-<p>Ext: 282<br>Email:&nbsp;<a href="mailto:nurashikin_mohamed_zaa@schools.gov.sg">nurashikin_mohamed_zaa@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>“Teaching is all about learning and no two days are the same for teachers. I am a firm believer that each child has the potential to shine and as an educator, it is my duty to equip pupils with the knowledge and skills for them to shine. Teaching is a hard job but the rewards gained from this job are truly satisfying and priceless.”</em></p>
-<p>Tel&nbsp;ext: 251<br>Email:&nbsp;<a href="mailto:liyanna_johan@schools.gov.sg">liyanna_johan@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"All children are unique and special in their own ways. I hope that by nurturing them both academically and holistically in a safe and caring environment, they will find joy in learning and can become the best versions of themselves."</em></p>
-<p>Tel&nbsp;ext: 201<br>Email:&nbsp;<a href="mailto:sandra_phong_pei_shan@schools.gov.sg">sandra_phong_pei_shan@schools.gov.sg</a></p>
-</td>
-</tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img src="/images/eng4.jpg" style="width: 54%;"><strong>Miss Harsharan Kaur</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img src="/images/eng5.jpg" style="width: 53%;"><strong>Mr Muhammad Ali Bin Mohamed Yasin</strong></td>
