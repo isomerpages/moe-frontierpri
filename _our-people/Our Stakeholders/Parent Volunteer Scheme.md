@@ -27,6 +27,6 @@ Note however that eligibility for registration under Phase 2B does not guarantee
 
 7. **The school has the final and sole discretion in the selection of Parent Volunteers.  We seek your understanding that the school will not be able to share with you the reasons for non-selection**.
 
-8\. Please download the registration form [here](http://frontierpri.moe.edu.sg/wp-content/uploads/2019/01/FPS-PV-Application-Form_2019.doc).
+8\. Please download the registration form [here](/files/FPS-PV-Application-Form-2023.pdf)
 </ol>
 <img src="/images/PVflowchart2023.jpg">
