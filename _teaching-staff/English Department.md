@@ -83,7 +83,7 @@ description: ""
 <img style="width: 100%;" src="/images/ma8.jpg" >
 <p><strong>Miss Eliza Law Wen Yu</strong></p></td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“"I believe that every child is unique and can excel, given the right amount of care and support. I also believe that students learn best in an environment that is caring and enabling. I endeavour to make my classroom a safe place where students feel cared for and comfortable to ask questions in class, make mistakes and learn from them, so that every child can reach their fullest potential.”</em></p>
+<p><em>“I believe that every child is unique and can excel, given the right amount of care and support. I also believe that students learn best in an environment that is caring and enabling. I endeavour to make my classroom a safe place where students feel cared for and comfortable to ask questions in class, make mistakes and learn from them, so that every child can reach their fullest potential.”</em></p>
 <p style="width: 100%; text-align: center;">Tel ext: 302</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Eliza_Law_Wen_Yu@schools.gov.sg">Eliza_Law_Wen_Yu@schools.gov.sg</a></p>
 </td>
@@ -96,26 +96,14 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel ext: 283</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:cheong_yueh_tinng_evelyn@schools.gov.sg">cheong_yueh_tinng_evelyn@schools.gov.sg</a></p>
 </td>
-</tbody>
-</table>
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-</tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng7.jpg" style="width: 52%;"><strong>Mdm Magdalein Goh</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng8.jpg" style="width: 51%;"><strong>Mdm Cheong Yueh Tinng Evelyn</strong></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Teaching is a calling! It is a passionate call to reach out, to listen, to understand and to love - and in the process to inspire each of my young charges to be the best he or she can be socially, morally and academically, according to each one's innate capacity for learning."</em></p>
-<p>Tel&nbsp;ext: 202<br>Email:&nbsp;<a href="mailto:goh_magdalein@schools.gov.sg">goh_magdalein@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width: 100%;" src="/images/eng7.jpg" >
+<p><strong>Mdm Magdalein Goh</strong></p></td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>“Teaching is a calling! It is a passionate call to reach out, to listen, to understand and to love - and in the process to inspire each of my young charges to be the best he or she can be socially, morally and academically, according to each one's innate capacity for learning."</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 202</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:goh_magdalein@schools.gov.sg">goh_magdalein@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>“I enjoy interacting with children and love to see them engaged in classroom activities. I hope to make learning fun for my pupils and help them achieve their full potential.”</em></p>
-<p>Tel&nbsp;ext: 283<br>Email:&nbsp;<a href="mailto:cheong_yueh_tinng_evelyn@schools.gov.sg">cheong_yueh_tinng_evelyn@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
 </tbody>
 </table>
