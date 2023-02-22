@@ -29,38 +29,35 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width: 100%;" src="/images/kp3.jpg">
-<p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong></p>
-<p><strong><em>LH/English Language</em></strong></p>
+<img style="width: 100%;" src="/images/eng4.jpg">
+<p><strong>Miss Harsharan Kaur</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"Learning comes in many forms. As an educator, I hope that I can model learning for my pupils and engage them effectively and positively. I strongly believe that pupils can learn not just from what we teach but also from the experiences we can give them”</em></p>
-<p style="width: 100%; text-align: center;">Tel ext: 242</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nur_shirin_yaman_yuen@schools.gov.sg">nur_shirin_yaman_yuen@schools.gov.sg</a></p>
+<p><em>“Education should not just be treated as a tool for future economic gains. It should be used to develop the desired characteristics of the society in the future, such as perseverance, lifelong learning and morally upright individuals. It is, therefore, very important to teach our students to fish for themselves, instead of feeding them straightaway.”</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 254</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:kaur_harsharan_t_s@schools.gov.sg">kaur_harsharan_t_s@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width: 100%;" src="/images/kp4.jpg">
-<p><strong>Mr Yang Qidong, Alan</strong></p>
-<p><strong><em>ST/English Language</em></strong></p>
+<img style="width: 100%;" src="/images/eng5.jpg">
+<p><strong>Mr Muhammad Ali Bin Mohamed Yasin</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“A consistent and positive classroom climate helps bring out and develops a pupil's potential. At the same time, it offers a safe environment to experiment, make mistakes and learn from them. This is the ideal classroom I try to create every day I teach in class.”</em></p>
-<p style="width: 100%; text-align: center;">Tel ext: 224</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:yang_qidong@schools.gov.sg">yang_qidong@schools.gov.sg</a></p>
+<p><em>“Everyone deserves a good education and every student has the potential to achieve success in the pursuit of their life’s goals. I believe that we can provide a great education for all in Frontier Primary and in turn I expect great things from our students as they grow.”</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 207</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:muhammad_ali_md_yasin@schools.gov.sg">muhammad_ali_md_yasin@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width: 100%;" src="/images/kp5.jpg">
-<p><strong>Miss Lim Weiqing, Eulindra</strong></p>
-<p><strong><em>ST/English Language</em></strong></p>
+<img style="width: 100%;" src="/images/eng6.png" >
+<p><strong>Mdm Lim Suat Peng Tina</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“I believe that every child has the ability to excel when provided with adequate support. I endeavour thus to provide this support and help mould the pupils under my charge so that they possess the knowledge and values necessary for them to achieve their best potential in life.”</em></p>
-<p style="width: 100%; text-align: center;">Tel ext: 205</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_weiqing_eulindra@schools.gov.sg">lim_weiqing_eulindra@schools.gov.sg</a></p>
+<p><em>“I believe that every child is unique and teachable. As a teacher, I will inculcate important values in them and impart the necessary skills and knowledge to them. My pupils will have fun and the passion for learning.”</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 247</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_suat_peng_tina@schools.gov.sg">lim_suat_peng_tina@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
