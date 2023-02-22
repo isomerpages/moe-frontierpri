@@ -87,6 +87,15 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel ext: 302</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Eliza_Law_Wen_Yu@schools.gov.sg">Eliza_Law_Wen_Yu@schools.gov.sg</a></p>
 </td>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width: 100%;" src="/images/eng8.jpg" >
+<p><strong>Mdm Cheong Yueh Tinng Evelyn</strong></p></td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>“I enjoy interacting with children and love to see them engaged in classroom activities. I hope to make learning fun for my pupils and help them achieve their full potential.</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 283</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:cheong_yueh_tinng_evelyn@schools.gov.sg">cheong_yueh_tinng_evelyn@schools.gov.sg</a></p>
+</td>
 </tbody>
 </table>
 <table border="1" style="border-collapse: collapse; width: 100%;">
