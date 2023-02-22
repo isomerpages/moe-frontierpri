@@ -90,6 +90,16 @@ description: ""
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/LAY KOON.jpg">
+<p><strong>Mrs Yong - Yap Lay Koon</strong></p>
+</td>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
+<p><em>_“I believe that all children can learn and want to learn. Hence, helping my students see connections from what they learn in authentic situations is what I hope to achieve to make learning meaningful for all my students.”</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 216</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:yap_lay_koon@schools.gov.sg">yap_lay_koon@schools.gov.sg</a></p>
+</td>
+<tr>
+<td style="text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ma11.jpg">
 <p><strong>Mr Derek Lee</strong></p>
 </td>
@@ -98,5 +108,4 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel Ext: 293</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:derek_lee_shen_long@schools.gov.sg">derek_lee_shen_long@schools.gov.sg</a></p>
 </td>
-
 </table>
