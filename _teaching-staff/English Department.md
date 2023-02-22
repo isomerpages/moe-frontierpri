@@ -74,9 +74,18 @@ description: ""
 <img style="width: 100%;" src="/images/cha2.jpg" >
 <p><strong>Mrs Sabrina Zheng Mei Qi</strong></p></td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“As the saying goes &ldquo;To teach is to touch a life forever!&rdquo; I hope to touch many young lives and impact them positively. I also believe that partnering with the different stakeholders is vital to bringing the best out in our students.”</em></p>
+<p><em>“As the saying goes,"To teach is to touch a life forever!" I hope to touch many young lives and impact them positively. I also believe that partnering with the different stakeholders is vital to bringing the best out in our students.”</em></p>
 <p style="width: 100%; text-align: center;">Tel ext: 206</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:sabrina_ng_mei_qi@schools.gov.sg">sabrina_ng_mei_qi@schools.gov.sg</a></p>
+</td>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width: 100%;" src="/images/ma8.jpg" >
+<p><strong>Miss Eliza Law Wen Yu</strong></p></td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>“"I believe that every child is unique and can excel, given the right amount of care and support. I also believe that students learn best in an environment that is caring and enabling. I endeavour to make my classroom a safe place where students feel cared for and comfortable to ask questions in class, make mistakes and learn from them, so that every child can reach their fullest potential.”</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 302</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Eliza_Law_Wen_Yu@schools.gov.sg">Eliza_Law_Wen_Yu@schools.gov.sg</a></p>
 </td>
 </tbody>
 </table>
