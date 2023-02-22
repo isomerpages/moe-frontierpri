@@ -59,6 +59,16 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel ext: 247</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_suat_peng_tina@schools.gov.sg">lim_suat_peng_tina@schools.gov.sg</a></p>
 </td>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width: 100%;" src="/images/cha4.jpg" >
+<p><strong>Mrs Raspal Singh</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>“A quote from Ben Johnson, "Great teachers engineer learning experiences that put students in the driver&rsquo;s seat and then get out of the way". Truly, my role as an educator is to equip my pupils with a toolbox of learning experiences. The fundamental skills and values inculcated throughout their learning process will prepare them to be lifelong learners and to overcome future challenges with confidence.”</em></p>
+<p style="width: 100%; text-align: center;">Tel ext: 288</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:kiranjeet_kaur@schools.gov.sg">kiranjeet_kaur@schools.gov.sg</a></p>
+</td>
 </tr>
 </tbody>
 </table>
