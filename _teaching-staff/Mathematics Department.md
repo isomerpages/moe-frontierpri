@@ -3,27 +3,53 @@ title: Mathematics Department
 permalink: /mathematics-department/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<h4><strong>Mathematics Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/ma1.jpg" /><strong>Mr Patrick Chua Cherng Haur</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ma2.jpg" /><strong>Miss Cheong Yok Theng Elsa</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/ma3.jpg" /><strong>Mdm Asmahwaty Binte Abdullah</strong></td>
+<td style="text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ma1.jpg">
+<p><strong>Mr Patrick Chua Cherng Haur</strong></p>
+</td>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
+<p><em>"Our children are crucial future decision makers. Educators and parents must be exemplary role models and work together as partners for their education."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 223</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chua_cherng_haur@schools.gov.sg">chua_cherng_haur@schools.gov.sg</a></p>
+</td>
 </tr>
+<td style="text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ma4.jpg">
+<p><strong>Mdm Sally Heng Ju Imm</strong></p>
+</td>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
+<p><em>"To me, every child can achieve his/her potential if he/she is willing to learn, be self-motivated and has good character."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 240</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:heng_ju_imm@schools.gov.sg">heng_ju_imm@schools.gov.sg</a></p>
+</td>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Our children are crucial future decision makers. Educators and parents must be exemplary role models and work together as partners for their education.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 223<br />Email:&nbsp;<a href="mailto:chua_cherng_haur@schools.gov.sg">chua_cherng_haur@schools.gov.sg</a></p>
+<td style="text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ELAINE.jpg">
+<p><strong>Mdm Elaine Lee Sui Lyn</strong></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"I believe the ability to focus, be persistent and engaged in one&rsquo;s work; to exercise tolerance, cooperation and collaboration; to solve big problems and exercise critical thinking; and to be creative, imaginative and innovative, are the keys to success in life. My goal is to equip my children with these keys.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 272<br />Email:&nbsp;<a href="mailto:cheong_yok_theng_elsa@schools.gov.sg">cheong_yok_theng_elsa@schools.gov.sg</a></p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
+<p><em></em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 203</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:elaine_lee_sui_lyn@schools.gov.sg">elaine_lee_sui_lyn@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I believe that as an educator, it is essential for us to instill in our pupils the right values and to equip them with the necessary life skills so that they will grow up to become responsible individuals.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 232<br />Email:&nbsp;<a href="mailto:asmahwaty_abdullah@schools.gov.sg">asmahwaty_abdullah@schools.gov.sg</a></p>
+<tr>
+<td style="text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ma5.jpg">
+<p><strong>Mrs Ang Cheng Chew Teh Ai Choo</strong></p>
 </td>
-</tr>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
+<p><em>"I believe in embracing mistakes to nurture the joy of learning.</em></p>
+<p><em>Learning to be resilient is essential to any child&rsquo;s success.</em></p>
+<p><em>I endeavour to build a strong foundation in my students&rsquo; early years of education."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 210</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ang_cheng_chew@schools.gov.sg">ang_cheng_chew@schools.gov.sg</a></p>
+</td>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 57%;" src="/images/ma4.jpg" /><strong>Mdm Sally Heng Ju Imm</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ma5.jpg" /><strong>Mrs Ang Cheng Chew Teh Ai Choo</strong></td>
