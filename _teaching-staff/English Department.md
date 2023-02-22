@@ -64,24 +64,6 @@ description: ""
 </table>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng4.jpg" style="width: 54%;"><strong>Miss Harsharan Kaur</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng5.jpg" style="width: 53%;"><strong>Mr Muhammad Ali Bin Mohamed Yasin</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img src="/images/eng6.png" style="width: 60%;"><strong>Mdm Lim Suat Peng Tina</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>“Education should not just be treated as a tool for future economic gains. It should be used to develop the desired characteristics of the society in the future, such as perseverance, lifelong learning and morally upright individuals. It is, therefore, very important to teach our students to fish for themselves, instead of feeding them straightaway.”</em></p>
-<p>Tel&nbsp;ext: 254<br>Email:&nbsp;<a href="mailto:kaur_harsharan_t_s@schools.gov.sg">kaur_harsharan_t_s@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>“Everyone deserves a good education and every student has the potential to achieve success in the pursuit of their life’s goals. I believe that we can provide a great education for all in Frontier Primary and in turn I expect great things from our students as they grow.”</em></p>
-<p>Tel&nbsp;ext: 207<br>Email:&nbsp;<a href="mailto:muhammad_ali_md_yasin@schools.gov.sg">muhammad_ali_md_yasin@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>“I believe that every child is unique and teachable. As a teacher, I will inculcate important values in them and impart the necessary skills and knowledge to them. My pupils will have fun and the passion for learning.”</em></p>
-<p>Tel ext: 247<br>Email:&nbsp;<a href="mailto:lim_suat_peng_tina@schools.gov.sg">lim_suat_peng_tina@schools.gov.sg</a></p>
-</td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img src="/images/eng7.jpg" style="width: 52%;"><strong>Mdm Magdalein Goh</strong></td>
