@@ -19,8 +19,7 @@ description: ""
 <td style="width: 348.109px; border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of Term 1
 <p>
 <p>&middot;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
-<p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p></td>
-</tr>
+<p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
 <tr>
 <td style="border:1px solid black;">4 Jan, Wed</td>
 <td style="border:1px solid black;"></td>
