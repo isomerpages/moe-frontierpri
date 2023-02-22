@@ -317,10 +317,8 @@ description: ""
 <tr>
 <td style="border:1px solid black; text-align:center;" colspan="4"><strong>March School Holidays</strong></td>
 </tr>
-</tbody>
 </table>
-
-*For selected students only
-
-**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.
+</tbody>
+<td>*For selected students only
+<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</td>
 </p>
