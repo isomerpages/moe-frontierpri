@@ -3,7 +3,6 @@ title: School Calendar
 permalink: /calendar-of-events/
 description: ""
 ---
-
 <p><strong>Frontier Primary School - Term 1 Student Calendar 2023</strong></p>
 <table>
 <table style="border:1px solid black;">
@@ -14,8 +13,6 @@ description: ""
 <td style="width: 190.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
 <td style="width: 348.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
 </tr>
-<table>
-<tr>
 <td style="width: 75.7969px; border:1px solid black;" rowspan="4"><strong>1</strong></td>
 <td style="width: 140.594px; border:1px solid black;">3 Jan, Tues</td>
 <td style="width: 190.5px; border:1px solid black;"></td>
