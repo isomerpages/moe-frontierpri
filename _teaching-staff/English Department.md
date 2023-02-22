@@ -103,7 +103,5 @@ description: ""
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“Teaching is a calling! It is a passionate call to reach out, to listen, to understand and to love - and in the process to inspire each of my young charges to be the best he or she can be socially, morally and academically, according to each one's innate capacity for learning."</em></p>
 <p style="width: 100%; text-align: center;">Tel ext: 202</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:goh_magdalein@schools.gov.sg">goh_magdalein@schools.gov.sg</a></p>
-</td>
-</tbody>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:goh_magdalein@schools.gov.sg">goh_magdalein@schools.gov.sg</a></p></td>
 </table>
