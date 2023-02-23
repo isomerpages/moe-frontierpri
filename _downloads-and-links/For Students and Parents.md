@@ -6,7 +6,7 @@ description: ""
 <p><strong>Click on the following tab to access the relevant information.</strong></p>
 <ul>
 <li><strong><a href="/hbl-2/">HBL Plan</a></strong></li>
-<li><strong><a href="https://go.gov.sg/p4-learning-with-pld-briefing" target="_blank" rel="noopener">P4 Learning with Personal Learning Device Briefing</a></strong></li>
+<li><strong><a href="https://go.gov.sg/p4-tel2023" target="_blank" rel="noopener">P4 Tech-Enabled Learning@Frontier Briefing</a></strong></li>
 <li><strong><a href="/subject-briefings-2022/">Subject Briefings 2022</a></strong></li>
 <li><strong><a href="/forms/" target="_blank" rel="noopener">Forms</a></strong></li>
 <li><strong><a href="/parents-gateway/" target="_blank" rel="noopener">Parents Gateway (PG)</a></strong></li>
