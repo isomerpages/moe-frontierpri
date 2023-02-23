@@ -5,22 +5,9 @@ description: ""
 ---
 <p><strong>The list of Form Teachers in 2023 can be found below. To view a teacher's contact information, please click on his or her name.</strong></p>
 
-<p><table cellpadding="0" class="table table-responsive table-bordered; border:1px solid black">
-<tbody>
-<tr>
-<td style=width:25%>
-<strong>CLASS</strong>
-</td>
-<td style=width:25%>
-<strong>FORM TEACHER 1</strong>
-</td>
-<td style=width:25%>
-<strong>FORM TEACHER 2</strong>
-</td>
-<td style=width:25%>
-<strong>FORM TEACHER 3</strong>
-</td>
-	</tr></tbody></table></p>
+
+<table class="table table-responsive table-bordered" border="" cellpadding="10"><tbody><tr style="height: 20px;"><td style="height: 20px; width: 25%;"><strong>CLASS</strong></td><td style="height: 20px; width: 25%;"><strong>FORM TEACHER 1</strong></td><td style="height: 20px; width: 25%;"><strong>FORM TEACHER 2</strong></td><td style="height: 20px; width: 25%;"><strong>FORM TEACHER 3</strong></td></tr></tbody></table>
+
 	
 <p><tr>
 <td colspan="4">
