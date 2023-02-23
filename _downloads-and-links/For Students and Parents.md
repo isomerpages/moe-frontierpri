@@ -7,7 +7,7 @@ description: ""
 <ul>
 <li><strong><a href="/hbl-2/">HBL Plan</a></strong></li>
 <li><strong><a href="https://go.gov.sg/p4-tel2023" target="_blank" rel="noopener">P4 Tech-Enabled Learning@Frontier Briefing</a></strong></li>
-<li><strong><a href="/subject-briefings-2022/">Subject Briefings 2022</a></strong></li>
+<li><strong><a href="/subject-briefings-2022/">P2-P6 Subject Briefings 2023</a></strong></li>
 <li><strong><a href="/forms/" target="_blank" rel="noopener">Forms</a></strong></li>
 <li><strong><a href="/parents-gateway/" target="_blank" rel="noopener">Parents Gateway (PG)</a></strong></li>
 <li><strong><a href="/student-learning-space-sls/" target="_blank" rel="noopener">Student Learning Space</a></strong></li>
