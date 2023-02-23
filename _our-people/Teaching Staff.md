@@ -4,23 +4,25 @@ permalink: /form-teachers/
 description: ""
 ---
 <p><strong>The list of Form Teachers in 2023 can be found below. To view a teacher's contact information, please click on his or her name.</strong></p>
-<table cellpadding="0" class="table table-responsive table-bordered; border:1px solid black">
+
+<p><table cellpadding="0" class="table table-responsive table-bordered; border:1px solid black">
 <tbody>
 <tr>
 <td style=width:25%>
-<p><strong>CLASS</strong></p>
+<strong>CLASS</strong>
 </td>
 <td style=width:25%>
-<p><strong>FORM TEACHER 1</strong></p>
+<strong>FORM TEACHER 1</strong>
 </td>
 <td style=width:25%>
-<p><strong>FORM TEACHER 2</strong>
-</p></td>
-<td style=width:25%>
-<p><strong>FORM TEACHER 3</strong></p>
+<strong>FORM TEACHER 2</strong>
 </td>
-</tr>
-<tr>
+<td style=width:25%>
+<strong>FORM TEACHER 3</strong>
+</td>
+	</tr></tbody></table></p>
+	
+<p><tr>
 <td colspan="4">
 <h4 style="text-align: center;"><strong>Primary 1</strong></h4>
 </td>
