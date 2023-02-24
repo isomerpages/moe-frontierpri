@@ -4,7 +4,6 @@ permalink: /calendar-of-events/
 description: ""
 ---
 <p><strong>Frontier Primary School - Term 1 Student Calendar 2023</strong></p>
-<table>
 <table style="border:1px solid black;">
 <tbody>
 <tr>
@@ -318,6 +317,6 @@ description: ""
 </tr>
 </table>
 </tbody>
-<td>*For selected students only
-<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</td>
+<tr>*For selected students only
+<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</tr>
 </p>
