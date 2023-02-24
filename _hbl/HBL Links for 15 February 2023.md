@@ -34,7 +34,7 @@ description: ""
 <p>Password reset and unlocking of accounts</p>
 </td>
 <td style="border:1px solid black;">
-<p>SLS Administrator &ndash; ICT Associate</p>
+<p>SLS Administrator - ICT Associate</p>
 </td>
 <td style="border:1px solid black;">
 <p>65789555 ext 310</p>
@@ -54,6 +54,9 @@ description: ""
 </td>
 <td style="border:1px solid black;">
 <p>Subject Teachers / Form Teachers</p>
+</td>
+<td style="border:1px solid black;">
+<p></p>
 </td>
 <td style="border:1px solid black;" colspan="2">
 <p>Refer to HBL Plan for contact details of Subject Teachers</p>
@@ -89,7 +92,7 @@ description: ""
 <p>SLS helpdesk</p>
 </td>
 <td style="border:1px solid black;">
-<p>6702 6513</p>
+<p>67026513</p>
 </td>
 <td style="border:1px solid black;" colspan="2">
 <p>helpdesk@sls.ufinity.com</p>
@@ -111,9 +114,9 @@ description: ""
 <p>School</p>
 </td>
 <td style="border:1px solid black;">
-<p>6578 9555</p>
+<p>65789555</p>
 </td>
-<td colspan="2">
+<td style="border:1px solid black;" colspan="2">
 <p>frontier_ps@moe.edu.sg</p>
 </td>
 <td style="border:1px solid black;">
