@@ -352,7 +352,7 @@ description: ""
 
 <tr>
 <td style="border:1px solid black;">10 Mar, Fri</td>
-<td style="border:1px solid black;;">&middot;&nbsp;&nbsp;&nbsp; S-eLF-L.E.S.S A</td>
+<td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; S-eLF-L.E.S.S A</td>
 <td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Home-Based Learning #1 (P1 & P2)<p>
 <p>&middot;&nbsp;&nbsp;&nbsp; P3 to P6 Sports Day</td>
 </tr>
@@ -367,5 +367,4 @@ description: ""
 <p>*For selected students only
 
 <p>** Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.
-```
 ```
