@@ -1,10 +1,9 @@
 ---
 title: School Calendar
-permalink: /our-parents/calendar-of-events/
+permalink: /calendar-of-events/
 description: ""
 ---
 <p><strong>Frontier Primary School - Term 1 Student Calendar 2023</strong></p>
-<table>
 <table style="border:1px solid black;">
 <tbody>
 <tr>
@@ -13,26 +12,19 @@ description: ""
 <td style="width: 190.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
 <td style="width: 348.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
 </tr>
-<table>
-<tr>
 <td style="width: 75.7969px; border:1px solid black;" rowspan="4"><strong>1</strong></td>
 <td style="width: 140.594px; border:1px solid black;">3 Jan, Tues</td>
-<td style="width: 190.5px; border:1px solid black;">-</td>
+<td style="width: 190.5px; border:1px solid black;"></td>
 <td style="width: 348.109px; border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of Term 1
 <p>
 <p>&middot;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
 <p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
-<p>
-</td>
-</tr>
 <tr>
 <td style="border:1px solid black;">4 Jan, Wed</td>
-<td style="border:1px solid black;">-</td>
+<td style="border:1px solid black;"></td>
 <td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
 <p>
-<p>&middot;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
-<p>
-</td>
+<p>&middot;&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p></td>
 </tr>
 <tr>
 <td style="border:1px solid black;">5 Jan, Wed</td>
@@ -323,7 +315,8 @@ description: ""
 <tr>
 <td style="border:1px solid black; text-align:center;" colspan="4"><strong>March School Holidays</strong></td>
 </tr>
-</tbody>
 </table>
-<p>*For selected students only</p>
-<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
+</tbody>
+<tr>*For selected students only
+<p>**Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</tr>
+</p>

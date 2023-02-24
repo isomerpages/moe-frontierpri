@@ -1,17 +1,20 @@
 ---
-title: Home Based Learning (HBL) 8 to 10 April
-permalink: /hbl-8-to-10-april/
+title: HBL Links 6 April 2022
+permalink: /hbl-links-for-6-april/
 description: ""
-third_nav_title: April 2020
+third_nav_title: April 2022
 ---
+
+
+
 <p>Dear Parents,</p>
 <p>Please find the links to the HBL instructions for each level and class below:</p>
-<p>P1:&nbsp;<strong><a href="https://tinyurl.com/P1-HBL-8to10-April" target="_blank" rel="noopener">https://tinyurl.com/P1-HBL-8to10-April</a></strong></p>
-<p>P2:&nbsp;<strong><a href="https://tinyurl.com/P2-HBL-8to10-April" target="_blank" rel="noopener">https://tinyurl.com/P2-HBL-8to10-April</a></strong></p>
-<p>P3:&nbsp;<strong><a href="https://tinyurl.com/P3-HBL-8to10-April">https://tinyurl.com/P3-HBL-8to10-April</a></strong></p>
-<p>P4:&nbsp;<strong><a href="https://tinyurl.com/P4-HBL-8to10-April" target="_blank" rel="noopener">https://tinyurl.com/P4-HBL-8to10-April</a></strong></p>
-<p>P5:&nbsp;<strong><a href="https://tinyurl.com/P5-HBL-8to10-April" target="_blank" rel="noopener">https://tinyurl.com/P5-HBL-8to10-April</a></strong></p>
-<p>P6:&nbsp;<strong><a href="https://tinyurl.com/P6-HBL-8to10-April" target="_blank" rel="noopener">https://tinyurl.com/P6-HBL-8to10-April</a></strong></p>
+<p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-6april">https://go.gov.sg/p1-hbl-6april</a></strong></p>
+<p>P2:&nbsp;<strong><a href="https://go.gov.sg/p2-hbl-6april">https://go.gov.sg/p2-hbl-6april</a></strong></p>
+<p>P3:&nbsp;<strong><a href="https://go.gov.sg/p3-hbl-6april">https://go.gov.sg/p3-hbl-6april</a></strong></p>
+<p>P4:&nbsp;<strong><a href="https://go.gov.sg/p4-hbl-6april">https://go.gov.sg/p4-hbl-6april</a></strong></p>
+<p>P5:&nbsp;<strong><a href="https://go.gov.sg/p5-hbl-6april">https://go.gov.sg/p5-hbl-6april</a></strong></p>
+<p>P6:&nbsp;<strong><a href="https://go.gov.sg/p6-hbl-6april">https://go.gov.sg/p6-hbl-6april</a></strong></p>
 <p>For password reset and unlocking of accounts, please click on the web link and fill out the form. Our personnel will get back to you as soon as possible. For feedback, other technical assistance or enquiries, please refer to the following table for the point of contact.</p>
 <table border="3">
 <tbody>
@@ -40,7 +43,7 @@ third_nav_title: April 2020
 <p>SLS Administrator &ndash; ICT Associate</p>
 </td>
 <td>
-<p>87128322</p>
+<p>65789555 ext 310</p>
 </td>
 <td colspan="2">
 <p><a href="mailto:nur_aisha_idris@schools.gov.sg">nur_aisha_idris@schools.gov.sg</a></p>
@@ -58,9 +61,6 @@ third_nav_title: April 2020
 <td>
 <p>Subject Teachers / Form Teachers</p>
 </td>
-<td>
-<p>&nbsp;</p>
-</td>
 <td colspan="2">
 <p>Refer to HBL Plan for contact details of Subject Teachers</p>
 </td>
@@ -77,7 +77,7 @@ third_nav_title: April 2020
 <p>SH ICT (Internal)</p>
 </td>
 <td>
-<p>87128322</p>
+<p>65789555 ext 246</p>
 </td>
 <td colspan="2">
 <p><a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
@@ -95,7 +95,7 @@ third_nav_title: April 2020
 <p>SLS helpdesk</p>
 </td>
 <td>
-<p>67026513</p>
+<p>6702 6513</p>
 </td>
 <td colspan="2">
 <p>helpdesk@sls.ufinity.com</p>
@@ -117,7 +117,7 @@ third_nav_title: April 2020
 <p>School</p>
 </td>
 <td>
-<p>65789555</p>
+<p>6578 9555</p>
 </td>
 <td colspan="2">
 <p>frontier_ps@moe.edu.sg</p>
