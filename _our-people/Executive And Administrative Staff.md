@@ -97,37 +97,44 @@ description: ""
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas10.jpg" style="width: 100%;">
 <p><strong>Mdm Chua Peck Nging</strong></p>
-<p><strong><em>Receptionist</em></strong></p>
+<p><strong><em>Receptionist</em></strong
+</p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas12.jpg" style="width: 100%;">
 <p><strong>Mr Amir Parus</strong></p>
 <p><strong><em>Operations Support Officer</em></strong></p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas13.jpg" style="width: 100%;">
 <p><strong>Mdm Anisah Bte Amat</strong></p>
 <p><strong><em>Operations Support Officer</em></strong></p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas14.jpg" style="width: 100%;">
 <p><strong>Mdm Manjeet Kaur d/o/ Kapoor Singh</strong></p>
 <p><strong><em>Operations Support Officer</em></strong></p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas15.jpg" style="width: 100%;">
 <p><strong>Mdm Tuti Nafisahazwani</strong></p>
 <p><strong><em>Operations Support Officer</em></strong></p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas16.jpg" style="width: 100%;">
 <p><strong>Mdm Nina Bte Osman</strong></p>
 <p><strong><em>Operations Support Officer</em></strong></p>
+<td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 </tbody>
 </table>
