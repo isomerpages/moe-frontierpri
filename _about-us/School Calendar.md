@@ -3,8 +3,7 @@ title: School Calendar
 permalink: /calendar-of-events/
 description: ""
 ---
-<p><strong>Frontier Primary School - Term 1 Student Calendar 2023</strong></p>
-
+<strong>Frontier Primary School - Term 1 Student Calendar 2023</strong>
 
 <table style="border:1px solid black;">
 <tbody>
@@ -12,8 +11,8 @@ description: ""
 <td style="width: 47.7969px; border:1px solid black;"><strong>Week</strong></td>
 <td style="width: 124.594px; border:1px solid black;"><strong>Date/Day</strong></td>
 <td style="width: 190.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
-<td style="width: 348.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
-</tr>
+<td style="width: 348.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td></tr>	
+	<tr>
 <td style="width: 75.7969px; border:1px solid black;" rowspan="4"><strong>1</strong></td>
 <td style="width: 140.594px; border:1px solid black;">3 Jan, Tues</td>
 <td style="width: 190.5px; border:1px solid black;"></td>
@@ -21,7 +20,8 @@ description: ""
 <p>
 <p>&middot;&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
 <p>&middot;&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
-<tr>
+	</td>	
+	<tr>
 <td style="border:1px solid black;">4 Jan, Wed</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;">&middot;&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
