@@ -76,7 +76,7 @@ description: ""
 <td style="border:1px solid black;">
 <p>65789555 ext 246</p>
 </td>
-<td style="border:1px solid black;"colspan="2">
+<td style="border:1px solid black;" colspan="2">
 <p><a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
 </td>
 <td style="border:1px solid black;">
