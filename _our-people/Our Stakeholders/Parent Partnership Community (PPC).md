@@ -4,7 +4,6 @@ permalink: /parent-partnership/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-
 <p>The PPC serves in multiple roles to support the school's efforts to educate and care for our students and it was built to be a strong parental collaboration between the School, Parents and Students. The school&rsquo;s primary contact with the PPC is via the PPC Executive Committee (EXCO), formed by a few parents within the PPC. Other than being the bridge between the School and PPC, the EXCO also oversees all initiatives and efforts undertaken by the PPC.</p>
 <p>The members of the EXCO for 2022 are:</p>
 <img src="/images/PPC-2022.jpeg">
