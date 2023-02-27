@@ -3,8 +3,6 @@ title: Key Personnel
 permalink: /key-personnel-2/
 description: ""
 ---
-
-
 <h4><strong>English Language Department</strong></h4>
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
@@ -19,7 +17,6 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel ext: 124</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:vincent_chua_boon_meng@schools.gov.sg">vincent_chua_boon_meng@schools.gov.sg</a></p>
 </td>
-
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
@@ -34,7 +31,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<td style="text-align: center; border:1px solid black;">
 <img src="/images/kp3.jpg" style="width: 100%;">
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong></p>
 <p><strong><em>LH/English Language</em></strong></p>
@@ -58,7 +55,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<td style="text-align: center; border:1px solid black;">
 <img src="/images/kp5.jpg" style="width: 100%;">
 <p><strong>Miss Lim Weiqing, Eulindra</strong></p>
 <p><strong><em>ST/English Language</em></strong></p>
@@ -73,10 +70,10 @@ description: ""
 </table>
 <hr>
 <h4><strong>Mathematics Department</strong></h4>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<td style="text-align: center; border:1px solid black;">
 <img src="/images/kp7.jpg" style="width: 100%;">
 <p><strong>Mdm Yap Huie Yuan</strong></p>
 <p><strong><em>HOD/Mathematics</em></strong></p>
@@ -88,7 +85,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<td style="text-align: center; border:1px solid black;">
 <img src="/images/kp8.jpg" style="width: 100%;">
 <p><strong>Miss Neo Jie Qi</strong></p>
 <p><strong><em>LH/Mathematics</em></strong></p>
@@ -100,7 +97,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<td style="text-align: center; border:1px solid black;">
 <img src="/images/kp9.jpg" style="width: 100%;">
 <p><strong>Miss Eugena Ooi Weiling</strong></p>
 <p><strong><em>LH/Mathematics</em></strong></p>
@@ -112,7 +109,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border: 1px solid black;">
+<td style="text-align: center; border: 1px solid black;">
 <img src="/images/kp10.jpg" style="width: 100%;">
 <p><strong>Mr Soh Boon Yew, Vincent</strong></p>
 <p><strong><em>ST/Mathematics</em></strong></p>
@@ -124,7 +121,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<td style="text-align: center; border:1px solid black;">
 <img src="/images/kp11.jpg" style="width: 100%;">
 <p><strong>Mdm Chua Si Wei</strong></p>
 <p><strong><em>ST/Mathematics</em></strong></p>
@@ -149,7 +146,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe education is a lifelong journey, and every child can LEARN, ACHIEVE and CONTRIBUTE in their unique ways. I'm grateful for the opportunity to journey together with Frontierers to discover more about themselves, others and the environment around them. As we explore and grow together, I hope Frontierers will develop their strengths, interests and positively impact the people and environment around them."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 130</p>
+<p style="width: 100%; text-align: center;">Tel ext: 130</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Andrielle_LEE@schools.gov.sg">Andrielle_LEE@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -161,7 +158,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that learning is to pass on knowledge so that others can reap the benefits of the learning process and its outcomes. This is why I teach. I strongly believe that the values that pupils learn will form a lasting core that enable them to use their knowledge &amp; skills to excel in their lives &amp; benefit others.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 243</p>
+<p style="width: 100%; text-align: center;">Tel ext: 243</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:pang_chu_keng@schools.gov.sg">pang_chu_keng@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -179,7 +176,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe every Frontierer is unique and has the potential to excel if they put their mind to it. I wish to become a source of endless Motivation, Encouragement and Inspiration for them so that they can achieve their goals and realize their dreams.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 126</p>
+<p style="width: 100%; text-align: center;">Tel ext: 126</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg">lim_cheng_nee@schools.gov.sg</a></p>
 </td>
 </tr>
