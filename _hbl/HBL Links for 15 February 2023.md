@@ -34,7 +34,7 @@ description: ""
 <p>Password reset and unlocking of accounts</p>
 </td>
 <td style="border:1px solid black;">
-<p>SLS Administrator &ndash; ICT Associate</p>
+<p>SLS Administrator - ICT Associate</p>
 </td>
 <td style="border:1px solid black;">
 <p>65789555 ext 310</p>
@@ -55,6 +55,9 @@ description: ""
 <td style="border:1px solid black;">
 <p>Subject Teachers / Form Teachers</p>
 </td>
+<td style="border:1px solid black;">
+<p></p>
+</td>
 <td style="border:1px solid black;" colspan="2">
 <p>Refer to HBL Plan for contact details of Subject Teachers</p>
 </td>
@@ -73,7 +76,7 @@ description: ""
 <td style="border:1px solid black;">
 <p>65789555 ext 246</p>
 </td>
-<td style="border:1px solid black;"colspan="2">
+<td style="border:1px solid black;" colspan="2">
 <p><a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>
 </td>
 <td style="border:1px solid black;">
@@ -89,7 +92,7 @@ description: ""
 <p>SLS helpdesk</p>
 </td>
 <td style="border:1px solid black;">
-<p>6702 6513</p>
+<p>67026513</p>
 </td>
 <td style="border:1px solid black;" colspan="2">
 <p>helpdesk@sls.ufinity.com</p>
@@ -104,16 +107,16 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;"colspan="2">
+<td style="border:1px solid black;" colspan="2">
 <p>Feedback</p>
 </td>
 <td style="border:1px solid black;">
 <p>School</p>
 </td>
 <td style="border:1px solid black;">
-<p>6578 9555</p>
+<p>65789555</p>
 </td>
-<td colspan="2">
+<td style="border:1px solid black;" colspan="2">
 <p>frontier_ps@moe.edu.sg</p>
 </td>
 <td style="border:1px solid black;">

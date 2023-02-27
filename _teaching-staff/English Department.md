@@ -1,14 +1,15 @@
 ---
 title: English Department
-permalink: /english-department/
+permalink: /English-department/
 description: ""
 ---
+
 <h4><strong>English Language Department</strong></h4>
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
 <td style="text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/eng1.jpg">
+<img style="width:100%;" src="/images/eng1.jpg">
 <p><strong>Mdm Nurashikin Mohamed Zamrabi</strong></p>
 </td>
 <td style="width: 100%; text-align: justify; border:1px solid black;">
