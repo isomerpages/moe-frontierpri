@@ -90,7 +90,7 @@ description: ""
 </td>
 <td style="width: 33.3333%; text-align: center;">
 <p><em>"Children&nbsp;may&nbsp;stumble&nbsp;but&nbsp;they&nbsp;quickly&nbsp;forget the pain and move on. Children grow from their experiences and they build resilience if we give them a supportive learning environment."</em></p>
-<p>Tel&nbsp;ext: 278<br />Email:&nbsp;<a href="mailto:chen_lili@schools.gov.sg">chen_lili@schools.gov.sg</a></p>
+<p id="lili">Tel&nbsp;ext: 278<br />Email:&nbsp;<a href="mailto:chen_lili@schools.gov.sg">chen_lili@schools.gov.sg</a></p>
 </td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
