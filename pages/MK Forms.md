@@ -8,7 +8,7 @@ description: ""
 <p><a href="/files/Blank-GIRO-Form-MK.pdf" target="_blank" rel="noopener"><strong>MK Giro Form</strong></a></p>
 </li>
 <li>
-<p><strong><a href="https://go.gov.sg/waitlist">MK Waitlist Application Form</a></strong></p>
+<p><strong><a href="https://form.gov.sg/63d8e4e1f2bd6c0012afa37f">MK Waitlist Application Form (FORMSG)</a></strong></p>
 </li>
 <li>
 <p><strong><a href="https://go.gov.sg/mktrfsession" target="_blank" rel="noopener">MK Transfer of Session (FORMSG)</a></strong></p>
