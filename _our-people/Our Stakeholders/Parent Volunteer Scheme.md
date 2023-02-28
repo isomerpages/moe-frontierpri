@@ -13,9 +13,9 @@ a) The child is a Singapore Citizen or Singapore Permanent Resident<br>
  <br>
 b) The child was born in&nbsp;<b>2018</b>and due for P1 Registration in&nbsp;<b>2024</b><br>
 <br>
-c) The parent has joined the school as a parent volunteer and has contributed at least 40 hours of voluntary service to the school by<b>30 June 2024</b>Note however that eligibility for registration under Phase 2B does not guarantee your child a place in Frontier Primary School. For more details about Phase 2B eligibility, please refer to the MOE website at https://beta.moe.gov.sg/primary/p1-registration/registration-phases-key-dates/<br>
+c) The parent has joined the school as a parent volunteer and has contributed at least 40 hours of voluntary service to the school by<b>&nbsp;30 June 2024&nbsp;</b>Note however that eligibility for registration under Phase 2B does not guarantee your child a place in Frontier Primary School. For more details about Phase 2B eligibility, please refer to the MOE website at https://beta.moe.gov.sg/primary/p1-registration/registration-phases-key-dates/<br>
  <br>
-  3. Applications are open<b>between 1 January 2023 to 30 April 2023</b> only.<br><br>
+  3. Applications are open<b>&nbsp;between 1 January 2023 to 30 April 2023</b> only.<br><br>
 	
   4. Applications that are incomplete and/or received after the closing date will not be accepted.<br><br>
 	
