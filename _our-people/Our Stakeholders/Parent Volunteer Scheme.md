@@ -5,8 +5,10 @@ description: ""
 third_nav_title: Our Stakeholders
 ---
 <h4 style="text-align: center;"><strong>Parent Volunteer Scheme at Frontier Primary School for Primary One Registration (Phase 2B) in 2023</strong></h4>
+
 <p>The objective of the Parent Volunteer Scheme is to facilitate interested parents&rsquo; registration of their child in Frontier Primary School while developing a long-term involvement and commitment with the school in their child&rsquo;s journey.</p>
 <ol start="2">
+	
 2. Under this scheme, parents may register their child under Phase 2B during the Primary One Registration Exercise if the following criteria are met<br>
 	
 a)     The child is a Singapore Citizen or Singapore Permanent Resident
@@ -30,4 +32,3 @@ Note however that eligibility for registration under Phase 2B does not guarantee
 8\. Please download the registration form [here](/files/FPS-PV-Application-Form-2023.pdf)
 </ol>
 <img src="/images/PVflowchart2023.jpg">
-```
