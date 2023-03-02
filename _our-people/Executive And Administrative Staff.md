@@ -97,16 +97,14 @@ description: ""
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/eas10.jpg" style="width: 100%;">
 <p><strong>Mdm Chua Peck Nging</strong></p>
-<p><strong><em>Receptionist</em></strong
-</p>
+	<p><strong><em>Receptionist</em></strong></p>
 <td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/KIM FAH.jpg" style="width: 100%;">
 <p><strong>Mdm Chew Kim Fah</strong></p>
-<p><strong><em>Admin Executive</em></strong
-</p>
+	<p><strong><em>Admin Executive</em</strong></p>
 <td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
@@ -144,5 +142,5 @@ description: ""
 <p><strong><em>Operations Support Officer</em></strong></p>
 <td style="width: 100%; text-align: justify; border:1px solid black;">
 </td>
-</tbody>
-</table>
+	</tbody>
+	</table>
