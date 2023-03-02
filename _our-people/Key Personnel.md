@@ -7,12 +7,12 @@ description: ""
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp1.jpg" style="width: 100%;">
 <p><strong>Mr Chua Boon Meng, Vincent</strong></p>
 <p><strong><em>HOD/English Language</em></strong></p>
 </td>
-<td style="width: 100%; text-align: justify; border:1px solid black;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe in promoting the joy of reading and learning in order to build a positive learning attitude in our pupils. Pupils must feel curious and excited when they come to school. I will continue to motivate and inspire our pupils to become gracious individuals and passionate learners."</em></p>
 <p style="width: 100%; text-align: center;">Tel ext: 124</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:vincent_chua_boon_meng@schools.gov.sg">vincent_chua_boon_meng@schools.gov.sg</a></p>
@@ -73,7 +73,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp7.jpg" style="width: 100%;">
 <p><strong>Mdm Yap Huie Yuan</strong></p>
 <p><strong><em>HOD/Mathematics</em></strong></p>
@@ -85,7 +85,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp8.jpg" style="width: 100%;">
 <p><strong>Miss Neo Jie Qi</strong></p>
 <p><strong><em>LH/Mathematics</em></strong></p>
@@ -97,7 +97,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp9.jpg" style="width: 100%;">
 <p><strong>Miss Eugena Ooi Weiling</strong></p>
 <p><strong><em>LH/Mathematics</em></strong></p>
@@ -109,7 +109,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center; border: 1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp10.jpg" style="width: 100%;">
 <p><strong>Mr Soh Boon Yew, Vincent</strong></p>
 <p><strong><em>ST/Mathematics</em></strong></p>
@@ -121,7 +121,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/kp11.jpg" style="width: 100%;">
 <p><strong>Mdm Chua Si Wei</strong></p>
 <p><strong><em>ST/Mathematics</em></strong></p>
