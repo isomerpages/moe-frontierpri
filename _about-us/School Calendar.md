@@ -18,8 +18,8 @@ description: ""
       <td style="width: 190.5px; border:1px solid black;"></td>
       <td style="width: 348.109px; border:1px solid black;">
         ·&nbsp;&nbsp;&nbsp; Start of Term 1
-        <p>·&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
-        <p>·&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
+      <p>·&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
+      <p>·&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
       </td>
     </tr>
     <tr>
@@ -27,7 +27,7 @@ description: ""
       <td style="border:1px solid black;"></td>
       <td style="border:1px solid black;">
         ·&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
-        <p>·&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
+      <p>·&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
       </td>
     </tr>
     <tr>
