@@ -135,7 +135,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl17.jpg" /><strong>Mdm Norhayati Binte Ibnor</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl18.jpg" /><strong>Mdm Noryanti Mohamed Yahya</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl19.jpg" /><strong>Mdm Mardiana Binte Mohd Ahzhar</strong></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl20.jpg" /><strong>Mdm Mardiana Binte Abdul Manap</strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
@@ -147,25 +147,9 @@ description: ""
 <p>Ext: 255<br />Email:&nbsp;<a href="mailto:noryanti_mohamed_yahya@schools.gov.sg">noryanti_mohamed_yahya@schools.gov.sg</a></p>
 </td>
 <td style="width: 33.3333%; text-align: center;">
-<p><em>"As an educator, I believe that knowledge empowers the self and gives us the courage to venture into the unknown. When a child understands that knowledge is infinite, they become competent thinkers and communicators."</em></p>
-<p>Ext: 252<br />Email:&nbsp;<a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg">mardiana_binti_mohd_ahzhar@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl20.jpg" /><strong>Mdm Mardiana Binte Abdul Manap</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl21.jpg" /><strong>Mdm Hamimah Sulaiman</strong></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
 <p><em>"'Believe you can and you're halfway there.' I believe every child can be successful in&nbsp;pursuing their dreams as long as they are confident and determined learners. Every child can achieve excellence when they have self-belief and determination to overcome challenges."</em></p>
 <p>Tel&nbsp;ext: 257<br />Email:&nbsp;<a href="mailto:mardiana_abdul_manap@schools.gov.sg">mardiana_abdul_manap@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Every child is unique. Hence, as an educator, it is my responsibility to nurture and educate every single one of them to their full potential. I would also like to impart values for pupils to grow well and become excellent all-rounded citizens.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 203<br />Email:&nbsp;<a href="mailto:hamimah_sulaiman@schools.gov.sg">hamimah_sulaiman@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
