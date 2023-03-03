@@ -52,6 +52,28 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl13.jpg">
+<p><strong>Mr Li Lei</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"As a father of two sons, I believe children learn best with patience and guidance. We should always consider each child&rsquo;s unique character traits and develop their learning potentials."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 239</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:li_lei@schools.gov.sg">li_lei@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl14.jpg">
+<p><strong>Miss Chen Lili</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Children&nbsp;may&nbsp;stumble&nbsp;but&nbsp;they&nbsp;quickly&nbsp;forget the pain and move on. Children grow from their experiences and they build resilience if we give them a supportive learning environment."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 278</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chen_lili@schools.gov.sg">chen_lili@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/mtl1.jpg">
 <p><strong>Mr Chen Dun Qiang</strong></p>
 </td>
@@ -83,24 +105,19 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:goh_kai_sin@schools.gov.sg">goh_kai_sin@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl11.jpg">
+<p><strong>Mdm Hee Ming Min</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em></em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 300</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:hee_ming_min@schools.gov.sg">hee_ming_min@schools.gov.sg</a></p>
+</td>
+</tr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl10.jpg" /><strong>Miss Cai Xiangyu</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl11.jpg" /><strong>Mdm Hee Ming Min</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl12.jpg" /><strong>Mdm Wang Haijing</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"'If a child can&rsquo;t learn the way we teach, maybe we should teach the way they learn.' This quote by Ignacio Estrada represents my teaching philosophy. I believe that education is not a &lsquo;one size fits all&rsquo;. Therefore, as an educator, we should incorporate differentiated instruction in our lessons to cater to different learning needs of pupils. "</em></p>
-<p>Tel&nbsp;ext: 275<br />Email:&nbsp;<a href="mailto:cai_xiang_yu@schools.gov.sg">cai_xiang_yu@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">Tel&nbsp;ext: 300<br />Email:&nbsp;<a href="mailto:hee_ming_min@schools.gov.sg">hee_ming_min@schools.gov.sg</a></td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Every student has his unique talents, and we must appreciate each student. Discover and tap the talents of the students and help them to gain confidence."</em></p>
-<p>Ext: 261<br />Email:&nbsp;<a href="mailto:wang_haijing@schools.gov.sg">wang_haijing@schools.gov.sg</a></p>
-</td>
-</tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl13.jpg" /><strong>Mr Li Lei</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl14.jpg" /><strong>Miss Chen Li Li</strong></td>
