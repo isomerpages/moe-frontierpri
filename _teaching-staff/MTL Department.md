@@ -3,65 +3,88 @@ title: MTL Department
 permalink: /mtl-department/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<h4><strong>Mother Tongue Language Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl1.jpg" /><strong>Mr Chen Dun Qiang</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl2.jpg" /><strong>Miss Huang Fang</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl3.jpg" /><strong>Mdm Li Jia Ying</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Children are special in their very own ways, nurture them well and they will shine one day!&rdquo;</em></p>
-<p>Tel&nbsp;ext: 268<br />Email:&nbsp;<a href="mailto:chen_dunqiang@schools.gov.sg">chen_dunqiang@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl4.jpg">
+<p><strong>Mdm Liew Mei Lian</strong></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Every child is a unique individual who will excel in his/her own ways. I hope that I can guide my students to achieve their full potential, and develop a positive mindset towards learning, and a strong moral compass.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 266<br />Email:&nbsp;<a href="mailto:huang_fang@schools.gov.sg">huang_fang@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Every child is unique in his/her learning. It is my desire as an educator to help students meet their fullest potential by providing an environment that is safe, supportive and caring.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 236<br />Email:&nbsp;<a href="mailto:li_jia_yang@schools.gov.sg">li_jia_yang@schools.gov.sg</a></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I look forward to teaching the younger ones in Frontier. I am confident that the pupils will have a fruitful time as I explore creative ways to ensure pupils&rsquo; learning is a JOYFUL one."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 297</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:liew_mei_lian@schools.gov.sg">liew_mei_lian@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl4.jpg" /><strong>Mdm Liew Mei Lian</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl5.jpg" /><strong>Miss Lim Jing Xian</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl6.jpg" /><strong>Mdm Qin Lingjun</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I look forward to teaching the younger ones in Frontier. I am confident that the pupils will have a fruitful time as I explore creative ways to ensure pupils&rsquo; learning is a JOYFUL one.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 297<br />Email:&nbsp;<a href="mailto:liew_mei_lian@schools.gov.sg">liew_mei_lian@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl2.jpg">
+<p><strong>Mdm Huang Fang</strong></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Every child is like a rare gem, waiting to be unearthed and shine brightly. As an educator, I believe that my job is to help them discover their full potential and excel in their own way.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 230<br />Email:&nbsp;<a href="mailto:lim_jing_xian@schools.gov.sg">lim_jing_xian@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"I believe that all children are unique and have something special that they can bring to their own&nbsp;learning.&nbsp;I&nbsp;hope to enable&nbsp;my&nbsp;pupils&nbsp;to&nbsp;be able to discover and&nbsp;accept&nbsp;their uniqueness,&nbsp;and&nbsp;embrace differences.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 296<br />Email:&nbsp;<a href="mailto:qin_lingjun@schools.gov.sg">qin_lingjun@schools.gov.sg</a></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Every child is a unique individual who will excel in his/her own ways. I hope that I can guide my students to achieve their full potential, and develop a positive mindset towards learning, and a strong moral compass."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 266</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:huang_fang@schools.gov.sg">huang_fang@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl7.jpg" /><strong>Mdm Goh Kai Sin, (Mrs Ray Chua)</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl8.jpg" /><strong>Miss Wang Wan</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl9.jpg" /><strong>Mdm Lim Lan Shii</strong></td>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl8.jpg">
+<p><strong>Miss Wang Wan</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe every student has the capability to learn. Determination and perseverance are keys to learning. I hope to motivate my students in continuous learning in classrooms and beyond."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 259</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:wang_wan@schools.gov.sg">wang_wan@schools.gov.sg</a></p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"As long as you set your heart to&nbsp; it, you will get there someday. Even if you don&rsquo;t, you have already achieved so much more along the journey and you become a better and stronger person than before. Marks and speed are not the most important. Humility, resilience, grit and the willingness to give are. Every child has a potential to shine if they are given the opportunity."</em></p>
-<p>Tel&nbsp;ext: 233<br />Email:&nbsp;<a href="mailto:goh_kai_sin@schools.gov.sg">goh_kai_sin@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl10.jpg">
+<p><strong>Mrs Chan - Cai Xiangyu</strong></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I believe every student has the capability to learn. Determination and perseverance are keys to learning. I hope to motivate my students in continuous learning in classrooms and beyond.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 259<br />Email:&nbsp;<a href="mailto:wang_wan@schools.gov.sg">wang_wan@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I believe that every child has their own talent. Our roles as teachers are to respect the unique nature of each child, help them to embark on their freedom journey and provide a joyful supportive learning environment for their learning.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 277<br />Email:&nbsp;<a href="mailto:lim_lan_shii@schools.gov.sg">lim_lan_shii@schools.gov.sg</a></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>""If a child can't learn the way we teach, maybe we should teach the way they learn." This quote by Ignacio Estrada represents my teaching philosophy. I believe that education is not a one size fits all. Therefore, as an educator, we should incorporate differentiated instruction in our lessons to cater to different learning needs of pupils."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 275</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:cai_xiang_yu@schools.gov.sg">cai_xiang_yu@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl1.jpg">
+<p><strong>Mr Chen Dun Qiang</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Children are special in their very own ways, nurture them well and they will shine one day!"</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 268</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chen_dunqiang@schools.gov.sg">chen_dunqiang@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl6.jpg">
+<p><strong>Mdm Qin Lingjun</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe that all children are unique and have something special that they can bring to their own learning. I hope to enable my pupils to be able to discover and accept their uniqueness and embrace differences."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 296</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:qin_lingjun@schools.gov.sg">qin_lingjun@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl7.jpg">
+<p><strong>Mdm Goh Kai Sin, (Mrs Ray Chua)</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"As long as you set your heart to it, you will get there someday. Even if you don't, you have already achieved so much more along the journey and you become a better and stronger person than before. Marks and speed are not the most important. Humility, resilience, grit and the willingness to give are. Every child has a potential to shine if they are given the opportunity."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 233</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:goh_kai_sin@schools.gov.sg">goh_kai_sin@schools.gov.sg</a></p>
+</td>
+</tr>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl10.jpg" /><strong>Miss Cai Xiangyu</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl11.jpg" /><strong>Mdm Hee Ming Min</strong></td>
