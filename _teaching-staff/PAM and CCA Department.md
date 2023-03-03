@@ -61,5 +61,16 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Christine_Yep_Bao_Yu@schools.gov.sg">Christine_Yep_Bao_Yu@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/CHECK KOON.jpg">
+<p><strong>Mr Foo Check Koon</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em></em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 256</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Foo_Check_Koon@schools.gov.sg">Foo_Check_Koon@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
