@@ -3,6 +3,42 @@ title: PAM and CCA Department
 permalink: /pam-and-cca-department/
 description: ""
 ---
+<h4><strong>PAM and CCA Department</strong></h4>
+<table style="border-collapse: collapse; width: 100%; border:1px solid black;">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/pam1.jpg">
+<p><strong>Miss Peh Shu Yu</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe that every child has unlimited possibilities. As an educator, I hope to facilitate children&rsquo;s knowledge construction, skill acquisition and metacognitive thinking, allowing them to take ownership of their own learning. I also seek to engage children meaningfully, honing them to become enthusiastic learners who enjoy their educational journey and view learning as a life-long process."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 216</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:peh_shu_yu@schools.gov.sg">peh_shu_yu@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/pam5.jpg">
+<p><strong>Ms Olivia Tao</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Students are motivated to learn when they are genuinely interested in the topics and find relevance to their daily lives. Thus, I hope to introduce engaging and relevant pedagogies that spark joy, curiosity, and cultivate positive attitudes towards learning. Hopefully, our students will bring this motivation to learn with them throughout their lives &mdash; learning has no age limit."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 298</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:tao_heping@schools.gov.sg">tao_heping@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/pam7.jpg">
+<p><strong>Mr Muhammad Bin Jellanie</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"To inspire a lifelong love of learning by creating lessons that are exciting, authentic, engaging, and relevant to the lives of my students and encourage critical thinking that enables them to become powerful and thoughtful leaders for the school and community."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 285</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:muhammad_jellanie@schools.gov.sg">muhammad_jellanie@schools.gov.sg</a></p>
+</td>
+</tr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -25,41 +61,13 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 65%;" src="/images/pam4.jpg" /><strong>Mr Tan Yi Cong</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 75%;" src="/images/pam5.jpg" /><strong>Ms Olivia Tao</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/pam6.jpg" /><strong>Miss Norazimah Binte Mohamed Senin</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"I believe that no matter the circumstances, learning should be a right and not a privilege. All children should be given an equal opportunity to learn."</em></p>
-<p>Ext: 294<br />Email:&nbsp;<a href="mailto:tan_yi_cong@schools.gov.sg">tan_yi_cong@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>Students are motivated to learn when they are genuinely interested in the topics and find relevance to their daily lives. Thus, I hope to introduce engaging and relevant pedagogies that spark joy, curiosity, and cultivate positive attitudes towards learning. Hopefully, our students will bring this motivation to learn with them throughout their lives &mdash; learning has no age limit.</em><em>&rdquo;</em></p>
-<p>Ext: 298<br />Email:&nbsp;<a href="mailto:tao_heping@schools.gov.sg">tao_heping@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Aristotle once said that &ldquo;Educating the mind without educating the heart is no education at all.&rdquo;.</em></p>
-<p><em>As an Art teacher, I&nbsp;ignite the drive and passion for the Arts (Heart), engage the intellect (Head), and provide&nbsp;opportunities for authentic experiences in developing skill sets (Hands)."</em></p>
-<p>Tel&nbsp;ext: 238<br />Email:&nbsp;<a href="mailto:norazimah_binte_mohamed_senin@schools.gov.sg">norazimah_binte_mohamed_senin@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 70%;" src="/images/pam7.jpg" /><strong>Mr Muhammad Bin Jellanie</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 70%;" src="/images/pam8.jpg" /><strong>Miss Jazreel Ari Yeo Shu Yun</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/pam9.jpg" /><strong>Mdm Ho Qian Hui, Stephanie</strong></td>
-</tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;">
 <p><em>"To inspire a lifelong love of learning by creating lessons that are exciting, authentic, engaging, and relevant to the lives of my students and encourage critical thinking that enables them to become powerful and thoughtful leaders for the school and community."</em></p>
 <p>Ext: 285<br />Email:&nbsp;<a href="mailto:muhammad_jellanie@schools.gov.sg">muhammad_jellanie@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">Ext: 220<br />Email:&nbsp;<a href="mailto:Jazreel_Ari_Yeo_Shu@schools.gov.sg">Jazreel_Ari_Yeo_Shu@schools.gov.sg</a></td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I truly believe that every child is capable of reaching their potential in everything that they do with proper guidance. I aim to equip students with not only knowledge and skills, but also with love, empathy and kindness, so that they may succeed in life while experiencing real joy.&rdquo;</em></p>
-<p>Tel ext: 214<br />Email: ho_qian_hui@schools.gov.sg</p>
-</td>
-</tr>
+
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/pam10.jpg" /><strong>Mr Leng Song Dao, Isaac</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 60%;" src="/images/pam11.jpg" /><strong>Miss Yee Annie</strong></td>
