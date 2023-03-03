@@ -10,8 +10,8 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts2.jpg"><strong>Ms Siti Aisyah Khan<br /></strong><em>Centre Head</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts4.jpg"><strong>Ms Nur Afiqah Mohd Ali<br /></strong><em>Deputy Centre Head</em></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts3.jpg"><strong>Ms Yang Kai Ying<br /></strong><em>Level Head</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts4.jpg"><strong>Ms Nur Afiqah Mohd Ali<br /></strong><em>Senior Teacher</em></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">
@@ -20,14 +20,15 @@ description: ""
 <p><em>At MK@Frontier, we strive to inculcate in each child positive learning dispositions and values, which are the pillars for lifelong learning.&rdquo;</em></p>
 <p style="text-align: center;">Email:&nbsp;<a href="mailto:Siti_aisyah_Mohamed_kuppai@schools.gov.sg">Siti_aisyah_Mohamed_kuppai@schools.gov.sg</a></p>
 </td>
+	<td style="width: 33.3333%;">
+<p style="text-align: center;"><em>&ldquo;I believe that children learn best when they are having fun playing! &ldquo;Play is the highest form of research&rdquo; &ndash; Albert Einstein&rdquo;</em></p>
+<p style="text-align: center;">Email:&nbsp;<a href="mailto:nur_afiqah_mohd_ali@schools.gov.sg">nur_afiqah_mohd_ali@schools.gov.sg</a></p>
+</td>
 <td style="width: 33.3333%;">
 <p style="text-align: center;"><em>&ldquo;Purposeful play should be the basis of learning as children are actively involved in constructing their own knowledge.&rdquo;</em></p>
 <p style="text-align: center;">Email:&nbsp;<a href="mailto:yang_kai_ying@schools.gov.sg">yang_kai_ying@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%;">
-<p style="text-align: center;"><em>&ldquo;I believe that children learn best when they are having fun playing! &ldquo;Play is the highest form of research&rdquo; &ndash; Albert Einstein&rdquo;</em></p>
-<p style="text-align: center;">Email:&nbsp;<a href="mailto:nur_afiqah_mohd_ali@schools.gov.sg">nur_afiqah_mohd_ali@schools.gov.sg</a></p>
-</td>
+
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts5.jpg"><strong>Ms Wu Zhijing<br /></strong><em>Senior Teacher</em></td>

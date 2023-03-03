@@ -4,5 +4,4 @@ permalink: /school-advisory-committee/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-
-<img src="/images/SAC-Org-Chart.jpg">
+<img src="/images/SAC 2023 (1).jpg">
