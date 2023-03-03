@@ -50,5 +50,16 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:callie_yu_shair-er@schools.gov.sg">callie_yu_shair-er@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/CHRISTINE.jpg">
+<p><strong>Miss Christine Yep Bao Yu</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em></em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 245</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Christine_Yep_Bao_Yu@schools.gov.sg">Christine_Yep_Bao_Yu@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
