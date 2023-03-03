@@ -104,7 +104,7 @@ description: ""
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/KIM FAH.jpg" style="width: 100%;">
 <p><strong>Mdm Chew Kim Fah</strong></p>
-	<p><strong><em>Admin Executive</em</strong></p>
+	<p><strong><em>Admin Executive</em></strong></p>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 </td>
 <tr>
