@@ -62,5 +62,16 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:norazimah_binte_mohamed_senin@schools.gov.sg">norazimah_binte_mohamed_senin@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl12.jpg">
+<p><strong>Mdm Wang Haijing</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Every student has his unique talents, and we must appreciate each student. Discover and tap the talents of the students and help them to gain confidence."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 261</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:wang_haijing@schools.gov.sg">wang_haijing@schools.gov.sg</a></p>
+</td>
+</tr>
 </tbody>
 </table>
