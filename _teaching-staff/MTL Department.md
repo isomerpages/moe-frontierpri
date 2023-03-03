@@ -119,22 +119,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl13.jpg" /><strong>Mr Li Lei</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl14.jpg" /><strong>Miss Chen Li Li</strong></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;As a father of two sons, I believe children learn best with patience and guidance. We should always consider each child&rsquo;s unique character traits and develop their learning potentials.&rdquo;</em></p>
-<p>Tel&nbsp;ext: 239<br />Email:&nbsp;<a href="mailto:li_lei@schools.gov.sg">li_lei@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Children&nbsp;may&nbsp;stumble&nbsp;but&nbsp;they&nbsp;quickly&nbsp;forget the pain and move on. Children grow from their experiences and they build resilience if we give them a supportive learning environment."</em></p>
-<p id="lili">Tel&nbsp;ext: 278<br />Email:&nbsp;<a href="mailto:chen_lili@schools.gov.sg">chen_lili@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
+
 <td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl15.jpg" /><strong>Mdm Robert Juliet</strong></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 58%;" src="/images/mtl16.jpg" /><strong>Mrs Shanmugam Brema</strong></td>
 <td style="width: 33.3333%; text-align: center;">&nbsp;</td>
