@@ -7,7 +7,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img src="/images/ma1.jpg" style="width:100%;">
 <p><strong>Mr Patrick Chua Cherng Haur</strong></p>
 </td>
@@ -17,7 +17,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chua_cherng_haur@schools.gov.sg">chua_cherng_haur@schools.gov.sg</a></p>
 </td>
 </tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ma4.jpg">
 <p><strong>Mdm Sally Heng Ju Imm</strong></p>
 </td>
@@ -27,7 +27,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:heng_ju_imm@schools.gov.sg">heng_ju_imm@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ELAINE.jpg">
 <p><strong>Mdm Elaine Lee Sui Lyn</strong></p>
 </td>
@@ -37,7 +37,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:elaine_lee_sui_lyn@schools.gov.sg">elaine_lee_sui_lyn@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ma5.jpg">
 <p><strong>Mrs Ang Cheng Chew Teh Ai Choo</strong></p>
 </td>
@@ -49,7 +49,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ang_cheng_chew@schools.gov.sg">ang_cheng_chew@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/SHANNON.jpg">
 <p><strong>Mdm Lim Pei Geok</strong></p>
 </td>
@@ -59,7 +59,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_pei_geok@schools.gov.sg">lim_pei_geok@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ma6.jpg">
 <p><strong>Mdm Siti Wahida Binte Zainal Abidin</strong></p>
 </td>
@@ -69,7 +69,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:siti_wahida@schools.gov.sg">siti_wahida@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/LAI SOON LING.jpg">
 <p><strong>Mdm Lai Soon Ling</strong></p>
 </td>
@@ -79,7 +79,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Lai_Soon_Ling@schools.gov.sg">Lai_Soon_Ling@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ma9.jpg">
 <p><strong>Mdm Oon Saw Kim Eileen</strong></p>
 </td>
@@ -89,7 +89,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:oon_saw_kim@schools.gov.sg">oon_saw_kim@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/LAY KOON.jpg">
 <p><strong>Mrs Yong - Yap Lay Koon</strong></p>
 </td>
@@ -99,7 +99,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:yap_lay_koon@schools.gov.sg">yap_lay_koon@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/MRS TAN.jpg">
 <p><strong>Mrs Tan - Lau Puay Kiang</strong></p>
 </td>
@@ -109,7 +109,7 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Tan_Kok_Tong_A@schools.gov.sg">Tan_Kok_Tong_A@schools.gov.sg</a></p>
 </td>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ma11.jpg">
 <p><strong>Mr Derek Lee</strong></p>
 </td>
