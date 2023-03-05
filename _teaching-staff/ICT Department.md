@@ -28,5 +28,26 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chan_jia_hui_francesca@schools.gov.sg">chan_jia_hui_francesca@schools.gov.sg</a></p>
 </td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/eng2.jpg">
+<p><strong>Mdm Liyanna Bte Johan</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Teaching is all about learning and no two days are the same for teachers. I am a firm believer that each child has the potential to shine and as an educator, it is my duty to equip pupils with the knowledge and skills for them to shine. Teaching is a hard job but the rewards gained from this job are truly satisfying and priceless."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 251</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:liyanna_johan@schools.gov.sg">liyanna_johan@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/sci8.jpg">
+<p><strong>Mrs Carrie Laksman</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Every child is unique in his own way and needs a safe and comfortable educational environment where he can grow physically, mentally, emotionally, and socially. It is my desire to create a learning environment where pupils can experience the joy of learning and achieve their full potential. I will provide a safe and inclusive environment where all pupils are invited to share their ideas openly and take risks to support their learning."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 258</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:soh_kar_ling_carrie@schools.gov.sg">soh_kar_ling_carrie@schools.gov.sg</a></p>
+</td>
+</tr>
          
-     
