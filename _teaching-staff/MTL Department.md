@@ -116,39 +116,62 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:hee_ming_min@schools.gov.sg">hee_ming_min@schools.gov.sg</a></p>
 </td>
 </tr>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
 <tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl17.jpg">
+<p><strong>Mdm Norhayati Binte Ibnor</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 253</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg">norhayati_ibnor@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl18.jpg">
+<p><strong>Mdm Noryanti Mohamed Yahya</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Playing a pivotal role in a child's education and helping them realize their own potential is my greatest joy in teaching. I am thankful to my pupils for allowing me to see the different abilities and perspectives of children."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 255</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:noryanti_mohamed_yahya@schools.gov.sg">noryanti_mohamed_yahya@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl20.jpg">
+<p><strong>Mdm Mardiana Binte Abdul Manap</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>""Believe you can and you're halfway there." I believe every child can be successful in&nbsp;pursuing their dreams as long as they are confident and determined learners. Every child can achieve excellence when they have self-belief and determination to overcome challenges."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 257</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:mardiana_abdul_manap@schools.gov.sg">mardiana_abdul_manap@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/mtl15.jpg">
+<p><strong>Mdm Robert Juliet</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe every child is unique and special. As a teacher, I have the privilege to lead pupils in developing positive characters and help them in exploring their own talents. With the positive traits and knowledge that they have learnt, they will be able to contribute to society in future."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 270</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Robert_Juliet@schools.gov.sg">Robert_Juliet@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/RAMYA.jpg">
+<p><strong>Mdm Gunasekar Ramya</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em></em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 220</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Gunasekar_Ramya@schools.gov.sg">Gunasekar_Ramya@schools.gov.sg</a></p>
+</td>
+</tr>
 
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/mtl15.jpg" /><strong>Mdm Robert Juliet</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 58%;" src="/images/mtl16.jpg" /><strong>Mrs Shanmugam Brema</strong></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I&nbsp;believe every child is unique and special. As a teacher, I have the privilege to lead pupils in developing positive characters and&nbsp;help them in exploring their own talents. With the positive traits and knowledge that they have learnt, they will be able to contribute to society in future.&rdquo;</em></p>
-<p>Ext: 270<br />Email:&nbsp;<a href="mailto:wong_seh_lin@schools.gov.sg">wong_seh_lin@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">Tel&nbsp;ext: 306<br />Email:&nbsp;<a href="mailto:shanmugam_brema@schools.gov.sg">shanmugam_brema@schools.gov.sg</a></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl17.jpg" /><strong>Mdm Norhayati Binte Ibnor</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 53%;" src="/images/mtl18.jpg" /><strong>Mdm Noryanti Mohamed Yahya</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 56%;" src="/images/mtl20.jpg" /><strong>Mdm Mardiana Binte Abdul Manap</strong></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them.&rdquo;</em></p>
-<p>Ext: 253<br />Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg">norhayati_ibnor@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"Playing a pivotal role in a child&rsquo;s education and helping them realize their own potential is my greatest joy in teaching.&nbsp; I am thankful to my&nbsp;pupils&nbsp;for allowing me to see the different abilities and perspectives&nbsp;of children."</em></p>
-<p>Ext: 255<br />Email:&nbsp;<a href="mailto:noryanti_mohamed_yahya@schools.gov.sg">noryanti_mohamed_yahya@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>"'Believe you can and you're halfway there.' I believe every child can be successful in&nbsp;pursuing their dreams as long as they are confident and determined learners. Every child can achieve excellence when they have self-belief and determination to overcome challenges."</em></p>
-<p>Tel&nbsp;ext: 257<br />Email:&nbsp;<a href="mailto:mardiana_abdul_manap@schools.gov.sg">mardiana_abdul_manap@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
