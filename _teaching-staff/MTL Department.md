@@ -182,8 +182,5 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Gunasekar_Ramya@schools.gov.sg">Gunasekar_Ramya@schools.gov.sg</a></p>
 </td>
 </tr>
-
-</td>
-</tr>
 </tbody>
 </table>
