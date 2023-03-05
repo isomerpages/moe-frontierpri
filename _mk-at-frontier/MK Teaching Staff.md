@@ -180,79 +180,105 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:prevena_kannathass@schools.gov.sg">prevena_kannathass@schools.gov.sg</a></p>
 </td>
 </tr>
-	
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
 <tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts17.jpg"><strong>Ms Yu Ying<br /></strong><em>Chinese Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts18.jpg"><strong>Ms Caroline Tan Hui Yee<br /></strong><em>Chinese Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts19.jpg"><strong>Ms See Tho Sun Ein<br /></strong><em>Chinese Language Teacher</em></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Love is the best education. It is important to love the children and to provide them with a pleasant environment that develops them into a positive, confident and loving individuals. Children learn best through fun and engaging activities.&rdquo;</em></p>
-<p>Email:&nbsp;<u><a href="mailto:Yu_Ying_A@schools.gov.sg">Yu_Ying_A@schools.gov.sg</a></u></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts17.jpg">
+<p><strong>Ms Yu Ying</strong></p><em>Chinese Language Teacher</em>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;To have positive influences on children&rsquo;s character building.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:caroline_tan_hui_yee@schools.gov.sg">caroline_tan_hui_yee@schools.gov.sg</a><em>&nbsp;</em></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Love is the best education. It is important to love the children and to provide them with a pleasant environment that develops them into a positive, confident and loving individuals. Children learn best through fun and engaging activities."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Yu_Ying_A@schools.gov.sg">Yu_Ying_A@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>Every child is a gift, each with their own unique potentials. I aim to provide them with a safe and supportive environment where they will be able to grow into their fullest potential.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:see_tho_sun_ein@schools.gov.sg">see_tho_sun_ein@schools.gov.sg</a></p>
+</tr>	
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts18.jpg">
+<p><strong>Ms Caroline Tan Hui Yee</strong></p><em>Chinese Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"To have positive influences on children's character building."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:caroline_tan_hui_yee@schools.gov.sg">caroline_tan_hui_yee@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts20.jpg"><strong>Ms Liu Hui</strong></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts21.jpg"><strong>Ms Loh Hwee Boon<br /></strong><em>Chinese Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts22.jpg"><strong>Ms Luo Huangli<br /></strong><em>Chinese Language Teacher</em></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Each child has something special that can be built upon. The more we believe in him, will enable him to&nbsp;achieve his&nbsp;highest&nbsp;potential.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:liu_hui@schools.gov.sg">liu_hui@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts19.jpg">
+<p><strong>Ms See Tho Sun Ein</strong></p><em>Chinese Language Teacher</em>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;All children are special. I aspire to create a happy environment for them to be actively engaged in their learning experiences.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:loh_hwee_boon@schools.gov.sg">loh_hwee_boon@schools.gov.sg</a></p>
-</td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Education is not the filling of a pail but the lighting of a fire.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:luo_huangli@schools.gov.sg">luo_huangli@schools.gov.sg</a><strong>&nbsp;</strong></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Every child is a gift, each with their own unique potentials. I aim to provide them with a safe and supportive environment where they will be able to grow into their fullest potential."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:see_tho_sun_ein@schools.gov.sg">see_tho_sun_ein@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts23.jpg"><strong>Ms Nurafida Abdul Razak<br /></strong><em>Malay Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts24.png"><strong>Ms Siti Nur Amira Khalim<br /></strong><em>Malay Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts20.jpg">
+<p><strong>Ms Liu Hui</strong></p><em>Chinese Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Each child has something special that can be built upon. The more we believe in him, will enable him to achieve his or her highest potential."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:liu_hui@schools.gov.sg">liu_hui@schools.gov.sg</a></p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;Children are full of surprises and learn best in a laughter-filled, independence-building and brain stretching environment where they are allowed to make mistakes. Every child matters.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:nurafida_abdul_razak@schools.gov.sg">nurafida_abdul_razak@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts21.jpg">
+<p><strong>Ms Loh Hwee Boon</strong></p><em>Chinese Language Teacher</em>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;It is not only the children who learn something each day.&nbsp; The teachers learn something from the children too and that makes teaching beautiful.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:siti_nur_amira_binte@schools.gov.sg">siti_nur_amira_binte@schools.gov.sg</a></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"All children are special. I aspire to create a happy environment for them to be actively engaged in their learning experiences."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:loh_hwee_boon@schools.gov.sg">loh_hwee_boon@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts25.jpg"><strong>Ms Shunmugamathi d/o Senthil Nathan<br /></strong><em>Tamil Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 50%;" src="/images/ts26.jpg"><strong>Ms Gunasekaran Anuradha<br /></strong><em>Tamil Language Teacher</em></td>
-<td style="width: 33.3333%; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/Lim Chiau Ling.jpg">
+<p><strong>Ms Lim Chiau Ling</strong></p><em>Chinese Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"My job as a teacher is to ignite a spark that creates a desire to learn in our children."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_chiau_ling@schools.gov.sg">lim_chiau_ling@schools.gov.sg</a></p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;To cater to the learning needs while ensuring their emotional well-being &amp; to keep reflecting on myself to provide the children with enriching learning activities &amp; time well spent in school.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:shunmugamathi_senthil_nathan@schools.gov.sg">shunmugamathi_senthil_nathan@schools.gov.sg</a></p>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts23.jpg">
+<p><strong>Ms Nurafida Abdul Razak</strong></p><em>Malay Language Teacher</em>
 </td>
-<td style="width: 33.3333%; text-align: center;">
-<p><em>&ldquo;I believe that it is important to inculcate moral values in young children.&rdquo;</em></p>
-<p>Email:&nbsp;<a href="mailto:gunasekaran_anuradha@schools.gov.sg">gunasekaran_anuradha@schools.gov.sg</a></p>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"Children are full of surprises and learn best in a laughter-filled, independence-building and brain stretching environment where they are allowed to make mistakes. Every child matters."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nurafida_abdul_razak@schools.gov.sg">nurafida_abdul_razak@schools.gov.sg</a></p>
 </td>
-<td style="width: 33.3333%;">&nbsp;</td>
 </tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts24.png">
+<p><strong>Ms Siti Nur Amira Khalim</strong></p><em>Malay Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"It is not only the children who learn something each day.&nbsp; The teachers learn something from the children too and that makes teaching beautiful."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:siti_nur_amira_binte@schools.gov.sg">siti_nur_amira_binte@schools.gov.sg</a></p>
+</td>
+</tr>	
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/ts26.jpg">
+<p><strong>Ms Gunasekaran Anuradha</strong></p><em>Tamil Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe that it is important to inculcate moral values in young children."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:gunasekaran_anuradha@schools.gov.sg">gunasekaran_anuradha@schools.gov.sg</a></p>
+</td>
+</tr>	
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/Vaidhegi.jpg">
+<p><strong>Ms Vaidhegi D/O Arumugam</strong></p><em>Tamil Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"With each child, I build significant relationships based on genuine love, empathy, and kindness to meet their specific needs in a positive learning environment."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:vaidhegi_arumugam@schools.gov.sg">vaidhegi_arumugam@schools.gov.sg</a></p>
+</td>
+</tr>	
 </tbody>
 </table>
