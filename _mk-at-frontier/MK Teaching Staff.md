@@ -202,16 +202,6 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts19.jpg">
-<p><strong>Ms See Tho Sun Ein</strong></p><em>Chinese Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"Every child is a gift, each with their own unique potentials. I aim to provide them with a safe and supportive environment where they will be able to grow into their fullest potential."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:see_tho_sun_ein@schools.gov.sg">see_tho_sun_ein@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ts20.jpg">
 <p><strong>Ms Liu Hui</strong></p><em>Chinese Language Teacher</em>
 </td>
