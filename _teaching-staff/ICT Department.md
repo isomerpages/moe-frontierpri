@@ -74,14 +74,12 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ma3.jpg">
-<p><strong>Mdm Asmahwaty Binte Abdullah</strong></p>
+<img style="width:100%;" src="/images/mtl5.jpg">
+<p><strong>Miss Lim Jing Xian</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"Every child is unique in his own way and needs a safe and comfortable educational environment where he can grow physically, mentally, emotionally, and socially. It is my desire to create a learning environment where pupils can experience the joy of learning and achieve their full potential. I will provide a safe and inclusive environment where all pupils are invited to share their ideas openly and take risks to support their learning."</em></p>
-<p style="width: 100%; text-align: center;">Tel Ext: 232</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:asmahwaty_abdullah@schools.gov.sg">asmahwaty_abdullah@schools.gov.sg</a></p>
+<p><em>"Every child is like a rare gem, waiting to be unearthed and shine brightly. As an educator, I believe that my job is to help them discover their full potential and excel in their own way."</em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 230</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_jing_xian@schools.gov.sg">lim_jing_xian@schools.gov.sg</a></p>
 </td>
 </tr>
-	     
-	     
