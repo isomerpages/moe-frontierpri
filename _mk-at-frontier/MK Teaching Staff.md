@@ -6,7 +6,6 @@ description: ""
 <img style="width: 33%;" src="/images/ts1.jpg" />
 <p style="text-align: center;"><em><strong>Mrs Tonnine Chua</strong><br /></em><em>Principal</em></p>
 <p><em>"Every child is unique with his own strengths, temperaments and needs. The child as a learner is sincere and earnest in his quest for knowledge and excellence. Given the right nurturing care and environment, every child will be able to succeed and contribute in his own ways. A child's success should be celebrated to spur him on and his failure should be forgiven so that he is not afraid to explore and attempt. Thus, each child should be appreciated in his own merits and be encouraged to pursue and excel in his areas of interests and strengths. Every child symbolizes hope for the country and should be cherished, nurtured and developed to become a useful citizen."</em></p>
-
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
@@ -29,6 +28,7 @@ description: ""
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe that children learn best when they are having fun playing! "Play is the highest form of research" -  Albert Einstein"</em></p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nur_afiqah_mohd_ali@schools.gov.sg">nur_afiqah_mohd_ali@schools.gov.sg</a></p>
+</td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
