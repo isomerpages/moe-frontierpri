@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - ICT Department.md
       - English Department.md
       - Mathematics Department.md
       - MTL Department.md
