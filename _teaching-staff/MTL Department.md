@@ -118,6 +118,17 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/HONG YIAN.jpg">
+<p><strong>Miss Lee Hong Yian</strong></p>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em></em></p>
+<p style="width: 100%; text-align: center;">Tel Ext: 270</p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Lee_Hong_Yian@schools.gov.sg">Lee_Hong_Yian@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/mtl17.jpg">
 <p><strong>Mdm Norhayati Binte Ibnor</strong></p>
 </td>
