@@ -3,7 +3,6 @@ title: ICT Department
 permalink: /ICT-department/
 description: ""
 ---
-
 <h4><strong>ICT Department</strong></h4>
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
@@ -118,4 +117,4 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table>	     
+</table>
