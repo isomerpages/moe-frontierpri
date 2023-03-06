@@ -3,16 +3,15 @@ title: English Department
 permalink: /English-department/
 description: ""
 ---
-
 <h4><strong>English Language Department</strong></h4>
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
-<td style="text-align: center; border:1px solid black;">
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/eng1.jpg">
 <p><strong>Mdm Nurashikin Mohamed Zamrabi</strong></p>
 </td>
-<td style="width: 100%; text-align: justify; border:1px solid black;">
+<td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Education is not just about grades: it is about building and nurturing the character of a child. It is also about preparing the child for a changing future. Education should enable the children to grow up to be independent-thinking adults who are resilient in the face of challenges and failure. Education does not stop when school ends: it is a lifelong process."</em></p>
 <p style="width: 100%; text-align: center;">Tel Ext: 282</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nurashikin_mohamed_zaa@schools.gov.sg">nurashikin_mohamed_zaa@schools.gov.sg</a></p>
