@@ -20,7 +20,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/smd3.jpg">
-<p><strong>Mrs Francesca d'Armancourt</strong></p>
+<p><strong>Mrs Francesca D'armancourt</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"The mind of a child is a boundless universe of imagination, curiosity and knowledge. I believe in opening up enriching experiences and opportunities to develop a child holistically. In discovering their passion and finding joy in learning every day, they can make their dreams become tomorrow's reality."</em></p>
