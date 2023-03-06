@@ -8,7 +8,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci7.jpg">
+<img style="width:100%;" src="/images/sci7.jpg">
 <p><strong>Miss Li Shaohui</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -18,7 +18,7 @@ description: ""
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci2.jpg">
+<img style="width:100%;" src="/images/sci2.jpg">
 <p><strong>Miss Cheng Voon Yen</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -29,7 +29,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci6.jpg">
+<img style="width:100%;" src="/images/sci6.jpg">
 <p><strong>Mr Lin Renyi</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -39,17 +39,17 @@ description: ""
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci5.jpg">
+<img style="width:100%;" src="/images/sci5.jpg">
 <p><strong>Miss Nur Atiqah Syahirah</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"Education provides one with the opportunity to think and learn.&nbsp;As we learn, we understand. As we understand, we help. And as we help, we change the world for the better: one action at a time."</em></p>
+<p><em>"Education provides one with the opportunity to think and learn. As we learn, we understand. As we understand, we help. And as we help, we change the world for the better: one action at a time."</em></p>
 <p style="width: 100%; text-align: center;">Tel Ext: 260</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nur_atiqah_syahirah@schools.gov.sg">nur_atiqah_syahirah@schools.gov.sg</a></p>
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci4.jpg">
+<img style="width:100%;" src="/images/sci4.jpg">
 <p><strong>Miss You Xueli</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -59,7 +59,7 @@ description: ""
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci9.jpg">
+<img style="width:100%;" src="/images/sci9.jpg">
 <p><strong>Mr Ganges Lim Zi Yang</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -71,7 +71,7 @@ description: ""
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci3.jpg">
+<img style="width:100%;" src="/images/sci3.jpg">
 <p><strong>Mdm Ng Xiao Wei Serene</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -81,7 +81,7 @@ description: ""
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;"src="/images/sci11.jpg">
+<img style="width:100%;" src="/images/sci11.jpg">
 <p><strong>Mrs Michelle Tan Soh Soke Mei</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -89,3 +89,6 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel Ext: 292</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:soh_soke_mei_michelle@schools.gov.sg">soh_soke_mei_michelle@schools.gov.sg</a></p>
 </td>
+</tr>
+</tbody>
+</table>
