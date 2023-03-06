@@ -152,26 +152,6 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Ei Zhe Qi.jpg">
-<p><strong>Ms Ei Zhe Qi</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ei_zhe_qi@schools.gov.sg">ei_zhe_qi@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Low Jasmine.jpg">
-<p><strong>Ms Low Jasmine</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"I believe that every child is a unique individual and pro-active learner. I value and wish to cultivate self-learning and reflectiveness. I will provide learning opportunities to enhance their learning and development."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:low_jasmine@schools.gov.sg">low_jasmine@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/Prevena.jpg">
 <p><strong>Ms Prevena D/O Kannathass</strong></p><em>English Language Teacher</em>
 </td>
@@ -228,6 +208,26 @@ description: ""
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"My job as a teacher is to ignite a spark that creates a desire to learn in our children."</em></p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_chiau_ling@schools.gov.sg">lim_chiau_ling@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/Ei Zhe Qi.jpg">
+<p><strong>Ms Ei Zhe Qi</strong></p><em>Chinese Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ei_zhe_qi@schools.gov.sg">ei_zhe_qi@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center; border:1px solid black;">
+<img style="width:100%;" src="/images/Low Jasmine.jpg">
+<p><strong>Ms Low Jasmine</strong></p><em>Chinese Language Teacher</em>
+</td>
+<td style="width: 50%; text-align: justify; border:1px solid black;">
+<p><em>"I believe that every child is a unique individual and pro-active learner. I value and wish to cultivate self-learning and reflectiveness. I will provide learning opportunities to enhance their learning and development."</em></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:low_jasmine@schools.gov.sg">low_jasmine@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
