@@ -105,5 +105,3 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:goh_magdalein@schools.gov.sg">goh_magdalein@schools.gov.sg</a></p>
 </td>
 </tr>
-</tbody>
-</table>
