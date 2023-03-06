@@ -90,5 +90,3 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:soh_soke_mei_michelle@schools.gov.sg">soh_soke_mei_michelle@schools.gov.sg</a></p>
 </td>
 </tr>
-</tbody>
-</table>
