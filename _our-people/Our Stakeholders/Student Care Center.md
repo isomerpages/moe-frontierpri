@@ -13,6 +13,6 @@ third_nav_title: Our Stakeholders
 <p>After the upcoming P1 Registration Exercise is over, the school will provide parents of 2024 P1 students who have successfully enrolled into Frontier Primary with information on the application process, via hard copy mail</p>
 <p>In allocating available places, priority will be given to applications citing exceptional reasons.</p>
 <p>2024 Primary 1 students with sibling(s) already registered with the SCC will be given priority to register with the SCC.</p>
-<p><strong>Service Provider</strong></p>
-<p>The SCC service provider at Frontier Primary School is Raffles Student Care Centre LLP. For any clarifications on programmes, services and fees, kindly contact</p>
-<p>Ms Aqilah<br />Tel: 62514052 or<br />Mdm Aishah<br />Tel: 83689694<br />(Mon to Fri, 1pm to 6:00pm)</p>
+<p><strong>Contact Details of Service Provider</strong></p>
+<p>For any clarifications on programmes, services and fees, kindly contact the SCC supervisor:</p>
+<p>Ms Sydah<br />Tel: 62514052 <br />Hp: 89511776<br />(Mon to Fri, 1:00pm to 6:00pm)</p>
