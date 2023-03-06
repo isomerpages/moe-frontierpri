@@ -14,7 +14,7 @@ description: ""
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Every child is unique, and my duty is to discover their potential so that they will shine in their own ways. Personally, I love to learn about new things, and I hope to impart the joy of learning to my pupils!"</em></p>
 <p style="width: 100%; text-align: center;">Tel Ext: 234</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Li_SHAOHUI@schools.gov.sg">Li_SHAOHUI@schools.gov.sg</a></p></a></p>
+<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Li_SHAOHUI@schools.gov.sg">Li_SHAOHUI@schools.gov.sg</a></p>
 </td>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
