@@ -37,7 +37,6 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel ext: 254</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:kaur_harsharan_t_s@schools.gov.sg">kaur_harsharan_t_s@schools.gov.sg</a></p>
 </td>
-</tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width: 100%;" src="/images/eng5.jpg">
