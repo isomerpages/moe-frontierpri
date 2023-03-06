@@ -5,8 +5,8 @@ description: ""
 ---
 <p>Dear Parents,</p>
 <p>Please find the links to the HBL instructions for each level and class below:</p>
-<p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-10mar">https://go.gov.sg/p1-hbl-10mar</a></strong></p>
-<p>P2:&nbsp;<strong><a href="https://go.gov.sg/p2-hbl-10mar">https://go.gov.sg/p2-hbl-10mar</a></strong></p>
+<p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-10march">https://go.gov.sg/p1-hbl-10march</a></strong></p>
+<p>P2:&nbsp;<strong><a href="https://go.gov.sg/p2-hbl-10march">https://go.gov.sg/p2-hbl-10march</a></strong></p>
 <p>For password reset and unlocking of accounts, please click on the web link and fill out the form. Our personnel will get back to you as soon as possible. For feedback, other technical assistance or enquiries, please refer to the following table for the point of contact.</p>
 <table border="1px solid black">
 <tbody>
