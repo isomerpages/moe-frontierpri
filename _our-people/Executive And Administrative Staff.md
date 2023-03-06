@@ -141,6 +141,6 @@ description: ""
 <p><strong>Mdm Nina Bte Osman</strong></p>
 <p><strong><em>Operations Support Officer</em></strong></p>
 <td style="width: 50%; text-align: justify; border:1px solid black;"></td>
-	</tr>
-	</tbody>
-	</table>
+</tr>
+</tbody>
+</table>
