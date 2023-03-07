@@ -20,6 +20,3 @@ third_nav_title: Event Gallery 2023
 <img src="/images/GREAT 7.jpg" style="width: 100%;">
 <td style="width: 33.33%; text-align: center; border:1px solid black;">
 <img src="/images/GREAT 8.jpg" style="width: 100%;">
-</tr>
-</tbody>
-</table>
