@@ -24,6 +24,3 @@ third_nav_title: Event Gallery 2023
 <img src="/images/SwimSafer 9.jpg" style="width: 100%;">
 <tr style="height: 20px;"><td style="width: 33.333%; text-align: center; border:1px solid black;">
 <img src="/images/SwimSafer 10.jpg" style="width: 100%;">
-</tr>
-</tbody>
-</table>
