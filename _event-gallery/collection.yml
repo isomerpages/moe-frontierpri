@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2023/P1 GREAT Transition Graduation Day and PTM.md
       - Event Gallery 2023/P4 Code For Fun.md
       - Event Gallery 2023/SwimSafer Programme.md
       - Event Gallery 2023/P1 Transition Programme 2023.md
