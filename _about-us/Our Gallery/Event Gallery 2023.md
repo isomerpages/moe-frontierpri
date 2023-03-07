@@ -29,5 +29,3 @@ third_nav_title: Our Gallery
 <td style="width: 20%; text-align: center;"><strong><a></a></strong></td>
 <td style="width: 20%; text-align: center;"><strong><a></a></strong></td>
 </tr>
-</tbody>
-</table>
