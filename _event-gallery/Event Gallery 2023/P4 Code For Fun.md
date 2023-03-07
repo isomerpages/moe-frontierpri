@@ -18,6 +18,3 @@ third_nav_title: Event Gallery 2023
 <img src="/images/CFF 6.jpg" style="width: 100%;">
 <tr style="height: 20px;"><td style="width: 33.333%; text-align: center; border:1px solid black;">
 <img src="/images/CFF 7.jpg" style="width: 100%;">
-</tr>
-</tbody>
-</table>
