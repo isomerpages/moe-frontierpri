@@ -14,7 +14,7 @@ third_nav_title: Our Gallery
 </tr>
 <tr>
 <td style="width: 20%; text-align: center;"><strong><a href="/p1-transition-programme-2023/" target="_blank" rel="noopener">P1 Transition Programme</a></strong></td>
-<td style="width: 20%; text-align: center;"><strong><a href="/p1-transition-programme-2023/" target="_blank" rel="noopener">Back to Frontier</a></strong></td>
+<td style="width: 20%; text-align: center;"><strong><a href="/back-to-frontier/" target="_blank" rel="noopener">Back to Frontier</a></strong></td>
 <td style="width: 20%; text-align: center;"><strong><a href="/P1-GREAT-Grad-Day/" target="_blank" rel="noopener">P1 GREAT Graduation Day</a></strong></td>
 <td style="width: 20%; text-align: center;"><strong><a href="/CNY-2023/" target="_blank" rel="noopener">Chinese New Year</a></strong></td>
 </tr>
