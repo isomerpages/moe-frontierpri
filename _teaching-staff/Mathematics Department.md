@@ -118,4 +118,4 @@ description: ""
 <p style="width: 100%; text-align: center;">Tel Ext: 293</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:derek_lee_shen_long@schools.gov.sg">derek_lee_shen_long@schools.gov.sg</a></p>
 </td>
-</table>
+</tr>

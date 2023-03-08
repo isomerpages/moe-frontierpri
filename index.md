@@ -16,7 +16,7 @@ sections:
           description: Useful Links
           url: /useful-links-for-teachers/
         - title: Alumni
-          description: Information for Alumnis
+          description: Information for Alumni
           url: /for-alumni/
   - resources:
       title: Highlights
