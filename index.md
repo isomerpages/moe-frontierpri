@@ -33,9 +33,9 @@ sections:
       image: /images/Maker 2 pic 3.jpg
   - infopic:
       title: iN-Touch
-      description: '"Checkout Frontier!"'
-      button: More Articles
-      url: https://staging.d331543a351h7b.amplifyapp.com/in-touch/
+      description: Checkout our Term 1 2023 iN-Touch
+      button: Read more
+      url: iN-Touch Term 1 2023.pdf
       image: /images/iN-Touch Logo.jpg
       alt: Image alt text
       subtitle: Our Termly Newsletter
