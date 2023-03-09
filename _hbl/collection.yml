@@ -2,8 +2,8 @@ collections:
   hbl:
     output: true
     order:
-      - HBL Links for 10 March 2023.md
       - HBL Links.md
+      - HBL Links for 10 March 2023.md
       - HBL Links for 15 February 2023.md
       - April 2022/.keep
       - April 2022/HBL Links 6 April 2022.md
