@@ -23,7 +23,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/ts4.jpg">
-<p><strong>Ms Siti Aisyah Khan</strong></p><em>Deputy Centre Head</em>
+<p><strong>Ms Nur Afiqah Mohd Ali</strong></p><em>Deputy Centre Head</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe that children learn best when they are having fun playing! "Play is the highest form of research" -  Albert Einstein"</em></p>
