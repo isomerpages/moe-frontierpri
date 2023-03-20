@@ -25,7 +25,7 @@ description: ""
 			<p>·&nbsp; *P4 E2K Mathematics</p></td>
       <td style="border:1px solid black;">
       </td>
-    </tr>
+     </tr>
     <tr>
 			<td style="border:1px solid black;"><p>22 March, Wed</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #3</p></td>
@@ -129,7 +129,7 @@ description: ""
 		<tr>
 		<td style="border:1px solid black;"><p>14 April, Fri</p></td>
      <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
+	  <p>·&nbsp; P4 to P6 Friday CCAs</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; Class and CCA Photo-Taking Day 1</p></td>
     </tr>
     <tr>
