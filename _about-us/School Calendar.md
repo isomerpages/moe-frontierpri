@@ -327,10 +327,8 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
-    </tr>
-  </tbody>
+		</tr>
+	</tbody>
 </table>
-
 <p>*For selected students only</p>
-
 <p>** Information above is accurate as of 20 March 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
