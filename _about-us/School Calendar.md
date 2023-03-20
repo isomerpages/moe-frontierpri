@@ -147,7 +147,7 @@ description: ""
     <tr>
       <td style="border:1px solid black;"><p>19 April, Wed</p></td>
       <td style="border:1px solid black;"></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN2 and 4IN6 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 4IN2 and 4IN6 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>20 April, Thurs</p></td>
@@ -165,21 +165,15 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>6</strong></td>
-      <td style="border:1px solid black;">6 Feb, Mon</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P4 to P6 CCA
-        <p>·&nbsp;&nbsp;&nbsp; *TDD Rehearsal #4</p>
-      </td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>6</strong></td>
+       <td style="border:1px solid black;"><p>24 April, Mon</p></td>
+     <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Hari Raya Puasa School Holiday</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;;">7 Feb, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #4 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-      </td>
-      <td style="border:1px solid black;"></td>
+       <td style="border:1px solid black;"><p>26 April, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #5</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 4IN3 and 4IN4 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">8 Feb, Wed</td>
@@ -193,19 +187,10 @@ description: ""
         <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
         <p>·&nbsp;&nbsp;&nbsp;*P4 E2K Science #4</p>
         <p>·&nbsp;&nbsp;&nbsp;*P5 Science Stretch #3</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #3</p>
-      </td>
+        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #3</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
-    <tr>
-      <td style="border:1px solid black;">10 Feb, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #5 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</p>
-      </td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
+       <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
       <td style="border:1px solid black;">13 Feb, Mon</td>
       <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
