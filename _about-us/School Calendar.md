@@ -193,18 +193,15 @@ description: ""
     </tr>
        <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
-      <td style="border:1px solid black;">13 Feb, Mon</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; Total Defence Day Commemoration</td>
+      <td style="border:1px solid black;"><p>1 May, Mon</p></td>
+     <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Labour Day Public Holiday</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">14 Feb, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #5 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; *Start of P4/P5 E2K Math</p>
-      </td>
-      <td style="border:1px solid black;"></td>
+       <td style="border:1px solid black;"><p>2 May, Tues</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
+	<p>·&nbsp; P6 Revision</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P4 IPW Period (2 to 5 May)</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">15 Feb, Wed</td>
