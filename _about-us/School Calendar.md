@@ -103,31 +103,32 @@ description: ""
       <td style="border:1px solid black;"></td>
       </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="3"><strong>4</strong></td>
-      <td style="border:1px solid black;">25 Jan, Wed</td>
+      <td style="border:1px solid black;" rowspan="5"><strong>4</strong></td>
+      <td style="border:1px solid black;"><p>10 April, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
+	<p>·&nbsp; P4 to P6 Monday CCAs</p></td>
       <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp; 4IN1 Code for Fun</td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">26 Jan, Thur</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; Start of P6 Remedial
-        <p>·&nbsp;&nbsp;&nbsp; *P4 E2K Science #2</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P5 Science Stretch #1</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E. Programme #1</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp; 4IN2 Code for Fun</td>
+      <td style="border:1px solid black;"><p>11 April, Tue</p></td>
+     <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
+			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">27 Jan, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #3 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; Start of P4 to P6 CCA</p>
-      </td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp; 4IN2 Code for Fun
-        <p>·&nbsp;&nbsp;&nbsp; P1 G.R.E.A.T Transition Day</p>
-      </td>
+      <td style="border:1px solid black;"><p>12 April, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P4/P5 EL Stretch - Theatre Experience</p>
+			<p>·&nbsp; *RAINBOWS #4</p></td>
+			<td style="border:1px solid black;"></td>
+    </tr>
+		<td style="border:1px solid black;"><p>13 April, Thurs</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P5/P6 Asia Pacific Mathematical Olympiad (Pri)</p></td>
+      <td style="border:1px solid black;"></td>
+    </tr>
+		<td style="border:1px solid black;"><p>14 April, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
+	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Class and CCA Photo-Taking Day 1</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
