@@ -62,21 +62,18 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">12 Jan, Thur</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp;; P3 SwimSafer #2 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp;&nbsp; *P5 Science E2K #1</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp;4IN5 Code for Fun</td>
+      <td style="border:1px solid black;">30 March, Thur</td>
+      <td style="border:1px solid black;">.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4 E2K Science #8</p>
+			<p>·&nbsp; *P5 Science Stretch #6</p>
+			<p>·&nbsp; *SHINE Programme #9</p></td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">13 Jan, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #2 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; *Learning Journey to Bukit Timah Hill</p>
-        <p>·&nbsp;&nbsp;&nbsp; School eLF Council Meet #1</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp;4IN5 Code for Fun</td>
+      <td style="border:1px solid black;">31 March, Fri</td>
+       <td style="border:1px solid black;">·&nbsp; Start of P3 SCCA (3RY1/2/3)</p>
+	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>3</strong></td>
