@@ -41,7 +41,7 @@ description: ""
     <tr>
 			<td style="border:1px solid black;"><p>24 March, Fri</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; P4 to P6 Friday CCAs</p>
-	<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
+				<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
@@ -121,10 +121,12 @@ description: ""
 			<p>·&nbsp; *RAINBOWS #4</p></td>
 			<td style="border:1px solid black;"></td>
     </tr>
+		<tr>
 		<td style="border:1px solid black;"><p>13 April, Thurs</p></td>
      <td style="border:1px solid black;"><p>·&nbsp; P5/P6 Asia Pacific Mathematical Olympiad (Pri)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
+		<tr>
 		<td style="border:1px solid black;"><p>14 April, Fri</p></td>
      <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
 	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
@@ -191,7 +193,7 @@ description: ""
 	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
-       <tr>
+     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
       <td style="border:1px solid black;"><p>1 May, Mon</p></td>
      <td style="border:1px solid black;"></td>
