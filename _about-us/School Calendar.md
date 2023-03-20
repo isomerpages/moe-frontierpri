@@ -214,26 +214,24 @@ description: ""
 			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">16 Feb, Thu</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #6 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp;*P4 E2K Science #5</p>
-        <p>·&nbsp;&nbsp;&nbsp;*P5 Science Stretch #4</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #4</p>
-      </td>
+       <td style="border:1px solid black;"><p>4 May, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 E2K Science #11</p>
+			<p>·&nbsp; *P5 E2K Science #5</p>
+			<p>·&nbsp; *SHINE Programme #13</p>
+	    <p>·&nbsp; *P5 Haibin Internationalisation Programme #1</p></td>
+      <td style="border:1px solid black;"> <p>·&nbsp; P1 LJ to Frontier CC (school hours)</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>5 May, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
+	<p>·&nbsp; P4 to P5 Friday CCAs</p>
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">17 Feb, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #6 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</p>
-      </td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>8</strong></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>8</strong></td>
       <td style="border:1px solid black;">20 Feb, Mon</td>
       <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
       <td style="border:1px solid black;">
@@ -242,12 +240,8 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">21 Feb, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #6 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P4/P5 E2K Math</p>
-      </td>
+      <td style="border:1px solid black;"><p>9 May, Tues</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
@@ -268,6 +262,11 @@ description: ""
         <p>·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</p>
         <p>·&nbsp;&nbsp;&nbsp; *P3 to P6 Maker Workshop #2</p>
       </td>
+	    <td style="border:1px solid black;"></td>
+	  </tr>
+		<tr>
+    <td style="border:1px solid black;"><p>12 May, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
