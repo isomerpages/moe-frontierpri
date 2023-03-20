@@ -221,7 +221,7 @@ description: ""
 			<p>·&nbsp; *P5 E2K Science #5</p>
 			<p>·&nbsp; *SHINE Programme #13</p>
 	    <p>·&nbsp; *P5 Haibin Internationalisation Programme #1</p></td>
-      <td style="border:1px solid black;"> <p>·&nbsp; P1 LJ to Frontier CC (school hours)</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P1 LJ to Frontier CC (school hours)</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>5 May, Fri</p></td>
@@ -232,12 +232,12 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>8</strong></td>
-      <td style="border:1px solid black;">20 Feb, Mon</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P5 Interdisciplinary PriheW (20 to 23 Feb)
-        <p>·&nbsp;&nbsp;&nbsp; *P1 & P6 School Smart Card photo-taking</p>
-      </td>
+      <td style="border:1px solid black;"><p>8 May, Mon</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
+	<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Review 1</p>
+	<p>·&nbsp; P6 Timed practice 2 (8 to 19 May)</p>
+				<p>·&nbsp; Hari Raya Concert (during assembly)</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>9 May, Tues</p></td>
@@ -245,24 +245,15 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">23 Feb, Thur</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #7 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp;*P4 E2K Science #6</p>
-        <p>·&nbsp;&nbsp;&nbsp;*P5 Science Stretch #5</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #5</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P2 Learning Journey to National Orchid Garden</td>
+     <td style="border:1px solid black;"><p>10 May, Wed</p></td>
+     <td style="border:1px solid black;"></td>
+     <td style="border:1px solid black;"><p>·&nbsp;P6LO3/4/6 LJ to ACM (school hours)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">24 Feb, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #7 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P3 to P6 Maker Workshop #2</p>
-      </td>
-	    <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>11 May, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *SHINE Programme #14</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp;P6LO1/2/5 LJ to ACM (school hours)</p></td>
 	  </tr>
 		<tr>
     <td style="border:1px solid black;"><p>12 May, Fri</p></td>
