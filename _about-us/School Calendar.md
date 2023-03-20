@@ -111,7 +111,7 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>11 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P6 Remedial</p>
 			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
 			<td style="border:1px solid black;"></td>
     </tr>
@@ -132,46 +132,36 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
-      <td style="border:1px solid black;">30 Jan, Mon</td>
-      <td style="border:1px solid black;;">
-        ·&nbsp;&nbsp;&nbsp; Start of P4 to P6 CCA
-        <p>·&nbsp;&nbsp;&nbsp; *P3 to P6 Maker Workshop #1</p>
-        <p>·&nbsp;&nbsp;&nbsp; *TDD Rehersal #2</p>
-      </td>
+      <td style="border:1px solid black;"><p>17 April, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
+	<p>·&nbsp; P4 to P6 Monday CCAs (Last session for P6 Monday CCAs)</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 IPW Period (17 to 20 April)</p>
+	<p>·&nbsp; Class and CCA Photo-Taking Day 2</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>18 April, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 4IN1 and 4IN5 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>19 April, Wed</p></td>
+      <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 4IN2 and 4IN6 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>20 April, Thurs</p></td>
+      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4 E2K Science #9</p>
+			<p>·&nbsp; *P5 E2K Science #3</p>
+			<p>·&nbsp; *SHINE Programme #11</p>
+			<p>·&nbsp; *P5 Raffles Science Olympiad (round 2)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">31 Jan, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #3 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; Start of P4 and P5 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; P6 Remedial</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; 4IN3 Code for Fun</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;">1 Feb, Wed</td>
-      <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; 4IN3 Code for Fun</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;">2 Feb, Thu</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #4 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P4 E2K Science #3</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P5 Science Stretch #2</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E. Programme #2</p>
-        <p>·&nbsp;&nbsp;&nbsp; *TDD Rehearsal #3</p>
-      </td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;">3 Feb, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #4 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</p>
-      </td>
+      <td style="border:1px solid black;"><p>21 April, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
+	<p>·&nbsp; P4 to P6 Friday CCAs (Last session for P6 Friday CCAs)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
