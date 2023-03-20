@@ -45,11 +45,12 @@ description: ""
 	<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
-    </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
-      <td style="border:1px solid black;">10 Jan, Tue</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY3 & 3RY6)</td>
+      <td style="border:1px solid black;">27 March, Mon</td>
+      <td style="border:1px solid black;">·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
+	<p>&nbsp; P4 to P6 Monday CCAs</p>
+	<p>·&nbsp; *Maker Workshop #3: Amazing Shrinking Plastic</p></td>
       <td style="border:1px solid black;">
         ·&nbsp;&nbsp;&nbsp; 4IN4 Code For Fun
         <p>·&nbsp;&nbsp;&nbsp; *Integration Programme #1</p>
