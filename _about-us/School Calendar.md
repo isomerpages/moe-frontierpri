@@ -48,14 +48,14 @@ description: ""
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
       <td style="border:1px solid black;">27 March, Mon</td>
-      <td style="border:1px solid black;">·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
+      <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
 	<p>&nbsp; P4 to P6 Monday CCAs</p>
 	<p>·&nbsp; *Maker Workshop #3: Amazing Shrinking Plastic</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">28 March, Tues</td>
-      <td style="border:1px solid black;">.&nbsp; P3 to P6 Remedial</p>
+      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
 			<p>·&nbsp; *P4/P5 SASMO Competition</p>
 			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
       <td style="border:1px solid black;">
@@ -63,7 +63,7 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;">30 March, Thur</td>
-      <td style="border:1px solid black;">.&nbsp; P3 to P6 Remedial</p>
+      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
 			<p>·&nbsp; *P4 E2K Science #8</p>
 			<p>·&nbsp; *P5 Science Stretch #6</p>
 			<p>·&nbsp; *SHINE Programme #9</p></td>
@@ -71,7 +71,7 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;">31 March, Fri</td>
-       <td style="border:1px solid black;">·&nbsp; Start of P3 SCCA (3RY1/2/3)</p>
+       <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY1/2/3)</p>
 	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
