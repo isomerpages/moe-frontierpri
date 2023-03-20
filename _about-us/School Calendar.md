@@ -51,17 +51,14 @@ description: ""
       <td style="border:1px solid black;">·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
 	<p>&nbsp; P4 to P6 Monday CCAs</p>
 	<p>·&nbsp; *Maker Workshop #3: Amazing Shrinking Plastic</p></td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; 4IN4 Code For Fun
-        <p>·&nbsp;&nbsp;&nbsp; *Integration Programme #1</p>
-      </td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">11 Jan, Wed</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; *P3 to P5 Math Stretch #1</td>
+      <td style="border:1px solid black;">28 March, Tues</td>
+      <td style="border:1px solid black;">.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4/P5 SASMO Competition</p>
+			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
       <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; Temperature-Taking Exercise
-        <p>·&nbsp;&nbsp;&nbsp; 4IN4 Code for Fun</p>
       </td>
     </tr>
     <tr>
