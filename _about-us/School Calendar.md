@@ -35,7 +35,6 @@ description: ""
 			<td style="border:1px solid black;"><p>23 March, Thurs</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; P3 and P4 Remedial</p>
 			<p>·&nbsp; P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #7</p>
 			<p>·&nbsp; *SHINE Programme #8</p></td>
       <td style="border:1px solid black;"></td>
 			</tr>
@@ -64,7 +63,7 @@ description: ""
     <tr>
 			<td style="border:1px solid black;"><p>30 March, Thur</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #8</p>
+			<p>·&nbsp; *P4 E2K Science #7</p>
 			<p>·&nbsp; *P5 Science Stretch #6</p>
 			<p>·&nbsp; *SHINE Programme #9</p></td>
       <td style="border:1px solid black;"></td>
@@ -95,15 +94,14 @@ description: ""
 			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">19 Jan, Thur</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #3 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp; *P4 E2K Science #1</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P5 E2K Science #2</p>
-        <p>·&nbsp;&nbsp;&nbsp; *TDD Rehearsal 1</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp;&nbsp; 4IN1 Code for Fun</td>
-    </tr>
+      <td style="border:1px solid black;"><p>6 April, Thurs</p></td>
+      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4 E2K Science #8</p>
+			<p>·&nbsp; *P5 Science Stretch #7</p>
+			<p>·&nbsp; *SHINE Programme #10</p>
+			<p>·&nbsp; *P5 Raffles Science Olympiad (round 1 online)</p></td>
+      <td style="border:1px solid black;"></td>
+      </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="3"><strong>4</strong></td>
       <td style="border:1px solid black;">25 Jan, Wed</td>
