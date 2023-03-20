@@ -200,16 +200,18 @@ description: ""
     <tr>
        <td style="border:1px solid black;"><p>2 May, Tues</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
-	<p>·&nbsp; P6 Revision</p></td>
+	<p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *P5 E2K Mathematics</p>
+	<p>·&nbsp; P4 NAPFA Test (5 stations) @ISH</p>
+	<p>·&nbsp; *Hari Raya Concert Rehearsal #1 @Hall</p></td>
 			<td style="border:1px solid black;"><p>·&nbsp; P4 IPW Period (2 to 5 May)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">15 Feb, Wed</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; School eLF Council Meet #2 (virtual)</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; Home-Based Learning #1 (P3 to P6)
-        <p>(P1 and P2 students will report to school as usual)</p>
-      </td>
+      <td style="border:1px solid black;"><p>3 May, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *School eLF Council Meet #5</p>
+	<p>·&nbsp; *RAINBOWS #6</p>
+	<p>·&nbsp; *Hari Raya Concert Rehearsal #2 @Hall</p></td>
+			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">16 Feb, Thu</td>
