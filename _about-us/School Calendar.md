@@ -262,82 +262,73 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>9</strong></td>
-      <td style="border:1px solid black;">27 Feb, Mon</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; Start of P6 Timed Practice 1 (27 Feb to 9 Mar)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;">28 Feb, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #7 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P4/P5 E2K Math</p>
-      </td>
+       <td style="border:1px solid black;"><p>15 May, Mon</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">1 Mar, Wed</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; School eLF Council Meet #3</td>
+      <td style="border:1px solid black;"><p>16 May, Tues</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P6 NAPFA Test (5 stations)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">2 Mar, Thu</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #8 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #6</p>
-      </td>
+       <td style="border:1px solid black;"><p>17 May, Wed</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #7</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">3 Mar, Fri</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #8 (3RY1 & 3RY5)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 CCA</p>
-      </td>
+      <td style="border:1px solid black;"><p>18 May, Thurs</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *S.H.I.N.E Programme #15</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>10</strong></td>
-      <td style="border:1px solid black;">6 Mar, Mon</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P4 to P6 CCA
-        <p>·&nbsp;&nbsp;&nbsp; *IFD Rehearsal #1</p>
-      </td>
+      <td style="border:1px solid black;"><p>19 May, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; 3RY3/4/5 LJ Bollywood Veggies</p>
+	<p>·&nbsp; P4 and P5 Friday CCAs</p>
+	<p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *P5 Haibin Internationalisation Programme #2</p>
+	<p>·&nbsp; *Maker Workshop #4: Fun with Filming @ CWSS</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">7 Mar, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #8 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp; *P4/P5 E2K Math</p>
-      </td>
+      <td style="border:1px solid black;" rowspan="5"><strong>10</strong></td>
+      <td style="border:1px solid black;"><p>22 May, Mon</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P3 CCA Fair (All P3 classes)</p>
+	<p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *P5 Haibin Internationalisation Programme #3</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">9 Mar, Thu</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #7</p>
-        <p>·&nbsp;&nbsp;&nbsp; *IFD/Friendship Beyond Border Prog Rehearsal #2</p>
-      </td>
+      <td style="border:1px solid black;"><p>23 May, Tues</p></td>
+         <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
+	<p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; P4 E2K Mathematics</p>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">10 Mar, Fri</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; S-eLF-L.E.S.S A</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; Home-Based Learning #1 (P1 & P2)
-        <p>·&nbsp;&nbsp;&nbsp; P3 to P6 Sports Day</p>
-      </td>
+       <td style="border:1px solid black;"><p>24 May, Wed</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; 3RY1/2/6 LJ Bollywood Veggies</p>
+			<p>·&nbsp; Gratitude Programme #2</p>
+			<p>·&nbsp; *RAINBOWS #8</p></td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>March School Holidays</strong></td>
+      <td style="border:1px solid black;"><p>25 May, Thurs</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; *S.H.I.N.E Programme #16</p></td>
+      <td style="border:1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>26 May, Fri</p></td>
+     <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P1 to P6 Parent-Child-Teacher Conference</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
     </tr>
   </tbody>
 </table>
 
 <p>*For selected students only</p>
 
-<p>** Information above is accurate as of 5 January 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
+<p>** Information above is accurate as of 20 March 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
