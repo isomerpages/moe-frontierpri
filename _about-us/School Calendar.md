@@ -15,25 +15,25 @@ description: ""
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>1</strong></td>
       <td style="border:1px solid black;">20 March, Mon</td>
-      <td style="border:1px solid black;">·&nbsp; P5 Camp (20 to 22 March)</td>
+			<td style="border:1px solid black;"><p>·&nbsp; P5 Camp (20 to 22 March)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">21 March, Tues</td>
-      <td style="border:1px solid black;">.&nbsp; Start of P3 and P4 Remedial</p>
+      <td style="border:1px solid black;"><p>.&nbsp; Start of P3 and P4 Remedial</p>
 			<p>·&nbsp; Start of P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Mathematics</p></td>
+				<p>·&nbsp; *P4 E2K Mathematics</p></td>
       <td style="border:1px solid black;">
       </td>
     </tr>
     <tr>
       <td style="border:1px solid black;">22 March, Wed</td>
-      <td style="border:1px solid black;">·&nbsp; *RAINBOWS #3</td>
+      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #3</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">23 March, Thurs</td>
-      <td style="border:1px solid black;">.&nbsp; P3 and P4 Remedial</p>
+      <td style="border:1px solid black;"><p>.&nbsp; P3 and P4 Remedial</p>
 			<p>·&nbsp; P6 Remedial</p>
 			<p>·&nbsp; *P4 E2K Science #7</p>
 			<p>·&nbsp; *SHINE Programme #8</p></td>
@@ -41,7 +41,7 @@ description: ""
 			</tr>
     <tr>
 			<td style="border:1px solid black;">24 March, Fri</td>
-      <td style="border:1px solid black;">·&nbsp; P4 to P6 Friday CCAs</p>
+      <td style="border:1px solid black;"><p>·&nbsp; P4 to P6 Friday CCAs</p>
 	<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
