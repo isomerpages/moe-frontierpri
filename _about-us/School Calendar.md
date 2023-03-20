@@ -14,25 +14,25 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>1</strong></td>
-      <td style="border:1px solid black;">20 March, Mon</td>
+			<td style="border:1px solid black;"><p>20 March, Mon</p></td>
 			<td style="border:1px solid black;"><p>·&nbsp; P5 Camp (20 to 22 March)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">21 March, Tues</td>
+			<td style="border:1px solid black;"><p>21 March, Tues</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; Start of P3 and P4 Remedial</p>
 			<p>·&nbsp; Start of P6 Remedial</p>
-				<p>·&nbsp; *P4 E2K Mathematics</p></td>
+			<p>·&nbsp; *P4 E2K Mathematics</p></td>
       <td style="border:1px solid black;">
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">22 March, Wed</td>
+			<td style="border:1px solid black;"><p>22 March, Wed</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #3</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">23 March, Thurs</td>
+			<td style="border:1px solid black;"><p>23 March, Thurs</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; P3 and P4 Remedial</p>
 			<p>·&nbsp; P6 Remedial</p>
 			<p>·&nbsp; *P4 E2K Science #7</p>
@@ -40,21 +40,21 @@ description: ""
       <td style="border:1px solid black;"></td>
 			</tr>
     <tr>
-			<td style="border:1px solid black;">24 March, Fri</td>
+			<td style="border:1px solid black;"><p>24 March, Fri</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; P4 to P6 Friday CCAs</p>
 	<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
-      <td style="border:1px solid black;">27 March, Mon</td>
+			<td style="border:1px solid black;"><p>27 March, Mon</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
-	<p>&nbsp; P4 to P6 Monday CCAs</p>
+	<p>·&nbsp; P4 to P6 Monday CCAs</p>
 	<p>·&nbsp; *Maker Workshop #3: Amazing Shrinking Plastic</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">28 March, Tues</td>
+			<td style="border:1px solid black;"><p>28 March, Tues</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
 			<p>·&nbsp; *P4/P5 SASMO Competition</p>
 			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
@@ -62,7 +62,7 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">30 March, Thur</td>
+			<td style="border:1px solid black;"><p>30 March, Thur</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
 			<p>·&nbsp; *P4 E2K Science #8</p>
 			<p>·&nbsp; *P5 Science Stretch #6</p>
@@ -70,29 +70,29 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">31 March, Fri</td>
+			<td style="border:1px solid black;"><p>31 March, Fri</p></td>
        <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY1/2/3)</p>
 	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>3</strong></td>
-      <td style="border:1px solid black;">16 Jan, Mon</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; *P3 to P5 Math Stretch #2</td>
+			<td style="border:1px solid black;"><p>3 April, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
+	<p>·&nbsp; P4 to P6 Monday CCAs</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">17 Jan, Tue</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer#2 (3RY3 & 3RY6)
-        <p>·&nbsp;&nbsp;&nbsp; *Gratitude Programme #1</p>
-      </td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; 4IN6 Code for Fun</td>
+			<td style="border:1px solid black;"><p>4 April, Tue</p></td>
+     <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
+			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">18 Jan, Wed</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P3to P5 Math Stretch #3</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp;&nbsp; 4IN6 Code for Fun</td>
+      <td style="border:1px solid black;"><p>5 April, Wed</p></td>
+      <td style="border:1px solid black;"><p>.&nbsp; *Embrace SG #1</p>
+			<p>·&nbsp; *School eLF Council Meet #4</p></td>
+			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;">19 Jan, Thur</td>
