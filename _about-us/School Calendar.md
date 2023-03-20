@@ -3,42 +3,48 @@ title: School Calendar
 permalink: /calendar-of-events/
 description: ""
 ---
-<strong>Frontier Primary School - Term 1 Student Calendar 2023</strong>
+<strong>Frontier Primary School - Term 2 Student Calendar 2023</strong>
 <table>
   <tbody>
     <tr>
       <td style="width: 47.7969px; border:1px solid black;"><strong>Week</strong></td>
       <td style="width: 124.594px; border:1px solid black;"><strong>Date/Day</strong></td>
-      <td style="width: 190.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
-      <td style="width: 348.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
+      <td style="width: 270.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
+      <td style="width: 270.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
     </tr>
     <tr>
-      <td style="width: 75.7969px; border:1px solid black;" rowspan="4"><strong>1</strong></td>
-      <td style="width: 140.594px; border:1px solid black;">3 Jan, Tues</td>
-      <td style="width: 190.5px; border:1px solid black;"></td>
-      <td style="width: 348.109px; border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; Start of Term 1
-      <p>·&nbsp;&nbsp;&nbsp; Start of school for P1 students only</p>
-      <p>·&nbsp;&nbsp;&nbsp; Start of P1 Transition Programme (early dismissal @12.30pm for P1 on 3 Jan and @1pm from 4 to 6 Jan)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;">4 Jan, Wed</td>
+      <td style="border:1px solid black;" rowspan="5"><strong>1</strong></td>
+      <td style="border:1px solid black;">20 March, Mon</td>
+      <td style="border:1px solid black;">·&nbsp; P5 Camp (20 to 22 March)</td>
       <td style="border:1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;">21 March, Tues</td>
+      <td style="border:1px solid black;">.&nbsp; Start of P3 and P4 Remedial</p>
+			<p>·&nbsp; Start of P6 Remedial</p>
+			<p>·&nbsp; *P4 E2K Mathematics</p></td>
       <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; Start of school for P2 to P6
-      <p>·&nbsp;&nbsp;&nbsp; Back to Frontier Day 1 for P2 to P6 students</p>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">5 Jan, Wed</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY2 & 3RY4)</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; Back to Frontier Day 2 for P2 to P6 students</td>
+      <td style="border:1px solid black;">22 March, Wed</td>
+      <td style="border:1px solid black;">·&nbsp; *RAINBOWS #3</td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">6 Jan, Fri</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; P3 SwimSafer #1 (3RY1 & 3RY5)</td>
+      <td style="border:1px solid black;">23 March, Thurs</td>
+      <td style="border:1px solid black;">.&nbsp; P3 and P4 Remedial</p>
+			<p>·&nbsp; P6 Remedial</p>
+			<p>·&nbsp; *P4 E2K Science #7</p>
+			<p>·&nbsp; *SHINE Programme #8</p></td>
       <td style="border:1px solid black;"></td>
+			</tr>
+    <tr>
+			<td style="border:1px solid black;">24 March, Fri</td>
+      <td style="border:1px solid black;">·&nbsp; P4 to P6 Friday CCAs</p>
+	<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
+      <td style="border:1px solid black;"></td>
+    </tr>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
