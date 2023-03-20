@@ -176,18 +176,19 @@ description: ""
 			<td style="border:1px solid black;"><p>·&nbsp; 4IN3 and 4IN4 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">8 Feb, Wed</td>
-      <td style="border:1px solid black;">·&nbsp;&nbsp;&nbsp; *P3 to P5 Math Stretch #4</td>
+      <td style="border:1px solid black;"><p>27 April, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Remedial</p>
+			<p>·&nbsp; Start of P6 Revision</p>
+			<p>·&nbsp; *P4 E2K Science #10</p>
+			<p>·&nbsp; *P5 E2K Science #4</p>
+			<p>·&nbsp; *SHINE Programme #12</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;">9 Feb, Thur</td>
-      <td style="border:1px solid black;">
-        ·&nbsp;&nbsp;&nbsp; P3 SwimSafer #5 (3RY2 & 3RY4)
-        <p>·&nbsp;&nbsp;&nbsp; P4 to P6 Remedial</p>
-        <p>·&nbsp;&nbsp;&nbsp;*P4 E2K Science #4</p>
-        <p>·&nbsp;&nbsp;&nbsp;*P5 Science Stretch #3</p>
-        <p>·&nbsp;&nbsp;&nbsp; *S.H.I.N.E Programme #3</p></td>
+      <td style="border:1px solid black;"><p>28 April, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
+	<p>·&nbsp; P4 to P5 Friday CCAs</p>
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
        <tr>
