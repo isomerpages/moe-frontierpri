@@ -326,8 +326,7 @@ description: ""
       <td style="border:1px solid black;"><p>·&nbsp; P1 to P6 Parent-Child-Teacher Conference</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
-		</tr>
+      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td></tr>
 	</tbody>
 </table>
 <p>*For selected students only</p>
