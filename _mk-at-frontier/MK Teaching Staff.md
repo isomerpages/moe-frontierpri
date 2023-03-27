@@ -142,16 +142,6 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts16.jpg">
-<p><strong>Ms Lyann Lock Soo San</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"I believe in building relationship and creating safe environment for children to learn, which provide an opportunities for them to grow holistically."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lyann_lock_soo_san@schools.gov.sg">lyann_lock_soo_san@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/Prevena.jpg">
 <p><strong>Ms Prevena D/O Kannathass</strong></p><em>English Language Teacher</em>
 </td>
