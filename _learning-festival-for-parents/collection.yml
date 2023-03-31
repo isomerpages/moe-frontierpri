@@ -2,6 +2,6 @@ collections:
   learning-festival-for-parents:
     output: true
     order:
-      - Student Management Department.md
       - English Department.md
       - Mathematics Department.md
+      - Student Management Department.md
