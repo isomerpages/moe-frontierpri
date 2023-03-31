@@ -4,6 +4,6 @@ permalink: /learning-festival-for-parents/english-department/
 description: ""
 ---
 <p><strong>Click on the following links to access the videos. </strong></p>
-<p><a href="/HBL-Links-for-10-March-2023/" rel="noopener">Lower Primary STELLAR</a></p>
-<p><a href="/hbl-links-for-15-Feb-23/" rel="noopener">Middle Primary Surface Annotation</a></p>
-<p><a href="/hbl-links-for-15-Feb-23/" rel="noopener">Upper Primary Oracy Strategies - T.R.E.E.S</a></p>
+<p><a href="https://youtu.be/WiLhph9-jvg" rel="noopener">Lower Primary STELLAR</a></p>
+<p><a href="https://youtu.be/_sMGFb23mWM" rel="noopener">Middle Primary Surface Annotation</a></p>
+<p><a href="https://youtu.be/dkT_NAsz80A" rel="noopener">Upper Primary Oracy Strategies - T.R.E.E.S</a></p>
