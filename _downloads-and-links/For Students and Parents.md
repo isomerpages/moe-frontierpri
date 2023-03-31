@@ -5,7 +5,7 @@ description: ""
 ---
 <p><strong>Click on the following tab to access the relevant information.</strong></p>
 <ul>
-<li><strong><a href="/hbl-2/">Learning Festival For Parents</a></strong></li>
+<li><strong><a href="/learning-festival-for-parents/">Learning Festival For Parents</a></strong></li>
 <li><strong><a href="/hbl-2/">HBL Plan</a></strong></li>
 <li><strong><a href="https://go.gov.sg/p4-tel2023" rel="noopener">P4 Tech-Enabled Learning@Frontier Briefing</a></strong></li>
 <li><strong><a href="/subject-briefings-2023/">P2-P6 Subject Briefings 2023</a></strong></li>
