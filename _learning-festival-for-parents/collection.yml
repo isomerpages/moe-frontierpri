@@ -2,5 +2,5 @@ collections:
   learning-festival-for-parents:
     output: true
     order:
-      - Mathematics Department.md
       - English Department.md
+      - Mathematics Department.md
