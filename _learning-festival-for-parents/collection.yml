@@ -2,8 +2,8 @@ collections:
   learning-festival-for-parents:
     output: true
     order:
-      - Tamil Language.md
       - Learning Festival For Parents 2023.md
       - English Department.md
       - Mathematics Department.md
+      - Tamil Language.md
       - Student Management Department.md
