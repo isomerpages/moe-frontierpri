@@ -3,8 +3,8 @@ title: MK Teaching Staff
 permalink: /mk-teaching-staff/
 description: ""
 ---
-<img style="width: 33%;" src="/images/ts1.jpg" />
-<p style="text-align: center;"><em><strong>Mrs Tonnine Chua</strong><br /></em><em>Principal</em></p>
+<img style="width: 33%;" src="/images/ts1.jpg">
+<p style="text-align: center;"><em><strong>Mrs Tonnine Chua</strong><br></em><em>Principal</em></p>
 <p><em>"Every child is unique with his own strengths, temperaments and needs. The child as a learner is sincere and earnest in his quest for knowledge and excellence. Given the right nurturing care and environment, every child will be able to succeed and contribute in his own ways. A child's success should be celebrated to spur him on and his failure should be forgiven so that he is not afraid to explore and attempt. Thus, each child should be appreciated in his own merits and be encouraged to pursue and excel in his areas of interests and strengths. Every child symbolizes hope for the country and should be cherished, nurtured and developed to become a useful citizen."</em></p>
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
@@ -88,16 +88,6 @@ description: ""
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Children actively construct and transform their own knowledge based on past experiences and prior learning. My role is to understand them, and plan learning experiences that allow them to develop and learn best."</em></p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:poonam_kaur_basant_singh@schools.gov.sg">poonam_kaur_basant_singh@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts10.jpg">
-<p><strong>Ms Wan Nurul Fazeerin Binte Wan Anuwar</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"I believe in treating each child equally and fairly regardless of their differences, and to constantly build a positive, safe and caring relationship with each child. I believe that every child is unique and has something special to contribute to the daily learning experiences."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:wan_nurul_fazeerin_wan_anuwar@schools.gov.sg">wan_nurul_fazeerin_wan_anuwar@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
