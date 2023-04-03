@@ -32,7 +32,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts3.jpg">
+<img style="width:100%;" src="/images/kai ying.jpeg">
 <p><strong>Ms Yang Kai Ying</strong></p><em>Level Head</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
