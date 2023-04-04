@@ -5,12 +5,12 @@ description: ""
 ---
 <strong>Frontier Primary School - Term 2 Student Calendar 2023</strong>
 <table>
-  <tbody>
-    <tr>
-      <td style="width: 47.7969px; border:1px solid black;"><strong>Week</strong></td>
-      <td style="width: 124.594px; border:1px solid black;"><strong>Date/Day</strong></td>
-      <td style="width: 270.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
-      <td style="width: 270.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
+ <tbody>
+  <tr>
+    <td style="width: 47.7969px; border:1px solid black;"><strong>Week</strong></td>
+    <td style="width: 124.594px; border:1px solid black;"><strong>Date/Day</strong></td>
+    <td style="width: 270.5px; border:1px solid black;"><strong>After-School Activities</strong></td>
+     <td style="width: 270.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>1</strong></td>
@@ -306,7 +306,7 @@ description: ""
          <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
 	<p>·&nbsp; P6 Revision</p>
 	<p>·&nbsp; P4 E2K Mathematics</p>
-      <td style="border:1px solid black;"></td>
+      </td><td style="border:1px solid black;"></td>
     </tr>
     <tr>
        <td style="border:1px solid black;"><p>24 May, Wed</p></td>
@@ -326,7 +326,8 @@ description: ""
       <td style="border:1px solid black;"><p>·&nbsp; P1 to P6 Parent-Child-Teacher Conference</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td></tr>
+      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
+	 </tr>
 	</tbody>
 </table>
 <p>*For selected students only</p>
