@@ -25,11 +25,7 @@ description: ""
 </tr>
 <tr>
 <td style="border:1px solid black;">Mr Ganges Lim</td>
-<td style="border:1px solid black;">Mrs Carrie Laksman</td>
-</tr>
-<tr>
 <td style="border:1px solid black;">Mrs Michelle Tan Soh Soke Mei</td>
-<td style="border:1px solid black;"></td>
 </tr>
 </tbody>
 </table>
