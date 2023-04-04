@@ -32,154 +32,61 @@ third_nav_title: CCE
 <table width="0">
 <thead>
 <tr>
-<td width="77">
+<td style="width: 47.7969px; border:1px solid black;">
 <p><strong>CCE(FTGP) THEME</strong></p>
 </td>
-<td width="119">
+<td style="width: 124.594px; border:1px solid black;">
 <p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
-<td width="341">
+<td style="width: 270.5px; border:1px solid black;">
 <p><strong>Lesson OVERVIEW</strong></p>
 </td>
-<td width="82">
+<td style="width: 270.109px; border:1px solid black;">
 <p><strong>TIME PERIOD</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td rowspan="4" width="77">
+<td rowspan="3" style="width: 47.7969px; border:1px solid black;">
 <p>Growing Years</p>
 </td>
-<td width="119">
+<td style="width: 124.594px; border:1px solid black;">
 <p>The Changes In Me</p>
 <p>(60 min)</p>
 </td>
-<td width="341">
-<ul>
+<td style="width: 270.5px; border:1px solid black;">
 <p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</ul>
 </td>
-<td width="82">
+<td style="width: 270.109px; border:1px solid black;">
 <p>SEMESTER 2</p>
 </td>
 </tr>
 <tr>
-<td width="119">
+<td style="width: 124.594px; border:1px solid black;">
 <p>Did You Know?</p>
 <p>(60 min)</p>
 </td>
-<td width="341">
-<ul>
+<td style="width: 270.5px; border:1px solid black;">
 <p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</ul>
 </td>
-<td width="82">
+<td style="width: 270.109px; border:1px solid black;">
 <p>SEMESTER 2</p>
 </td>
 </tr>
 <tr>
-<td width="119">
-<p>What Can I Do? (Part 2)</p>
-<p>(30 min)</p>
+<td style="width: 124.594px; border:1px solid black;">
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
 </td>
-<td width="341">
-<ul>
-<li>identify the stresses caused by physical and emotional changes during puberty</li>
-<li>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
-<li>describe the emotions caused by physical changes during puberty</li>
-<li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</li>
-</ul>
+<td style="width: 270.5px; border:1px solid black;">
+<p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
-<td width="82">
-<p>Term 3</p>
-</td>
-</tr>
-<tr>
-<td width="119">
-<p>Main Task</p>
-<p>(30 min)</p>
-</td>
-<td width="341">
-<p>Description of the Main Task:</p>
-<p>Students are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</p>
-</td>
-<td width="82">
-<p>Term 3</p>
-</td>
-</tr>
-<tr>
-<td width="77">
-<p>Where I Belong</p>
-</td>
-<td width="119">
-<p>What Are Families?</p>
-<p>(30 min)</p>
-</td>
-<td width="341">
-<ul>
-<li>know that there are different types of family structures</li>
-<li>know that every family is unique</li>
-<li>state that the three basic functions of families are to provide love, protection and guidance</li>
-<li>identify the right sources of help to turn to when in need</li>
-</ul>
-</td>
-<td width="82">
-<p>Term 1</p>
-</td>
-</tr>
-<tr>
-<td width="77">
-<p>Where I Belong</p>
-</td>
-<td width="119">
-<p>What is My Role?</p>
-<p>(30 min)</p>
-</td>
-<td width="341">
-<ul>
-<li>know that gender is about being male or female</li>
-<li>choose not to stereotype by gender</li>
-</ul>
-</td>
-<td width="82">
-<p>Term 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" width="77">
-<p>How Do I Keep Myself Safe?</p>
-</td>
-<td width="119">
-<p>What is Safety?</p>
-<p>(30 min)</p>
-</td>
-<td width="341">
-<ul>
-<li>know what sexual abuse is</li>
-<li>know that there are laws in Singapore that can protect them from sexual abuse</li>
-<li>know their rights in keeping themselves safe from sexual abuse</li>
-</ul>
-</td>
-<td width="82">
-<p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td width="119">
-<p>Stop It! Run! Tell!</p>
-<p>(30 min)</p>
-</td>
-<td width="341">
-<ul>
-<li>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li>
-<li>know their responsibilities in minimising the risk of sexual harm</li>
-</ul>
-</td>
-<td width="82">
-<p>Term 2</p>
+<td style="width: 270.109px; border:1px solid black;">
+<p>SEMESTER 2</p>
 </td>
 </tr>
 </tbody>
@@ -188,17 +95,16 @@ third_nav_title: CCE
 <table width="0">
 <thead>
 <tr>
-<td width="72">
-<p><strong>UNIT</strong></p>
+<td style="width: 47.7969px; border:1px solid black;">
+<p><strong>CCE(FTGP) THEME</strong></p>
 </td>
-<td width="117">
-<p><strong>LESSONS / DURATION</strong></p>
+<td style="width: 124.594px; border:1px solid black;">
+<p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
-<td width="338">
-<p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students&nbsp;will be able to:</strong></p>
+<td style="width: 270.5px; border:1px solid black;">
+<p><strong>Lesson OVERVIEW</strong></p>
 </td>
-<td width="90">
+<td style="width: 270.109px; border:1px solid black;">
 <p><strong>TIME PERIOD</strong></p>
 </td>
 </tr>
