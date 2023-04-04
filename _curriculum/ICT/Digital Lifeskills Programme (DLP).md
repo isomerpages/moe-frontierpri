@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ICT
 ---
 <p><strong>Our Mission and Vision</strong></p>
-<p>Our Digital Lifeskills Programme (DLP) is designed to shape Frontierers as adaptable designers of their own learning in the 21<sup>st</sup>&nbsp;Century. The DLP lessons are structured to expose students to various technology domains and skill sets at different levels, suitable for their learning. Students will be able to demonstrate 21<sup>st</sup>&nbsp;Century Competencies through computational thinking and logical thinking skills by the end of their primary school journey. Through these programmes, students are also encouraged to think creatively, reason systematically and work collaboratively, which are essential life skills as they enter the work force in the future.</p>
+<p style="text-align: justify;">Our Digital Lifeskills Programme (DLP) is designed to shape Frontierers as adaptable designers of their own learning in the 21<sup>st</sup>&nbsp;Century. The DLP lessons are structured to expose students to various technology domains and skill sets at different levels, suitable for their learning. Students will be able to demonstrate 21<sup>st</sup>&nbsp;Century Competencies through computational thinking and logical thinking skills by the end of their primary school journey. Through these programmes, students are also encouraged to think creatively, reason systematically and work collaboratively, which are essential life skills as they enter the work force in the future.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -16,7 +16,7 @@ third_nav_title: ICT
 </tr>
 </tbody>
 </table>
-<p>Primary 2 students will get to learn basic block-based programming as well as the introduction of Microsoft Word to document some of their reflections and thoughts throughout the that particulate PAL module. Students in the middle block will be introduced to Maker Education during P3 SCCA while the Primary 4 students will try their hands at programming a robot using intermediate block-based programming. The students in the upper block will be involved in learning basic and intermediate coding, where they will learn to program a machine and creating their own simple applications.</p>
+<p style="text-align: justify;">Primary 2 students will get to learn basic block-based programming as well as the introduction of Microsoft Word to document some of their reflections and thoughts throughout the that particulate PAL module. Students in the middle block will be introduced to Maker Education during P3 SCCA while the Primary 4 students will try their hands at programming a robot using intermediate block-based programming. The students in the upper block will be involved in learning basic and intermediate coding, where they will learn to program a machine and creating their own simple applications.</p>
 <table>
 <tbody>
 <tr>
@@ -49,7 +49,7 @@ third_nav_title: ICT
 </tr>
 </tbody>
 </table>
-<p>As we move towards a being a Smart Nation, we are working towards collaboration with various departments such as Digital Media in Art or Coding in Maker Education for our ALP. Despite the recent pandemic, we have not deterred in our efforts. We have changed the way we carried out our coding programme for the upper primary students. Moreover, we have been conducting the P5 coding programme completely online! Students get to learn coding via Zoom at the convenience of being in their own homes. Similarly, our P6 coding programme has also gone through a change in its format by having a combination of both online and face-to-face lessons.</p>
+<p style="text-align: justify;">As we move towards a being a Smart Nation, we are working towards collaboration with various departments such as Digital Media in Art or Coding in Maker Education for our ALP. Despite the recent pandemic, we have not deterred in our efforts. We have changed the way we carried out our coding programme for the upper primary students. Moreover, we have been conducting the P5 coding programme completely online! Students get to learn coding via Zoom at the convenience of being in their own homes. Similarly, our P6 coding programme has also gone through a change in its format by having a combination of both online and face-to-face lessons.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
