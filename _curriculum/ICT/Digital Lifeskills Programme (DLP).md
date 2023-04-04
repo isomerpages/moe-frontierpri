@@ -29,11 +29,11 @@ third_nav_title: ICT
 <td width="78"><strong>Activities</strong></td>
 <td width="114">Story Creation with Scratch Jr</td>
 <td width="102">Code For Fun with Sphero</td>
-<td width="108">App Making</td>
+<td width="108">Virtual Reality</td>
 </tr>
 <tr>
 <td width="78"><strong>Tentative Term</strong></td>
-<td width="114">Term 4
+<td width="114">Term 1
 <p>(During PAL)</p>
 </td>
 <td width="102">Term 1</td>
