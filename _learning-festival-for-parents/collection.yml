@@ -2,11 +2,11 @@ collections:
   learning-festival-for-parents:
     output: true
     order:
-      - Malay Language.md
       - Learning Festival For Parents 2023.md
       - English Department.md
       - Mathematics Department.md
       - Science Department.md
       - Chinese Language.md
+      - Malay Language.md
       - Tamil Language.md
       - Student Management Department.md
