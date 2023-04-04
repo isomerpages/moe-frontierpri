@@ -111,103 +111,45 @@ third_nav_title: CCE
 </thead>
 <tbody>
 <tr>
-<td rowspan="3" width="72">
+<td rowspan="3" style="width: 47.7969px; border:1px solid black;">
+<p>Growing Years</p>
+</td>
+<td style="width: 124.594px; border:1px solid black;">
 <p>Are We More Than Friends?</p>
+<p> Lesson 1</p>
+<p>(60 min)</p>
 </td>
-<td width="117">
-<p>What is Love?</p>
-<p>(30 min)</p>
+<td style="width: 270.5px; border:1px solid black;">
+<p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
 </td>
-<td width="338">
-<ul>
-<li>identify the characteristics of love and infatuation</li>
-<li>distinguish between the characteristics of love versus infatuation</li>
-<li>identify strong feelings arising from infatuation.</li>
-</ul>
-</td>
-<td width="90">
-<p>Term 4</p>
-<p>Post-PSLE Programme</p>
+<td style="width: 270.109px; border:1px solid black;">
+<p>SEMESTER 2</p>
 </td>
 </tr>
 <tr>
-<td width="117">
-<p>Am I Falling In Love?</p>
-<p>(30 min)</p>
+<td style="width: 124.594px; border:1px solid black;">
+<p>Are We More Than Friends?</p>
+<p> Lesson 2</p>
+<p>(60 min)</p>
 </td>
-<td width="338">
-<ul>
-<li>manage strong feelings arising from infatuation</li>
-<li>identify ways to manage and cope with teasing from peers</li>
-</ul>
+<td style="width: 270.5px; border:1px solid black;">
+<p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
 </td>
-<td width="90">
-<p>Term 4</p>
-<p>Post-PSLE Programme</p>
+<td style="width: 270.109px; border:1px solid black;">
+<p>SEMESTER 2</p>
 </td>
 </tr>
 <tr>
-<td width="117">
-<p>Main Task</p>
-<p>(30 min)</p>
+<td style="width: 124.594px; border:1px solid black;">
+<p>Did You Know*</p><p>
+</p><p>(60 min)</p>
 </td>
-<td width="338">
-<p>Description of the Main Task:</p>
-<p>Students are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
+<td style="width: 270.5px; border:1px solid black;">
+<p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
-<td width="90">
-<p>Term 4</p>
-<p>Post-PSLE Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" width="72">
-<p>Friends or Foes?</p>
-</td>
-<td width="117">
-<p>Are You Really My Friend?</p>
-<p>(30 min)</p>
-</td>
-<td width="338">
-<ul>
-<li>identify the pros and cons of forming relationships through social networking websites</li>
-<li>know ways to keep themselves safe when using social networking websites</li>
-</ul>
-</td>
-<td width="90">
-<p>Term 4</p>
-<p>Post-PSLE Programme</p>
-</td>
-</tr>
-<tr>
-<td width="117">
-<p>Is It All Safe?</p>
-<p>(30 min)</p>
-</td>
-<td width="338">
-<ul>
-<li>know that some information (like pornography) received through the Internet may be harmful</li>
-<li>know ways to keep themselves safe when using social networking websites or the Internet</li>
-</ul>
-</td>
-<td width="90">
-<p>Term 4</p>
-<p>Post-PSLE Programme</p>
-</td>
-</tr>
-<tr>
-<td width="72">&nbsp;</td>
-<td width="117">
-<p>Main Task</p>
-<p>(30 min)</p>
-</td>
-<td width="338">
-<p>Description of the Main Task:</p>
-<p>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.&nbsp; These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
-</td>
-<td width="90">
-<p>Term 4</p>
-<p>Post-PSLE Programme</p>
+<td style="width: 270.109px; border:1px solid black;">
+<p>SEMESTER 2</p>
 </td>
 </tr>
 </tbody>
