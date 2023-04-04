@@ -3,53 +3,51 @@ title: Mathematics
 permalink: /department/mathematics/
 description: ""
 ---
-<h4 style="text-align: center;"><strong>Vision<br /></strong>Creative &amp; Reflective Problem-Solvers</h4>
-<h4 style="text-align: center;"><strong>Mission<br /></strong>Discover joy and excitement.<br />Connect learning.<br />Communicate thinking.<br />Collaborate effectively.</h4>
-<h4><strong>Department Heads and Members</strong></h4>
-<table class=" aligncenter">
+<h5 style="text-align: center;"><strong>Vision<br></strong>Creative &amp; Reflective Problem-Solvers</h5>
+<h5 style="text-align: center;"><strong>Mission<br></strong>Discover joy and excitement.<br>Connect learning.<br>Communicate thinking.<br>Collaborate effectively.</h5>
+<h5><strong>Department Heads and Members</strong></h5>
+<table class="aligncenter">
 <tbody>
 <tr>
-<td>Yap Huie Yuan (HOD)</td>
-<td>Miss Neo Jie Qi (LH)</td>
-<td>Miss Eugena Ooi (LH)</td>
+<td style="border:1px solid black;">Yap Huie Yuan (HOD)</td>
+<td style="border:1px solid black;">Miss Neo Jie Qi (LH)</td>
+<td style="border:1px solid black;">Miss Eugena Ooi (LH)</td>
 </tr>
 <tr>
-<td>Mr Vincent Soh (ST)</td>
-<td>Mdm Chua Si Wei (ST)</td>
-<td>Mdm Sally Heng</td>
+<td style="border:1px solid black;">Mr Vincent Soh (ST)</td>
+<td style="border:1px solid black;">Mdm Chua Si Wei (ST)</td>
+<td style="border:1px solid black;">Mdm Sally Heng</td>
 </tr>
 <tr>
-<td>Mr Patrick Chua Cherng Haur</td>
-<td>Mrs Ang Cheng Chew - Teh Ai Choo</td>
-<td>Mdm Elaine Lee Sui Lyn</td>
+<td style="border:1px solid black;">Mr Patrick Chua Cherng Haur</td>
+<td style="border:1px solid black;">Mrs Ang Cheng Chew - Teh Ai Choo</td>
+<td style="border:1px solid black;">Mdm Elaine Lee Sui Lyn</td>
 </tr>
 <tr>
-<td>Miss Lim Jie Lin</td>
-<td>Mdm Siti Wahida Binte Zainal Abidin</td>
-<td>Mdm Lim Pei Geok</td>
+<td style="border:1px solid black;">Miss Lim Jie Lin</td>
+<td style="border:1px solid black;">Mdm Siti Wahida Binte Zainal Abidin</td>
+<td style="border:1px solid black;">Mdm Lim Pei Geok</td>
 </tr>
 <tr>
-<td>Miss Lim Wan Teng, Valerie</td>
-<td>Mdm Oon Saw Kim Eileen</td>
-<td>Mr Derek Lee</td>
+<td style="border:1px solid black;">Miss Lim Wan Teng, Valerie</td>
+<td style="border:1px solid black;">Mdm Oon Saw Kim Eileen</td>
+<td style="border:1px solid black;">Mr Derek Lee</td>
 </tr>
 <tr>
-<td>Mdm Yap Lay Koon</td>
-<td>Mrs Tan-Lay Puay Kiang</td>
-<td></td>
+<td style="border:1px solid black;">Mdm Yap Lay Koon</td>
+<td style="border:1px solid black;">Mrs Tan-Lay Puay Kiang</td>
+<td style="border:1px solid black;">Mdm Lai Soon Ling</td>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Department's Focus</u></strong></h4>
-<p>We believe that every child wants to and can learn. We focus on children&rsquo;s needs when designing learning experiences. Laying a strong foundation in our Frontierers&rsquo; numeracy skills is our priority. The Math Department aims to enable our Frontierers to:</p>
-<ul>
+<h5><strong><u>Department's Focus</u></strong></h5>
+<p style="text-align: justify;">We believe that every child wants to and can learn. We focus on children’s needs when designing learning experiences. Laying a strong foundation in our Frontierers’ numeracy skills is our priority. The Math Department aims to enable our Frontierers to:</p>
 <li>acquire Mathematical concepts &amp; skills for everyday use</li>
 <li>develop thinking, reasoning, communication, application and metacognitive skills</li>
 <li>build confidence and foster interest in Mathematics.</li>
-</ul>
-<h4><strong>Key Approaches</strong></h4>
-<p><strong>1. Concrete&nbsp;to Pictorial to Abstract (C-P-A) Approach</strong></p>
-<p>Our teachers create opportunities and space for our Frontierer to explore and discover the joy of learning. CPA (<u>C</u>oncrete to&nbsp;<u>P</u>ictorial to&nbsp;<u>A</u>bstract) Approach is used to develop mathematical concepts.</p>
+<h5><strong>Key Approaches</strong></h5>
+<p><strong>1. Concrete to Pictorial to Abstract (C-P-A) Approach</strong></p>
+<p style="text-align: justify;">Our teachers create opportunities and space for our Frontierer to explore and discover the joy of learning. CPA (<u>C</u>oncrete to&nbsp;<u>P</u>ictorial to&nbsp;<u>A</u>bstract) Approach is used to develop mathematical concepts.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -63,24 +61,24 @@ description: ""
 <table border="1">
 <tbody>
 <tr>
-<td><strong>Learning Experiences</strong></td>
-<td><strong>&nbsp;Skills/ Intent</strong></td>
+<td style="border:1px solid black;"><strong>Learning Experiences</strong></td>
+<td style="border:1px solid black;"><strong>Skills/ Intent</strong></td>
 </tr>
 <tr>
-<td>Hands-on activities</td>
-<td>Building of conceptual understanding</td>
+<td style="border:1px solid black;">Hands-on activities</td>
+<td style="border:1px solid black;">Building of conceptual understanding</td>
 </tr>
 <tr>
-<td>Show and Say</td>
-<td>Communication/ Reasoning skills</td>
+<td style="border:1px solid black;">Show and Say</td>
+<td style="border:1px solid black;">Communication/ Reasoning skills</td>
 </tr>
 <tr>
-<td>Pair and Share</td>
-<td>Collaborative skills</td>
+<td style="border:1px solid black;">Pair and Share</td>
+<td style="border:1px solid black;">Collaborative skills</td>
 </tr>
 <tr>
-<td>Play and Learn</td>
-<td>Building of conceptual understanding through exploration</td>
+<td style="border:1px solid black;">Play and Learn</td>
+<td style="border:1px solid black;">Building of conceptual understanding through exploration</td>
 </tr>
 </tbody>
 </table>
@@ -94,8 +92,8 @@ description: ""
 </tbody>
 </table>
 <p><strong>3. Verbalizing Thinking through Mathematics Reasoning and Communication</strong></p>
-<p>To develop confident problem solvers and communicators in Frontier, students in Frontier are exposed to reasoning and communication tasks to enhance their knowledge of key mathematical concepts and competencies. Students will be given opportunities to discuss and express their thoughts and ideas in both verbal and written forms. Teachers scaffolds students&rsquo; learning through the use of&nbsp; mathematical language.</p>
-<p>Through verbalising the thoughts processes while tackling reasoning and communication tasks, students develop the capacities to think logically, confidently, critically and creatively. These thinking dispositions are important for our Frontierers to lead a productive life and be life-long learners.</p>
+<p style="text-align: justify;">To develop confident problem solvers and communicators in Frontier, students in Frontier are exposed to reasoning and communication tasks to enhance their knowledge of key mathematical concepts and competencies. Students will be given opportunities to discuss and express their thoughts and ideas in both verbal and written forms. Teachers scaffolds students’ learning through the use of&nbsp; mathematical language.</p>
+<p style="text-align: justify;">Through verbalising the thoughts processes while tackling reasoning and communication tasks, students develop the capacities to think logically, confidently, critically and creatively. These thinking dispositions are important for our Frontierers to lead a productive life and be life-long learners.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -110,7 +108,7 @@ description: ""
 </table>
 <p><strong><u>Key Programmes</u></strong></p>
 <p><strong><u>1. Developing students' confidence and enjoyment through Math &amp; Science Week</u></strong></p>
-<p>To learn Mathematics through play and exploration, our Frontierers&rsquo; learning is extended beyond classroom. They are exposed to practical and real-life examples as pupils apply their learning to authentic situations. The Department hopes that the experience gained will garner them to instil a positive attitude towards Mathematics and its uses in their daily lives.</p>
+<p style="text-align: justify;">To learn Mathematics through play and exploration, our Frontierers’ learning is extended beyond classroom. They are exposed to practical and real-life examples as pupils apply their learning to authentic situations. The Department hopes that the experience gained will garner them to instil a positive attitude towards Mathematics and its uses in their daily lives.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -122,10 +120,10 @@ description: ""
 </tbody>
 </table>
 <p><strong>2. <u>Provision of Opportunities through Talent Management</u></strong></p>
-<p>Math Stretch Programme is conducted for selected Primary 3 to Primary 5 Frontierers who have a strong foundation in Mathematics. These enrichment programmes aim to:</p>
+<p style="text-align: justify;">Math Stretch Programme is conducted for selected Primary 3 to Primary 5 Frontierers who have a strong foundation in Mathematics. These enrichment programmes aim to:</p>
 <ul>
-<li>To stimulate and develop Frontierers&rsquo; creative thinking and problem solving abilities.</li>
-<li>To enhance flexibility in Frontierers&rsquo; thinking and to expand their horizon that Mathematics learning is fun, exciting and challenging through a framework of problem solving approach</li>
+<li style="text-align: justify;">To stimulate and develop Frontierers’ creative thinking and problem solving abilities.</li>
+<li style="text-align: justify;">To enhance flexibility in Frontierers’ thinking and to expand their horizon that Mathematics learning is fun, exciting and challenging through a framework of problem solving approach</li>
 </ul>
 <p><strong>3.</strong>&nbsp;<strong><u>Working with our parents</u></strong></p>
-<p>As a Collaborative Partner, Parent Workshops are held annually to empower and equip parents with the relevant skills to support their child&rsquo;s learning at home. Parents will also gain a deeper understanding on the strategies our teachers are using in the classroom and can help to reinforce relevant mathematical concepts too! We are heartened to receive favourable feedback from parents on the workshops the department has been conducting. Do look forward to the upcoming workshops that the Math Department is organising for the parents!</p>
+<p style="text-align: justify;">As a Collaborative Partner, Parent Workshops are held annually to empower and equip parents with the relevant skills to support their child’s learning at home. Parents will also gain a deeper understanding on the strategies our teachers are using in the classroom and can help to reinforce relevant mathematical concepts too! We are heartened to receive favourable feedback from parents on the workshops the department has been conducting. Do look forward to the upcoming workshops that the Math Department is organising for the parents!</p>
