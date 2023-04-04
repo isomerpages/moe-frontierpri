@@ -4,7 +4,7 @@ permalink: /department/science/
 description: ""
 ---
 <img src="/images/sci1.png">
-<h4 class="fl-heading"><strong>Department Heads and Members</strong></h4>
+<h5 class="fl-heading"><strong>Department Heads and Members</strong></h5>
 <table>
 <tbody>
 <tr>
