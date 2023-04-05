@@ -12,28 +12,28 @@ third_nav_title: CCE
 <table width="657">
 <tbody>
 <tr>
-<td>Miss Jeannett Lay Jia Xin (HOD)</td>
-<td>Mdm Nusraat Begum Bte Akbar Ali (SH)</td>
+<td style="border:1px solid black;">Miss Jeannett Lay Jia Xin (HOD)</td>
+<td style="border:1px solid black;">Mdm Nusraat Begum Bte Akbar Ali (SH)</td>
 </tr>
 <tr>
-<td>Mdm Hannaria Srihanum (ST/LP)</td>
-<td>Mdm Siti Idzmaidar (ST/Ed Support)</td>
+<td style="border:1px solid black;">Mdm Hannaria Srihanum (ST/LP)</td>
+<td style="border:1px solid black;">Mdm Siti Idzmaidar (ST/Ed Support)</td>
 </tr>
 <tr>
-<td>Mrs Teng - Lim Li-Chern, Anisia (ST/Ed Support)</td>
-<td>Mr Ben Chua Kian Guan</td>
+<td style="border:1px solid black;">Mrs Teng - Lim Li-Chern, Anisia (ST/Ed Support)</td>
+<td style="border:1px solid black;">Mr Ben Chua Kian Guan</td>
 </tr>
 <tr>
-<td>Miss Chen Peishi</td>
-<td>Mdm Aneesah Beevi Bte Asah</td>
+<td style="border:1px solid black;">Miss Chen Peishi</td>
+<td style="border:1px solid black;">Mdm Aneesah Beevi Bte Asah</td>
 </tr>
 <tr>
-<td>Mdm Wang Haijing</td>
-<td>Mdm Norazimah</td>
+<td style="border:1px solid black;">Mdm Wang Haijing</td>
+<td style="border:1px solid black;">Mdm Norazimah</td>
 </tr>
 <tr>
-<td>Mdm Chia Tze Miang Rachel</td>
-<td></td>
+<td style="border:1px solid black;">Mdm Chia Tze Miang Rachel</td>
+<td style="border:1px solid black;"></td>
 </tr>
 </tbody>
 </table>
