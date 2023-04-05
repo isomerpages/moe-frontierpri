@@ -12,33 +12,33 @@ third_nav_title: CCE
 <table width="657">
 <tbody>
 <tr>
-<td>Miss Jeannett Lay Jia Xin (HOD)</td>
-<td>Mdm Nusraat Begum Bte Akbar Ali (SH)</td>
+<td style="border:1px solid black;">Miss Jeannett Lay Jia Xin (HOD)</td>
+<td style="border:1px solid black;">Mdm Nusraat Begum Bte Akbar Ali (SH)</td>
 </tr>
 <tr>
-<td>Mdm Hannaria Srihanum (ST/LP)</td>
-<td>Mdm Siti Idzmaidar (ST/Ed Support)</td>
+<td style="border:1px solid black;">Mdm Hannaria Srihanum (ST/LP)</td>
+<td style="border:1px solid black;">Mdm Siti Idzmaidar (ST/Ed Support)</td>
 </tr>
 <tr>
-<td>Mrs Teng - Lim Li-Chern, Anisia (ST/Ed Support)</td>
-<td>Mr Ben Chua Kian Guan</td>
+<td style="border:1px solid black;">Mrs Teng - Lim Li-Chern, Anisia (ST/Ed Support)</td>
+<td style="border:1px solid black;">Mr Ben Chua Kian Guan</td>
 </tr>
 <tr>
-<td>Miss Chen Peishi</td>
-<td>Mdm Aneesah Beevi Bte Asah</td>
+<td style="border:1px solid black;">Miss Chen Peishi</td>
+<td style="border:1px solid black;">Mdm Aneesah Beevi Bte Asah</td>
 </tr>
 <tr>
-<td>Mdm Wang Haijing</td>
-<td>Mdm Norazimah</td>
+<td style="border:1px solid black;">Mdm Wang Haijing</td>
+<td style="border:1px solid black;">Mdm Norazimah</td>
 </tr>
 <tr>
-<td>Mdm Chia Tze Miang Rachel</td>
-<td></td>
+<td style="border:1px solid black;">Mdm Chia Tze Miang Rachel</td>
+<td style="border:1px solid black;"></td>
 </tr>
 </tbody>
 </table>
-<p>Frontier Primary School (FPS) adopts a school-wide approach in creating a caring and enabling environment to meet students’ needs. Our school lays the foundation that supports learning by paying more careful attention to relationship building (e.g. the quality of Teacher-Student Relationship, Peer Relationship) in order to build resilience, develop character, citizenship and future readiness in Frontierers.</p>
-<p>Aside from building a caring and enabling environment for Frontierers to learn at FPS through relationship building, we aspire to develop Frontierers to be Confident Thinkers, Adaptable Individuals and Passionate Leaders with good character through the CCE fundamental building blocks. Based on the three big CCE ideas of Identity, Relationships and Choices, these fundamental building blocks comprise the learning of core values, social and emotional competencies, and citizenship dispositions. The CCE fundamental building blocks at Frontier include subjects like Form Teachers Guidance Period (FTGP), CCE MT / NTIL, Social Studies as well as learning experiences like commemorating four National Education events, Values in Action (VIA) activities and assembly programmes linked to CCE outcomes.</p>
+<p style="text-align: justify;">Frontier Primary School (FPS) adopts a school-wide approach in creating a caring and enabling environment to meet students’ needs. Our school lays the foundation that supports learning by paying more careful attention to relationship building (e.g. the quality of Teacher-Student Relationship, Peer Relationship) in order to build resilience, develop character, citizenship and future readiness in Frontierers.</p>
+<p style="text-align: justify;">Aside from building a caring and enabling environment for Frontierers to learn at FPS through relationship building, we aspire to develop Frontierers to be Confident Thinkers, Adaptable Individuals and Passionate Leaders with good character through the CCE fundamental building blocks. Based on the three big CCE ideas of Identity, Relationships and Choices, these fundamental building blocks comprise the learning of core values, social and emotional competencies, and citizenship dispositions. The CCE fundamental building blocks at Frontier include subjects like Form Teachers Guidance Period (FTGP), CCE MT / NTIL, Social Studies as well as learning experiences like commemorating four National Education events, Values in Action (VIA) activities and assembly programmes linked to CCE outcomes.</p>
 <p style="text-align: center;"><strong>Department's Highlights</strong></p>
 <p><strong>Values in Action (VIA) by Frontierers</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
