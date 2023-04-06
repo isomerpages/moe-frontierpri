@@ -63,8 +63,8 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/mtl14.jpg" id="lili">
-<p><strong>Miss Chen Lili</strong></p>
+<img style="width:100%;" src="/images/mtl14.jpg">
+<p id="lili"><strong>Miss Chen Lili</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Children&nbsp;may&nbsp;stumble&nbsp;but&nbsp;they&nbsp;quickly&nbsp;forget the pain and move on. Children grow from their experiences and they build resilience if we give them a supportive learning environment."</em></p>
