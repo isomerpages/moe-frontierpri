@@ -12,7 +12,7 @@ description: ""
 <p><strong>Mdm Liew Mei Lian</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"I look forward to teaching the younger ones in Frontier. I am confident that the pupils will have a fruitful time as I explore creative ways to ensure pupils&rsquo; learning is a JOYFUL one."</em></p>
+<p><em>"I look forward to teaching the younger ones in Frontier. I am confident that the pupils will have a fruitful time as I explore creative ways to ensure pupils’ learning is a JOYFUL one."</em></p>
 <p style="width: 100%; text-align: center;">Tel Ext: 297</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:liew_mei_lian@schools.gov.sg">liew_mei_lian@schools.gov.sg</a></p>
 </td>
@@ -56,7 +56,7 @@ description: ""
 <p><strong>Mr Li Lei</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"As a father of two sons, I believe children learn best with patience and guidance. We should always consider each child&rsquo;s unique character traits and develop their learning potentials."</em></p>
+<p><em>"As a father of two sons, I believe children learn best with patience and guidance. We should always consider each child’s unique character traits and develop their learning potentials."</em></p>
 <p style="width: 100%; text-align: center;">Tel Ext: 239</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:li_lei@schools.gov.sg">li_lei@schools.gov.sg</a></p>
 </td>
@@ -64,7 +64,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/mtl14.jpg">
-<p><strong>Miss Chen Lili</strong></p>
+<p id="anchor-name-header"><strong>Miss Chen Lili</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Children&nbsp;may&nbsp;stumble&nbsp;but&nbsp;they&nbsp;quickly&nbsp;forget the pain and move on. Children grow from their experiences and they build resilience if we give them a supportive learning environment."</em></p>
