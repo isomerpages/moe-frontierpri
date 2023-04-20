@@ -24,9 +24,9 @@ third_nav_title: School Information
 <td style="text-align: center;">P1</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps-p1.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 4S1H</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS-2023/fps-p5-4s-hmt.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps-p5-4s-hmt.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4S1H</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P6-4S1HMT.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4s hmt.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
