@@ -30,43 +30,43 @@ third_nav_title: School Information
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P2.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p2.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 4S</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P5-4S.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 4s.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4S</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P6-4S.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4s.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;P3</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P3.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p3.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 2S2F</td>
-<td style="text-align: center;"><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P5-2S2F.pdf"><strong>Download</strong></a></td>
+<td style="text-align: center;"><a href="/files/BOOKLISTS 2023/fps p5 2s2f.pdf"><strong>Download</strong></a></td>
 <td style="text-align: center;">P6 2S2F</td>
-<td style="text-align: center;"><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P6-2S2F.pdf"><strong>Download</strong></a></td>
+<td style="text-align: center;"><a href="/files/BOOKLISTS 2023/fps p6 2s2f.pdf"><strong>Download</strong></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P4.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p4.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P5-3S1FMA.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 3s1fma.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P6-3S1FMA.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 3s1fma.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">P5 3S1FMTL</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P5-3S1FMTL.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 3s1fmt.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 3S1FMTL</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P6-3S1FMTL.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 3s1fmt.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">P5 4F</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P5-4F.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 4f.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4F</td>
-<td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P6-4F.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4f.pdf">Download</a></strong></td>
 </tr>
 </tbody>
 </table>
