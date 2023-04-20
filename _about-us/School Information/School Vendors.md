@@ -22,7 +22,7 @@ third_nav_title: School Information
 </tr>
 <tr>
 <td style="text-align: center;">P1</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS%202023/fps%20p1.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS-2023/fps-p1.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 4S1H</td>
 <td style="text-align: center;"><strong><a href="/files/Frontier-Primary-School-Booklist-AY-2022-P5-4S1HMT.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4S1H</td>
