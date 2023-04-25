@@ -16,7 +16,7 @@ description: ""
 <li><strong>Mrs Tonnine Chua (2017 to present)</strong></li>
 </ul>
 <p><strong>Milestones</strong></p>
-<p>FORGING AHEAD, BREAKING NEW GROUNDS</p><table style="border:&quot;1px">
+<table style="border:&quot;1px">
 <tbody>
 <tr>
 <td style="border:1px solid black;">
@@ -26,10 +26,9 @@ description: ""
 <p><strong>Key Event</strong></p>
 </td>
 </tr>
-<tr><td>
-</td></tr><tr>
-
-</tr>
+<tr>
+<td>FORGING AHEAD, BREAKING NEW GROUNDS<p></p>
+</td></tr>
 <tr>
 <td>
 <p>2011</p>
