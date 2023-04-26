@@ -136,5 +136,13 @@ description: ""
 <p>·&nbsp;Official Opening of Frontopia, iMaker Lab, F.L.Y. Room</p>
 </td>
 </tr>
+<tr>
+<td style="border:1px solid black;">
+<p>2023</p>
+</td>
+<td style="border:1px solid black;">
+<p>Official Opening of Frontier Heritage Gallery</p>
+</td>
+</tr>
 </tbody>
 </table>
