@@ -95,5 +95,18 @@ description: ""
 <p>First PSLE cohort</p>
 </td>
 </tr>
+<tr>
+<td colspan="2" style="border:1px solid black;"><strong>PUSHING BOUNDARIES, CHARTING NEW FRONTIERS</strong></td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+<p>2018</p>
+</td>
+<td style="border:1px solid black;">
+<p>·&nbsp;Start of Apointment of 2nd Principal, Mrs Tonnine Chua</p>
+<p>·&nbsp;MOE Kindergarten @ Frontier Becomes Part of Frontier Primary School’s Big Family</p>
+<p>·&nbsp;Start of Educational Partnership with Santa Laurensia Elementary School, Indonesia</p>
+</td>
+</tr>
 </tbody>
 </table>
