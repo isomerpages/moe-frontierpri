@@ -27,61 +27,71 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>FORGING AHEAD, BREAKING NEW GROUNDS<p></p>
-</td></tr>
+<td colspan="2" style="border:1px solid black;"><strong>FORGING AHEAD, BREAKING NEW GROUNDS</strong></td>
+</tr>
 <tr>
-<td>
+<td style="border:1px solid black;">
 <p>2011</p>
 </td>
-<td>
+<td style="border:1px solid black;">
 <p>Establishment of school</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border:1px solid black;">
 <p>2012</p>
 </td>
-<td>
-<p>First P1 intakeStart of &nbsp;student leadership programme – exemplary Leaders @ Frontier (eLF)Start of school-based Student Care Centre</p>
+<td style="border:1px solid black;">
+<p>·&nbsp;First P1 intake</p>
+<p>·&nbsp;Start of &nbsp;student leadership programme – exemplary Leaders @ Frontier (eLF)</p>
+<p>·&nbsp;Start of school-based Student Care Centre</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border:1px solid black;">
 <p>2013</p>
 </td>
-<td>
+<td style="border:1px solid black;">
 <p>First participation in Singapore Youth Festival</p>
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2" style="border:1px solid black;"><strong>EXPLORING POSSIBILITIES, CONQUERING NEW HEIGHTS</strong></td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
 <p>2014</p>
 </td>
-<td>
-<p>Official school opening</p>
+<td style="border:1px solid black;">
+<p>·&nbsp;School Song composed</p>
+<p>·&nbsp;Official school opening</p>
+<p>·&nbsp;Start of Structured CCA for Primary 3 students</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border:1px solid black;">
 <p>2015</p>
 </td>
-<td>
-<p>Start of MOE Kindergarten@FrontierLaunch of danceFRONT LLP</p>
+<td style="border:1px solid black;">
+<p>·&nbsp;Start of MOE Kindergarten@Frontier within Frontier's premises</p>
+<p>·&nbsp;Launch of danceFRONT LLP</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border:1px solid black;">
 <p>2016</p>
 </td>
-<td>
-<p>Introduction of thinking programme – Thinking SillhouetteLaunch of F@CE ALP5<sup>th</sup>&nbsp;Year Anniversary</p>
+<td style="border:1px solid black;">
+<p>·&nbsp;Introduction of thinking programme – Thinking Sillhouette</p>
+	<p>·&nbsp;Launch of F@CE ALP (<strong>F</strong>rontier’s <strong>A</strong>pproach to <strong>C</strong>ommunicating <strong>E</strong>ffectively)</p>
+<p>·&nbsp;5th Year Anniversary</p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border:1px solid black;">
 <p>2017</p>
 </td>
-<td>
+<td style="border:1px solid black;">
 <p>First PSLE cohort</p>
 </td>
 </tr>
