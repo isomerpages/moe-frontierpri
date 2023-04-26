@@ -83,7 +83,7 @@ description: ""
 </td>
 <td style="border:1px solid black;">
 <p>·&nbsp;Introduction of thinking programme – Thinking Sillhouette</p>
-	<p>·&nbsp;Launch of F@CE ALP (<strong>F</strong>rontier’s <strong>A</strong>pproach to <strong>C</strong>ommunicating <strong>E</strong>ffectively)</p>
+	<p>·&nbsp;Launch of F@CE ALP (<strong><u>F</u></strong>rontier’s <strong><u>A</u></strong>pproach to <strong><u>C</u></strong>ommunicating <strong><u>E</u></strong>ffectively)</p>
 <p>·&nbsp;5th Year Anniversary</p>
 </td>
 </tr>
