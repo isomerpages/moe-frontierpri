@@ -108,5 +108,14 @@ description: ""
 <p>·&nbsp;Start of Educational Partnership with Santa Laurensia Elementary School, Indonesia</p>
 </td>
 </tr>
+<tr>
+<td style="border:1px solid black;">
+<p>2019</p>
+</td>
+<td style="border:1px solid black;">
+<p>·&nbsp;Concretising Values Education via our Thumbs Up! Values in Action!</p>
+<p>·&nbsp;Start of Educational Partnership with Chengdu Haibin Primary School, China</p>
+</td>
+</tr>
 </tbody>
 </table>
