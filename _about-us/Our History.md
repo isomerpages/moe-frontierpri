@@ -146,3 +146,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: justify;"><strong><u>The Frontier Story</u></strong></p>
+<p style="text-align: justify;">Frontier Primary is inspired by the windmill way when it comes to providing a holistic education for our students. Just like how the windmill's foundation must be strong to support the weight of the structure, we believed that strong fundamentals are the foundation for future learning. Therefore, “Strong Fundamentals, Future Learning”, is a motto that we take to heart in everything that we do.</p>
