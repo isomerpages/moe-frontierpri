@@ -117,5 +117,14 @@ description: ""
 <p>·&nbsp;Start of Educational Partnership with Chengdu Haibin Primary School, China</p>
 </td>
 </tr>
+<tr>
+<td style="border:1px solid black;">
+<p>2020</p>
+</td>
+<td style="border:1px solid black;">
+	<p>·&nbsp;Refinement of ALP – F@CE to Nurturing the Thinking F.A.C.E (<strong>F</strong>rontierers who are <strong>A</strong>daptive, <strong>C</strong>ommunicative and <strong>E</strong>mpowered) for Tomorrow</p>
+<p>·&nbsp;Refinement of LLP – DANCEFRONT was broadened to become **D**ynamic **A**rts: **N**urturing **C**ultural and **E**xpressive Frontierers</p>
+</td>
+</tr>
 </tbody>
 </table>
