@@ -122,8 +122,8 @@ description: ""
 <p>2020</p>
 </td>
 <td style="border:1px solid black;">
-	<p>·&nbsp;Refinement of ALP – F@CE to Nurturing the Thinking F.A.C.E (<strong>F</strong>rontierers who are <strong>A</strong>daptive, <strong>C</strong>ommunicative and <strong>E</strong>mpowered) for Tomorrow</p>
-<p>·&nbsp;Refinement of LLP – DANCEFRONT was broadened to become **D**ynamic **A**rts: **N**urturing **C**ultural and **E**xpressive Frontierers</p>
+	<p>·&nbsp;Refinement of ALP – F@CE to Nurturing the Thinking F.A.C.E (<strong><u>F</u></strong>rontierers who are <strong><u>A</u></strong>daptive, <strong><u>C</u></strong>ommunicative and <strong><u>E</u></strong>mpowered) for Tomorrow</p>
+	<p>·&nbsp;Refinement of LLP – DANCEFRONT was broadened to become <strong><u>D</u></strong>ynamic <strong><u>A</u></strong>rts: <strong><u>N</u></strong>urturing <strong><u>C</u></strong>ultural and <strong><u>E</u></strong>xpressive Frontierers</p>
 </td>
 </tr>
 </tbody>
