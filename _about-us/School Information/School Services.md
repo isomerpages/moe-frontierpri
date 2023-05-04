@@ -4,6 +4,9 @@ permalink: /school-services/
 description: ""
 third_nav_title: School Information
 ---
+<p><strong>STUDENT CARE CENTER</strong></p>
+
+
 <p><strong>SCHOOL BOOKSHOP</strong></p>
 <p><strong>Pacific Bookstores Pte Ltd</strong></p>
 <p>Main Office: 14 Arumugam Road, #08-01, LTC Building C, Singapore 409959<br>Tel: 6464 0111<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>Website:&nbsp;<a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
