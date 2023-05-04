@@ -8,7 +8,7 @@ third_nav_title: School Information
 
 ---
 
-<p><strong>SCHOOL BOOKSHOP</strong></p>
+<p><strong><a href="/school-bookshop">SCHOOL BOOKSHOP</a></strong></p>
 
 
 <p><strong>SCHOOL UNIFORM</strong></p>
