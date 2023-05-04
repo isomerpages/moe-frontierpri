@@ -11,9 +11,8 @@ third_nav_title: School Information
 
 <p><strong><a href="/school-uniform">3. SCHOOL UNIFORM</a></strong></p>
 
-<p><strong>BUS SERVICES</strong></p>
-<p><strong><u>JK59 Transport Pte Ltd</u></strong></p>
-<p>Tel: 6465 5959<br>Fax: 6466 5959</p>
+<p><strong><a href="/bus-services">4. BUS SERVICES</a></strong></p><a href="/bus-services">
+
 <p><strong>SCHOOL DENTAL SERVICE</strong></p>
 <p>Tel: 9114 6562</p>
 <p><strong>General Operating Hours</strong><br>Monday-Thursday: 8:00am to 5:30pm<br>Friday: 8:00am to 5:00pm</p>
@@ -134,4 +133,4 @@ third_nav_title: School Information
 </td>
 </tr>
 </tbody>
-</table>
+</table></a>
