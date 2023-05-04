@@ -9,71 +9,8 @@ third_nav_title: School Information
 ---
 
 <p><strong>SCHOOL BOOKSHOP</strong></p>
-<p><strong>Pacific Bookstores Pte Ltd</strong></p>
-<p>Main Office: 14 Arumugam Road, #08-01, LTC Building C, Singapore 409959<br>Tel: 6464 0111<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>Website:&nbsp;<a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
-<p><strong>School Bookshop</strong><br>Operating Hours: 9:00am to 3:30pm&nbsp;<em>(during term time, excluding half-days)</em><br>Tel: 9048 2311&nbsp;<em>(kindly WhatsApp instead of calling during recess and dismissal time)</em></p>
-<p><em>Note: Parents may only enter the school to make their purchase 30 minutes after the school’s dismissal time.</em></p>
-<p><strong>Book Lists</strong></p>
-<table width="1533">
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Level</strong></td>
-<td style="text-align: center;"><strong>Booklist</strong></td>
-<td style="text-align: center;"><strong>Level &amp; Combination</strong></td>
-<td style="text-align: center;"><strong>Booklist</strong></td>
-<td style="text-align: center;"><strong>Level &amp; Combination</strong></td>
-<td style="text-align: center;"><strong>Booklist</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">P1</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps-p1.pdf">Download</a></strong></td>
-<td style="text-align: center;">P5 4S1H</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps-p5-4s-hmt.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 4S1H</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4s hmt.pdf">Download</a></strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">P2</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p2.pdf">Download</a></strong></td>
-<td style="text-align: center;">P5 4S</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 4s.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 4S</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4s.pdf">Download</a></strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;P3</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p3.pdf">Download</a></strong></td>
-<td style="text-align: center;">P5 2S2F</td>
-<td style="text-align: center;"><a href="/files/BOOKLISTS 2023/fps p5 2s2f.pdf"><strong>Download</strong></a></td>
-<td style="text-align: center;">P6 2S2F</td>
-<td style="text-align: center;"><a href="/files/BOOKLISTS 2023/fps p6 2s2f.pdf"><strong>Download</strong></a></td>
-</tr>
-<tr>
-<td style="text-align: center;">P4</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p4.pdf">Download</a></strong></td>
-<td style="text-align: center;">P5 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 3s1fma.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 3s1fma.pdf">Download</a></strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">P5 3S1FMTL</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 3s1fmt.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 3S1FMTL</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 3s1fmt.pdf">Download</a></strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">P5 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 4f.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4f.pdf">Download</a></strong></td>
-</tr>
-</tbody>
-</table>
+
+
 <p><strong>SCHOOL UNIFORM</strong></p>
 <p><strong><u>My Uniform Shop (ASIA) Pte Ltd<br></u></strong>Address: 209 New Upper Changi Road #03-651 Singapore 460209<br>Tel: 6276 6689 (during physical outlet’s operating hours only)<br>Email:&nbsp;<a href="mailto:myuniformshopasia@gmail.com">myuniformshopasia@gmail.com</a><br>Website:&nbsp;<a href="http://www.myuniformshop.com.sg/">www.myuniformshop.com.s</a><a href="http://www.myuniformshop.com.sg/">g</a></p>
 <p><strong>Purchase of School Uniforms &amp; Name Tags</strong></p>
