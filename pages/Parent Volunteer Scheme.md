@@ -2,7 +2,6 @@
 title: Parent Volunteer Scheme
 permalink: /parent-volunteer-scheme/
 description: ""
-third_nav_title: Our Stakeholders
 ---
 <h4 style="text-align: center;"><strong>Parent Volunteer Scheme at Frontier Primary School for Primary One Registration (Phase 2B) in 2023</strong></h4>
 <p>The objective of the Parent Volunteer Scheme is to facilitate interested parents’ registration of their child in Frontier Primary School while developing a long-term involvement and commitment with the school in their child’s journey.</p>

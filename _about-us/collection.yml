@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Services/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
       - Our History.md
@@ -18,5 +19,6 @@ collections:
       - Our Gallery/.keep
       - School Calendar.md
       - School Information/.keep
+      - School Information/P1 Registration Information.md
       - School Information/School Gate Operational Hours.md
-      - School Information/School Vendors.md
+      - School Information/School Services.md

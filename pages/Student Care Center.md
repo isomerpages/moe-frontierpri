@@ -2,7 +2,6 @@
 title: Student Care Center
 permalink: /student-care-center/
 description: ""
-third_nav_title: Our Stakeholders
 ---
 <p><strong>SCHOOL-BASED STUDENT CARE CENTRE@FRONTIER PRIMARY SCHOOL</strong></p>
 <p style="text-align: justify;">The school-based student care centre (SCC) at Frontier Primary School is currently operated by Raffles Student Care Centre LLP. Their services are only provided for students of Frontier Primary School.</p>
@@ -15,4 +14,4 @@ third_nav_title: Our Stakeholders
 <p style="text-align: justify;">2024 Primary 1 students with sibling(s) already registered with the SCC will be given priority to register with the SCC.</p>
 <p><strong>Contact Details of Service Provider</strong></p>
 <p style="text-align: justify;">For any clarifications on programmes, services and fees, kindly contact the SCC supervisor:</p>
-<p>Ms Sydah<br />Tel: 62514052 <br />Hp: 89511776<br />(Mon to Fri, 1:00pm to 6:00pm)</p>
+<p>Ms Sydah<br>Tel: 62514052 <br>Hp: 89511776<br>(Mon to Fri, 1:00pm to 6:00pm)</p>
