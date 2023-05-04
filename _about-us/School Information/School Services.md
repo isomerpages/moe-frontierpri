@@ -6,6 +6,7 @@ third_nav_title: School Information
 ---
 <p><strong><a href="/student-care-center/">STUDENT CARE CENTER</a></strong></p>
 
+---
 
 <p><strong>SCHOOL BOOKSHOP</strong></p>
 <p><strong>Pacific Bookstores Pte Ltd</strong></p>
