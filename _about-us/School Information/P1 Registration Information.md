@@ -6,5 +6,5 @@ third_nav_title: School Information
 ---
 Click on the links below for more information:
 
-1. P1 Registration<br>
+1. <a href="https://www.moe.gov.sg/primary/p1-registration">P1 Registration</a><br>
 2. <a href="/parent-volunteer-scheme/">Parent Volunteer Scheme </a>
