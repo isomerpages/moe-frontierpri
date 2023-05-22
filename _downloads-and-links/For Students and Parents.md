@@ -18,7 +18,7 @@ description: ""
 | For Students | Details | 
 | -------- | -------- | 
 | Portals | 1. [Student Learning Space](https://cms.isomer.gov.sg/student-learning-space-sls/)<br>2. [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)<br>3. [E-Zhishi](https://www.ezhishi.net/Contents/index.html)<br>4. [Koobits ](https://member.koobits.com/) |
-| Information &amp; Resources | 1. [HBL Plan](https://cms.isomer.gov.sg/hbl-2/)<br>2. [Jurong Lake Garden Virtual Tour](https://cms.isomer.gov.sg/jurong-lake-garden-virtual-tour/) |
+| Information &amp; Resources | 1. [HBL Plan](https://cms.isomer.gov.sg/hbl-2/) |
 
 
 
