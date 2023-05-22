@@ -1,6 +1,6 @@
 ---
-title: Student Care Center
-permalink: /student-care-center/
+title: Student Care Centre
+permalink: /student-care-centre/
 description: ""
 ---
 <p><strong>SCHOOL-BASED STUDENT CARE CENTRE@FRONTIER PRIMARY SCHOOL</strong></p>
