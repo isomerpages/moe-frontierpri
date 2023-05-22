@@ -3,6 +3,21 @@ title: For Students and Parents
 permalink: /for-students-and-parents/
 description: ""
 ---
+
+
+| For Parents | Details | 
+| -------- | -------- | 
+| Forms | 1. [Wait List Application](https://go.gov.sg/fpswaitlist)<br>2. [Application for Leave During School Days](https://frontierpri.moe.edu.sg/wp-content/uploads/2023/01/Application-for-Leave-During-School-Days-v2023.01.pdf)<br>3. [Leave of Absence (LOA) Application](https://go.gov.sg/fpsloa) (about [LOA)](https://www.moe.gov.sg/returning-singaporeans)<br>4. [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59) (for Singaporean Citizen students) |
+
+
+
+
+
+
+
+
+
+
 <p><strong>Click on the following tab to access the relevant information.</strong></p>
 <ul>
 <li><strong><a href="/hbl-2/">HBL Plan</a></strong></li>
