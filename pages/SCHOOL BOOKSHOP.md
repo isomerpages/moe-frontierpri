@@ -38,9 +38,9 @@ description: ""
 <td style="text-align: center;">&nbsp;P3</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p3.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 2S2F</td>
-<td style="text-align: center;"><a href="/files/BOOKLISTS 2023/fps p5 2s2f.pdf"><strong>Download</strong></a></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 2s2f.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 2S2F</td>
-<td style="text-align: center;"><a href="/files/BOOKLISTS 2023/fps p6 2s2f.pdf"><strong>Download</strong></a></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 2s2f.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
