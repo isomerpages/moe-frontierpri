@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNER3MARCH.gif
+      background: /images/banner24may2023.gif
       key_highlights:
         - title: Students & Parents
           description: Downloadable Links
