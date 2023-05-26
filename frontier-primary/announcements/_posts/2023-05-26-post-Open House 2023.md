@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/open%20house.PNG)
+<img src="/images/open%20house.PNG">
