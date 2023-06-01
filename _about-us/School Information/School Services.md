@@ -4,7 +4,7 @@ permalink: /school-services/
 description: ""
 third_nav_title: School Information
 ---
-<p><strong><a href="/student-care-center/">1. STUDENT CARE CENTER</a></strong></p>
+<p><strong><a href="/student-care-centre/">1. STUDENT CARE CENTRE</a></strong></p>
 
 <p><strong><a href="/school-bookshop">2. SCHOOL BOOKSHOP</a></strong></p>
 
@@ -16,4 +16,3 @@ third_nav_title: School Information
 <p><strong><a href="/school-dental-service">5. SCHOOL DENTAL SERVICE</a></strong></p>
 
 <p><strong><a href="/school-canteen">6. SCHOOL CANTEEN</a></strong></p>
-
