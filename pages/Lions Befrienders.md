@@ -10,6 +10,9 @@ Frontier Primary has been partnering Lions Befrienders as part of our Staff Valu
 In April this year, some of our staff visited the Lions Befrienders Centre at Clementi. The seniors were engaged in batik art activity and casual conversations. The completed batik art works by the seniors were so beautiful! It was a fruitful and meaningful time for all of us!
 
 
-
+![](/images/Lions/batik1.jpg)
+![](/images/Lions/batik2.jpg)
+![](/images/Lions/lions2.jpg)
+![](/images/Lions/lions1.jpg)
 
 
