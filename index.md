@@ -23,6 +23,14 @@ sections:
       button: More Information
       subtitle: Stay up to date with us
   - infopic:
+      title: “We are the World events"
+      description: We are proud to announce that  PERCILIA WAN PEI XIN from 5RE6
+        artwork has been selected to be showcased at the Louvre Museum in Paris
+      alt: PERCILIA WAN PEI XIN
+      url: /world-events
+      button: READ MORE
+      image: /images/SOTA/percilia artwork.jpg
+  - infopic:
       title: Maker Workshop 2
       subtitle: Our Signature Programme
       description: Frontier Primary has successfully conducted our second 'Maker
