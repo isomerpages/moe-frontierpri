@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our Partnerships
 ---
 **Click on the link below to read more:**<br>
-•	Chengdu Haibin<br>
-•	Santa Laurensia
+•	Chengdu Haibin Primary School<br>
+•	Santa Laurensia School
 
 <u>**Trips of Internationalisation Experience (TIE)**</u><br>
 As part of our ongoing efforts to deepen students’ acquisition of 21st Century Competencies (21CC) in working with people from a diverse range of socio-cultural backgrounds beyond Singapore, our school partners with two schools in Asia – Chengdu Haibin Primary School in China, and Santa Laurensia Elementary School in Indonesia – since 2019. Through this partnership, we aim to provide authentic overseas learning experiences for our Frontierers.
@@ -37,6 +37,3 @@ These collaborations have provided our Frontierers with valuable opportunities t
 ![](/images/ifd%20prepandemic%20-%20visit%20to%20indonesia.JPG)
 ![](/images/ifd%20prepandemic%201%20-%20visit%20to%20fps.jpg)
 ![](/images/ifd%20prepandemic%202%20-%20%20visit%20to%20fps.jpg)
-
-
-
