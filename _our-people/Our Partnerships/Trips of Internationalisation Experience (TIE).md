@@ -32,3 +32,11 @@ Passionate Leaders.
 To deepen our students’ appreciation of Singapore’s context in ASEAN and form friendships and networks with their international peers, Frontier Primary School has established a close partnership with Santa Laurensia Elementary School in Indonesia even during the COVID-19 pandemic. Our school has continued to sustain this partnership through virtual exchanges on International Friendship Day, enabling our Frontierers to stay connected to the region.
 
 These collaborations have provided our Frontierers with valuable opportunities to increase their foundational understanding of the region when they learn with their overseas peers. In addition, these learning experiences enable our students to deepen their cross-cultural skills to develop character, citizenship and future readiness.
+
+![](/images/ifd%20pandemic%20times.png)
+![](/images/ifd%20prepandemic%20-%20visit%20to%20indonesia.JPG)
+![](/images/ifd%20prepandemic%201%20-%20visit%20to%20fps.jpg)
+![](/images/ifd%20prepandemic%202%20-%20%20visit%20to%20fps.jpg)
+
+
+
