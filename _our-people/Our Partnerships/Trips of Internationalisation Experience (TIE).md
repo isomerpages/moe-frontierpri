@@ -8,10 +8,10 @@ third_nav_title: Our Partnerships
 •	[Chengdu Haibin Primary School](/chengdu-haibin/)<br>
 •	[Santa Laurensia School](/santa-laurensia/)
 
-<u>**Trips of Internationalisation Experience (TIE)**</u><br>
+<u>**Trips of Internationalisation Experience (TIE)**<br></u>
 As part of our ongoing efforts to deepen students’ acquisition of 21st Century Competencies (21CC) in working with people from a diverse range of socio-cultural backgrounds beyond Singapore, our school partners with two schools in Asia – Chengdu Haibin Primary School in China, and Santa Laurensia Elementary School in Indonesia – since 2019. Through this partnership, we aim to provide authentic overseas learning experiences for our Frontierers.
 
-<u>**Our Overseas Partner – Chengdu Haibin Primary School, China (成都市海滨小学)**</u><br>
+<u>**Our Overseas Partner – Chengdu Haibin Primary School, China (成都市海滨小学)**<br></u>
 Despite the pandemic situation, our school has continued the exchange programme with Chengdu Haibin Primary School by leveraging technology. Every year, our selected Primary 5 students collaborate virtually with the students from Chengdu Haibin Primary School to co-create a smart environment such as a smart Home and a smart School, utilising technology and Maker Education.&nbsp;
 
 In this programme, our Frontierers use our Maker Process of Ask, Plan, Make and Reflect to guide them in creating their product with their Chengdu Haibin peers. Through this experience, they are given opportunities to develop their 21st Century Competencies of Civic Literacy, Global Awareness and Cross-Cultural skills, Communication, Collaboration and Information skills, and Critical and Inventive Thinking.
@@ -28,7 +28,7 @@ Passionate Leaders.
 
 
    
-<u>**Our Overseas Partner – Santa Laurensia Elementary School, Indonesia**</u>
+<u>**Our Overseas Partner – Santa Laurensia Elementary School, Indonesia**<br></u>
 To deepen our students’ appreciation of Singapore’s context in ASEAN and form friendships and networks with their international peers, Frontier Primary School has established a close partnership with Santa Laurensia Elementary School in Indonesia even during the COVID-19 pandemic. Our school has continued to sustain this partnership through virtual exchanges on International Friendship Day, enabling our Frontierers to stay connected to the region.
 
 These collaborations have provided our Frontierers with valuable opportunities to increase their foundational understanding of the region when they learn with their overseas peers. In addition, these learning experiences enable our students to deepen their cross-cultural skills to develop character, citizenship and future readiness.
