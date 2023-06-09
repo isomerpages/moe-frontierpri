@@ -39,4 +39,9 @@ sections:
       image: /images/iN-Touch Logo.jpg
       alt: Image alt text
       subtitle: Our Termly Newsletter
+  - infopic:
+      title: “We are the World" events
+      description: We are proud to announce that  PERCILIA WAN PEI XIN from 5RE6
+        artwork has been selected to be showcased at the Louvre Museum in Paris
+      alt: Image alt text
 ---
