@@ -12,4 +12,10 @@ In addition, Frontier’s Design and Innovation Club CCA has organised learning 
 Through all these engaging experiences, our students have acquired valuable skills and mindsets including the Maker mindset, critical and inventive thinking, collaboration and communication. The collaboration with Commonwealth Secondary has indeed created opportunities for our Frontierers to hone their skills in Maker Education and to become young Makers of the future!
 
 ![](/images/CSS/csschool1.jpeg)
+![](/images/CSS/csschool2.jpeg)
+![](/images/CSS/csschool3.jpeg)
+![](/images/CSS/csschool4.jpeg)
+![](/images/CSS/csschool5.jpeg)
+
+
 
