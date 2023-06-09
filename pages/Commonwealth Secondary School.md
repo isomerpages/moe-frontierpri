@@ -3,7 +3,7 @@ title: Commonwealth Secondary School
 permalink: /commonwealth-secondary-school/
 description: ""
 ---
-<u>**Our Partner – Commonwealth Secondary School**</u>
+<u>Our Partner – Commonwealth Secondary School</u>
 
 Frontier Primary School has established a partnership with Commonwealth Secondary School (CWSS) since 2020 to enrich our students’ learning in Maker Education. As part of their Values-In-Action (VIA) projects, CWSS Secondary 3 students have been conducting Maker Education workshops such filmmaking for our Frontierers.
 
