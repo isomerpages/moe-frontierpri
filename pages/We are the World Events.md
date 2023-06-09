@@ -3,6 +3,9 @@ title: We are the World Events
 permalink: /world-events/
 description: ""
 ---
+![](/images/SOTA/percilia%20artwork.jpg)<br>
+![](/images/SOTA/yu%20yan%20artwork.jpg)
+
 “We are the World events” – the most prestigious International Children’s Art exhibitions and competitions.
 
 It occur in different countries with representative offices in France, USA, UK, United Arab Emirates, Russia, and more.
