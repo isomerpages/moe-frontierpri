@@ -19,8 +19,7 @@ In this programme, our Frontierers use our Maker Process of Ask, Plan, Make and 
 Through the acquisition of life skills and interaction between our students and students of Chengdu Haibin Primary School, we witness the growth of our Frontierers who live up to the school’s vision of Confident Thinkers, Adaptable Individuals and 
 Passionate Leaders.
 
-
-![](/images/chengdu1.jpeg)
+![](/images/chengdu1.jpeg)<br>
 ![](/images/chengdu2.jpeg)
 ![](/images/chengdu3.jpeg)
 ![](/images/chengdu4.jpeg)
