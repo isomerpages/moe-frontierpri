@@ -26,8 +26,3 @@ Passionate Leaders.
 ![](/images/chengdu4.jpeg)
 ![](/images/chengdu5.jpeg)
 ![](/images/chengdu6.jpeg)
-
-
-
-
-
