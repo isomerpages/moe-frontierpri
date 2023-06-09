@@ -3,7 +3,8 @@ title: Chengdu Haibin Primary School
 permalink: /chengdu-haibin/
 description: ""
 ---
-<u>**Our Overseas Partner – Chengdu Haibin Primary School, China (成都市海滨小学)**</u><br>
+<u>**Our Overseas Partner – Chengdu Haibin Primary School, China (成都市海滨小学)**</u>
+
 As part of our continued efforts to instil in Frontierers an appreciation for the wider international community, our school has been having overseas exchange programme with Haibin Primary School in Chengdu, China since 2019.
 
 Despite the pandemic situation, our school continued this exchange programme by leveraging technology.&nbsp; Our selected students from Primary 5 have collaborated virtually with the students from Chengdu Haibin Primary School yearly, focusing on themes such as a SMART Home and a SMART School while leverage Maker Education.&nbsp;
