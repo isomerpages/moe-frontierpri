@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Partnerships
 ---
 **Click on the link below to read more:**<br>
-•	Chengdu Haibin Primary School<br>
+•	[Chengdu Haibin Primary School](/chengdu-haibin/)<br>
 •	Santa Laurensia School
 
 <u>**Trips of Internationalisation Experience (TIE)**</u><br>
