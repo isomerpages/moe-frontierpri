@@ -11,9 +11,13 @@ Our students also play their part for the community by supporting and contributi
 
 We look forward to continuing our partnership with Frontier CC so as to Make A Difference to our community.
 
-
-
-
+![](/images/Frontier%20CC/p1%20lj%20photo%201.jpeg)
+![](/images/Frontier%20CC/p1%20lj%20photo%202.jpeg)
+![](/images/Frontier%20CC/p1%20lj%20photo%203.jpeg)
+![](/images/Frontier%20CC/appreciation%20plaque.jpeg)
+![](/images/Frontier%20CC/chinese%20dancers.jpeg)
+![](/images/Frontier%20CC/group%20photo.jpeg)
+![](/images/Frontier%20CC/modern%20dancers.jpeg)
 
 
 
