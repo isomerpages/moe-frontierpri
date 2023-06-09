@@ -29,8 +29,6 @@ Passionate Leaders.
 
    
 <u>**Our Overseas Partner – Santa Laurensia Elementary School, Indonesia**</u>
-
 To deepen our students’ appreciation of Singapore’s context in ASEAN and form friendships and networks with their international peers, Frontier Primary School has established a close partnership with Santa Laurensia Elementary School in Indonesia even during the COVID-19 pandemic. Our school has continued to sustain this partnership through virtual exchanges on International Friendship Day, enabling our Frontierers to stay connected to the region.
 
 These collaborations have provided our Frontierers with valuable opportunities to increase their foundational understanding of the region when they learn with their overseas peers. In addition, these learning experiences enable our students to deepen their cross-cultural skills to develop character, citizenship and future readiness.
-
