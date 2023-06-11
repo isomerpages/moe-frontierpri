@@ -4,7 +4,7 @@ permalink: /ccp/cca/clubs-societies/robotics-and-new-media-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 50%;" src="/images/di.jpg" />
+<img style="width: 50%;" src="/images/di.jpg">
 <table class="table table-responsive table-bordered" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -23,7 +23,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </ul>
 <p>By the end of Primary 6, students would have mastered:</p>
 <ul>
-<li>Maker mindset to problem solve<br />&bull; Skills in Robotics Construction and Programming using eV3<br />&bull; Skills in programming Tello-Drones</li>
+<li>Maker mindset to problem solve<br>• Skills in Robotics Construction and Programming using eV3<br>• Skills in programming Tello-Drones</li>
 </ul>
 </td>
 </tr>
@@ -36,10 +36,10 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>
 <p>Design and Innovation CCA aims to develop students:</p>
 <ul>
-<li>to think independently and critically, and communicate effectively&nbsp;<em>(21CC &ndash; Confident Person)</em></li>
-<li>to work in teams, is innovative, takes calculated risks and strives for excellence&nbsp;<em>(21 CC &ndash; Active Contributor)</em></li>
-<li>to take an active role in bettering the lives of others and is informed about Singapore and the world (21CC &ndash; Concerned Citizen)</li>
-<li>to question, reflect, persevere and takes responsibility for own learning (21 CC &ndash; Self-directed Learner)</li>
+<li>to think independently and critically, and communicate effectively&nbsp;<em>(21CC – Confident Person)</em></li>
+<li>to work in teams, is innovative, takes calculated risks and strives for excellence&nbsp;<em>(21 CC – Active Contributor)</em></li>
+<li>to take an active role in bettering the lives of others and is informed about Singapore and the world (21CC – Concerned Citizen)</li>
+<li>to question, reflect, persevere and takes responsibility for own learning (21 CC – Self-directed Learner)</li>
 </ul>
 </td>
 </tr>
@@ -66,7 +66,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>Miss Soh Kar Ling, Carrie</td>
 </tr>
 <tr>
-<td>Mrs Ang Cheng Chew - Teh Ai Choo</td>
+<td></td>
 </tr>
 </tbody>
 </table>
