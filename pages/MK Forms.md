@@ -23,7 +23,7 @@ description: ""
 <p><strong><a href="/files/KF2-KiFAS-Update-and-SA-Application-Jan-2022.pdf">KF2 - KiFAS Update and SA Application (Jan 2020)</a></strong></p>
 </li>
 <li>
-<p><strong><a href="/files/KF3-Withdrawal-from-Kindergarten-or-KiFAS-29-Apr-2019.pdf">KF3 – Withdrawal from KiFAS (29 Apr 2019)”</a></strong></p>
+<p><strong><a href="/files/KF3-Withdrawal-from-Kindergarten-or-KiFAS-29-Apr-2019.pdf">KF3 – Withdrawal from KiFAS (29 Apr 2019)</a></strong></p>
 </li>
 <li>
 <p><strong><a href="/files/KiFAS-Explanatory-Notes-Jan-2022.pdf">KiFAS Explanatory Notes (Jan 2020)</a></strong></p>
