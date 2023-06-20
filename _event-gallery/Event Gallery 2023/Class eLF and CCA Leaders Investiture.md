@@ -20,4 +20,10 @@ third_nav_title: Event Gallery 2023
 <img src="/images/investiture 3.jpg" style="width: 100%;">
 </td><td style="width: 33.333%; text-align: center; border:1px solid black;">
 <img src="/images/investiture 8.jpg" style="width: 100%;">
+</td><td style="width: 33.333%; text-align: center; border:1px solid black;">
+<img src="/images/investiture 9.JPG" style="width: 100%;">
+</td></tr><tr style="height: 20px;"><td style="width: 33.333%; text-align: center; border:1px solid black;">
+<img src="/images/investiture 10.JPG" style="width: 100%;">
+</td><td style="width: 33.333%; text-align: center; border:1px solid black;">
+<img src="/images/investiture 11.JPG" style="width: 100%;">
 </td></tr></tbody></table>&lt;
