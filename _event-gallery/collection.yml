@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Event Gallery 2023/Maker Workshop 2.md
       - Event Gallery 2023/.keep
       - Event Gallery 2023/P1 Transition Programme 2023.md
       - Event Gallery 2023/Back to Frontier.md
