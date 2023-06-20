@@ -2,7 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - Event Gallery 2023/Class eLF and CCA Leaders Investiture.md
       - Event Gallery 2023/.keep
       - Event Gallery 2023/P1 Transition Programme 2023.md
       - Event Gallery 2023/Back to Frontier.md
@@ -11,6 +10,7 @@ collections:
       - Event Gallery 2023/SwimSafer Programme.md
       - Event Gallery 2023/P4 Code For Fun.md
       - Event Gallery 2023/Total Defence Day.md
+      - Event Gallery 2023/Class eLF and CCA Leaders Investiture.md
       - Event Gallery 2022/P1 Transition Programme 2022.md
       - Event Gallery 2022/Chinese New Year 2022.md
       - Event Gallery 2022/Total Defence Day 2022.md
