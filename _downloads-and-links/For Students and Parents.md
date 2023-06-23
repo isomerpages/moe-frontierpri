@@ -16,5 +16,5 @@ description: ""
 
 | For Students | Details | 
 | -------- | -------- | 
-| Portals | 1. [Student Learning Space](https://cms.isomer.gov.sg/student-learning-space-sls/)<br>2. [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)<br>3. [E-Zhishi](https://www.ezhishi.net/Contents/index.html)<br>4. [Koobits ](https://member.koobits.com/) |
+| Portals | 1. [Student Learning Space](https://vle.learning.moe.edu.sg/login)<br>2. [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)<br>3. [E-Zhishi](https://www.ezhishi.net/Contents/index.html)<br>4. [Koobits ](https://member.koobits.com/) |
 | Information &amp; Resources | 1. [Home-based Learning (HBL) Plan](https://www.frontierpri.moe.edu.sg/hbl-2/)<br>2. [Library Matters](https://www.frontierpri.moe.edu.sg/library-matters/) |
