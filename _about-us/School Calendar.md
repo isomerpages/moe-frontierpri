@@ -244,34 +244,30 @@ description: ""
 		<p>·&nbsp; School event (TBC)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>8</strong></td>
-      <td style="border:1px solid black;"><p>8 May, Mon</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Review 1</p>
-	<p>·&nbsp; P6 Timed practice 2 (8 to 19 May)</p>
-				<p>·&nbsp; Hari Raya Concert (during assembly)</p></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>8</strong></td>
+      <td style="border:1px solid black;"><p>15 August, Tue</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>·&nbsp; PSLE Oral Examination</p>
+				<p>·&nbsp; P1 to P5 Home-Based Learning</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>9 May, Tues</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-     <td style="border:1px solid black;"><p>10 May, Wed</p></td>
+     <td style="border:1px solid black;"><p>16 August, Wed</p></td>
      <td style="border:1px solid black;"></td>
-     <td style="border:1px solid black;"><p>·&nbsp;P6LO3/4/6 LJ to ACM (school hours)</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; PSLE Oral Examination</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>11 May, Thurs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
-			<p>·&nbsp; *SHINE Programme #14</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp;P6LO1/2/5 LJ to ACM (school hours)</p></td>
+      <td style="border:1px solid black;"><p>17 August, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; 4IN1/5 LJ to National Gallery (PM)</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 GEP Screening (TBC)</p>
+			<p>·&nbsp; P4 and P5 Review 2 (Weighted Assessment</p>
+			<p>·&nbsp; P6 PRELIM EL/FEL Paper 1 and 2</p></td>
 	  </tr>
 		<tr>
-    <td style="border:1px solid black;"><p>12 May, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"></td>
+    <td style="border:1px solid black;"><p>18 August, Fri</p></td>
+     <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+				<p>·&nbsp; P3 to P5 Review 2 (Weighted Assessment) (17 to 30 Aug)</p>
+			<p>·&nbsp; P6 PRELIM MA/FMA Paper 1 and 2</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>9</strong></td>
