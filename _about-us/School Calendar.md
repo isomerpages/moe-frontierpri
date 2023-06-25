@@ -298,36 +298,24 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
         <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>10</strong></td>
-      <td style="border:1px solid black;"><p>22 May, Mon</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P3 CCA Fair (All P3 classes)</p>
-	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *P5 Haibin Internationalisation Programme #3</p></td>
+      <td style="border:1px solid black;" rowspan="3"><strong>10</strong></td>
+      <td style="border:1px solid black;"><p>28 August, Mon</p></td>
+       <td style="border:1px solid black;">
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>23 May, Tues</p></td>
-         <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
+      <td style="border:1px solid black;"><p>29 August, Tues</p></td>
+         <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
 	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; P4 E2K Mathematics</p>
+	<p>·&nbsp; *P4 and P5 E2K Math</p>
+	<p>·&nbsp; 4IN3/4 LJ to National Gallery (PM)</p>				 
       </td><td style="border:1px solid black;"></td>
     </tr>
     <tr>
-       <td style="border:1px solid black;"><p>24 May, Wed</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; 3RY1/2/6 LJ Bollywood Veggies</p>
-			<p>·&nbsp; Gratitude Programme #2</p>
-			<p>·&nbsp; *RAINBOWS #8</p></td>
+       <td style="border:1px solid black;"><p>30 August, Wed</p></td>
+       <td style="border:1px solid black;"></td>
       <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>25 May, Thurs</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; *S.H.I.N.E Programme #16</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>26 May, Fri</p></td>
-     <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P1 to P6 Parent-Child-Teacher Conference</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
