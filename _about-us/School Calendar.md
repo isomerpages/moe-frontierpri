@@ -317,10 +317,17 @@ description: ""
        <td style="border:1px solid black;"></td>
       <td style="border:1px solid black;"></td>
     </tr>
+	  <tr>
+      <td style="border:1px solid black;" rowspan="1"><strong>September Holidays (Student Programme)</strong></td>
+       <td style="border:1px solid black;"><p>7 and 8 September, Thu and Fri</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P6 Holiday Revision</p></td>
+    </tr>
     <tr>
-      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
+      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>September School Holidays</strong></td>
 	 </tr>
 	</tbody>
 </table>
 <p>*For selected students only</p>
-<p>** Information above is accurate as of 20 March 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
+<p>** Information above is accurate as of 20 June 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
