@@ -152,32 +152,29 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
-      <td style="border:1px solid black;"><p>17 April, Mon</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs (Last session for P6 Monday CCAs)</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 IPW Period (17 to 20 April)</p>
-	<p>·&nbsp; Class and CCA Photo-Taking Day 2</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>18 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN1 and 4IN5 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>19 April, Wed</p></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>5</strong></td>
+      <td style="border:1px solid black;"><p>24 July, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; •	P3 to P5 Monday CCAs</p>
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN2 and 4IN6 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>20 April, Thurs</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #9</p>
-			<p>·&nbsp; *P5 E2K Science #3</p>
-			<p>·&nbsp; *SHINE Programme #11</p>
-			<p>·&nbsp; *P5 Raffles Science Olympiad (round 2)</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>25 July, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			 <p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Mathematics</p>
+			 <p>·&nbsp; National Day Rehearsal #2</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P1 Learning Journey to Thow Kuan Pottery</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>27 July, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Math</p>
+			<p>·&nbsp; National Day Rehearsal #2</p>
+			<p>·&nbsp; *SHINE #19</p></td>
+      <td style="border:1px solid black;">
+			</td>
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>21 April, Fri</p></td>
