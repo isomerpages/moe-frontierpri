@@ -136,21 +136,20 @@ description: ""
 			<p>·&nbsp; PRELIM Oral Briefing for P6 Students</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>12 April, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *P4/P5 EL Stretch - Theatre Experience</p>
-			<p>·&nbsp; *RAINBOWS #4</p></td>
+      <td style="border:1px solid black;"><p>19 July, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #11</p></td>
 			<td style="border:1px solid black;"></td>
     </tr>
 		<tr>
-		<td style="border:1px solid black;"><p>13 April, Thurs</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P5/P6 Asia Pacific Mathematical Olympiad (Pri)</p></td>
+		<td style="border:1px solid black;"><p>20 July, Thurs</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P6 PRELIM Oral Examination</p>
+			<p>·&nbsp; *SYSF Science Project Display</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
 		<tr>
-		<td style="border:1px solid black;"><p>14 April, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	  <p>·&nbsp; P4 to P6 Friday CCAs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Class and CCA Photo-Taking Day 1</p></td>
+		<td style="border:1px solid black;"><p>21 July, Fri</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P6 PRELIM Oral Examination</p></td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
