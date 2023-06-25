@@ -121,16 +121,19 @@ description: ""
       </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>4</strong></td>
-      <td style="border:1px solid black;"><p>10 April, Mon</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs</p></td>
+      <td style="border:1px solid black;"><p>17 July, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Monday CCAs</p>
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>11 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
-			<td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>18 July, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Math</p>
+			<p>·&nbsp; *National Day Rehearsal #1</p></td>
+			<td style="border:1px solid black;">
+			<p>·&nbsp; PRELIM Oral Briefing for P6 Students</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>12 April, Wed</p></td>
