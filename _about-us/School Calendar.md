@@ -222,43 +222,26 @@ description: ""
 			 <p>·&nbsp; P6 PRELIM Listening Comprehension</p></td>
     </tr>
      <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
-      <td style="border:1px solid black;"><p>1 May, Mon</p></td>
-     <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Labour Day Public Holiday</p></td>
+      <td style="border:1px solid black;" rowspan="3"><strong>7</strong></td>
+      <td style="border:1px solid black;"><p>7 August, Mon</p></td>
+     <td style="border:1px solid black;">
+			 <p>·&nbsp; P3 to P5 Monday CCAs</p>
+			 <p>·&nbsp; P6 Revision</p>
+			 <p>·&nbsp; National Day Rehearsal #6</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; PSLE Oral Briefing for P6 Students</p></td>
     </tr>
     <tr>
-       <td style="border:1px solid black;"><p>2 May, Tues</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
-	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *P5 E2K Mathematics</p>
-	<p>·&nbsp; P4 NAPFA Test (5 stations) @ISH</p>
-	<p>·&nbsp; *Hari Raya Concert Rehearsal #1 @Hall</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; P4 IPW Period (2 to 5 May)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>3 May, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *School eLF Council Meet #5</p>
-	<p>·&nbsp; *RAINBOWS #6</p>
-	<p>·&nbsp; *Hari Raya Concert Rehearsal #2 @Hall</p></td>
-			<td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-       <td style="border:1px solid black;"><p>4 May, Thurs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Remedial</p>
-			<p>·&nbsp; P6 Revision</p>
-			<p>·&nbsp; *P4 E2K Science #11</p>
-			<p>·&nbsp; *P5 E2K Science #5</p>
-			<p>·&nbsp; *SHINE Programme #13</p>
-	    <p>·&nbsp; *P5 Haibin Internationalisation Programme #1</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P1 LJ to Frontier CC (school hours)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>5 May, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P5 Friday CCAs</p>
-	<p>·&nbsp; P6 Revision</p></td>
+       <td style="border:1px solid black;"><p>8 August, Tues</p></td>
       <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;"><p>·&nbsp; National Day Celebration cum Together We DANCEFRONT!</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>11 August, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Fridays CCAs</p>
+	<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;">
+		<p>·&nbsp; PRELIM Make-up LC</p>
+		<p>·&nbsp; School event (TBC)</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>8</strong></td>
