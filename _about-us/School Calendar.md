@@ -185,31 +185,41 @@ description: ""
 			<p>·&nbsp; Prelim Oral Make-up Examination</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>6</strong></td>
-       <td style="border:1px solid black;"><p>24 April, Mon</p></td>
-     <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Hari Raya Puasa School Holiday</p></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>6</strong></td>
+       <td style="border:1px solid black;"><p>31 July, Mon</p></td>
+     <td style="border:1px solid black;">
+			<p>·&nbsp; P3 to P5 Monday CCAs</p><p>·&nbsp; P6 Revision</p>
+			 <p>·&nbsp; *National Day Rehearsal #4</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Learning Fest: A Sustainable Singapore (31 Jul to 2 Aug</p>
+			<p>·&nbsp; 4IN1/3/5 LJ to Road Safety Park (AM)</p></td>
+    </tr>
+	 <tr>
+       <td style="border:1px solid black;"><p>1 August, Tue</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+		 <p>·&nbsp; P6 Revision</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 4IN2/4/6 LJ to Road Safety Park (AM)</p></td>
     </tr>
     <tr>
-       <td style="border:1px solid black;"><p>26 April, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #5</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN3 and 4IN4 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>27 April, Thurs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Remedial</p>
-			<p>·&nbsp; Start of P6 Revision</p>
-			<p>·&nbsp; *P4 E2K Science #10</p>
-			<p>·&nbsp; *P5 E2K Science #4</p>
-			<p>·&nbsp; *SHINE Programme #12</p></td>
+       <td style="border:1px solid black;"><p>2 August, Wed</p></td>
       <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 5RE1/6 LJ to Indian Heritage Centre (AM)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>28 April, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P5 Friday CCAs</p>
-	<p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>3 August, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *SHINE Programme #20</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; 5RE2/4 LJ to Indian Heritage Centre (AM)</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>4 August, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; S-eLF-L.E.S.S. B (for P4 school eLFs)</p>
+			 <p>·&nbsp; National Day Rehearsal #5</p></td>
+      <td style="border:1px solid black;">
+			 <p>·&nbsp; 5RE3/5 LJ to Indian Heritage Centre (AM)</p>
+			 <p>·&nbsp; P6 PRELIM Listening Comprehension</p></td>
     </tr>
      <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
