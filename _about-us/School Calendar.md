@@ -3,7 +3,7 @@ title: School Calendar
 permalink: /calendar-of-events/
 description: ""
 ---
-<strong>Frontier Primary School - Term 2 Student Calendar 2023</strong>
+<strong>Frontier Primary School - Term 3 Student Calendar 2023</strong>
 <table>
  <tbody>
   <tr>
@@ -14,9 +14,11 @@ description: ""
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>1</strong></td>
-			<td style="border:1px solid black;"><p>20 March, Mon</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; P5 Camp (20 to 22 March)</p></td>
-      <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;"><p>26 June, Mon</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P4 to P5 Monday CCAs</p></td>
+      <td style="border:1px solid black;">
+<p>·&nbsp; Start of Term 3</p>
+<p>·&nbsp; Back to Frontier 2</p></td>		
     </tr>
     <tr>
 			<td style="border:1px solid black;"><p>21 March, Tues</p></td>
