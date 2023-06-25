@@ -83,31 +83,40 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>3</strong></td>
-			<td style="border:1px solid black;"><p>3 April, Mon</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs</p></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>3</strong></td>
+			<td style="border:1px solid black;"><p>10 July, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Monday CCAs (Start of P3 Monday CCA</p>
+	<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P5 QSE Survey (10 to 14 July TBC)</p></td>
+    </tr>
+    <tr>
+			<td style="border:1px solid black;"><p>11 July, Tue</p></td>
+     <td style="border:1px solid black;">           <p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Math</p>
+			<p>·&nbsp; Racial Harmony Rehearsal #3</p></td>
+			<td style="border:1px solid black;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>12 July, Wed</p></td>
       <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;">
+				<p>·&nbsp; PAM Splash (12 to 14 July)</p></td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>4 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
-			<td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>5 April, Wed</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; *Embrace SG #1</p>
-			<p>·&nbsp; *School eLF Council Meet #4</p></td>
-			<td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>6 April, Thurs</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #8</p>
-			<p>·&nbsp; *P5 Science Stretch #7</p>
-			<p>·&nbsp; *SHINE Programme #10</p>
-			<p>·&nbsp; *P5 Raffles Science Olympiad (round 1 online)</p></td>
+      <td style="border:1px solid black;"><p>13 July, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 E2K Science #13</p>
+			<p>·&nbsp; *P5 E2K Science #5</p>
+			<p>·&nbsp; *SHINE #18</p></td>
+      <td style="border:1px solid black;"></td>
+      </tr>
+	   <tr>
+      <td style="border:1px solid black;"><p>14 July, Fri</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Fridays CCAs</p>
+			<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
       </tr>
     <tr>
