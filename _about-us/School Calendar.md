@@ -48,36 +48,38 @@ description: ""
       <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial)</p>
 	<p>·&nbsp; P6 Revision</p>
 	<p>·&nbsp; *Haibin Internationalisation #6</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; Mother-Tongue Language Fortnight (4 to 14 Jul)</p></td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>28 March, Tues</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 SASMO Competition</p>
-			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
+			<td style="border:1px solid black;"><p>5 July, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Cultural Performance Exposure (P3 CL students)</p>
+			<p>·&nbsp; *RAINBOWS #10</p></td>
       <td style="border:1px solid black;">
-      </td>
+      <p>·&nbsp; Temperature-Taking Exercise</p></td>
     </tr>
 	 <tr>
-			<td style="border:1px solid black;"><p>28 March, Wed</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 SASMO Competition</p>
-			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
+			<td style="border:1px solid black;"><p>6 July, Thur</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 E2K Science #12</p>
+		  <p>·&nbsp; *SHINE #17</p>
+		  <p>·&nbsp; *Haibin Internationalisation #7</p>
+		 <p>·&nbsp; *16th Annual Mathlympics</p></td>
       <td style="border:1px solid black;">
       </td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>30 March, Thur</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #7</p>
-			<p>·&nbsp; *P5 Science Stretch #6</p>
-			<p>·&nbsp; *SHINE Programme #9</p></td>
-      <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;"><p>7 July, Fri</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Friday CCAs (Start of P3 Friday CCA)
+</p>
+			<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P1 LJ to Thow Kwang Pottery Jungle (AM)</p></td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>31 March, Fri</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
+			<td style="border:1px solid black;"><p>8 July, Sat</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P5 NE Show</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
