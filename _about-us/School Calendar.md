@@ -270,37 +270,34 @@ description: ""
 			<p>·&nbsp; P6 PRELIM MA/FMA Paper 1 and 2</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>9</strong></td>
-       <td style="border:1px solid black;"><p>15 May, Mon</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>9</strong></td>
+       <td style="border:1px solid black;"><p>21 August, Mon</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P6 PRELIM MTL/FMTL Paper 1 and 2</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>16 May, Tues</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P6 NAPFA Test (5 stations)</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>22 August, Tues</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P6 PRELIM SC/FSC Paper</p>
+			<p>·&nbsp; Prelim Make-up (22 to 24 Aug)</p></td>
     </tr>
     <tr>
-       <td style="border:1px solid black;"><p>17 May, Wed</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #7</p></td>
-      <td style="border:1px solid black;"></td>
+       <td style="border:1px solid black;"><p>23 August, Wed</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+				<p>·&nbsp; P6 PRELIM HMTL Paper 1 and 2</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>18 May, Thurs</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *S.H.I.N.E Programme #15</p></td>
+      <td style="border:1px solid black;"><p>24 August, Thurs</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+				 <p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *S.H.I.N.E #21</p>
+			<p>·&nbsp; 4IN2/6 LJ to National Gallery (PM)</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>19 May, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; 3RY3/4/5 LJ Bollywood Veggies</p>
-	<p>·&nbsp; P4 and P5 Friday CCAs</p>
-	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *P5 Haibin Internationalisation Programme #2</p>
-	<p>·&nbsp; *Maker Workshop #4: Fun with Filming @ CWSS</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
+        <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>10</strong></td>
       <td style="border:1px solid black;"><p>22 May, Mon</p></td>
        <td style="border:1px solid black;"><p>·&nbsp; P3 CCA Fair (All P3 classes)</p>
