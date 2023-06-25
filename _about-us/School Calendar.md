@@ -170,17 +170,19 @@ description: ""
       <td style="border:1px solid black;"><p>27 July, Thurs</p></td>
       <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
 			<p>·&nbsp; P6 Revision</p>
-			<p>·&nbsp; *P4 and P5 E2K Math</p>
-			<p>·&nbsp; National Day Rehearsal #2</p>
+			<p>·&nbsp; *P4 E2K Science #14</p>
+			<p>·&nbsp; *P5 E2K Science #6</p>
 			<p>·&nbsp; *SHINE #19</p></td>
       <td style="border:1px solid black;">
 			</td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>21 April, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P6 Friday CCAs (Last session for P6 Friday CCAs)</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>28 July, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Fridays CCAs</p>
+	<p>·&nbsp; P6 Revision</p>
+<p>·&nbsp; National Day Rehearsal #3</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; Prelim Oral Make-up Examination</p></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="4"><strong>6</strong></td>
