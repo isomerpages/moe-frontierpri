@@ -43,15 +43,23 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
-			<td style="border:1px solid black;"><p>27 March, Mon</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs</p>
-	<p>·&nbsp; *Maker Workshop #3: Amazing Shrinking Plastic</p></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>2</strong></td>
+			<td style="border:1px solid black;"><p>4 July, Tues</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial)</p>
+	<p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *Haibin Internationalisation #6</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
 			<td style="border:1px solid black;"><p>28 March, Tues</p></td>
+      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
+			<p>·&nbsp; *P4/P5 SASMO Competition</p>
+			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
+      <td style="border:1px solid black;">
+      </td>
+    </tr>
+	 <tr>
+			<td style="border:1px solid black;"><p>28 March, Wed</p></td>
       <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
 			<p>·&nbsp; *P4/P5 SASMO Competition</p>
 			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
