@@ -53,8 +53,7 @@ description: ""
     </tr>
     <tr>
 			<td style="border:1px solid black;"><p>5 July, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Cultural Performance Exposure (P3 CL students)</p>
-			<p>·&nbsp; *RAINBOWS #10</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Cultural Performance Exposure (P3 CL students)</p></td>
       <td style="border:1px solid black;">
       <p>·&nbsp; Temperature-Taking Exercise</p></td>
     </tr>
@@ -120,7 +119,7 @@ description: ""
       <td style="border:1px solid black;"></td>
       </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>4</strong></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>4</strong></td>
       <td style="border:1px solid black;"><p>17 July, Mon</p></td>
      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Monday CCAs</p>
 	<p>·&nbsp; P6 Revision</p></td>
@@ -136,11 +135,6 @@ description: ""
 			<p>·&nbsp; PRELIM Oral Briefing for P6 Students</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>19 July, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #11</p></td>
-			<td style="border:1px solid black;"></td>
-    </tr>
-		<tr>
 		<td style="border:1px solid black;"><p>20 July, Thurs</p></td>
      <td style="border:1px solid black;"><p>·&nbsp; P6 PRELIM Oral Examination</p>
 			<p>·&nbsp; *SYSF Science Project Display</p></td>
@@ -152,7 +146,7 @@ description: ""
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>5</strong></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
       <td style="border:1px solid black;"><p>24 July, Mon</p></td>
      <td style="border:1px solid black;"><p>·&nbsp; •	P3 to P5 Monday CCAs</p>
 	<p>·&nbsp; P6 Revision</p></td>
@@ -165,6 +159,11 @@ description: ""
 			<p>·&nbsp; *P4 and P5 E2K Mathematics</p>
 			 <p>·&nbsp; National Day Rehearsal #2</p></td>
 			<td style="border:1px solid black;"><p>·&nbsp; P1 Learning Journey to Thow Kuan Pottery</p></td>
+    </tr>
+	 <tr>
+      <td style="border:1px solid black;"><p>26 July, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #10</p></td>
+			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;"><p>27 July, Thurs</p></td>
@@ -201,7 +200,8 @@ description: ""
     </tr>
     <tr>
        <td style="border:1px solid black;"><p>2 August, Wed</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; *RAINBOWS #11</p></td>
 			<td style="border:1px solid black;"><p>·&nbsp; 5RE1/6 LJ to Indian Heritage Centre (AM)</p></td>
     </tr>
     <tr>
@@ -285,7 +285,8 @@ description: ""
     </tr>
     <tr>
        <td style="border:1px solid black;"><p>23 August, Wed</p></td>
-       <td style="border:1px solid black;"></td>
+       <td style="border:1px solid black;">
+			<p>·&nbsp; *RAINBOWS #12</p></td>
       <td style="border:1px solid black;">
 				<p>·&nbsp; P6 PRELIM HMTL Paper 1 and 2</p></td>
     </tr>
