@@ -3,7 +3,7 @@ title: School Calendar
 permalink: /calendar-of-events/
 description: ""
 ---
-<strong>Frontier Primary School - Term 2 Student Calendar 2023</strong>
+<strong>Frontier Primary School - Term 3 Student Calendar 2023</strong>
 <table>
  <tbody>
   <tr>
@@ -13,322 +13,322 @@ description: ""
      <td style="width: 270.109px; border:1px solid black;"><strong>Other Activities/ Remarks</strong></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>1</strong></td>
-			<td style="border:1px solid black;"><p>20 March, Mon</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; P5 Camp (20 to 22 March)</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>1</strong></td>
+			<td style="border:1px solid black;"><p>26 June, Mon</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P4 to P5 Monday CCAs</p></td>
+      <td style="border:1px solid black;">
+<p>·&nbsp; Start of Term 3</p>
+<p>·&nbsp; Back to Frontier 2</p></td>		
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>21 March, Tues</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; Start of P3 and P4 Remedial</p>
-			<p>·&nbsp; Start of P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Mathematics</p></td>
+			<td style="border:1px solid black;"><p>27 June, Tues</p></td>
+      <td style="border:1px solid black;"><p>.&nbsp; Maker Workshop #5: Fun with 3D Printing!</p>
+			<p>·&nbsp; *National Mathematical Olympiad</p>
+			<p>·&nbsp; *Racial Harmony Day Rehearsal #1</p></td>
       <td style="border:1px solid black;">
       </td>
      </tr>
     <tr>
-			<td style="border:1px solid black;"><p>22 March, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #3</p></td>
+			<td style="border:1px solid black;"><p>28 June, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #9</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>23 March, Thurs</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 and P4 Remedial</p>
-			<p>·&nbsp; P6 Remedial</p>
-			<p>·&nbsp; *SHINE Programme #8</p></td>
-      <td style="border:1px solid black;"></td>
-			</tr>
-    <tr>
-			<td style="border:1px solid black;"><p>24 March, Fri</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P4 to P6 Friday CCAs</p>
-				<p>·&nbsp; *P5 Raffles Science Olympiad (trail)</p></td>
+			<td style="border:1px solid black;"><p>30 June, Fri</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P4 to P5 Friday CCAs</p>
+				<p>·&nbsp; P6 Revision</p>
+				<p>·&nbsp; *Haibin Internationalisation #5
+</p>
+			<p>·&nbsp; *Racial Harmony Day Rehearsal #2</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>2</strong></td>
-			<td style="border:1px solid black;"><p>27 March, Mon</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs</p>
-	<p>·&nbsp; *Maker Workshop #3: Amazing Shrinking Plastic</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>2</strong></td>
+			<td style="border:1px solid black;"><p>4 July, Tues</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial)</p>
+	<p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *Haibin Internationalisation #6</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; Mother-Tongue Language Fortnight (4 to 14 Jul)</p></td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>28 March, Tues</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 SASMO Competition</p>
-			<p>·&nbsp; *P6 RI (Pri) Mathematics World Contest</p></td>
+			<td style="border:1px solid black;"><p>5 July, Wed</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Cultural Performance Exposure (P3 CL students)</p></td>
+      <td style="border:1px solid black;">
+      <p>·&nbsp; Temperature-Taking Exercise</p></td>
+    </tr>
+	 <tr>
+			<td style="border:1px solid black;"><p>6 July, Thur</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 E2K Science #12</p>
+		  <p>·&nbsp; *SHINE #17</p>
+		  <p>·&nbsp; *Haibin Internationalisation #7</p>
+		 <p>·&nbsp; *16th Annual Mathlympics</p></td>
       <td style="border:1px solid black;">
       </td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>30 March, Thur</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #7</p>
-			<p>·&nbsp; *P5 Science Stretch #6</p>
-			<p>·&nbsp; *SHINE Programme #9</p></td>
+			<td style="border:1px solid black;"><p>7 July, Fri</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Friday CCAs (Start of P3 Friday CCA)
+</p>
+			<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P1 LJ to Thow Kwang Pottery Jungle (AM)</p></td>
+    </tr>
+    <tr>
+			<td style="border:1px solid black;"><p>8 July, Sat</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; P5 NE Show</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-			<td style="border:1px solid black;"><p>31 March, Fri</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; Start of P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P6 Friday CCAs</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;" rowspan="5"><strong>3</strong></td>
+			<td style="border:1px solid black;"><p>10 July, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Monday CCAs (Start of P3 Monday CCA</p>
+	<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P5 QSE Survey (10 to 14 July TBC)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>3</strong></td>
-			<td style="border:1px solid black;"><p>3 April, Mon</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-			<td style="border:1px solid black;"><p>4 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
+			<td style="border:1px solid black;"><p>11 July, Tue</p></td>
+     <td style="border:1px solid black;">           <p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Math</p>
+			<p>·&nbsp; Racial Harmony Rehearsal #3</p></td>
 			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>5 April, Wed</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; *Embrace SG #1</p>
-			<p>·&nbsp; *School eLF Council Meet #4</p></td>
-			<td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>12 July, Wed</p></td>
+      <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;">
+				<p>·&nbsp; PAM Splash (12 to 14 July)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>6 April, Thurs</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #8</p>
-			<p>·&nbsp; *P5 Science Stretch #7</p>
-			<p>·&nbsp; *SHINE Programme #10</p>
-			<p>·&nbsp; *P5 Raffles Science Olympiad (round 1 online)</p></td>
+      <td style="border:1px solid black;"><p>13 July, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 E2K Science #13</p>
+			<p>·&nbsp; *P5 E2K Science #5</p>
+			<p>·&nbsp; *SHINE #18</p></td>
+      <td style="border:1px solid black;"></td>
+      </tr>
+	   <tr>
+      <td style="border:1px solid black;"><p>14 July, Fri</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Fridays CCAs</p>
+			<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
       </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>4</strong></td>
-      <td style="border:1px solid black;"><p>10 April, Mon</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs</p></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>4</strong></td>
+      <td style="border:1px solid black;"><p>17 July, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Monday CCAs</p>
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>11 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
-			<td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>18 July, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Math</p>
+			<p>·&nbsp; *National Day Rehearsal #1</p></td>
+			<td style="border:1px solid black;">
+			<p>·&nbsp; PRELIM Oral Briefing for P6 Students</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>12 April, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *P4/P5 EL Stretch - Theatre Experience</p>
-			<p>·&nbsp; *RAINBOWS #4</p></td>
-			<td style="border:1px solid black;"></td>
-    </tr>
-		<tr>
-		<td style="border:1px solid black;"><p>13 April, Thurs</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P5/P6 Asia Pacific Mathematical Olympiad (Pri)</p></td>
+		<td style="border:1px solid black;"><p>20 July, Thurs</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P6 PRELIM Oral Examination</p>
+			<p>·&nbsp; *SYSF Science Project Display</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
 		<tr>
-		<td style="border:1px solid black;"><p>14 April, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	  <p>·&nbsp; P4 to P6 Friday CCAs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Class and CCA Photo-Taking Day 1</p></td>
+		<td style="border:1px solid black;"><p>21 July, Fri</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P6 PRELIM Oral Examination</p></td>
+      <td style="border:1px solid black;"></td>
     </tr>
     <tr>
       <td style="border:1px solid black;" rowspan="5"><strong>5</strong></td>
-      <td style="border:1px solid black;"><p>17 April, Mon</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
-	<p>·&nbsp; P4 to P6 Monday CCAs (Last session for P6 Monday CCAs)</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 IPW Period (17 to 20 April)</p>
-	<p>·&nbsp; Class and CCA Photo-Taking Day 2</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>18 April, Tue</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4/P5 E2K Mathematics</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN1 and 4IN5 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>19 April, Wed</p></td>
-      <td style="border:1px solid black;"></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN2 and 4IN6 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>20 April, Thurs</p></td>
-      <td style="border:1px solid black;"><p>.&nbsp; P3 to P6 Remedial</p>
-			<p>·&nbsp; *P4 E2K Science #9</p>
-			<p>·&nbsp; *P5 E2K Science #3</p>
-			<p>·&nbsp; *SHINE Programme #11</p>
-			<p>·&nbsp; *P5 Raffles Science Olympiad (round 2)</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>21 April, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P6 Friday CCAs (Last session for P6 Friday CCAs)</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;" rowspan="4"><strong>6</strong></td>
-       <td style="border:1px solid black;"><p>24 April, Mon</p></td>
-     <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Hari Raya Puasa School Holiday</p></td>
-    </tr>
-    <tr>
-       <td style="border:1px solid black;"><p>26 April, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #5</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; 4IN3 and 4IN4 LJ to Kreta Ayer Heritage Gallery (school hours)</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>27 April, Thurs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Remedial</p>
-			<p>·&nbsp; Start of P6 Revision</p>
-			<p>·&nbsp; *P4 E2K Science #10</p>
-			<p>·&nbsp; *P5 E2K Science #4</p>
-			<p>·&nbsp; *SHINE Programme #12</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>28 April, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P5 Friday CCAs</p>
+      <td style="border:1px solid black;"><p>24 July, Mon</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; •	P3 to P5 Monday CCAs</p>
 	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
-     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>7</strong></td>
-      <td style="border:1px solid black;"><p>1 May, Mon</p></td>
-     <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;"><p>·&nbsp; Labour Day Public Holiday</p></td>
-    </tr>
     <tr>
-       <td style="border:1px solid black;"><p>2 May, Tues</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
-	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *P5 E2K Mathematics</p>
-	<p>·&nbsp; P4 NAPFA Test (5 stations) @ISH</p>
-	<p>·&nbsp; *Hari Raya Concert Rehearsal #1 @Hall</p></td>
-			<td style="border:1px solid black;"><p>·&nbsp; P4 IPW Period (2 to 5 May)</p></td>
+      <td style="border:1px solid black;"><p>25 July, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			 <p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *P4 and P5 E2K Mathematics</p>
+			 <p>·&nbsp; National Day Rehearsal #2</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; P1 Learning Journey to Thow Kuan Pottery</p></td>
     </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>3 May, Wed</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; *School eLF Council Meet #5</p>
-	<p>·&nbsp; *RAINBOWS #6</p>
-	<p>·&nbsp; *Hari Raya Concert Rehearsal #2 @Hall</p></td>
+	 <tr>
+      <td style="border:1px solid black;"><p>26 July, Tue</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #10</p></td>
 			<td style="border:1px solid black;"></td>
     </tr>
     <tr>
-       <td style="border:1px solid black;"><p>4 May, Thurs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Remedial</p>
+      <td style="border:1px solid black;"><p>27 July, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
 			<p>·&nbsp; P6 Revision</p>
-			<p>·&nbsp; *P4 E2K Science #11</p>
-			<p>·&nbsp; *P5 E2K Science #5</p>
-			<p>·&nbsp; *SHINE Programme #13</p>
-	    <p>·&nbsp; *P5 Haibin Internationalisation Programme #1</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P1 LJ to Frontier CC (school hours)</p></td>
+			<p>·&nbsp; *P4 E2K Science #14</p>
+			<p>·&nbsp; *P5 E2K Science #6</p>
+			<p>·&nbsp; *SHINE #19</p></td>
+      <td style="border:1px solid black;">
+			</td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>5 May, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY1/2/3)</p>
-	<p>·&nbsp; P4 to P5 Friday CCAs</p>
-	<p>·&nbsp; P6 Revision</p></td>
+      <td style="border:1px solid black;"><p>28 July, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Fridays CCAs</p>
+	<p>·&nbsp; P6 Revision</p>
+<p>·&nbsp; National Day Rehearsal #3</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; Prelim Oral Make-up Examination</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;" rowspan="5"><strong>6</strong></td>
+       <td style="border:1px solid black;"><p>31 July, Mon</p></td>
+     <td style="border:1px solid black;">
+			<p>·&nbsp; P3 to P5 Monday CCAs</p><p>·&nbsp; P6 Revision</p>
+			 <p>·&nbsp; *National Day Rehearsal #4</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; Learning Fest: A Sustainable Singapore (31 Jul to 2 Aug</p>
+			<p>·&nbsp; 4IN1/3/5 LJ to Road Safety Park (AM)</p></td>
+    </tr>
+	 <tr>
+       <td style="border:1px solid black;"><p>1 August, Tue</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+		 <p>·&nbsp; P6 Revision</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 4IN2/4/6 LJ to Road Safety Park (AM)</p></td>
+    </tr>
+    <tr>
+       <td style="border:1px solid black;"><p>2 August, Wed</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; *RAINBOWS #11</p></td>
+			<td style="border:1px solid black;"><p>·&nbsp; 5RE1/6 LJ to Indian Heritage Centre (AM)</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>3 August, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+			<p>·&nbsp; P6 Revision</p>
+			<p>·&nbsp; *SHINE Programme #20</p></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; 5RE2/4 LJ to Indian Heritage Centre (AM)</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>4 August, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; S-eLF-L.E.S.S. B (for P4 school eLFs)</p>
+			 <p>·&nbsp; National Day Rehearsal #5</p></td>
+      <td style="border:1px solid black;">
+			 <p>·&nbsp; 5RE3/5 LJ to Indian Heritage Centre (AM)</p>
+			 <p>·&nbsp; P6 PRELIM Listening Comprehension</p></td>
+    </tr>
+     <tr>
+      <td style="border:1px solid black;" rowspan="3"><strong>7</strong></td>
+      <td style="border:1px solid black;"><p>7 August, Mon</p></td>
+     <td style="border:1px solid black;">
+			 <p>·&nbsp; P3 to P5 Monday CCAs</p>
+			 <p>·&nbsp; P6 Revision</p>
+			 <p>·&nbsp; National Day Rehearsal #6</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; PSLE Oral Briefing for P6 Students</p></td>
+    </tr>
+    <tr>
+       <td style="border:1px solid black;"><p>8 August, Tues</p></td>
       <td style="border:1px solid black;"></td>
+			<td style="border:1px solid black;"><p>·&nbsp; National Day Celebration cum Together We DANCEFRONT!</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>8</strong></td>
-      <td style="border:1px solid black;"><p>8 May, Mon</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P3 SCCA (3RY3/4/5)</p>
+      <td style="border:1px solid black;"><p>11 August, Fri</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Fridays CCAs</p>
 	<p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P3 to P5 Review 1</p>
-	<p>·&nbsp; P6 Timed practice 2 (8 to 19 May)</p>
-				<p>·&nbsp; Hari Raya Concert (during assembly)</p></td>
+      <td style="border:1px solid black;">
+		<p>·&nbsp; PRELIM Make-up LC</p>
+		<p>·&nbsp; School event (TBC)</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>9 May, Tues</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;" rowspan="4"><strong>8</strong></td>
+      <td style="border:1px solid black;"><p>15 August, Tue</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;"><p>·&nbsp; PSLE Oral Examination</p>
+				<p>·&nbsp; P1 to P5 Home-Based Learning</p></td>
     </tr>
     <tr>
-     <td style="border:1px solid black;"><p>10 May, Wed</p></td>
+     <td style="border:1px solid black;"><p>16 August, Wed</p></td>
      <td style="border:1px solid black;"></td>
-     <td style="border:1px solid black;"><p>·&nbsp;P6LO3/4/6 LJ to ACM (school hours)</p></td>
+     <td style="border:1px solid black;"><p>·&nbsp; PSLE Oral Examination</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>11 May, Thurs</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
-			<p>·&nbsp; *SHINE Programme #14</p></td>
-      <td style="border:1px solid black;"><p>·&nbsp;P6LO1/2/5 LJ to ACM (school hours)</p></td>
+      <td style="border:1px solid black;"><p>17 August, Thurs</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; 4IN1/5 LJ to National Gallery (PM)</p></td>
+      <td style="border:1px solid black;"><p>·&nbsp; P3 GEP Screening (TBC)</p>
+			<p>·&nbsp; P4 and P5 Review 2 (Weighted Assessment</p>
+			<p>·&nbsp; P6 PRELIM EL/FEL Paper 1 and 2</p></td>
 	  </tr>
 		<tr>
-    <td style="border:1px solid black;"><p>12 May, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
+    <td style="border:1px solid black;"><p>18 August, Fri</p></td>
+     <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+				<p>·&nbsp; P3 to P5 Review 2 (Weighted Assessment) (17 to 30 Aug)</p>
+			<p>·&nbsp; P6 PRELIM MA/FMA Paper 1 and 2</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;" rowspan="4"><strong>9</strong></td>
+       <td style="border:1px solid black;"><p>21 August, Mon</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P6 PRELIM MTL/FMTL Paper 1 and 2</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>22 August, Tues</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P6 PRELIM SC/FSC Paper</p>
+			<p>·&nbsp; Prelim Make-up (22 to 24 Aug)</p></td>
+    </tr>
+    <tr>
+       <td style="border:1px solid black;"><p>23 August, Wed</p></td>
+       <td style="border:1px solid black;">
+			<p>·&nbsp; *RAINBOWS #12</p></td>
+      <td style="border:1px solid black;">
+				<p>·&nbsp; P6 PRELIM HMTL Paper 1 and 2</p></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black;"><p>24 August, Thurs</p></td>
+       <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
+				 <p>·&nbsp; P6 Revision</p>
+	<p>·&nbsp; *S.H.I.N.E #21</p>
+			<p>·&nbsp; 4IN2/6 LJ to National Gallery (PM)</p></td>
+      <td style="border:1px solid black;"></td>
+    </tr>
+        <tr>
+      <td style="border:1px solid black;" rowspan="3"><strong>10</strong></td>
+      <td style="border:1px solid black;"><p>28 August, Mon</p></td>
+       <td style="border:1px solid black;">
+	<p>·&nbsp; P6 Revision</p></td>
       <td style="border:1px solid black;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>9</strong></td>
-       <td style="border:1px solid black;"><p>15 May, Mon</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>16 May, Tues</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P6 NAPFA Test (5 stations)</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-       <td style="border:1px solid black;"><p>17 May, Wed</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; *RAINBOWS #7</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>18 May, Thurs</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *S.H.I.N.E Programme #15</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>19 May, Fri</p></td>
-     <td style="border:1px solid black;"><p>·&nbsp; 3RY3/4/5 LJ Bollywood Veggies</p>
-	<p>·&nbsp; P4 and P5 Friday CCAs</p>
+      <td style="border:1px solid black;"><p>29 August, Tues</p></td>
+         <td style="border:1px solid black;"><p>·&nbsp; *P3 to P5 Remedial</p>
 	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *P5 Haibin Internationalisation Programme #2</p>
-	<p>·&nbsp; *Maker Workshop #4: Fun with Filming @ CWSS</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;" rowspan="5"><strong>10</strong></td>
-      <td style="border:1px solid black;"><p>22 May, Mon</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; P3 CCA Fair (All P3 classes)</p>
-	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; *P5 Haibin Internationalisation Programme #3</p></td>
-      <td style="border:1px solid black;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>23 May, Tues</p></td>
-         <td style="border:1px solid black;"><p>·&nbsp; P3 and P5 Remedial</p>
-	<p>·&nbsp; P6 Revision</p>
-	<p>·&nbsp; P4 E2K Mathematics</p>
+	<p>·&nbsp; *P4 and P5 E2K Math</p>
+	<p>·&nbsp; 4IN3/4 LJ to National Gallery (PM)</p>				 
       </td><td style="border:1px solid black;"></td>
     </tr>
     <tr>
-       <td style="border:1px solid black;"><p>24 May, Wed</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; 3RY1/2/6 LJ Bollywood Veggies</p>
-			<p>·&nbsp; Gratitude Programme #2</p>
-			<p>·&nbsp; *RAINBOWS #8</p></td>
+       <td style="border:1px solid black;"><p>30 August, Wed</p></td>
+       <td style="border:1px solid black;"></td>
       <td style="border:1px solid black;"></td>
     </tr>
-    <tr>
-      <td style="border:1px solid black;"><p>25 May, Thurs</p></td>
-       <td style="border:1px solid black;"><p>·&nbsp; *S.H.I.N.E Programme #16</p></td>
-      <td style="border:1px solid black;"></td>
+	  <tr>
+      <td style="border:1px solid black;" rowspan="1"><strong>September Holidays (Student Programme)</strong></td>
+       <td style="border:1px solid black;"><p>7 and 8 September, Thu and Fri</p></td>
+       <td style="border:1px solid black;"></td>
+      <td style="border:1px solid black;">
+			<p>·&nbsp; P6 Holiday Revision</p></td>
     </tr>
     <tr>
-      <td style="border:1px solid black;"><p>26 May, Fri</p></td>
-     <td style="border:1px solid black;"></td>
-      <td style="border:1px solid black;"><p>·&nbsp; P1 to P6 Parent-Child-Teacher Conference</p></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>May/June School Holidays</strong></td>
+      <td style="border:1px solid black; text-align:center;" colspan="4"><strong>September School Holidays</strong></td>
 	 </tr>
 	</tbody>
 </table>
 <p>*For selected students only</p>
-<p>** Information above is accurate as of 20 March 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
+<p>** Information above is accurate as of 20 June 2023 and is subjected to changes. Parents are to check the PG notifications and/or consent forms for the most updated information.</p>
