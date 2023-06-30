@@ -30,7 +30,8 @@ description: ""
 <p>Cold Drinks/Snacks</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-1.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-1.jpeg" target="_blank" rel="noopener">Download</a>
+	</p>
 </td>
 </tr>
 <tr>
