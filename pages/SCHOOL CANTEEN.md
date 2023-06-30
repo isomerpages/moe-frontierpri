@@ -30,7 +30,8 @@ description: ""
 <p>Cold Drinks/Snacks</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-1.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-1.jpeg" target="_blank" rel="noopener">Download</a>
+	</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +45,7 @@ description: ""
 <p>Muslim Rice (Halal)</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-2.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-2.jpeg" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -58,7 +59,7 @@ description: ""
 <p>Chinese&nbsp;Noodles</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-3.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-3.jpeg" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -72,7 +73,7 @@ description: ""
 <p>Hot Drinks/Snacks</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-5.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-5.jpeg" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -86,7 +87,7 @@ description: ""
 <p>Chinese Rice</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-6.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-6.jpeg" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -100,7 +101,7 @@ description: ""
 <p>Japanese Food</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-7.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-7.jpeg" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -114,7 +115,7 @@ description: ""
 <p>Western Food (Halal)</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Canteen-Menu-Stall-8.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/images/Stall-8.jpeg" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 </tbody></table>
