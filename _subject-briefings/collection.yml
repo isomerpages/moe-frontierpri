@@ -1,5 +1,4 @@
 collections:
   subject-briefings:
     output: true
-    order:
-      - P6 Subject Briefing.md
+    order: []
