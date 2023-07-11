@@ -43,7 +43,7 @@ sections:
       title: iN-Touch
       description: Check out our Term 2 2023 iN-Touch
       button: Read more
-      url: /files/iN-Touch Term 2 2023.pdf
+      url: /files/in-touch term 2 2023.pdf
       image: /images/iN-Touch Logo.jpg
       alt: Image alt text
       subtitle: Our Termly Newsletter
