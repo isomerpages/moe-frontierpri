@@ -70,7 +70,7 @@ description: ""
 <p>French Beans</p>
 </td>
 <td style="text-align: center;">
-<p>Muslim Noodles</p>
+	<p>Muslim Noodles (Halal)</p>
 </td>
 <td style="text-align: center;">
 <p><a href="/files/STALLS PRICELISTS/pricelist-stall 4.pdf" target="_blank" rel="noopener">Download</a></p>
