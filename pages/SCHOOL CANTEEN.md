@@ -61,7 +61,21 @@ description: ""
 <td style="text-align: center;">
 <p><a href="/files/STALLS PRICELISTS/pricelist-stall 3.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
-</tr>
+</tr>	
+	<tr>
+<td style="text-align: center;">
+<p>4</p>
+</td>
+<td style="text-align: center;">
+<p>French Beans</p>
+</td>
+<td style="text-align: center;">
+<p>Muslim Noodles</p>
+</td>
+<td style="text-align: center;">
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 4.pdf" target="_blank" rel="noopener">Download</a></p>
+</td>
+</tr>	
 <tr>
 <td style="text-align: center;">
 <p>5</p>
