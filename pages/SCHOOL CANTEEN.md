@@ -30,7 +30,7 @@ description: ""
 <p>Cold Drinks/Snacks</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-1.jpeg" target="_blank" rel="noopener">Download</a>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 1.pdf" target="_blank" rel="noopener">Download</a>
 	</p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ description: ""
 <p>Muslim Rice (Halal)</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-2.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 2.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ description: ""
 <p>Chinese&nbsp;Noodles</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-3.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 3.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ description: ""
 <p>Hot Drinks/Snacks</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-5.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 5.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ description: ""
 <p>Chinese Rice</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-6.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 6.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ description: ""
 <p>Japanese Food</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-7.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 7.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ description: ""
 <p>Western Food (Halal)</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/images/Stall-8.jpeg" target="_blank" rel="noopener">Download</a></p>
+<p><a href="/files/STALLS PRICELISTS/pricelist-stall 8.pdf" target="_blank" rel="noopener">Download</a></p>
 </td>
 </tr>
 </tbody></table>
