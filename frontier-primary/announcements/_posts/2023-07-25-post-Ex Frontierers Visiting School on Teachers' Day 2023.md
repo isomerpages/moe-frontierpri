@@ -8,7 +8,7 @@ image: ""
 ---
 We will be celebrating Teachers’ Day on Thursday, 31 August 2023.
 
-To minimize congestion at the gates and for the safety of our students during dismissal, our ex-Frontierers are allowed to enter the school on that day only between  11.00 am and 11.15 am  via the main gate.  
+To minimize congestion at the gates and for the safety of our students during dismissal, our ex-Frontierers are allowed to enter the school on that day only between  1.45 pm and 2.45pm  via the main gate.  
 
 Upon entering the school, they are required to proceed to the General Office, inform the staff about the teacher(s) they would like to meet, and then proceed to the canteen to wait during this period.  
 
