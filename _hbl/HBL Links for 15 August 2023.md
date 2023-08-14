@@ -5,7 +5,7 @@ description: ""
 ---
 <p>Dear Parents,</p>
 <p>Please find the links to the HBL instructions for each level and class below:</p>
-<p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-15ug">https://go.gov.sg/p1-hbl-15aug</a></strong></p>
+<p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-15aug">https://go.gov.sg/p1-hbl-15aug</a></strong></p>
 <p>P2:&nbsp;<strong><a href="https://go.gov.sg/p2-hbl-15aug">https://go.gov.sg/p2-hbl-15aug</a></strong></p>
 <p>P3:&nbsp;<strong><a href="https://go.gov.sg/p3-hbl-15aug">https://go.gov.sg/p3-hbl-15aug</a></strong></p>
 <p>P4:&nbsp;<strong><a href="https://go.gov.sg/p4-hbl-15aug">https://go.gov.sg/p4-hbl-15aug</a></strong></p>
