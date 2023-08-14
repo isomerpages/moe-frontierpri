@@ -6,10 +6,18 @@ layout: post
 description: ""
 image: ""
 ---
-We will be celebrating Teachers’ Day on Thursday, 31 August 2023.
+**Teachers’ Day 2023 Appreciation by Ex Frontierers**
 
-To minimize congestion at the gates and for the safety of our students during dismissal, our ex-Frontierers are allowed to enter the school on that day only between  1.45 pm and 2.45pm  via the main gate.  
 
-Upon entering the school, they are required to proceed to the General Office, inform the staff about the teacher(s) they would like to meet, and then proceed to the canteen to wait during this period.  
+We will be celebrating Teachers’ Day on Thursday, Aug 31, 2023.
 
-Ex-Frontierers are to ensure that they are appropriately dressed, either in full school uniform or half school uniform (school T-shirt with school pants/ skirt).  There should be no revealing attire (top or bottom), fanciful hairstyles, hair colours, or visible tattoos on any part of the body.
+In view of the impending Polling Day for the Presidential Election 2023 scheduled on Friday, September 1, 2023, we want to inform you that that the school will not be able to accommodate visits from Ex Frontierers who had planned or were planning to meet with their teachers on August 31, 2023.  This decision is based on the following factors:
+
+1.	The school premises will be required to be cleared and secured between 12:00 PM to 2:00 PM on that day.  This is essential to facilitate the necessary preparations for converting the school into a Polling Station for the upcoming Polling Day.
+2.	Many of our teachers and staff members will be actively involved as election workers for the Presidential Election.  On the afternoon of August 31, they are required to report to their assigned election centers for important briefings and duties related to the election.
+
+For Ex Frontierers who wish to express their gratitude to their teachers, you are highly encouraged to utilize the #thankyoucher platform.  This platform will be accessible closer to Teachers’ Day and can serve as an alternative way to convey your appreciation.
+
+We sincerely appreciate your understanding, cooperation, and ongoing support.  Your cooperation during this time is greatly valued.
+
+Thank you.
