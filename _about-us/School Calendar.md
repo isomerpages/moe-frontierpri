@@ -5,7 +5,7 @@ description: ""
 ---
 Frontier Primary School \- Term 4 Student Calendar 2023
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:6.05pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="width:95%;margin-left:6.05pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:480;mso-padding-alt:
  0in 0in 0in 0in;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.4pt"><td width="77" valign="top" style="width:57.75pt;border:solid black 1.0pt;
   mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:13.4pt"><p class="TableParagraph" style="margin-left:15.7pt;line-height:12.45pt;
