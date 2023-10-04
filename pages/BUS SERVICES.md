@@ -20,8 +20,7 @@ Bus fares applicable from 1 Jan 2024 to 31 Dec 2024:
 
 Fare are inclusive of Bus Services for after-school activities on Mon, Tue, Thu and Fri.
 
-Download form to request for school bus services.
-
+[Download form]() to request for school bus services.
 
 
 
