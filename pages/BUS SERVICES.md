@@ -20,10 +20,7 @@ Bus fares applicable from 1 Jan 2024 to 31 Dec 2024:
 
 Fare are inclusive of Bus Services for after-school activities on Mon, Tue, Thu and Fri.
 
-[Download form]() to request for school bus services.
-
-
-
+[Download form](/files/fps%20request%20for%20school%20bus%20services%20year%2024.pdf) to request for school bus services.
 
 <p><strong><u>JK59 Transport Pte Ltd</u></strong></p>
 <p>Tel: 6465 5959<br>Fax: 6466 5959</p>
