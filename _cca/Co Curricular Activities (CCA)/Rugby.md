@@ -4,7 +4,7 @@ permalink: /ccp/cca/sports/rugby/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 40%;" src="/images/rug.jpg" />
+<img style="width: 40%;" src="/images/rug.jpg">
 <table class="table table-responsive table-bordered" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -23,22 +23,20 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td width="177"><strong>CCA Objectives:</strong></td>
-<td width="425">Students will learn
-<ol>
+<td width="425">Students will learn:
 <li>Basics fundamentals of Rugby like passing and ball familiarisation.</li>
 <li>Rules of the game and evasion techniques.</li>
 <li>Spirit of sportsmanship and teamwork</li>
-</ol>
+
 </td>
 </tr>
 <tr>
 <td width="177"><strong>Teachers In-Charge:</strong></td>
 <td width="425">
 <p>Mdm Nurashikin Binte Mohamed Zamrabi (I/C)</p>
-<p>Mr Nelson Tong Meng Yang (2 I/C)</p>
-<p>Mrs Marie Ow Yong</span></p>
+<p>Mrs Marie Ow Yong (2 I/C)</p>
 <p>Mdm Mardiana Binti Mohd Ahzhar</p>
-<p>Mr Nicholas Andrew Jonathan Kiramathpathy</p>
+<p>Mr Tan Yi Cong</p>
 </td>
 </tr>
 <tr>
