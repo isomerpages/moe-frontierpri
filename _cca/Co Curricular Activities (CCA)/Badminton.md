@@ -4,7 +4,7 @@ permalink: /ccp/cca/sports/badminton/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 60%;" src="/images/bad.jpg" />
+<img style="width: 60%;" src="/images/bad.jpg">
 <table class="table table-responsive table-bordered" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -22,11 +22,10 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td><strong>CCA Objectives:</strong></td>
 <td>Students will learn:
-<ol style="list-style-type: lower-alpha;">
 <li>The types of serves and footwork in badminton</li>
 <li>The several variations of hitting the shuttle and maintaining a rally back and forth over the net</li>
 <li>The spirit of sportsmanship and teamwork</li>
-</ol>
+
 </td>
 </tr>
 <tr>
@@ -36,13 +35,14 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Mdm Chua Siwei (2 I/C)</p>
 <p>Mdm Sally Heng</p>
 <p>Mr Chua Cherng Haur, Patrick</p>
-<p>Mdm Li Jia Yang</p>
-<p>Mdm Bek Lai Lee</p>
+<p>Mdm Liyanna Johan</p>
+<p>Mdm Robert Juliet</p>
+<p>Miss Lim Jie Lin</p>
 </td>
 </tr>
 <tr>
 <td><strong>Schedule:</strong></td>
-<td>Mondays, 2:00 p.m. to 4:00 p.m.<br />Fridays, 2:00 p.m. to 4:00 p.m.</td>
+<td>Mondays, 2:00 p.m. to 4:00 p.m.<br>Fridays, 2:00 p.m. to 4:00 p.m.</td>
 </tr>
 <tr>
 <td><strong>Venue:</strong></td>
