@@ -66,7 +66,10 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>Miss Soh Kar Ling, Carrie</td>
 </tr>
 <tr>
-<td></td>
+<td>Miss Karthikeyan Indhumathi</td>
+</tr>
+<tr>
+<td>Mdm Ju Jie</td>
 </tr>
 </tbody>
 </table>
