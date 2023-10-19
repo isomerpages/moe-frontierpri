@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <td width="425">
 <p>The CCA aims:</p>
 <ul>
-<li>To develop students&rsquo; confidence and allow them to express themselves through various dance.</li>
+<li>To develop students’ confidence and allow them to express themselves through various dance.</li>
 <li>To develop the necessary skills required to perform dance routines as an individual and as a group.</li>
 <li>To enable students to learn values of teamwork and discipline.</li>
 </ul>
@@ -41,9 +41,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td width="177"><strong>Teachers In-Charge:</strong></td>
 <td width="425">
-<p>Mdm Hannaria (I/C)</p>
-<p>Ms Nur Shirin (2 I/C)</p>
-<p>Miss Cheong Yok Theng Elsa</p>
+<p>Mrs Stephanie Ong - Ho Qian Hui (I/C)</p>
+<p>Mdm Hannaria (2 I/C)</p>
+<p>Ms Nur Shirin</p>
 <p>Mdm Aneesah</p>
 <p>Mr Muhammad Ali</p>
 </td>
