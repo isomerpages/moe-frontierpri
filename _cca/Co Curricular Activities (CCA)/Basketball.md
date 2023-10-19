@@ -4,7 +4,7 @@ permalink: /ccp/cca/sports/basketball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 40%;" src="/images/bask.jpeg" />
+<img style="width: 40%;" src="/images/bask.jpeg">
 <table class="table table-responsive table-bordered" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -24,23 +24,21 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td><strong>CCA Objectives:</strong></td>
-<td>Students will learn
-<ol>
+<td>Students will learn:
 <li>Basics fundamentals of Basketball like passing, shooting and ball handling.</li>
 <li>Rules of the game and strategies.</li>
 <li>Spirit of sportsmanship and teamwork</li>
-</ol>
+
 </td>
 </tr>
 <tr>
 <td><strong>Teachers In-Charge:</strong></td>
 <td>
 <p>Mr Vincent Soh Boon Yew (I/C)</p>
-<p>Mr Choo Wee Pin (2 I/C)</p>
-<p>Mdm Callie Yu Shair-er (2 I/C)</p>
+<p>Mdm Wang Hai Jing (2 I/C)</p>
 <p>Mdm Liew Mei Lian</p>
 <p>Ms Chen Li Li</p>
-<p>Mdm Wang Haijing</p>
+<p>Miss Lim Wan Teng, Valerie</p>
 </td>
 </tr>
 <tr>
