@@ -358,7 +358,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that education is the key to success in life. Education encompasses not only the transfer of knowledge but also to inspire hope, ignite imagination and instill a love of learning.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 127</p>
+<p style="width: 100%; text-align: center;">Tel ext: 127</p>
 <p style="width: 100%; text-align: center;">Email: <a href="mailto:lim_ming_hui@schools.gov.sg">lim_ming_hui@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -370,7 +370,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In the words of Aristotle, “educating the mind without educating the heart is no education at all”. I aim to help my pupils reach their potential academically, and inculcate strong moral values and character in them as I believe these are what make up the foundation of lasting success.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 200</p>
+<p style="width: 100%; text-align: center;">Tel ext: 200</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:su-en_loh@schools.gov.sg">su-en_loh@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -382,7 +382,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I truly believe that every child is capable of reaching their potential in everything that they do with proper guidance. I aim to equip students with not only knowledge and skills, but also with love, empathy and kindness, so that they may succeed in life while experiencing real joy.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 214</p>
+<p style="width: 100%; text-align: center;">Tel ext: 214</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ho_qian_hui@schools.gov.sg">ho_qian_hui@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -394,7 +394,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe that every child can learn and want to learn. My vision is for every child to experience the joy of learning through my lessons and they will embrace learning as a lifelong pursuit."</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 131</p>
+<p style="width: 100%; text-align: center;">Tel ext: 131</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chan_chok_seng@schools.gov.sg">chan_chok_seng@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -406,7 +406,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that every child should enjoy going to school and gain meaningful experiences each day of their school life. To me, being a teacher to a child, it is important for me to bond with the pupils as well as to inculcate in them the right values; apart from teaching them the curriculum.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 125</p>
+<p style="width: 100%; text-align: center;">Tel ext: 125</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nellie_soh_wee_hong@schools.gov.sg">nellie_soh_wee_hong@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -418,7 +418,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"As a teacher, I believe all pupils can be nurtured to be wholesome individuals. With our total curriculum in place, I am confident that pupils' potential can be realized to the fullest, and they will be equipped to pursue their passions and serve the community."</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 132</p>
+<p style="width: 100%; text-align: center;">Tel ext: 132</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:luk_meng_lee@schools.gov.sg">luk_meng_lee@schools.gov.sg</a></p>	
 </td>
 </tr>
