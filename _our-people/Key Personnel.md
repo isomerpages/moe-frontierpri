@@ -283,7 +283,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that every pupil who enters my classroom can succeed. As a teacher, it is my duty to help pupils reach their full potential and enable them to be life-long learners. I believe pupils can be independent, yet have the skills necessary to work in a team.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 208</p>
+<p style="width: 100%; text-align: center;">Tel ext: 208</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Hannaria_Srihanum_Tumbuck@schools.gov.sg">hannaria_srihanum_tumbuck@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -295,7 +295,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In a classroom that instills a caring, safe and respectful environment, every student can blossom and grow. I believe that by engaging my students in meaningful learning experiences and guiding them through with the right values, they will grow to be motivated learners who are responsible, compassionate and have good self-awareness of their own strengths and potential.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 279</p>
+<p style="width: 100%; text-align: center;">Tel ext: 279</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg">siti_idzmaidar@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -307,7 +307,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that all children are gifted. My duty as a teacher is to uncover the children’s potential and steer them in the right direction so that they will fulfill their potential.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 281</p>
+<p style="width: 100%; text-align: center;">Tel ext: 281</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg">lim_li-chern_anisia@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -324,7 +324,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In every student, a teacher plants the seeds of knowledge, sprinkles them with love and patiently nurtures their growth to produce tomorrow’s dreams. I am here to do just that!”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 246</p>
+<p style="width: 100%; text-align: center;">Tel ext: 246</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -341,7 +341,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that pupils should be empowered to take charge of their own learning. They learn best when they are actively involved in real world activities as well as collaborating and making discoveries with their peers. My role as a teacher is not as the information giver, but a coach, facilitator and co-learner.”</em></p>
-<p></p><p style="width: 100%; text-align: center;">Tel ext: 128</p>
+<p style="width: 100%; text-align: center;">Tel ext: 128</p>
 <p style="width: 100%; text-align: center;">mail:&nbsp;<a href="mailto:rasidah_mohd_rasit@schools.gov.sg">rasidah_mohd_rasit@schools.gov.sg</a></p>	
 </td>
 </tr>
