@@ -4,7 +4,7 @@ permalink: /ccp/cca/string-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 50%;" src="/images/se.jpg" />
+<img style="width: 50%;" src="/images/se.jpg">
 <table class="table table-responsive table-bordered" border="1">
 <tbody>
 <tr>
@@ -18,7 +18,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p><strong>CCA Information:</strong></p>
 </td>
 <td>
-<p>Frontier Primary String Ensemble (FPSE) is established in 2014. It caters to the needs of students with a love for music and plays a complementary role in enriching the school&rsquo;s music programmes. It is also the school&rsquo;s representative group that performs at different platforms. It introduces students to the fundamentals of music theory and technical aspects of the instruments in the string family----violin, viola, cello or double bass.</p>
+<p>Frontier Primary String Ensemble (FPSE) is established in 2014. It caters to the needs of students with a love for music and plays a complementary role in enriching the school’s music programmes. It is also the school’s representative group that performs at different platforms. It introduces students to the fundamentals of music theory and technical aspects of the instruments in the string family----violin, viola, cello or double bass.</p>
 <p>The ensemble, under the baton and leadership of our main conductor, Ms Stella who is the founder and music director of International W&amp;Y Music School 2005. Together with her, is a team of high-level international professional musicians.</p>
 <p>As this CCA is applicable for P3-P6 students with music / violin or cello background, P1-P2 interested participants could enrol themselves in Violin/Cello Enrichment Class to build up their foundation in string-instrument-playing (<strong>Registration for existing VEP/CEP members is always at the end of the same year. Registration for new VEP/CEP members will be at Term 1 of the year. More details will be sent via PG.)</strong></p>
 <p>Each newly joined member (VEP/CEP/CCA) will need to prepare a black file on their own for scores keeping. They would also need to purchase or rent their own instruments.</p>
@@ -38,12 +38,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </td>
 <td>
 <p>Students will learn to:</p>
-<ol>
 <li>Pursue aesthetic excellence and enriching musical experiences</li>
 <li>Develop confidence and passion as a musician</li>
 <li>Foster character building and develop social emotional awareness</li>
 <li>Cultivate the love and joy of music making</li>
-</ol>
+
 </td>
 </tr>
 <tr>
@@ -51,11 +50,12 @@ third_nav_title: Co Curricular Activities (CCA)
 <p><strong>Teachers In-Charge:</strong></p>
 </td>
 <td>
-<p>Mdm Chia Qian Lin (IC)</p>
+<p>Mr Leng Song Dao Isaac (IC)</p>
+<p>Mr Lin Renyi (2 IC)</p>
 <p>Mdm Dorcas Lee (2 IC)</p>
-<p>Mr Lin Renyi</p>
-<p>Mr Leng Song Dao Isaac</p>
 <p>Mdm Siti Wahida</p>
+<p>Mrs Chan - Cai Xiang Yu</p>
+<p>Mdm Lai Soon Ling</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p><strong>Schedule:</strong></p>
 </td>
 <td>
-<p>Mondays 2.00 p.m. to 4.00 p.m.<br />Fridays (selected members only) 2.00 p.m. to 4.00 p.m.</p>
+<p>Mondays 2.00 p.m. to 4.00 p.m.<br>Fridays (selected members only) 2.00 p.m. to 4.00 p.m.</p>
 </td>
 </tr>
 <tr>
