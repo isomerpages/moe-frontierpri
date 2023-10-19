@@ -4,7 +4,7 @@ permalink: /ccp/cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 33%;" src="/images/sco.jpg" />
+<img style="width: 33%;" src="/images/sco.jpg">
 <table class="table table-bordered table-responsive" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -24,12 +24,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td><strong>CCA Objectives:</strong></td>
-<td>Students will learn to:<br />
-<ol style="list-style-type: lower-alpha;">
+<td>Students will learn to:<br>
 <li>Exercise self-control</li>
 <li>Be a fabulous team player</li>
 <li>Serve the community</li>
-</ol>
+
 </td>
 </tr>
 <tr>
@@ -46,9 +45,10 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>
 <p>Miss Eugena Ooi Wei Ling (I/C)</p>
 <p>Mdm Noryanti Mohamed Yahya (2 I/C)</p>
-<p>Ms&nbsp;Annabelle Pek Bee Lay</p>
-<p>Ms Chen Peishi</p>
 <p>Miss Siti Nur Aishah Mohamad Zainudin</p>
+<p>Ms Chen Peishi</p>
+<p>Mr Ganges Lim Zi Yang</p>
+<p>Mrs Teng - Lim Li-Chern, Anisia</p>
 </td>
 </tr>
 <tr>

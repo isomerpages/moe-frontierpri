@@ -4,7 +4,7 @@ permalink: /ccp/cca/clubs-societies/environmental-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 33%;" src="/images/es.jpeg" />
+<img style="width: 33%;" src="/images/es.jpeg">
 <table class="table table-bordered table-responsive" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -21,24 +21,22 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td width="177"><strong>CCA Objectives:</strong></td>
 <td width="425">
-<p>Students will learn to</p>
-<ol style="list-style-type: lower-alpha;">
+<p>Students will learn to:</p>
 <li>Instill a sense of responsibility for the environment and commitment to protect and preserve it.</li>
 <li>Create awareness about green environment in school and advocate to maintain it.</li>
 <li>Develop a deeper understanding of the 3Rs (Reduce, Recycle and Reduce), energy, water conservation and waste management.</li>
 <li>Educate and cultivate an appreciation and interest in the environment.</li>
-</ol>
+
 </td>
 </tr>
 <tr>
 <td width="177"><strong>Teachers In-Charge:</strong></td>
 <td width="425">
-<p>Mrs Chong &ndash; Pang Chu Keng (I/C)</p>
+<p>Mdm Nusraat (I/C)</p>
 <p>Mrs Raspal Singh (2 I/C)</p>
-<p>Mdm Ng Xiao Wei Serene</p>
-<p>Mdm Liyanna Johan</p>
-<p>Mdm Mardiana Bte Abdul Manap</p>
+<p>Mrs Chong – Pang Chu Keng</p>
 <p>Miss Kaur Harsharan</p>
+<p>Mrs Sudhakar</p>
 </td>
 </tr>
 <tr>

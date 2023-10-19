@@ -43,18 +43,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img src="/images/kp4.jpg" style="width: 100%;">
-<p><strong>Mr Yang Qidong, Alan</strong></p>
-<p><strong><em>ST/English Language</em></strong></p>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>“A consistent and positive classroom climate helps bring out and develops a pupil's potential. At the same time, it offers a safe environment to experiment, make mistakes and learn from them. This is the ideal classroom I try to create every day I teach in class.”</em></p>
-<p style="width: 100%; text-align: center;">Tel ext: 224</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:yang_qidong@schools.gov.sg">yang_qidong@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
 <td style="text-align: center; border:1px solid black;">
 <img src="/images/kp5.jpg" style="width: 100%;">
 <p><strong>Miss Lim Weiqing, Eulindra</strong></p>
@@ -188,7 +176,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“Education is about nurturing individuals into: A compass that directs one onto the right path, a torch that illuminates and brightens the lives of others, a melody that sings and spreads the message of love &amp; courage.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 229</p>
+<p style="width: 100%; text-align: center;">Tel ext: 229</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lee_hao_yih_dorcas@schools.gov.sg">lee_hao_yih_dorcas@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -200,7 +188,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“An old African proverb says “It takes a whole village to raise a child”. This is true to my belief that the responsibility of moulding the child belongs to everyone. As such, with proper guidance and discipline, I feel that each and every child can and is able to learn AND reach his potential.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 204</p>
+<p style="width: 100%; text-align: center;">Tel ext: 204</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:sri_arianti_ariffin@schools.gov.sg">sri_arianti_ariffin@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -212,7 +200,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I chose teaching as a career because my teachers made a large impact in my life and I aspire to be like them. Teaching offers me the opportunity to inspire students everyday so that they can become creative thinkers and future leaders. I hope that I can be the one to help them discover their potential.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 273</p>
+<p style="width: 100%; text-align: center;">Tel ext: 273</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chia_qian_lin@schools.gov.sg">chia_qian_lin@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -224,7 +212,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that all children are uncut diamonds needing only enough pressure to knock off the rough edges so that the brilliance placed in each of their hearts will always shine through.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 287</p>
+<p style="width: 100%; text-align: center;">Tel ext: 287</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:mageswari_sudhakar@schools.gov.sg">mageswari_sudhakar@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -242,7 +230,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In educating children physically and intellectually, teachers help them make sense of themselves and the bigger world that they are a part of. We harnessing their potential and set up the right environment for them to learn and internalise acts of virtue with strong, upstanding beliefs."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 122</p>
+<p style="width: 100%; text-align: center;">Tel ext: 122</p>
 <p style="width: 100%; text-align: center;">Email:<a href="mailto:tan_choon_seng_anderson@schools.gov.sg">tan_choon_seng_anderson@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -254,7 +242,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Every child is unique. It is how we engage our pupils in their learning that will mould them into who they can become."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 213</p>
+<p style="width: 100%; text-align: center;">Tel ext: 213</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:choo_wee_pin@schools.gov.sg">choo_wee_pin@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -271,7 +259,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"A child’s smile melts everyone’s heart and it is even more heartening to see a child graduate from the six years of education with joy and happiness radiating from within him/her. In Frontier Primary School, our students, who are the future pillars of our nation, are at the forefront of everything. I strive to lead and work with the staff in building a G.R.E.A.T environment where our students grow, blossom and soar to greater heights."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 129</p>
+<p style="width: 100%; text-align: center;">Tel ext: 129</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:jeannett_lay_jia_xin@schools.gov.sg">jeannett_lay_jia_xin@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -283,7 +271,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"Every child deserves the opportunity to grow and excel in his areas of passion. I strongly believe that it is imperative to understand a child's goals and dreams so that we can create opportunities for a meaningful and relevant educational experience for every child. These experiences will also mould him to become strong in character."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 244</p>
+<p style="width: 100%; text-align: center;">Tel ext: 244</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nusraat_begum_akbar_ali@schools.gov.sg">nusraat_begum_akbar_ali@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -295,7 +283,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that every pupil who enters my classroom can succeed. As a teacher, it is my duty to help pupils reach their full potential and enable them to be life-long learners. I believe pupils can be independent, yet have the skills necessary to work in a team.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 208</p>
+<p style="width: 100%; text-align: center;">Tel ext: 208</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Hannaria_Srihanum_Tumbuck@schools.gov.sg">hannaria_srihanum_tumbuck@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -307,7 +295,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In a classroom that instills a caring, safe and respectful environment, every student can blossom and grow. I believe that by engaging my students in meaningful learning experiences and guiding them through with the right values, they will grow to be motivated learners who are responsible, compassionate and have good self-awareness of their own strengths and potential.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 279</p>
+<p style="width: 100%; text-align: center;">Tel ext: 279</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg">siti_idzmaidar@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -319,7 +307,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that all children are gifted. My duty as a teacher is to uncover the children’s potential and steer them in the right direction so that they will fulfill their potential.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 281</p>
+<p style="width: 100%; text-align: center;">Tel ext: 281</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg">lim_li-chern_anisia@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -336,7 +324,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In every student, a teacher plants the seeds of knowledge, sprinkles them with love and patiently nurtures their growth to produce tomorrow’s dreams. I am here to do just that!”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 246</p>
+<p style="width: 100%; text-align: center;">Tel ext: 246</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg">mohammed_nidzam_zakariah@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -353,7 +341,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that pupils should be empowered to take charge of their own learning. They learn best when they are actively involved in real world activities as well as collaborating and making discoveries with their peers. My role as a teacher is not as the information giver, but a coach, facilitator and co-learner.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 128</p>
+<p style="width: 100%; text-align: center;">Tel ext: 128</p>
 <p style="width: 100%; text-align: center;">mail:&nbsp;<a href="mailto:rasidah_mohd_rasit@schools.gov.sg">rasidah_mohd_rasit@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -370,7 +358,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that education is the key to success in life. Education encompasses not only the transfer of knowledge but also to inspire hope, ignite imagination and instill a love of learning.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 127</p>
+<p style="width: 100%; text-align: center;">Tel ext: 127</p>
 <p style="width: 100%; text-align: center;">Email: <a href="mailto:lim_ming_hui@schools.gov.sg">lim_ming_hui@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -382,7 +370,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“In the words of Aristotle, “educating the mind without educating the heart is no education at all”. I aim to help my pupils reach their potential academically, and inculcate strong moral values and character in them as I believe these are what make up the foundation of lasting success.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 200</p>
+<p style="width: 100%; text-align: center;">Tel ext: 200</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:su-en_loh@schools.gov.sg">su-en_loh@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -394,7 +382,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I truly believe that every child is capable of reaching their potential in everything that they do with proper guidance. I aim to equip students with not only knowledge and skills, but also with love, empathy and kindness, so that they may succeed in life while experiencing real joy.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 214</p>
+<p style="width: 100%; text-align: center;">Tel ext: 214</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ho_qian_hui@schools.gov.sg">ho_qian_hui@schools.gov.sg</a></p>	
 </td>
 </tr>
@@ -406,7 +394,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"I believe that every child can learn and want to learn. My vision is for every child to experience the joy of learning through my lessons and they will embrace learning as a lifelong pursuit."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 131</p>
+<p style="width: 100%; text-align: center;">Tel ext: 131</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:chan_chok_seng@schools.gov.sg">chan_chok_seng@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -418,7 +406,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>“I believe that every child should enjoy going to school and gain meaningful experiences each day of their school life. To me, being a teacher to a child, it is important for me to bond with the pupils as well as to inculcate in them the right values; apart from teaching them the curriculum.”</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 125</p>
+<p style="width: 100%; text-align: center;">Tel ext: 125</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:nellie_soh_wee_hong@schools.gov.sg">nellie_soh_wee_hong@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -430,7 +418,7 @@ description: ""
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"As a teacher, I believe all pupils can be nurtured to be wholesome individuals. With our total curriculum in place, I am confident that pupils' potential can be realized to the fullest, and they will be equipped to pursue their passions and serve the community."</em></p>
-</p><p style="width: 100%; text-align: center;">Tel ext: 132</p>
+<p style="width: 100%; text-align: center;">Tel ext: 132</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:luk_meng_lee@schools.gov.sg">luk_meng_lee@schools.gov.sg</a></p>	
 </td>
 </tr>

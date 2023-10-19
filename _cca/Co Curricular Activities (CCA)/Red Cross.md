@@ -4,7 +4,7 @@ permalink: /ccp/cca/uniformed-groups/red-cross/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 50%;" src="/images/rc.jpg" />
+<img style="width: 50%;" src="/images/rc.jpg">
 <table class="table table-bordered table-responsive" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -23,21 +23,20 @@ third_nav_title: Co Curricular Activities (CCA)
 <td width="177"><strong>CCA Objectives:</strong></td>
 <td width="425">
 <p>Students will learn to:</p>
-<ol style="list-style-type: lower-alpha;">
 <li>Be equipped with basic first aid knowledge in attending to minor injuries.</li>
 <li>Develop compassion in helping fellow human facing suffering and emergencies.</li>
 <li>Foster character building and develop social emotional awareness</li>
 <li>Cultivate the love and joy of Red Cross spirit.</li>
-</ol>
+
 </td>
 </tr>
 <tr>
 <td width="177"><strong>Teachers In-Charge:</strong></td>
 <td width="425">
 <p>Mdm Lim Lan Shii (I/C)</p>
-<p>Mdm Nusraat Begum Bte Akbar Ali (2&nbsp;I/C)</p>
+<p>Mrs Lim - Su-en Loh(2 I/C)</p>
 <p>Mdm Sri Arianti Bte Ariffin</p>
-<p>Miss Sandra Phong Pei Shan</p>
+<p>Mrs Lee - Sandra Phong Pei Shan</p>
 <p>Mr Li Lei</p>
 </td>
 </tr>
@@ -50,7 +49,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <td width="425">
 <p>Students are to be in their Red Cross Youth T-Shirt during the normal CCA days.</p>
 <p>Students will be notified in advance to wear their Red Cross Youth uniform for internal events in school or external events.</p>
-<p>*Red Cross Youth &ndash; Headquarters will bear the cost for the first set of Red Cross Youth uniform.</p>
+<p>*Red Cross Youth – Headquarters will bear the cost for the first set of Red Cross Youth uniform.</p>
 </td>
 </tr>
 </tbody>

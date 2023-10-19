@@ -97,23 +97,12 @@ description: ""
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:100%;" src="/images/pam10.jpg">
-<p><strong>Mdm Leng Song Dao, Isaac</strong></p>
+<p><strong>Mr Leng Song Dao, Isaac</strong></p>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
 <p><em>"German composer and music educator Carl Orff said "Tell me, I forget. Show me, I remember. Involve me, I understand." As a music teacher, I believe that providing students with opportunities to experience and create music in a fun yet engaging manner can help sustain interest in what they are doing so that they can be life-long learners."</em></p>
 <p style="width: 100%; text-align: center;">Tel Ext: 237</p>
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:leng_song_dao_isaac@schools.gov.sg">leng_song_dao_isaac@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/pam3.jpg">
-<p><strong>Mr Zabar Abuyamin Bin Mohammad Akbar</strong></p>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"As shapers of the future, teachers hold the key to unlocking our pupils potential, creativity and possibilities. We may not be able to download all that we know to our charges, but we can sprinkle and spark in them the seeds of creativity, and the thirst for knowledge. Teachers can blossom the potential pupils can achieve."</em></p>
-<p style="width: 100%; text-align: center;">Tel Ext: 235</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:zabar_abuyamin_m_a@schools.gov.sg">zabar_abuyamin_m_a@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>

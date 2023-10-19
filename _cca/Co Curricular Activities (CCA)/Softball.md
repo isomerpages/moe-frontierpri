@@ -4,7 +4,7 @@ permalink: /ccp/cca/sports/softball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 33%;" src="/images/sb1.jpg" />
+<img style="width: 33%;" src="/images/sb1.jpg">
 <table class="table table-responsive table-bordered" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -22,22 +22,19 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td width="177"><strong>CCA Objectives:</strong></td>
 <td width="425">Students will
-<ol style="list-style-type: lower-alpha;">
 <li>Acquire fundamental skills of throwing, catching, fielding, pitching, batting and base-running</li>
 <li>Develop basic playing strategies and tactics of Softball</li>
 <li>Cultivate good sportsmanship values of discipline, resilience, cooperation and fair play.</li>
-</ol>
+
 </td>
 </tr>
 <tr>
 <td width="177"><strong>Teachers In-Charge:</strong></td>
 <td width="425">
-<p>Mr Zabar Abuyamin Bin Mohammad Akbar (I/C)</p>
-<p>Mr Tan Yi Cong (2 I/C)</p>
+<p>Miss Peh Shu Yu, Janele (I/C)</p>
+<p>Mr Choo Wee Pin (2 I/C)</p>
 <p>Miss Peh Shu Yu, Janele</p>
-<p>Mdm Toh Bee Choo, Ann</p>
-<p>Mdm Wong Seh Lin</p>
-<p>Mdm Mageswari</p>
+<p>Mdm Elaine Lee Sui Lyn</p>
 </td>
 </tr>
 <tr>

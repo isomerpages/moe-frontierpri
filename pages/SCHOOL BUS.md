@@ -3,6 +3,10 @@ title: SCHOOL BUS
 permalink: /school-bus/
 description: ""
 ---
+<p><strong><u>JK59 Transport Pte Ltd</u></strong></p>
+Tel: 6465 5959<br>Fax: 6466 5959
+<br>
+
 Bus fares applicable from 1 Jan 2024 to 31 Dec 2024:
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="157" rowspan="2" valign="top" style="width:117.4pt;border:solid windowtext 1.0pt;
@@ -22,5 +26,3 @@ Fare are inclusive of Bus Services for after-school activities on Mon, Tue, Thu 
 
 [Download form](/files/fps%20request%20for%20school%20bus%20services%20year%2024.pdf) to request for school bus services.
 
-<p><strong><u>JK59 Transport Pte Ltd</u></strong></p>
-<p>Tel: 6465 5959<br>Fax: 6466 5959</p>
