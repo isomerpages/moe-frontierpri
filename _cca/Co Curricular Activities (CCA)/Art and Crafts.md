@@ -4,7 +4,7 @@ permalink: /ccp/cca/visual-and-performing-arts/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<img style="width: 50%;" src="/images/ac.jpg" />
+<img style="width: 50%;" src="/images/ac.jpg">
 <table class="table table-bordered table-responsive" border="1" cellpadding="10">
 <tbody>
 <tr>
@@ -26,22 +26,19 @@ third_nav_title: Co Curricular Activities (CCA)
 <td><strong>CCA Objectives:</strong></td>
 <td>
 <p>Students will learn to:</p>
-<ol style="list-style-type: lower-alpha;">
 <li>Develop creativity and self-expression through various art forms.</li>
 <li>Expose themselves to new techniques and mediums through art-making, learning journeys and art workshops.</li>
 <li>Strive for excellence through participation in art competitions.</li>
-</ol>
+
 </td>
 </tr>
 <tr>
 <td><strong>Teachers In-Charge:</strong></td>
 <td>
-<p>Mrs Anisia Teng (IC)</p>
+<p>Mr Muhammad Bin Jellanie (IC)</p>
 <p>Ms Norazimah (2IC)</p>
-<p>Ms Loh Su-En</p>
 <p>Ms Cheng Voon Yen</p>
-<p>Mr Muhammad Bin Jellanie</p>
-<p>Miss Jazreel Ari Yeo Shu Yun</p>
+<p>Mdm Asmahwaty Binte Abdullah</p>
 </td>
 </tr>
 <tr>
