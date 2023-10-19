@@ -63,7 +63,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>Miss You Xueli</td>
 </tr>
 <tr>
-<td>Miss Soh Kar Ling, Carrie</td>
+<td>Mrs Carrie Laksman</td>
 </tr>
 <tr>
 <td>Miss Karthikeyan Indhumathi</td>
