@@ -41,17 +41,5 @@ description: ""
 <p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:ng_hui_shin@schools.gov.sg">ng_hui_shin@schools.gov.sg</a></p>
 </td>
 </tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ae4.jpg">
-<p><strong>Mdm Salinah Bte Saleh</strong></p>
-<em>Special Education Needs Officer</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em></em></p>
-<p style="width: 100%; text-align: center;">Tel Ext: 276</p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:salinah_saleh@schools.gov.sg">salinah_saleh@schools.gov.sg</a></p>
-</td>
-</tr>
 </tbody>
 </table>
