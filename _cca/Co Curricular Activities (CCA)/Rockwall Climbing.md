@@ -22,12 +22,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td><strong>CCA Objectives:</strong></td>
-<td>Students will learn
-<ol>
+<td>Students will learn:
 <li>Fundamentals of bouldering, top rope and speed climbing.</li>
 <li>To build endurance and flexibility in motor movements.</li>
 <li>To develop values such as compassion, fair play, resilience and responsibility.</li>
-</ol>
+
 </td>
 </tr>
 <tr>
@@ -35,9 +34,10 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>
 <p>Miss Li Shaohui (I/C)</p>
 <p>Miss Nur Atiqah Syahirah Bte Mohd Yamin (2 I/C)</p>
-<p>Mr Yang Qidong, Alan</p>
-<p>Mrs Stephanie Ong</p>
-<p>Mdm Suria</p>
+<p>Mdm Suria Bte Mohamed Sani</p>
+<p>Mdm Gunasekar Ramya</p>
+<p>Mdm Lim Pei Geok</p>
+<p>Mrs Ang Cheng Chew - Teh Ai Choo</p>
 </td>
 </tr>
 <tr>
