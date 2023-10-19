@@ -14,8 +14,8 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td><strong>CCA Information:</strong></td>
 <td>
-<p>The Frontier Choir began in January 2016 with the primary aims of promoting choral awareness and providing a platform for students with beautiful voices to showcase their talents. The Frontier Choir believes that music and singing are integral to promoting well-being, for it is often heard the phrase that &ldquo;music soothes the soul&rdquo;. Our choristers aim to master a variety of vocal techniques and various repertoires including songs from different musical periods and countries.</p>
-<p>The Frontier Choir is guided by the two main values of self-discipline and team spirit. In order to succeed, choristers need to exert self-discipline in the carrying out of various tasks, in the taking charge of one&rsquo;s own learning and in being willing to practice vocal techniques on one&rsquo;s own beyond formal practice sessions. Also, as choristers sing in a group and not individually, team spirit is necessary to ensure that everyone sings his / her part right and we all sound good together. The Frontier Choir is thankful for five good years thus far and is looking forward to making a difference by bringing more joy and laughter to everyone through our good music this year.</p>
+<p>The Frontier Choir began in January 2016 with the primary aims of promoting choral awareness and providing a platform for students with beautiful voices to showcase their talents. The Frontier Choir believes that music and singing are integral to promoting well-being, for it is often heard the phrase that “music soothes the soul”. Our choristers aim to master a variety of vocal techniques and various repertoires including songs from different musical periods and countries.</p>
+<p>The Frontier Choir is guided by the two main values of self-discipline and team spirit. In order to succeed, choristers need to exert self-discipline in the carrying out of various tasks, in the taking charge of one’s own learning and in being willing to practice vocal techniques on one’s own beyond formal practice sessions. Also, as choristers sing in a group and not individually, team spirit is necessary to ensure that everyone sings his / her part right and we all sound good together. The Frontier Choir is thankful for five good years thus far and is looking forward to making a difference by bringing more joy and laughter to everyone through our good music this year.</p>
 </td>
 </tr>
 <tr>
@@ -26,12 +26,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <td><strong>CCA Objectives:</strong></td>
 <td>
 <p>Students will learn to:</p>
-<ol>
 <li>develop a passion in singing both individually and in an ensemble</li>
 <li>use solfege to improve singing and sight-singing skills</li>
 <li>sing a wide repertoire of songs from various genres such as western pop, folk songs, musicals, etc.</li>
 <li>prepare for both recreational performances and competitions</li>
-</ol>
+
 </td>
 </tr>
 <tr>
