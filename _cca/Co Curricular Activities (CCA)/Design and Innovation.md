@@ -69,6 +69,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>Miss Karthikeyan Indhumathi</td>
 </tr>
 <tr>
+<td>Mr Muhammad Hisham</td>
+</tr>
+<tr>
 <td>Mdm Ju Jie</td>
 </tr>
 </tbody>
