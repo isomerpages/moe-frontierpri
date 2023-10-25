@@ -9,4 +9,4 @@ third_nav_title: Our Partnerships
 <img src="/images/PPC Org Chart 2023.jpg">
 <p>We are constantly welcoming passionate parents coming onboard our PPC family to share information, share experiences and contribute ideas in partnering the school for the betterment of our students. Parent volunteers will have chances to interact with the teachers and students while holding meaningful school events and activities.</p>
 <p><strong><u>Join Us</u></strong></p>
-<img src="/images/PPC QR Code2.jpg">
+<img src="/images/PPC QR Code2.png">
