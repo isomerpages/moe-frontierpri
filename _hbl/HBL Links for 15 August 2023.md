@@ -2,9 +2,10 @@
 title: HBL Links for 15 August 2023
 permalink: /hbl-links-for-15-august-2023/
 description: ""
+variant: markdown
 ---
 <p>Dear Parents,</p>
-<p>Please find the links to the HBL instructions for each level and class below:</p>
+<p>.Please find the links to the HBL instructions for each level and class below:</p>
 <p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-15aug">https://go.gov.sg/p1-hbl-15aug</a></strong></p>
 <p>P2:&nbsp;<strong><a href="https://go.gov.sg/p2-hbl-15aug">https://go.gov.sg/p2-hbl-15aug</a></strong></p>
 <p>P3:&nbsp;<strong><a href="https://go.gov.sg/p3-hbl-15aug">https://go.gov.sg/p3-hbl-15aug</a></strong></p>
