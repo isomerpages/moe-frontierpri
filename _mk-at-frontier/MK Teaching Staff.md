@@ -2,6 +2,7 @@
 title: MK Teaching Staff
 permalink: /mk-teaching-staff/
 description: ""
+variant: markdown
 ---
 <img style="width: 33%;" src="/images/ts1.jpg">
 <p style="text-align: center;"><em><strong>Mrs Tonnine Chua</strong><br></em><em>Principal</em></p>
@@ -9,20 +10,9 @@ description: ""
 <table style="border-collapse: collapse; width: 100%; border:1px solid black;">
 <tbody>
 <tr>
+
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Ms Ash.jpg">
-<p><strong>Ms Siti Aisyah Khan</strong></p><em>Centre Head</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"I believe that every child has the potential to positively impact the world. Understanding that each child has different abilities, learning needs and interests, I am dedicated to providing them with a safe and nurturing environment where learning is fun, experiential and age-appropriate.</em></p>
-<p><em>With strong pedagogical competence and skilful facilitation, the educators at MK@Frontier help each and every child reach full potential and enjoy a fruitful learning experience through quality interaction and purposeful play.</em></p>
-<p><em>At MK@Frontier, we strive to inculcate in each child positive learning dispositions and values, which are the pillars for lifelong learning"</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:Siti_aisyah_Mohamed_kuppai@schools.gov.sg">Siti_aisyah_Mohamed_kuppai@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts4.jpg">
+<img style="width:75%;" src="/images/ts4.jpg">
 <p><strong>Ms Nur Afiqah Mohd Ali</strong></p><em>Deputy Centre Head</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -32,17 +22,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/kai ying.jpeg">
-<p><strong>Ms Yang Kai Ying</strong></p><em>Level Head</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"Purposeful play should be the basis of learning as children are actively involved in constructing their own knowledge."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:yang_kai_ying@schools.gov.sg">yang_kai_ying@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts5.jpg">
+<img style="width:75%;" src="/images/ts5.jpg">
 <p><strong>Ms Wu Zhijing</strong></p><em>Senior Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -52,7 +32,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts6.jpg">
+<img style="width:75%;" src="/images/ts6.jpg">
 <p><strong>Ms Nursyura Binte Supari</strong></p><em>Senior Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -62,17 +42,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts7.jpg">
-<p><strong>Ms Cindy Peck Xin Ying</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"A child, whose behavior pushes you away, is a child who needs love before anything else. They need someone who will not give up on them."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:cindy_peck_xin_ying@schools.gov.sg">cindy_peck_xin_ying@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Khoo Ann Yee.jpg">
+<img style="width:75%;" src="/images/Khoo Ann Yee.jpg">
 <p><strong>Ms Khoo Ann Yee</strong></p><em>English Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -82,7 +52,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts9.jpg">
+<img style="width:75%;" src="/images/ts9.jpg">
 <p><strong>Ms Poonam Kaur d/o Basant Sing</strong></p><em>English Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -92,7 +62,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts11.png">
+<img style="width:75%;" src="/images/ts11.png">
 <p><strong>Ms Khong Mei Chan</strong></p><em>English Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -102,7 +72,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts12.jpg">
+<img style="width:75%;" src="/images/ts12.jpg">
 <p><strong>Ms Sandhya Muralli</strong></p><em>English Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -112,7 +82,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts13.jpg">
+<img style="width:75%;;" src="/images/ts13.jpg">
 <p><strong>Ms Zuraidah Binte Abdul Hamid</strong></p><em>English Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -122,17 +92,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts14.jpg">
-<p><strong>Ms Lim Qian Qi Karis</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"A teacher's joy is being able to witness the children unfold."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:lim_qian_qi_karis@schools.gov.sg">lim_qian_qi_karis@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Prevena.jpg">
+<img style="width:75%;;" src="/images/Prevena.jpg">
 <p><strong>Ms Prevena D/O Kannathass</strong></p><em>English Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -142,7 +102,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts17.jpg">
+<img style="width:75%;;" src="/images/ts17.jpg">
 <p><strong>Ms Yu Ying</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -152,7 +112,7 @@ description: ""
 </tr>	
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts18.jpg">
+<img style="width:75%;;" src="/images/ts18.jpg">
 <p><strong>Ms Caroline Tan Hui Yee</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -162,7 +122,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts20.jpg">
+<img style="width:75%;;" src="/images/ts20.jpg">
 <p><strong>Ms Liu Hui</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -172,7 +132,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts21.jpg">
+<img style="width:75%;;" src="/images/ts21.jpg">
 <p><strong>Ms Loh Hwee Boon</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -182,7 +142,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Lim Chiau Ling.jpg">
+<img style="width:75%;;" src="/images/Lim Chiau Ling.jpg">
 <p><strong>Ms Lim Chiau Ling</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -192,7 +152,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Ei Zhe Qi.jpg">
+<img style="width:75%;;" src="/images/Ei Zhe Qi.jpg">
 <p><strong>Ms Ei Zhe Qi</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -202,7 +162,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Low Jasmine.jpg">
+<img style="width:75%;;" src="/images/Low Jasmine.jpg">
 <p><strong>Ms Low Jasmine</strong></p><em>Chinese Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -212,7 +172,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts23.jpg">
+<img style="width:75%;;" src="/images/ts23.jpg">
 <p><strong>Ms Nurafida Abdul Razak</strong></p><em>Malay Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -222,7 +182,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts24.png">
+<img style="width:75%;;" src="/images/ts24.png">
 <p><strong>Ms Siti Nur Amira Khalim</strong></p><em>Malay Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -232,7 +192,7 @@ description: ""
 </tr>	
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/ts26.jpg">
+<img style="width:75%;;" src="/images/ts26.jpg">
 <p><strong>Ms Gunasekaran Anuradha</strong></p><em>Tamil Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
@@ -242,7 +202,7 @@ description: ""
 </tr>	
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:100%;" src="/images/Vaidhegi.jpg">
+<img style="width:75%;;" src="/images/Vaidhegi.jpg">
 <p><strong>Ms Vaidhegi D/O Arumugam</strong></p><em>Tamil Language Teacher</em>
 </td>
 <td style="width: 50%; text-align: justify; border:1px solid black;">
