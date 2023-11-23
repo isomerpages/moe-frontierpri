@@ -52,16 +52,6 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center; border:1px solid black;">
-<img style="width:75%;" src="/images/ts9.jpg">
-<p><strong>Ms Poonam Kaur d/o Basant Sing</strong></p><em>English Language Teacher</em>
-</td>
-<td style="width: 50%; text-align: justify; border:1px solid black;">
-<p><em>"Children actively construct and transform their own knowledge based on past experiences and prior learning. My role is to understand them, and plan learning experiences that allow them to develop and learn best."</em></p>
-<p style="width: 100%; text-align: center;">Email:&nbsp;<a href="mailto:poonam_kaur_basant_singh@schools.gov.sg">poonam_kaur_basant_singh@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.3333%; text-align: center; border:1px solid black;">
 <img style="width:75%;" src="/images/ts11.png">
 <p><strong>Ms Khong Mei Chan</strong></p><em>English Language Teacher</em>
 </td>
