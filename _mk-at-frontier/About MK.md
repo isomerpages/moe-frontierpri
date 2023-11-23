@@ -2,6 +2,7 @@
 title: About MK
 permalink: /about-mk/
 description: ""
+variant: markdown
 ---
 <h4><strong>Vision, Mission &amp; Values</strong></h4>
 <p><strong>Our Vision and Mission</strong></p>
@@ -13,13 +14,13 @@ description: ""
 <p><strong>Care</strong>&nbsp;- Take care of yourself, your friends, your family and the environment.</p>
 <p><strong>Responsibility</strong>&nbsp;- Do what you need do, be responsible in what you think, what you say and what you do.</p>
 <p><strong>Integrity</strong>&nbsp;- Be honest and always do what is right.</p>
-<p><strong>Contact Us</strong><br />For more information on MOE Kindergarten @ Frontier, please contact us at 6578 9555, email us at&nbsp;<a href="mailto:mk_frontier@moe.edu.sg">mk_frontier@moe.edu.sg</a>&nbsp;or visit&nbsp;<a href="http://www.moe.gov.sg/moekindergarten">www.moe.gov.sg/moekindergarten</a>.</p>
+<p><strong>Contact Us</strong><br>For more information on MOE Kindergarten @ Frontier, please contact us at 6578 9555, email us at&nbsp;<a href="mailto:mk_frontier@moe.edu.sg">mk_frontier@moe.edu.sg</a>&nbsp;or visit&nbsp;<a href="http://www.moe.gov.sg/moekindergarten">www.moe.gov.sg/moekindergarten</a>.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 100%;">
 <h4 class="fl-heading" style="text-align: center;"><span class="fl-heading-text">MK Announcements</span></h4>
-<img src="/images/aboutmk.png">
+<img>
 </td>
 </tr>
 </tbody>
