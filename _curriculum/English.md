@@ -86,6 +86,21 @@ We aim to build strong fundamentals in our students with digital literacy and te
 </tr>
 </tbody>
 </table>
+
+<p><strong>Buddy Reading Programme</strong></p>
+<p style="text-align: justify;">This programme supports emergent readers in Primary 2 to help them improve their reading skills. A group of Primary 4 Frontierers with good reading and speaking skills, driven by their interest to serve and contribute, will engage and motivate their juniors in reading twice a week in the morning before the flag-raising ceremony. These Primary 4 Frontierers exercise student agency by acting responsibly and contributing actively to help improve the reading proficiency level of their juniors. </p>
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/BUDDY1.jpg"></td>
+<td style="width: 50%;"><img src="/images/BUDDY2.jpg"></td>
+</tr>
+</tbody>
+</table>
+
+
+
 <h5><strong>Excel@Frontier - Speak Good English Movement (SGEM)</strong></h5>
 <p style="text-align: justify;">The Speak Good English Movement (SGEM) is held in conjunction with the English Language Week to encourage our students to speak standard and grammatically correct English. The objectives of this programme are to:</p>
 <p>1. encourage the use of Standard English in spoken and written form.</p>
