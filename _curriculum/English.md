@@ -37,6 +37,13 @@ variant: markdown
 </tbody>
 </table>
 <h5><strong>Key Approaches</strong></h5>
+
+**_STELLAR_** _(**S**trategies for&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning and&nbsp;**R**eading)_ is an English Language instructional programme adopted at all levels in Frontier Primary School. The STELLAR 2.0 vision is to nurture children who love reading and have a strong foundation in the English Language.
+This will be achieved by:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	strengthening our students’ language and reading skills<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	promoting a positive learning attitude
+
+
 <p style="text-align: justify;">Students are immersed in language learning and are exposed to a variety of genres that are engaging and age-appropriate. The use of different strategies and pedagogies with explicit instruction, as well as enriching language experiences, allow our students to appreciate the language within and beyond the classrooms.</p>
 <p style="text-align: justify;">As students progress across the levels, they learn to make the transition from learning to read to reading to learn. They are eased into reading silently as well as reading longer texts without visual support. Teachers continue to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing independently.</p>
 <p style="text-align: justify;">Students are also given differentiated support at various points of instruction to optimise their learning. Teachers carry out <b><em>Differentiated Instruction</em></b> by designing appropriate activities to support, reinforce and extend their learning. They also harness <b><em>e-Pedagogy</em></b> design learning experiences that enhance student engagement, subject mastery and help students acquire and strengthen their 21<sup>st</sup>&nbsp;Century Competencies<em>.</em></p>
