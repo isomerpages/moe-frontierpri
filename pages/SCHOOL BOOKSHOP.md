@@ -63,9 +63,9 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">P5 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 4f.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4f.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_4f.pdf">Download</a></strong></td>
+<td style="text-align: center;">P6 3S1FMTL</td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_3S1FMT.pdf">Download</a></strong></td>
 </tr>
 	<tr>
 <td style="text-align: center;">&nbsp;</td>
@@ -73,7 +73,7 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">P6 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4f.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_4f.pdf">Download</a></strong></td>
 </tr>
 </tbody>
 </table>
