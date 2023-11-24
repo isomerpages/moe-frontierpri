@@ -48,7 +48,7 @@ This will be achieved by:<br>
 <p style="text-align: justify;">Students are immersed in language learning and are exposed to a variety of genres that are engaging and age-appropriate. The use of different strategies and pedagogies with explicit instruction, as well as enriching language experiences, allow our students to appreciate the language within and beyond the classrooms.</p>
 <p style="text-align: justify;">As students progress across the levels, they learn to make the transition from learning to read to reading to learn. They are eased into reading silently as well as reading longer texts without visual support. Teachers continue to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing independently.</p>
 <p style="text-align: justify;">Students are also given differentiated support at various points of instruction to optimise their learning. Teachers carry out <b><em>Differentiated Instruction</em></b> by designing appropriate activities to support, reinforce and extend their learning. They also harness <b><em>e-Pedagogy</em></b> design learning experiences that enhance student engagement, subject mastery and help students acquire and strengthen their 21<sup>st</sup>&nbsp;Century Competencies<em>.</em></p>
-<img style="width: 65%;" src="/images/eng.jpg">
+<img style="width: 70%;" src="/images/eng.jpg">
 <img src="/images/eng1.png">
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>Read@Frontier - Young Readers and Young Writers Programme</strong></p>
