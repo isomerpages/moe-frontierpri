@@ -77,15 +77,12 @@ We aim to build strong fundamentals in our students with digital literacy and te
 </tbody>
 </table>
 
-<p style="text-align: justify;">The Young Writers Programme aims to inculcate a love for reading and writing among our Primary 2 students. Apart from planned library visits, there will be opportunities to develop students’ creative voices, writing fluency, resilience and self-efficacy. Students will also be able to showcase their writing pieces during this programme.</p>
+<p style="text-align: justify;">Students will also get to participate in termly thematic activities during their recess at the ***Exploring English Corner***. These reading-related activities include quizzes, storytelling sessions and gaining new knowledge through information on the noticeboards and reading good writing pieces on display. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 20%;"><img src="/images/eeng2.jpg"></td>
-<td style="width: 20%;"><img src="/images/eeng3.jpg"></td>
-<td style="width: 20%;"><img src="/images/eeng4.jpg"></td>
-<td style="width: 20%;"><img src="/images/eeng5.jpg"></td>
-<td style="width: 20%;"><img src="/images/eeng6.jpg"></td>
+<td style="width: 50%;"><img src="/images/yr3.jpg"></td>
+<td style="width: 50%;"><img src="/images/yr4.jpg"></td>
 </tr>
 </tbody>
 </table>
