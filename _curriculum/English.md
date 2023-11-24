@@ -66,7 +66,17 @@ We aim to build strong fundamentals in our students with digital literacy and te
 
 <h4><strong>Departmental Highlights</strong></h4>
 <p><strong>Read@Frontier - Young Readers and Young Writers Programme</strong></p>
-<p style="text-align: justify;">The Young Readers Programme to encourage and excite Primary 1 students to be confident and enthusiastic readers. There will be weekly planned library visits for students to explore and appreciate different book genres. These visits will be paired with Speech and Drama activities such as Show and Tell, Readers Theatre to provide students with a joyful learning experience.</p>
+<p style="text-align: justify;">The Young Readers Programme aims to encourage and excite our students to be confident and avid readers. Students will participate in Extensive Reading activities such as Speech and Drama, Show and Tell and Readers Theatre, and regularly visit our school library, **_Frontopia,_** to explore and appreciate different book genres.</p>
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/yr1.jpg"></td>
+<td style="width: 50%;"><img src="/images/yr2.jpg"></td>
+</tr>
+</tbody>
+</table>
+
 <p style="text-align: justify;">The Young Writers Programme aims to inculcate a love for reading and writing among our Primary 2 students. Apart from planned library visits, there will be opportunities to develop students’ creative voices, writing fluency, resilience and self-efficacy. Students will also be able to showcase their writing pieces during this programme.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
