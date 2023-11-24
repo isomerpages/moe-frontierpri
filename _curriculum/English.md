@@ -2,6 +2,7 @@
 title: English
 permalink: /department/english/
 description: ""
+variant: markdown
 ---
 <h5 style="text-align: center;"><strong>Our Vision:&nbsp;</strong>Confident Thinkers, Adaptable Individuals, Passionate Leaders</h5>
 <h5 style="text-align: center;"><strong>Our Mission:&nbsp;</strong>To achieve EL Syllabus 2020 Learner Outcomes:&nbsp;Empathetic Communicators, Discerning Readers, Creative Inquirers</h5>
@@ -14,24 +15,24 @@ description: ""
 <td style="border:1px solid black;">LH / EL : Mdm Nur Shirin Yaman Yuen</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">ST /EL : Mr Alan Yang Qidong</td>
-<td style="border:1px solid black;">ST / EL : Miss Lim Weiqing, Eulindra</td>
+<td style="border:1px solid black;">ST /EL : Miss Eulindra Lim Weiqing</td>
+<td style="border:1px solid black;">ST / EL : Mdm Nurashikin Mohd Zamrabi</td>
+<td style="border:1px solid black;">Mdm Lim Suat Peng, Tina </td>
+</tr>
+<tr>
 <td style="border:1px solid black;">Mrs Raspal Singh</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Miss Harsharan Kaur d/o T S</td>
 <td style="border:1px solid black;">Mr Muhammad Ali Bin Mohamed Yasin</td>
-<td style="border:1px solid black;">Mdm Nurashikin Mohd Zamrabi</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Mrs Sabrina Zhang</td>
-<td style="border:1px solid black;">Mdm Lim Suat Peng, Tina</td>
 <td style="border:1px solid black;">Miss Sandra Phong Pei Shan</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">Mdm Cheong Yueh Tinng Evelyn (CAJT)</td>
+<td style="border:1px solid black;">Mrs Sabrina Zhang</td>
+<td style="border:1px solid black;">Miss Harsharan Kaur d/o T S</td>
+<td style="border:1px solid black;">Mdm Valerie Low Baoqin</td>
+</tr>
+<tr>
 <td style="border:1px solid black;">Mdm Magdalein Goh (FAJT)</td>
-<td style="border:1px solid black;">Miss Eliza Law</td>
+<td style="border:1px solid black;">Miss Renee Kwan Pui Leng (RT)</td>
+<td style="border:1px solid black;">Mdm Cheong Yueh Tinng Evelyn (CAJT)</td>
 </tr>
 </tbody>
 </table>
