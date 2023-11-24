@@ -87,7 +87,7 @@ We aim to build strong fundamentals in our students with digital literacy and te
 </tbody>
 </table>
 
-<p><strong>Buddy Reading Programme</strong></p>
+<strong>Buddy Reading Programme</strong>
 <p style="text-align: justify;">This programme supports emergent readers in Primary 2 to help them improve their reading skills. A group of Primary 4 Frontierers with good reading and speaking skills, driven by their interest to serve and contribute, will engage and motivate their juniors in reading twice a week in the morning before the flag-raising ceremony. These Primary 4 Frontierers exercise student agency by acting responsibly and contributing actively to help improve the reading proficiency level of their juniors. </p>
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
