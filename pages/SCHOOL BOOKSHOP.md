@@ -45,11 +45,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p4.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p4.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 3s1fma.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_3S1FMA.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 3s1fma.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_3s1fma.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
