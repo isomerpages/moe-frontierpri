@@ -43,7 +43,7 @@ This will be achieved by:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	strengthening our students’ language and reading skills<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	promoting a positive learning attitude
 
-<img style="width: 50%;" src="/images/Stellar.png">
+<img style="width: 30%;" src="/images/Stellar.png">
 
 <p style="text-align: justify;">Students are immersed in language learning and are exposed to a variety of genres that are engaging and age-appropriate. The use of different strategies and pedagogies with explicit instruction, as well as enriching language experiences, allow our students to appreciate the language within and beyond the classrooms.</p>
 <p style="text-align: justify;">As students progress across the levels, they learn to make the transition from learning to read to reading to learn. They are eased into reading silently as well as reading longer texts without visual support. Teachers continue to provide students with guidance in the processes of planning, writing and reviewing before they apply these skills in writing independently.</p>
