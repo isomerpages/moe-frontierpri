@@ -106,28 +106,8 @@ We aim to build strong fundamentals in our students with digital literacy and te
 <img style="width: 70%;" src="/images/WRITE2.jpg">
 
 
-<h5><strong>Excel@Frontier - Speak Good English Movement (SGEM)</strong></h5>
-<p style="text-align: justify;">The Speak Good English Movement (SGEM) is held in conjunction with the English Language Week to encourage our students to speak standard and grammatically correct English. The objectives of this programme are to:</p>
-<p>1. encourage the use of Standard English in spoken and written form.</p>
-<p>2. excite learners to improve their quality of English through a week-long series of activities.</p>
-<p>3. create an environment in Frontier Primary School where good English is nurtured through reading and stories.</p>
-<p style="text-align: justify;">During the week, students will enjoy a wide variety of activities such as Book Character Day Spelling Bee Competition, virtual Book Talk and Assembly, and classroom activities to promote the use of Standard English in spoken and written form.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/eeng7.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eeng8.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eeng9.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/eeng10.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eeng11.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eeng12.jpg"></td>
-</tr>
-</tbody>
-</table>
 <h5><strong>Excel@Frontier – English Language Stretch Programme</strong></h5>
-<p style="text-align: justify;">The English Language Stretch Programme aims to develop our students to become empathetic communicators, discerning readers and creative inquirers. Selected Primary 4 and Primary 5 students participate in challenging activities in Oracy, Writing and Literature in order to hone and strengthen their language skills. This programme also provides our students opportunities that allow them to challenge themselves further through the participation of external oratorical and writing competitions. They will also get the chance to be student emcees during school events.</p>
+<p style="text-align: justify;">The English Language Stretch Programme aims to develop our students to become empathetic communicators, discerning readers and creative inquirers. Selected Primary 4 and Primary 5 students participate in challenging activities in Oracy, Writing and Literature to hone and sharpen their language skills. This programme also provides our students opportunities that allow them to challenge themselves further through the participation of external oratorical and writing competitions and assuming the role of an emcee during school events. Some of them will also participate in a Cluster Partnership programme where they will be able to exchange ideas and learn from like-minded students from schools within the cluster. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -158,7 +138,7 @@ We aim to build strong fundamentals in our students with digital literacy and te
 <tr>
 <td style="width: 33.3333%;"><img src="/images/eeng16.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/eeng17.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eeng18.jpg"><br><img src="/images/eeng19.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/eeng19.jpg"></td>
 </tr>
 </tbody>
 </table>
