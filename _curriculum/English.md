@@ -152,11 +152,3 @@ We aim to build strong fundamentals in our students with digital literacy and te
 <p style="text-align: justify;"><strong>1. Learning Support Programme<br></strong>The Learning Support Programme (LSP) is an MOE-initiated programme which aims to provide early intervention and support for selected Primary 1 and Primary 2 students in their learning. The objective of LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom. These lessons are conducted in small groups daily during school curriculum hours by a trained Learning Support Coordinator (LSC).</p>
 <p style="text-align: justify;"><strong>2. School-based Dyslexia Remediation<br></strong>The School-based Dyslexia Remediation (SDR) programme aims to provide support for Primary 3 and Primary 4 students who have been identified through a systematic screening process for dyslexia conducted at the end of Primary 2. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. Teachers will use a systematic set of strategies and activities which have been carefully designed by MOE in this programme.</p>
 <p style="text-align: justify;"><strong>3. Reading Remediation Programme<br></strong>The Reading Remediation Programme (RRP) aims to provide support for Primary 3 and Primary 4 students who face consistent difficulty in reading despite having completed the Learning Support Programme in Primary 1 and Primary 2. This MOE-initiated programme exposes students to a range of strategies for reading comprehension which will enable them to recognise words and read grade-level texts with fluency and comprehension.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 66%;"><img src="/images/eng23.png"></td>
-<td style="width: 33%;"><img src="/images/eng24.jpg"></td>
-</tr>
-</tbody>
-</table>
