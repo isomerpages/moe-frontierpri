@@ -102,8 +102,8 @@ We aim to build strong fundamentals in our students with digital literacy and te
 <strong>Write@Frontier - Inkredibles Creative Writing Competition</strong>
 <p style="text-align: justify;">The EL department organised the inaugural The Inkredibles Creative Writing Competition 2023 during the June school holidays in 2023 to encourage and inspire our Primary 3 to 5 Frontierers to unleash their creativity and showcase their flair in writing. This competition aims to provide a meaningful activity during the school holidays for the students and promote student agency in them. A total of 15 Frontierers were affirmed for their excellent pieces of writing.</p>
 
-<img style="width: 70%;" src="/images/WRITE1.jpg"><br>
-<img style="width: 70%;" src="/images/WRITE2.jpg">
+<img style="width: 70%;" src="/images/WRITE1.png"><br>
+<img style="width: 70%;" src="/images/WRITE2.png">
 
 
 <h5><strong>Excel@Frontier – English Language Stretch Programme</strong></h5>
@@ -142,24 +142,13 @@ We aim to build strong fundamentals in our students with digital literacy and te
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><span class="fl-heading-text">Mythos: Junior Orators 2021 Achievement Award (placement in top 10) Jayden Teo Chi Wun (5RE4)</span></td>
-<td style="width: 33.3333%;"><span class="fl-heading-text">34th YMCA Plain English Speaking Award (PESA) 2021 Achievement Award Hu Min Li Bethea (5RE4)</span></td>
-<td style="width: 33.3333%;"><span class="fl-heading-text">34th YMCA Plain English Speaking Award (PESA) 2021 2nd Runner-up Teo Cheng Wei (5RE4)</span></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/eeng20.png"></td>
-<td style="width: 33.3333%;"><img src="/images/eeng21.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eng22.jpg"></td>
-</tr>
-</tbody>
-</table>
-<h5><strong>Excel@Frontier – EL Curricular Innovation</strong></h5>
-<p style="text-align: justify;">The Primary 4 students participated in the MOE Personalised Digital Learning Programme (PDLP) Pilot Study in 2021. Students were each equipped with a personal learning device (PLD). The Primary 4 English Language teachers designed lessons which harnessed on e-pedagogy for effective student engagement and collaboration.</p>
-<p style="text-align: justify;">With the use of Student Learning Space (SLS) and 1-to-1 PLD, the teachers have observed a positive change in students’ learning. Students have become more engaged and participative in the discussions. They are more confident to learn and are able to collaborate, synthesise ideas and respond to others’ responses respectfully. This pilot study will continue for our Primary 4 students in 2022.</p>
-<h5><strong>Support Programmes</strong></h5>
+
+
+<p style="text-align: justify;"><strong>Wits &amp; Words – Inter-school Debate Championship 2023<br></strong>The team demonstrated resilience and determination to learn and improve through winning and losing in the various rounds of the competition. One of our debaters was also the Best Speaker of the House in the second round. Well done, debaters!</p>
+
+<img src="/images/debaters.jpg">
+
+
 <p style="text-align: justify;"><strong>1. Learning Support Programme<br></strong>The Learning Support Programme (LSP) is an MOE-initiated programme which aims to provide early intervention and support for selected Primary 1 and Primary 2 students in their learning. The objective of LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom. These lessons are conducted in small groups daily during school curriculum hours by a trained Learning Support Coordinator (LSC).</p>
 <p style="text-align: justify;"><strong>2. School-based Dyslexia Remediation<br></strong>The School-based Dyslexia Remediation (SDR) programme aims to provide support for Primary 3 and Primary 4 students who have been identified through a systematic screening process for dyslexia conducted at the end of Primary 2. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. Teachers will use a systematic set of strategies and activities which have been carefully designed by MOE in this programme.</p>
 <p style="text-align: justify;"><strong>3. Reading Remediation Programme<br></strong>The Reading Remediation Programme (RRP) aims to provide support for Primary 3 and Primary 4 students who face consistent difficulty in reading despite having completed the Learning Support Programme in Primary 1 and Primary 2. This MOE-initiated programme exposes students to a range of strategies for reading comprehension which will enable them to recognise words and read grade-level texts with fluency and comprehension.</p>
