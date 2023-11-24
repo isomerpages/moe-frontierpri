@@ -36,7 +36,7 @@ variant: markdown
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_4s.pdf">Download</a></strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;P3</td>
+<td style="text-align: center;">P3</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p3.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 2S2F</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_2s2f.pdf">Download</a></strong></td>
