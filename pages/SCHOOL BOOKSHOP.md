@@ -2,6 +2,7 @@
 title: SCHOOL BOOKSHOP
 permalink: /school-bookshop/
 description: ""
+variant: markdown
 ---
 <p><strong>Pacific Bookstores Pte Ltd</strong></p>
 <p>Main Office: 14 Arumugam Road, #08-01, LTC Building C, Singapore 409959<br>Tel: 6464 0111<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com">sales@pacificbookstores.com</a><br>Website:&nbsp;<a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
@@ -20,27 +21,27 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P1</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps-p1.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p1.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 4S1H</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps-p5-4s-hmt.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_4S_HMT.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4S1H</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4s hmt.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_4S_HMT.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p2.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p2.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 4S</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 4s.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_4s.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4S</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 4s.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_4s.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;P3</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p3.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p3.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 2S2F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p5 2s2f.pdf">Download</a></strong></td>
-<td style="text-align: center;">P6 2S2F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2023/fps p6 2s2f.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_2s2f.pdf">Download</a></strong></td>
+<td style="text-align: center;">P6 2S2F (FMA+FMT)</td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_2S2F_FMA_FMT.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
