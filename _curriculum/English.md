@@ -50,7 +50,21 @@ This will be achieved by:<br>
 <p style="text-align: justify;">Students are also given differentiated support at various points of instruction to optimise their learning. Teachers carry out <b><em>Differentiated Instruction</em></b> by designing appropriate activities to support, reinforce and extend their learning. They also harness <b><em>e-Pedagogy</em></b> design learning experiences that enhance student engagement, subject mastery and help students acquire and strengthen their 21<sup>st</sup>&nbsp;Century Competencies<em>.</em></p>
 <img style="width: 70%;" src="/images/eng.jpg"><br>
 <img src="/images/stellar_all.png">
-<h4><strong>Key Programmes</strong></h4>
+
+<p><strong>EdTech in EL</strong></p>
+
+The EL department harnesses and leverages technology to enhance teaching and learning. The teachers use the **_Think, Tech, Grow_** **_@ Frontier_** schoolwide learning approach to: 
+
+1. promote and deepen students’ thinking process;
+2. design tech-enabled learning experiences; and
+3. provide feedback to students for their growth in learning
+
+We aim to build strong fundamentals in our students with digital literacy and technological skills to prepare them for a technology-transformed world.
+
+<img src="/images/edtech_all.png">
+
+
+<h4><strong>Departmental Highlights</strong></h4>
 <p><strong>Read@Frontier - Young Readers and Young Writers Programme</strong></p>
 <p style="text-align: justify;">The Young Readers Programme to encourage and excite Primary 1 students to be confident and enthusiastic readers. There will be weekly planned library visits for students to explore and appreciate different book genres. These visits will be paired with Speech and Drama activities such as Show and Tell, Readers Theatre to provide students with a joyful learning experience.</p>
 <p style="text-align: justify;">The Young Writers Programme aims to inculcate a love for reading and writing among our Primary 2 students. Apart from planned library visits, there will be opportunities to develop students’ creative voices, writing fluency, resilience and self-efficacy. Students will also be able to showcase their writing pieces during this programme.</p>
