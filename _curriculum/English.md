@@ -102,15 +102,8 @@ We aim to build strong fundamentals in our students with digital literacy and te
 <strong>Write@Frontier - Inkredibles Creative Writing Competition</strong>
 <p style="text-align: justify;">The EL department organised the inaugural The Inkredibles Creative Writing Competition 2023 during the June school holidays in 2023 to encourage and inspire our Primary 3 to 5 Frontierers to unleash their creativity and showcase their flair in writing. This competition aims to provide a meaningful activity during the school holidays for the students and promote student agency in them. A total of 15 Frontierers were affirmed for their excellent pieces of writing.</p>
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/WRITE1.jpg"></td>
-<td style="width: 50%;"><img src="/images/WRITE2.jpg"></td>
-</tr>
-</tbody>
-</table>
-
+<img src="/images/WRITE1.jpg"><br>
+<img src="/images/WRITE2.jpg">
 
 
 <h5><strong>Excel@Frontier - Speak Good English Movement (SGEM)</strong></h5>
