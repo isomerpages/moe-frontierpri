@@ -57,3 +57,8 @@ Beyond the pursuit of knowledge, we also hope to instill a sense of responsibili
 	</tr>
 </tbody>
 </table>
+
+<img src="/images/science_1.jpg">
+
+
+
