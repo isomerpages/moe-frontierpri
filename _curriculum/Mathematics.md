@@ -4,8 +4,6 @@ permalink: /department/mathematics/
 description: ""
 variant: markdown
 ---
-<h5 style="text-align: center;"><strong>Vision<br></strong>Creative &amp; Reflective Problem-Solvers</h5>
-<h5 style="text-align: center;"><strong>Mission<br></strong>Discover joy and excitement.<br>Connect learning.<br>Communicate thinking.<br>Collaborate effectively.</h5>
 <h5><strong>Department Heads and Members</strong></h5>
 <table class="aligncenter">
 <tbody>
