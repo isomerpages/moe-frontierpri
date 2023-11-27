@@ -78,7 +78,7 @@ Engaging in science-related competitions such as Singapore Primary Science Olymp
 <img src="/images/science_2.jpg">
    
 In addition, our department has also curated resources such as science videos, games and simulations via our Science Digital Space, making science concepts accessible and enjoyable. Check out our Science Digital Space [here](https://for.edu.sg/fps-sci-digital-space).
-
+<img src="/images/science_space.jpg">
 
 
 
