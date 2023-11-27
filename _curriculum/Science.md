@@ -67,5 +67,5 @@ Besides the rich biodiversity, sustainability features like the solar-powered wi
 
 <img src="/images/ecowonders.jpg">
 
-
+Check out the Frontier Eco-Wonders [here](https://for.edu.sg/frontier-eco-wonders).
 
