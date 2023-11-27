@@ -23,25 +23,10 @@ variant: markdown
 
 <img src="/images/alp_1.png">
 
-
-
-<h4><strong><u>Stay future-ready: Refreshed Curriculum</u></strong></h4>
-<p>With changes to SBA, the use of freed-up curriculum time allows our students to focus on the &nbsp;<em>process of learning</em>. The P3-P5 IPW activities are designed to enable students to learn deeply and apply their knowledge and skills across various subjects and domains.</p>
-<img src="/images/alp2.jpg">
 <h4><strong><u>Nurturing Frontierers who are Adaptive, Communicative and Empowered for&nbsp;</u></strong><strong><u>tomorrow through ALP Structure</u></strong></h4>
-<p>In Frontier, we help our students to acquire Communication and Thinking skills through Experiential Learning via our ALP Lessons that are conducted weekly. After acquiring the thinking and communication skills, our students will apply these skills through Project-Based Learning via P3-P5 Interdisciplinary Project Work (IPW). The skill set acquired is also deepned through Maker@Frontier.</p>
-<ol>
-<li>
-<p>Acquisition of Communication and Thinking skills through Experiential Learning (Weekly ALP Lessons)</p>
-</li>
-<ul>
-<li><em>Nurturing Adaptive &amp; Communicative Frontierers through :</em></li>
-<li><em><u>L</u></em><em>earn &amp;&nbsp;<u>E</u>xplore Through&nbsp;<u>P</u>lay</em></li>
-<li><em>News/ Financial Literacy</em></li>
-<li><em>MT ALIVE!</em></li>
-</ul>
-</ol>
-<ol start="2">
+<p>In Frontier, we help our students to acquire Communication and Thinking skills through Experiential Learning via our ALP Lessons that are conducted weekly. After acquiring the thinking and communication skills, our students will apply these skills through Project-Based Learning via P3-P5 Interdisciplinary Project Work (IPW). The skill set acquired is also deepned through Maker Ed@Frontier.</p>
+
+<ol start="1=">
 <li>
 <p>Application of Communication &amp; Thinking skills through Project-Based Learning (P3-5 IPW)</p>
 </li>
@@ -65,23 +50,31 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/alp4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/alp5.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 60%;" src="/images/alp6.jpg"></td>
-</tr>
-</tbody>
-</table>
-<ol start="3">
-<li>Empowering Frontierers through Maker@Frontier</li>
+
+<img src="/images/alp_2.png">
+
+<ol start="2">
+<li>Empowering Frontierers through Maker Ed@Frontier</li>
 <ul>
 <li>
 <p><em>Nurturing Empowered Frontierers through Robotics Programme</em></p>
 </li>
+	<li>
+<p><em>Maker Ed@Recess</em></p>
+</li>
+	<li>
+<p><em>Create.Think.Zone and Makerspace </em></p>
+</li>
+	<li>
+<p><em>P3 Maker Ed lessons termly</em></p>
+</li>
+		<li>
+<p><em>	Interest-Based Maker Ed workshops organized for our students termly</em></p>
+</li>
 </ul>
 </ol>
+
+
 <p><strong><u>Building of Staff Capacity</u></strong></p>
 <p>In Frontier, we believe that our staff is the key drivers of the ALP. To develop a dynamic and inspiring school team, a training road map is mapped out for our staff starting from building capacity of the Core Team, to all staff and individual staff. There are various workshops specially set aside for the facilitation of weekly ALP lessons and IPW lessons.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
