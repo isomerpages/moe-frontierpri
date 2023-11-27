@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /department/mathematics/
 description: ""
+variant: markdown
 ---
 <h5 style="text-align: center;"><strong>Vision<br></strong>Creative &amp; Reflective Problem-Solvers</h5>
 <h5 style="text-align: center;"><strong>Mission<br></strong>Discover joy and excitement.<br>Connect learning.<br>Communicate thinking.<br>Collaborate effectively.</h5>
@@ -16,27 +17,27 @@ description: ""
 <tr>
 <td style="border:1px solid black;">Mr Vincent Soh (ST)</td>
 <td style="border:1px solid black;">Mdm Chua Si Wei (ST)</td>
-<td style="border:1px solid black;">Mdm Sally Heng</td>
+<td style="border:1px solid black;">Mdm Hannaria Srihanum (ST/LP)</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">Mr Patrick Chua Cherng Haur</td>
-<td style="border:1px solid black;">Mrs Ang Cheng Chew - Teh Ai Choo</td>
-<td style="border:1px solid black;">Mdm Elaine Lee Sui Lyn</td>
+<td style="border:1px solid black;">Mdm Asmahwaty Binte Abdullah</td>
+<td style="border:1px solid black;">Ms Siti Nur Aishah Mohamad Zainudin</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">Miss Lim Jie Lin</td>
-<td style="border:1px solid black;">Mdm Siti Wahida Binte Zainal Abidin</td>
-<td style="border:1px solid black;">Mdm Lim Pei Geok</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Miss Lim Wan Teng, Valerie</td>
-<td style="border:1px solid black;">Mdm Oon Saw Kim Eileen</td>
-<td style="border:1px solid black;">Mr Derek Lee</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Mdm Yap Lay Koon</td>
-<td style="border:1px solid black;">Mrs Tan-Lay Puay Kiang</td>
 <td style="border:1px solid black;">Mdm Lai Soon Ling</td>
+<td style="border:1px solid black;">Mdm Elaine Lee</td>
+<td style="border:1px solid black;">Mdm Shannon Lim</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">Mrs Tan-Lay Puay Kiang</td>
+<td style="border:1px solid black;">Mdm Yap Lay Koon</td>
+<td style="border:1px solid black;">Mdm Oon Saw Kim Eileen</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">Miss Yue Hui Xian</td>
+<td style="border:1px solid black;">Mr Derek Lee</td>
+<td style="border:1px solid black;"></td>
 </tr>
 </tbody>
 </table>
