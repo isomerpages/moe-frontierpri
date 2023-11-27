@@ -2,9 +2,8 @@
 title: Mathematics
 permalink: /department/mathematics/
 description: ""
+variant: markdown
 ---
-<h5 style="text-align: center;"><strong>Vision<br></strong>Creative &amp; Reflective Problem-Solvers</h5>
-<h5 style="text-align: center;"><strong>Mission<br></strong>Discover joy and excitement.<br>Connect learning.<br>Communicate thinking.<br>Collaborate effectively.</h5>
 <h5><strong>Department Heads and Members</strong></h5>
 <table class="aligncenter">
 <tbody>
@@ -16,27 +15,27 @@ description: ""
 <tr>
 <td style="border:1px solid black;">Mr Vincent Soh (ST)</td>
 <td style="border:1px solid black;">Mdm Chua Si Wei (ST)</td>
-<td style="border:1px solid black;">Mdm Sally Heng</td>
+<td style="border:1px solid black;">Mdm Hannaria Srihanum (ST/LP)</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">Mr Patrick Chua Cherng Haur</td>
-<td style="border:1px solid black;">Mrs Ang Cheng Chew - Teh Ai Choo</td>
-<td style="border:1px solid black;">Mdm Elaine Lee Sui Lyn</td>
+<td style="border:1px solid black;">Mdm Asmahwaty Binte Abdullah</td>
+<td style="border:1px solid black;">Ms Siti Nur Aishah Mohamad Zainudin</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">Miss Lim Jie Lin</td>
-<td style="border:1px solid black;">Mdm Siti Wahida Binte Zainal Abidin</td>
-<td style="border:1px solid black;">Mdm Lim Pei Geok</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Miss Lim Wan Teng, Valerie</td>
-<td style="border:1px solid black;">Mdm Oon Saw Kim Eileen</td>
-<td style="border:1px solid black;">Mr Derek Lee</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Mdm Yap Lay Koon</td>
-<td style="border:1px solid black;">Mrs Tan-Lay Puay Kiang</td>
 <td style="border:1px solid black;">Mdm Lai Soon Ling</td>
+<td style="border:1px solid black;">Mdm Elaine Lee</td>
+<td style="border:1px solid black;">Mdm Shannon Lim</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">Mrs Tan-Lay Puay Kiang</td>
+<td style="border:1px solid black;">Mdm Yap Lay Koon</td>
+<td style="border:1px solid black;">Mdm Oon Saw Kim Eileen</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">Miss Yue Hui Xian</td>
+<td style="border:1px solid black;">Mr Derek Lee</td>
+<td style="border:1px solid black;"></td>
 </tr>
 </tbody>
 </table>
@@ -82,15 +81,10 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/maf4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/maf5.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/maf6.jpg"></td>
-</tr>
-</tbody>
-</table>
+
+<img src="/images/math_1.png">
+
+
 <p><strong>3. Verbalizing Thinking through Mathematics Reasoning and Communication</strong></p>
 <p style="text-align: justify;">To develop confident problem solvers and communicators in Frontier, students in Frontier are exposed to reasoning and communication tasks to enhance their knowledge of key mathematical concepts and competencies. Students will be given opportunities to discuss and express their thoughts and ideas in both verbal and written forms. Teachers scaffolds students’ learning through the use of&nbsp; mathematical language.</p>
 <p style="text-align: justify;">Through verbalising the thoughts processes while tackling reasoning and communication tasks, students develop the capacities to think logically, confidently, critically and creatively. These thinking dispositions are important for our Frontierers to lead a productive life and be life-long learners.</p>
@@ -106,19 +100,19 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+<img src="/images/math_2.png">
+
 <p><strong><u>Key Programmes</u></strong></p>
-<p><strong><u>1. Developing students' confidence and enjoyment through Math &amp; Science Week</u></strong></p>
-<p style="text-align: justify;">To learn Mathematics through play and exploration, our Frontierers’ learning is extended beyond classroom. They are exposed to practical and real-life examples as pupils apply their learning to authentic situations. The Department hopes that the experience gained will garner them to instil a positive attitude towards Mathematics and its uses in their daily lives.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/maf11.jpg"></td>
-<td style="width: 25%;"><img src="/images/maf12.jpg"></td>
-<td style="width: 25%;"><img src="/images/maf13.jpg"></td>
-<td style="width: 25%;"><img src="/images/maf14.jpg"></td>
-</tr>
-</tbody>
-</table>
+
+<strong>1.	I’m a S.T.A.R. in Problem Solving</strong><br> 
+How do we help our students to facilitate the development of metacognitive skills during problem solving? <br><br>
+Frontier Primary school has customized the <strong>STAR Framework (<u>S</u>top. <u>T</u>hink. <u>A</u>ct. <u>R</u>eflect)</strong> which helps to:<br>
+•	to guide students to monitor and regulate their thinking.<br>
+•	enable our students to pause frequently and use the question prompts to guide them in problem solving<br>
+•	create the awareness and to regulate our students’ thinking. 
+
+
 <p><strong>2. <u>Provision of Opportunities through Talent Management</u></strong></p>
 <p style="text-align: justify;">Math Stretch Programme is conducted for selected Primary 3 to Primary 5 Frontierers who have a strong foundation in Mathematics. These enrichment programmes aim to:</p>
 <ul>
