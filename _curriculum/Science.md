@@ -44,8 +44,6 @@ To cultivate critical and adaptive thinking, students are provided with opportun
 Beyond the pursuit of knowledge, we also hope to instill a sense of responsibility and foster values, ethics, and attitudes in our students.
 
 
-
-
 <p style="text-align: center;"><strong>Learning Experiences In Science Classrooms
 </strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -59,6 +57,15 @@ Beyond the pursuit of knowledge, we also hope to instill a sense of responsibili
 </table>
 
 <img src="/images/science_1.jpg">
+
+
+<p style="text-align: center;"><strong>Learning Experiences In Frontier Eco-Wonders
+</strong></p> 
+The Frontier Eco-Wonder&nbsp; is a vibrant outdoor learning space filled with diverse biodiversity, from colourful flowers to freshly grown vegetables. The garden fosters curiosity and facilitates a deeper understanding of scientific concepts as Frontierers explore and learn more about the interconnectedness of our natural environment through observation and hands-on experiences.
+
+Besides the rich biodiversity, sustainability features like the solar-powered windmill, solar-powered aquaponics and hydroponics systems demonstrate the principles of conservation and resource management. These features enhance the teaching and learning of sustainability so Frontierers can deepen our scientific knowledge and cultivate lifelong values of environmental care and stewardship so that we can make a positive difference and be the difference in our homes and community.
+
+<img src="/images/ecowonders.jpg">
 
 
 
