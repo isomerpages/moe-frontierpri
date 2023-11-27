@@ -76,6 +76,9 @@ Beyond the science curriculum, students can embark on a captivating journey of d
 
 Engaging in science-related competitions such as Singapore Primary Science Olympiad, Singapore Youth Science Fair, Abbott Young Scientist Programme, not only sharpens analytical skills but also sparks innovation and creativity.
 <img src="/images/science_2.jpg">
+   
+In addition, our department has also curated resources such as science videos, games and simulations via our Science Digital Space, making science concepts accessible and enjoyable. Check out our Science Digital Space [here](https://for.edu.sg/fps-sci-digital-space).
+
 
 
 
