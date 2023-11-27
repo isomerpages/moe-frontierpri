@@ -69,3 +69,13 @@ Besides the rich biodiversity, sustainability features like the solar-powered wi
 
 Check out the Frontier Eco-Wonders [here](https://for.edu.sg/frontier-eco-wonders).
 
+
+<p style="text-align: center;"><strong>Other Science progammes and resources:
+</strong></p>    
+Beyond the science curriculum, students can embark on a captivating journey of discovery through various enriching programs and learning experiences. For example, E2K Science offers selected students opportunities for hands-on experiments and collaborative exploration, fostering a deep love for inquiry-based learning.
+
+Engaging in science-related competitions such as Singapore Primary Science Olympiad, Singapore Youth Science Fair, Abbott Young Scientist Programme, not only sharpens analytical skills but also sparks innovation and creativity.
+<img src="/images/science_2.jpg">
+
+
+
