@@ -20,6 +20,11 @@ variant: markdown
 <li>To provide opportunity for Frontieriers to build character and relationships by influencing interactions positively.</li>
 </ol>
 <p>Singapore is at the crossroads of a restructuring effort to meet the global demands of a knowledge-based economy. &nbsp;While we focus on nurturing the thinking face for tomorrow so that our students can be confident thinkers, adaptable individuals and passionate leaders, we also empower them with the essential skills through Reflective Thinking.</p>
+
+<img src="/images/alp_1.png">
+
+
+
 <h4><strong><u>Stay future-ready: Refreshed Curriculum</u></strong></h4>
 <p>With changes to SBA, the use of freed-up curriculum time allows our students to focus on the &nbsp;<em>process of learning</em>. The P3-P5 IPW activities are designed to enable students to learn deeply and apply their knowledge and skills across various subjects and domains.</p>
 <img src="/images/alp2.jpg">
