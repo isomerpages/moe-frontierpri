@@ -7,9 +7,9 @@ variant: markdown
 <p><strong>iN-Touch@Frontier for 2023</strong></p>
 <table style="border-collapse: collapse; width: 100%;"><tbody><tr style="height: 20px;">
 <td style="width: 25%; text-align: center;"><strong><a href="/files/iN-Touch Term 1 2023.pdf" target="_blank" rel="noopener">Term 1</a></strong></td>
-<td style="width: 25%; text-align: center;"><strong><a href="/files/iN-Touch Term 2 2023.pdf" target="_blank" rel="noopener">Term 2</a></strong></td>
-<td style="width: 25%; text-align: center;"><strong><a href="/files/iN-Touch Term 3 2023.pdf" target="_blank" rel="noopener">Term 3</a></strong></td>
-<td style="width: 25%; text-align: center;"><strong><a href="/files/iN-Touch Term 4 2023.pdf" target="_blank" rel="noopener">Term 4</a></strong></td>
+<td style="width: 25%; text-align: center;"><strong><a href="/files/in-touch term 2 2023.pdf" target="_blank" rel="noopener">Term 2</a></strong></td>
+<td style="width: 25%; text-align: center;"><strong><a href="/files/in-touch term 3 2023.pdf" target="_blank" rel="noopener">Term 3</a></strong></td>
+<td style="width: 25%; text-align: center;"><strong><a href="/files/in-touch term 4 2023.pdf" target="_blank" rel="noopener">Term 4</a></strong></td>
 </tr>
 </tbody>
 </table>
