@@ -148,7 +148,7 @@ We aim to build strong fundamentals in our students with digital literacy and te
 
 <p style="text-align: justify;"><strong>Wits &amp; Words – Inter-school Debate Championship 2023<br></strong>The team demonstrated resilience and determination to learn and improve through winning and losing in the various rounds of the competition. One of our debaters was also the Best Speaker of the House in the second round. Well done, debaters!</p>
 
-<img src="/images/debaters.jpg">
+<img src="/images/DEBATERS.jpg">
 
 
 <p style="text-align: justify;"><strong>1. Learning Support Programme<br></strong>The Learning Support Programme (LSP) is an MOE-initiated programme which aims to provide early intervention and support for selected Primary 1 and Primary 2 students in their learning. The objective of LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom. These lessons are conducted in small groups daily during school curriculum hours by a trained Learning Support Coordinator (LSC).</p>
