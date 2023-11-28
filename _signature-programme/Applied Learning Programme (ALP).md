@@ -21,7 +21,7 @@ variant: markdown
 </ol>
 <p>Singapore is at the crossroads of a restructuring effort to meet the global demands of a knowledge-based economy. &nbsp;While we focus on nurturing the thinking face for tomorrow so that our students can be confident thinkers, adaptable individuals and passionate leaders, we also empower them with the essential skills through Reflective Thinking.</p>
 
-<img src="/images/alp_1.png">
+<img src="/images/ALP_1.png">
 
 <h4><strong><u>Nurturing Frontierers who are Adaptive, Communicative and Empowered for&nbsp;</u></strong><strong><u>tomorrow through ALP Structure</u></strong></h4>
 <p>In Frontier, we help our students to acquire Communication and Thinking skills through Experiential Learning via our ALP Lessons that are conducted weekly. After acquiring the thinking and communication skills, our students will apply these skills through Project-Based Learning via P3-P5 Interdisciplinary Project Work (IPW). The skill set acquired is also deepned through Maker Ed@Frontier.</p>
@@ -51,7 +51,7 @@ variant: markdown
 </tbody>
 </table>
 
-<img src="/images/alp_2.png">
+<img src="/images/ALP_2.png">
 
 <ol start="2">
 <li>Empowering Frontierers through Maker Ed@Frontier</li>
@@ -74,7 +74,7 @@ variant: markdown
 </ul>
 </ol>
 
-<img src="/images/alp_3.jpg">
+<img src="/images/ALP_3.jpg">
 
 <p><strong><u>Building of Staff Capacity</u></strong></p>
 <p>In Frontier, we believe that our staff is the key drivers of the ALP. To develop a dynamic and inspiring school team, a training road map is mapped out for our staff starting from building capacity of the Core Team, to all staff and individual staff. There are various workshops specially set aside for the facilitation of  P3 Maker Ed lessons and IPW lessons.</p>
