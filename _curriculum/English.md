@@ -31,7 +31,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="border:1px solid black;">Mdm Magdalein Goh (FAJT)</td>
-<td style="border:1px solid black;">Miss Renee Kwan Pui Leng (RT)</td>
+<td style="border:1px solid black;">Mdm Renee Kwan Pui Leng (RT)</td>
 <td style="border:1px solid black;">Mdm Cheong Yueh Tinng Evelyn (CAJT)</td>
 </tr>
 </tbody>
