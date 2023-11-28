@@ -61,7 +61,7 @@ The EL department harnesses and leverages technology to enhance teaching and lea
 
 We aim to build strong fundamentals in our students with digital literacy and technological skills to prepare them for a technology-transformed world.
 
-<img style="width: 70%;" src="/images/edtech_all.png">
+<img style="width: 100%;" src="/images/edtech_all.png">
 
 
 <h4><strong>Departmental Highlights</strong></h4>
