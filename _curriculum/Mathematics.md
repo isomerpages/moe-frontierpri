@@ -82,7 +82,7 @@ variant: markdown
 </tbody>
 </table>
 
-<img src="/images/math_1.png">
+<img src="/images/MATH_1.png">
 
 
 <p><strong>3. Verbalizing Thinking through Mathematics Reasoning and Communication</strong></p>
@@ -101,7 +101,7 @@ variant: markdown
 </tbody>
 </table>
 
-<img src="/images/math_2.png">
+<img src="/images/MATH_2.png">
 
 <p><strong><u>Key Programmes</u></strong></p>
 

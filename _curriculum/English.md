@@ -31,7 +31,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="border:1px solid black;">Mdm Magdalein Goh (FAJT)</td>
-<td style="border:1px solid black;">Miss Renee Kwan Pui Leng (RT)</td>
+<td style="border:1px solid black;">Mdm Renee Kwan Pui Leng (RT)</td>
 <td style="border:1px solid black;">Mdm Cheong Yueh Tinng Evelyn (CAJT)</td>
 </tr>
 </tbody>
@@ -61,23 +61,25 @@ The EL department harnesses and leverages technology to enhance teaching and lea
 
 We aim to build strong fundamentals in our students with digital literacy and technological skills to prepare them for a technology-transformed world.
 
-<img style="width: 70%;" src="/images/edtech_all.png">
+<img style="width: 100%;" src="/images/edtech_all.png">
 
 
 <h4><strong>Departmental Highlights</strong></h4>
-<p><strong>Read@Frontier - Young Readers and Young Writers Programme</strong></p>
-<p style="text-align: justify;">The Young Readers Programme aims to encourage and excite our students to be confident and avid readers. Students will participate in Extensive Reading activities such as Speech and Drama, Show and Tell and Readers Theatre, and regularly visit our school library, **_Frontopia,_** to explore and appreciate different book genres.</p>
+<p><strong>Read@Frontier - Young Readers Programme</strong></p>
+<p style="text-align: justify;">The Young Readers Programme aims to encourage and excite our students to be confident and avid readers. Students will participate in Extensive Reading activities such as Speech and Drama, Show and Tell and <strong>Frontopia,</strong> to explore and appreciate different book genres.</p>
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/yr1.jpg"></td>
-<td style="width: 50%;"><img src="/images/yr2.jpg"></td>
+<td style="width: 50%;"><img src="/images/YR1.jpg"></td>
+<td style="width: 50%;"><img src="/images/YR2.jpg"></td>
 </tr>
 </tbody>
 </table>
 
-<p style="text-align: justify;">Students will also get to participate in termly thematic activities during their recess at the ***Exploring English Corner***. These reading-related activities include quizzes, storytelling sessions and gaining new knowledge through information on the noticeboards and reading good writing pieces on display. </p>
+
+
+<p style="text-align: justify;">Students will also get to participate in termly thematic activities during their recess at the <strong>Exploring English Corner.</strong> These reading-related activities include quizzes, storytelling sessions and gaining new knowledge through information on the noticeboards and reading good writing pieces on display. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -146,7 +148,7 @@ We aim to build strong fundamentals in our students with digital literacy and te
 
 <p style="text-align: justify;"><strong>Wits &amp; Words – Inter-school Debate Championship 2023<br></strong>The team demonstrated resilience and determination to learn and improve through winning and losing in the various rounds of the competition. One of our debaters was also the Best Speaker of the House in the second round. Well done, debaters!</p>
 
-<img src="/images/debaters.jpg">
+<img src="/images/DEBATERS.jpg">
 
 
 <p style="text-align: justify;"><strong>1. Learning Support Programme<br></strong>The Learning Support Programme (LSP) is an MOE-initiated programme which aims to provide early intervention and support for selected Primary 1 and Primary 2 students in their learning. The objective of LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom. These lessons are conducted in small groups daily during school curriculum hours by a trained Learning Support Coordinator (LSC).</p>

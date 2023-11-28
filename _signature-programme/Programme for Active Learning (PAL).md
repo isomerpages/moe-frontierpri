@@ -2,8 +2,9 @@
 title: Programme for Active Learning (PAL)
 permalink: /ccp/pal/
 description: ""
+variant: markdown
 ---
-<h4><strong>P1 and P2 Programme for Active Learning (PAL)<br /></strong></h4>
+<h4><strong>P1 and P2 Programme for Active Learning (PAL)<br></strong></h4>
 <p><strong>UNDERSTANDING&nbsp;PAL</strong></p>
 <p>The Programme for Active Learning (PAL) consists of modules of activities in the two broad areas, Sports &amp; Games and Outdoor Education, and Performing Arts and Visual Arts. It is a non-academic programme carried out within curriculum time for all P1 and P2 students.</p>
 <p><strong>Philosophy of&nbsp;PAL@FPS</strong></p>
@@ -22,20 +23,50 @@ description: ""
 </ul>
 <p><strong>Learning Outcomes of PAL in FPS</strong></p>
 <p>The design and delivery of PAL activities in Frontier aim to achieve the following learning outcomes (LO):</p>
-<p>Every Frontierer will...</p>
-<p><strong>LO1</strong>: Exhibit&nbsp;confidence&nbsp;in what they do and express themselves effectively</p>
-<p><strong>LO2</strong>: Exhibit&nbsp;creativity&nbsp;and&nbsp;innovation&nbsp;in the learning process</p>
-<p><strong>LO3</strong>: Exhibit&nbsp;joy&nbsp;in learning through group experiences and teamwork</p>
-<p><strong>LO1: Exhibit confidence in what they do and express themselves effectively<br /></strong>Through activities and experiences within the primary school years, students develop a sense of competence so that they are confident of their ability to accomplish things.</p>
-<p><strong>LO2: Exhibit creativity and innovation in the learning process<br /></strong>Our students are encouraged to express their thoughts and feelings in response to their experiences. They will be able to connect ideas and express them creatively in a variety of forms and contexts. They will be able to extend their learning.</p>
-<p><strong>LO3: Exhibit joy in learning through group experiences and teamwork<br /></strong>With mastery of social skills, our students will be adept at working in teams and acquire appropriate dispositions for cooperation with others from different backgrounds.</p>
+
+**Developmental Milestones (Primary1):**
+
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Demonstrate a lively curiosity and find joy in the people and things around us.**
+<li>
+Being curious: Recognise that being curious encourages us to learn new things from people, our environment, our daily activities, and experiences.
+</li>
+<li>Self-motivation: Demonstrate enthusiasm to learn new things.
+</li>
+<li>
+Positivity: Express thanks to the people around oneself.
+</li>
+<li>
+Self-reflection: Reflect on the experiences and people who help us learn and grow.
+</li><br>
+
+**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Work in a respectful manner with others.**
+<li>
+Working together: Recognise that everyone has something to contribute &amp; understand the importance of working together.</li>
+
+<li> Interpersonal Communication: Work cooperatively with others on a common task or for a common goal.</li><br>
+
+**Developmental Milestones (Primary2):**
+
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Work in a respectful manner with others.**
+
+<li> Working together: Understand the importance of working together, know that people have different ideas and there can be disagreements in working together.</li>
+
+<li>Interpersonal Communication: Manage disagreements through appropriate words and actions that demonstrate respect to others and their ideas.</li>
+
+<li>Interpersonal Communication: Share our feelings, thoughts, and views appropriately and respectfully with others.</li>
+
+<li>Interpersonal Communication: Use respectful ways to put different ideas together effectively to complete group tasks.</li>
+
+<li>Self-reflection: Reflect on how respectful speech and behaviours make receivers feel.</li><br>
+
+
 <p><strong>The Five Characteristics of PAL Modules</strong></p>
 <ul>
-<li>Experiential in nature&ndash; PAL modules are designed to provide students with meaningful engagement through experiential learning in a non-judgemental and authentic environment. PAL provides kinesthetic and tactile experiences that will reinforce students&rsquo; cognitive and conceptual learning. Reviewing and reflection time are included, building confidence in communication.</li>
-<li>Encompasses learning in a creative way&ndash; Children are inquisitive and curious learners who enjoy inquiry and want to know more. Providing children with the space within PAL to explore and apply skills, concepts and ideas to new situations will allow them to deepen their learning and enable new self-discoveries.</li>
-<li>Provides opportunities for children to create&ndash; Each child is different and expresses creativity in their individual ways. Time and space will be provided during PAL activities for students to create and express their ideas.</li>
-<li>Incorporates values education and social &amp; emotional learning&ndash; Through the individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast changing and globalised world.</li>
-<li>Fun and Enjoyable&ndash;Students are provided with opportunities to discover the world around them and expand into new areas that are both enjoyable and challenging so that they are able to make connections and appreciate the process of learning.</li>
+<li>Experiential in nature– PAL modules are designed to provide students with meaningful engagement through experiential learning in a non-judgemental and authentic environment. PAL provides kinesthetic and tactile experiences that will reinforce students’ cognitive and conceptual learning. Reviewing and reflection time are included, building confidence in communication.</li>
+<li>Encompasses learning in a creative way– Children are inquisitive and curious learners who enjoy inquiry and want to know more. Providing children with the space within PAL to explore and apply skills, concepts and ideas to new situations will allow them to deepen their learning and enable new self-discoveries.</li>
+<li>Provides opportunities for children to create– Each child is different and expresses creativity in their individual ways. Time and space will be provided during PAL activities for students to create and express their ideas.</li>
+<li>Incorporates values education and social &amp; emotional learning– Through the individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast changing and globalised world.</li>
+<li>Fun and Enjoyable–Students are provided with opportunities to discover the world around them and expand into new areas that are both enjoyable and challenging so that they are able to make connections and appreciate the process of learning.</li>
 </ul>
 <p><strong>PAL Schedule for 2022</strong></p>
 <table width="743">
@@ -82,7 +113,7 @@ description: ""
 <td rowspan="3" width="123"><strong>Pri Two</strong></td>
 <td width="134">Outdoor Education</td>
 <td width="163">Senses In Exploration&nbsp;(SE)</td>
-<td width="287">Students will cultivate an appreciation for nature and a caring spirit through learning activities outside the classroom. Inter-disciplinary in nature, it includes photography, outdoor experiential learning &amp; leadership development. Students&rsquo; character, leadership and 21st Century Competencies will be developed in this module.</td>
+<td width="287">Students will cultivate an appreciation for nature and a caring spirit through learning activities outside the classroom. Inter-disciplinary in nature, it includes photography, outdoor experiential learning &amp; leadership development. Students’ character, leadership and 21st Century Competencies will be developed in this module.</td>
 </tr>
 <tr>
 <td width="134">Performing Arts</td>
@@ -92,7 +123,7 @@ description: ""
 <tr>
 <td width="134">Performing Arts</td>
 <td width="163">RhyMo&nbsp;(Rhythm &amp; Movement)</td>
-<td width="287">Students will be introduced to different countries and develop a creative musical sense through the learning of different cultures&rsquo; Music and Dances while working in groups.</td>
+<td width="287">Students will be introduced to different countries and develop a creative musical sense through the learning of different cultures’ Music and Dances while working in groups.</td>
 </tr>
 </tbody>
 </table>
