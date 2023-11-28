@@ -10,14 +10,7 @@ variant: markdown
 <h4><a href="/mk-forms/" target="_blank" rel="noopener"><strong>MK Forms</strong></a></h4>
 </li>
 </ul>
-<ul>
-<li>
-<h4><strong>Parent Engagement Session</strong></h4>
-<ul>
-<li><strong><a href="/files/K1-LIFE@MK-Parental-Engagement-Session-19092020.pdf">K1 2020 LIFE@MK Parental Engagement Session</a></strong></li>
-</ul>
-</li>
-</ul>
+
 <ul>
 <li>
 <h4><strong>Orientation</strong></h4>
@@ -29,5 +22,4 @@ variant: markdown
 <p><strong><a href="/files/KCare-K1-2021-Orientation-Slides-.pdf">KCare K1 2021 Orientation Slides</a></strong></p>
 </li>
 </ul>
-</li>
-</ul>
+</li></ul>
