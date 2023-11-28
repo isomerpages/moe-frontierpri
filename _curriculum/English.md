@@ -71,11 +71,13 @@ We aim to build strong fundamentals in our students with digital literacy and te
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/yr1.jpg"></td>
-<td style="width: 50%;"><img src="/images/yr2.jpg"></td>
+<td style="width: 50%;"><img src="/images/YR1.jpg"></td>
+<td style="width: 50%;"><img src="/images/YR2.jpg"></td>
 </tr>
 </tbody>
 </table>
+
+
 
 <p style="text-align: justify;">Students will also get to participate in termly thematic activities during their recess at the ***Exploring English Corner***. These reading-related activities include quizzes, storytelling sessions and gaining new knowledge through information on the noticeboards and reading good writing pieces on display. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
