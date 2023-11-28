@@ -29,23 +29,23 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p2.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P2.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 4S</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_4s.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_4S.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 4S</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_4s.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_4S.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P3</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p3.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P3.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 2S2F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_2s2f.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_2S2F.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 2S2F (FMA+FMT)</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_2S2F_FMA_FMT.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p4.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P4.pdf">Download</a></strong></td>
 <td style="text-align: center;">P5 3S1FMA</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_3S1FMA.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 2S2F (FMA+FSC)</td>
@@ -57,13 +57,13 @@ variant: markdown
 <td style="text-align: center;">P5 3S1FMTL</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_3S1FMT.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 3S1FMA</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_3s1fma.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_3S1FMA.pdf">Download</a></strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">P5 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p5_4f.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P5_4F.pdf">Download</a></strong></td>
 <td style="text-align: center;">P6 3S1FMTL</td>
 <td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_3S1FMT.pdf">Download</a></strong></td>
 </tr>
@@ -73,7 +73,7 @@ variant: markdown
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">P6 4F</td>
-<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/fps_p6_4f.pdf">Download</a></strong></td>
+<td style="text-align: center;"><strong><a href="/files/BOOKLISTS 2024/FPS_P6_4F.pdf">Download</a></strong></td>
 </tr>
 </tbody>
 </table>
