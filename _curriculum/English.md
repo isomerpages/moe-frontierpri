@@ -65,8 +65,8 @@ We aim to build strong fundamentals in our students with digital literacy and te
 
 
 <h4><strong>Departmental Highlights</strong></h4>
-<p><strong>Read@Frontier - Young Readers and Young Writers Programme</strong></p>
-<p style="text-align: justify;">The Young Readers Programme aims to encourage and excite our students to be confident and avid readers. Students will participate in Extensive Reading activities such as Speech and Drama, Show and Tell and Readers Theatre, and regularly visit our school library, **_Frontopia,_** to explore and appreciate different book genres.</p>
+<p><strong>Read@Frontier - Young Readers Programme</strong></p>
+<p style="text-align: justify;">The Young Readers Programme aims to encourage and excite our students to be confident and avid readers. Students will participate in Extensive Reading activities such as Speech and Drama, Show and Tell and <strong>Frontopia,</strong> to explore and appreciate different book genres.</p>
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -79,7 +79,7 @@ We aim to build strong fundamentals in our students with digital literacy and te
 
 
 
-<p style="text-align: justify;">Students will also get to participate in termly thematic activities during their recess at the ***Exploring English Corner***. These reading-related activities include quizzes, storytelling sessions and gaining new knowledge through information on the noticeboards and reading good writing pieces on display. </p>
+<p style="text-align: justify;">Students will also get to participate in termly thematic activities during their recess at the <strong>Exploring English Corner.</strong> These reading-related activities include quizzes, storytelling sessions and gaining new knowledge through information on the noticeboards and reading good writing pieces on display. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
