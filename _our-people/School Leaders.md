@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 100%;" src="/images/sl2.jpg"><strong>Mrs Wilna Chai</strong><em><strong><br></strong>Vice-Principal</em></td>
-<td style="width: 33.3333%; text-align: center;"><img style="width: 85%;" src="/images/sl3.jpg"><strong>Mrs Daphne Choy</strong><em><strong><br></strong></em><em>Vice-Principal</em></td>
+<td style="width: 33.3333%; text-align: center;"><img style="width: 85%;" src="/images/Mrs_Wong_Shi_Lei.jpeg"><strong>Mrs Claudia Choon</strong><em><strong><br></strong></em><em>Vice-Principal</em></td>
 <td style="width: 33.3333%; text-align: center;"><img style="width: 80%;" src="/images/sl4.jpeg"><strong>Mr Ang Boon Chin</strong><em><strong><br></strong></em><em>Vice-Principal (Administration)</em></td>
 </tr>
 <tr>
