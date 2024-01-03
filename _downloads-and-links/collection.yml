@@ -1,0 +1,17 @@
+collections:
+  downloads-and-links:
+    output: true
+    order:
+      - Announcements/School Visits by Alumni.md
+      - Announcements/5th Text Recital Competition.md
+      - Announcements/HBL Links for 6 April 2022.md
+      - Announcements/Primary School Pilot for Learning with Personal Learning
+        Device (P4).md
+      - Announcements/10th Anniversary Special Edition.md
+      - Announcements/Information and Links on Library Matters.md
+      - Announcements/Announcements.md
+      - Announcements/.keep
+      - iN–Touch.md
+      - For Students and Parents.md
+      - For Teachers.md
+      - For Alumni.md

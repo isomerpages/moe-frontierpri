@@ -1,0 +1,17 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - ICT/ICT.md
+      - ICT/New Media Literacy Standards.md
+      - ICT/Cyber Wellness.md
+      - ICT/Digital Lifeskills Programme (DLP).md
+      - ICT/.keep
+      - PE, Art and Music (PAM).md

@@ -1,0 +1,18 @@
+logo: /images/Frontier Logo High Quality for Print.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
+  - title: Curriculum
+    collection: curriculum
+  - title: CCA
+    collection: cca
+  - title: Signature Programme
+    collection: signature-programme
+  - title: Accolades
+    collection: accolades
+  - title: MK@Frontier
+    collection: mk-at-frontier
+  - title: Contact Us
+    url: /contact-us
