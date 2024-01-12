@@ -1,7 +1,8 @@
 ---
-title: P2 to P6 Subject Briefings 2023
-permalink: /subject-briefings-2023/
+title: P2 to P6 Subject Briefings 2024
+permalink: /subject-briefings-2024/
 description: ""
+variant: tiptap
 ---
 <p>Dear Parents,</p>
 <p>Please find the links to the subject briefings for each level below:</p>
