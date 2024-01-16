@@ -85,7 +85,7 @@ Civic Literacy and Cultural Awareness will be cultivated alongside with the deve
 
 
 
-<h4><strong>Our 3E Approach to Teaching &amp; Learning of Mother Tongue Langauge</strong></h4>
+<h4><strong>Our 4E Approach to Teaching &amp; Learning of Mother Tongue Language</strong></h4>
 <img style="width: 60%;" src="/images/mt2.jpg">
 <h4><strong>Our Programme Highlights: Promoting Racial Harmony and Social Cohesion</strong></h4>
 <img style="width: 75%;" src="/images/mt3.jpg">
@@ -95,17 +95,22 @@ Civic Literacy and Cultural Awareness will be cultivated alongside with the deve
 <img style="width: 35%;" src="/images/mt5.jpg">
 <p style="text-align: center;">Deepavali Celebration</p>
 <p>We have the following programmes to cater to the holistic development of each child:</p>
-<h4><strong>I love Literature Programme (ALP)</strong></h4>
-<p>As reading builds the foundation to language excellence, The Rainbow Reading Programme (P1 &amp; P2) and Avid Reader Programme (P3 – P5) is design to imbue the joy of reading in students from a young age.</p>
-<p>Our students will collect reading badges based on the number of books read and book reviews completed for the P1 and P2, as well as task completed for the P3-P5. The colour of the reading badges follow the order of the colours of the rainbow starting from purple and ending with red for Rainbow Reading Programme while P3-P5 will be receiving Gold, Silver and Bronze collar pins according to the number of reading tasks that they have completed.</p>
-<p>I love Literature Programme is integrated with the Rainbow Reading Programme and Avid Reader Programme. It is also part of our Applied Learning Programme whereby students get to read different literary genres and have deep discussion with the teachers. The commencement of the critical reading period encourages students to read deeply, think critically and communicate their ideas clearly and effectively.</p>
+<h4><strong>Reading Programme</strong></h4>
+
+As reading builds the foundation to language excellence, The Rainbow Reading Programme (P1 &amp; P2) and Avid Reader Programme (P3 – P5) is designed to imbue the joy of reading in students from a young age.<br><br>
+Our students will collect reading badges based on the number of books read and book reviews completed for P1 and P2, as well as tasks completed for P3-P5 online and on hardcopy. The colour of the reading badges follow the order of the colours of the rainbow starting from purple and ending with red for Rainbow Reading Programme, while P3-P5 will be receiving Gold, Silver and Bronze collar pins according to the number of reading tasks that they have completed. The commencement of the critical reading period encourages students to read deeply, think critically and communicate their ideas clearly and effectively.
+
+
+
 <img src="/images/mt6.jpg">
 <p style="text-align: center;">Students engaging in story discussion to develop their Critical Thinking skills and hone their Communication skills.</p>
-<h4><strong>Speech &amp; Drama Programme (ALP)</strong></h4>
-<p>All Primary 1 studentss will take part in speech and drama during curriculum hours so as to enhance their learning of the language through dance and music, thereby developing their confidence in presenting in front of an audience. We believe that a joyful learning experience can help them to develop the love for their Mother Tongue language from a young age.</p>
-<p style="text-align: center;">Learning Listening, Thinking and Presentation skills</p>
-<h4><strong>Mother Tongue Language Fortnight &amp; Cultural Camp</strong></h4>
-<p>The Mother Tongue Department has designated two weeks for MTL Fortnight every year to provide opportunities for students to learn more about their own language and culture heritage in a fun and enjoyable way as well as to cultivate civic literacy and cultural awareness.</p>
+<h4><strong>Mother Tongue Language Fortnight &amp; Cross-Cultural Appreciation Programme</strong></h4>
+The Mother Tongue Department annually dedicates two weeks to MTL Fortnight, a time for students to immerse themselves in their language and cultural heritage in an engaging and enjoyable manner. These programs have multifaceted goals including fostering cultural understanding, encouraging the appreciation of diversity, and honing communication skills. <br><br>
+At the heart of MTL Fortnight are activities such as cultural exchanges, cultural appreciation workshops, and collaborative endeavors, all designed to enrich the experience. Through active participation in these initiatives, students not only deepen their connection to their own cultures but also broaden their appreciation for the diverse cultures represented by the other racial groups.<br><br>
+
+
+
+
 <img src="/images/mt7.jpg">
 <p style="text-align: center;">MTL as a living language</p>
 <h4><strong>VIsTA (Values Inspired Through Action)</strong></h4>
