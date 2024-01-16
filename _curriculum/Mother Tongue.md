@@ -74,10 +74,17 @@ variant: markdown
 </table>
 <h4><strong>Our Curriculum Objectives</strong></h4>
 <img style="width: 60%;" src="/images/mt1.jpg">
-<p>This set of curriculum aims to make the learning of Mother Tongue Language more enjoyable and it also aims to equip our students with the competencies required in using their Mother Tongue Language to communicate proficiently in everyday life.</p>
-<p>The Key learning areas would be the building up of the various languages skills that consists of not only Listening, Speaking, Reading and Writing Skills but also Spoken Interaction and Written Interaction Skills.</p>
-<p>The focus for the Lower Primary would be to develop our students’ Listening, Oracy and Reading skills. This will serve as a strong foundation before the developing of essay skills in the upper primary.</p>
-<p>Civic Literacy and Cultural Awareness will be cultivated alongside with the development of Language Skills, nurturing our students to be Self-Directed Learners who are confident and passionate about their own chosen Mother Tongue Language.</p>
+
+The Mother Tongue curriculum aims to make the learning of Mother Tongue Language more enjoyable, and it also aims to equip students with the competencies required in using their Mother Tongue Language to communicate proficiently in everyday life.<br><br>
+The Key learning areas would be the building up of the various languages skills that consists of not only Listening, Speaking, Reading and Writing Skills but also Spoken Interaction and Written Interaction Skills.<br><br>
+The focus for the Lower Primary would be to develop our students’ Listening, Oracy and Reading skills. This will serve as a strong foundation before the developing of essay-writing skills in the upper primary.<br><br>
+Civic Literacy and Cultural Awareness will be cultivated alongside with the development of Language Skills, nurturing our students to be Self-Directed Learners who are confident and passionate about their own chosen Mother Tongue Language.
+
+
+
+
+
+
 <h4><strong>Our 3E Approach to Teaching &amp; Learning of Mother Tongue Langauge</strong></h4>
 <img style="width: 60%;" src="/images/mt2.jpg">
 <h4><strong>Our Programme Highlights: Promoting Racial Harmony and Social Cohesion</strong></h4>
