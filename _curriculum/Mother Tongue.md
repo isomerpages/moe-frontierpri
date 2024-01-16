@@ -113,8 +113,6 @@ At the heart of MTL Fortnight are activities such as cultural exchanges, cultura
 
 <img src="/images/mt7.jpg">
 <p style="text-align: center;">MTL as a living language</p>
-<h4><strong>VIsTA (Values Inspired Through Action)</strong></h4>
-<p>There is a saying that goes, “It takes a village to raise a child”. Alongside the development of our students intellectually, we would want our students to be grounded in sound values, having the ability to reason soundly and make the right decision.</p>
-<p>The “Di Zi Gui” 《弟子规》 is integrated into our CCE Curriculum. Through the learning of “Di Zi Gui”, we aim to cultivate a sense of filial piety, empathy, righteousness, humility and sound moral judgment in our students.</p>
+
 <img src="/images/mt8.jpg">
 <p style="text-align: center;">Cultivating positive behaviour</p>
