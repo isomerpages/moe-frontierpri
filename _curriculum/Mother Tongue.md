@@ -23,57 +23,52 @@ variant: markdown
 <tr>
 <td>Mdm Loh-Lim Cheng Nee (HOD / MTL)</td>
 <td>Mdm Sri Arianti Bte Ariffin (SH / ML &amp; TL)</td>
-<td>Mdm Rasidah Bte Mohd Rasit (SSD)</td>
-</tr>
-<tr>
-<td>Mrs Teo Ming Hui (HOD / STU MGT)</td>
 <td>Mrs Mageswari Sudhakar (ST / TL)</td>
-<td>Mr Mohammed Nidzam Bin Zakariah (SH / ICT)</td>
 </tr>
 <tr>
 <td>Mdm Lee Hao Yih Dorcas (SH / CL)</td>
-<td>Mdm Noryanti Bte Yahya</td>
-<td>Mdm Lim Lan Shii</td>
+<td>Mdm Rasidah Bte Mohd Rasit (SSD)</td>
+<td>Mdm Karthikeyan Indhumathi</td>
+</tr>
+<tr>
+<td>Mr Chen Wei Shen (LT / CL) </td>
+<td>Mr Mohammed Nidzam Bin Zakariah (SH / ICT)</td>
+<td>Mdm Robert Juliet</td>
 </tr>
 <tr>
 <td>Mdm Chia Qian Lin (ST / CL)</td>
 <td>Mdm Norhayati Bte Ibnor</td>
-<td>Miss Lim Jing Xian</td>
+<td>Ms M B Sheirin Habibah</td>
 </tr>
 <tr>
 <td>Mdm Luk Meng Lee (YH)</td>
 <td>Mdm Mardiana Bte Abdul Manap</td>
-<td>Miss Cai Xiangyu</td>
+<td>Ms Wang Wan</td>
 </tr>
 <tr>
-<td>Mdm Liew Mei Lian</td>
-<td>Mdm Hamimah Bte Sulaiman</td>
-<td>Miss Wang Wan</td>
+<td>Mrs Teo Ming Hui (HOD / SM)</td>
+<td>Mdm Noryanti Bte Mohamed Yahya</td>
+<td>Ms Huang Fang</td>
 </tr>
 <tr>
-<td>Mdm Li Jia Yang</td>
-<td>Mdm Mardiana Bte Mohd Ahzhar</td>
-<td>Miss Huang Fang</td>
-</tr>
-<tr>
-<td>Mr Chen Dun Qiang</td>
-<td>Mdm Shanmugam Brema</td>
+<td>Mr Ow Kah Leong (HOD / ICT)</td>
+<td>Mr Chen Nan Qiang Simon</td>
 <td>Miss Chen Li Li</td>
 </tr>
 <tr>
-<td>Mdm Wong King Sing</td>
-<td>Mdm Jeeva Rekha d/o Selvam</td>
+<td>Mdm Liew Mei Lian</td>
+<td>Mdm Hee Ming Min</td>
 <td>Mr Li Lei</td>
 </tr>
 <tr>
-<td>Mdm Qin Linjun</td>
-<td>Mdm Hee Ming Min</td>
+<td>Miss Lim Jing Xian</td>
+<td>Mdm Qin Ling Jun</td>
 <td>Mdm Wang Hai Jing</td>
 </tr>
 <tr>
-<td>Mrs Ray Chua</td>
-<td>Miss Annabelle Woo Xue Qi</td>
-<td>&nbsp;</td>
+<td>Mdm Lim Lan Shii</td>
+<td>Mdm Chua Ting Ting</td>
+<td>Mdm Cham Kah Mien</td>
 </tr>
 </tbody>
 </table>
