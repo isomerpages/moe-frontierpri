@@ -86,7 +86,7 @@ Civic Literacy and Cultural Awareness will be cultivated alongside with the deve
 
 
 <h4><strong>Our 4E Approach to Teaching &amp; Learning of Mother Tongue Language</strong></h4>
-<img style="width: 60%;" src="/images/MT_4E.jpg">
+<img style="width: 90%;" src="/images/MT_4E.jpg">
 <h4><strong>Our Programme Highlights: Promoting Racial Harmony and Social Cohesion</strong></h4>
 <img style="width: 75%;" src="/images/mt3.jpg">
 <p style="text-align: center;">Chinese New Year Celebration</p>
