@@ -181,7 +181,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,26 +214,6 @@ arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEMESTER 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know?*</p>
-<p></p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to know what pornography is and
-how it can affect themselves and others. Students will learn the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEMESTER 2</p>
