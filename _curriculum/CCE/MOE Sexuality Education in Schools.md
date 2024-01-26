@@ -76,7 +76,7 @@ and rewarding relationships including those with members of the opposite
 sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <p><strong>At Frontier Primary School, the following Sexuality Education lessons will be taught in <u>2024:</u></strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong> 
 <br><strong>Primary 5</strong>
 </p>
 <table>
