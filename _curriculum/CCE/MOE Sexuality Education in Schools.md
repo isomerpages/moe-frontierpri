@@ -5,7 +5,10 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p>1. Sexuality Education (SEd) in schools is about enabling students to
+<p><strong>Moe Sexuality Education in Schools</strong>
+</p>
+<p>
+<br>1. Sexuality Education (SEd) in schools is about enabling students to
 understand the physiological, social and emotional changes they experience
 as they mature, develop healthy and rewarding relationships including those
 with members of the opposite sex, and make wise, informed and responsible
@@ -18,18 +21,13 @@ on sexuality issues.</p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are:</p>
 <ul>
 <li>
-<p>(a) To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate <u>knowledge</u> on
-human sexuality and the consequences of sexual activity;</p>
-<p>(b) To help students know themselves and build healthy and rewarding relationships
-through the acquisition of <u>social and emotional skills</u> of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and</p>
-<p>(c) To help students develop a moral compass, respect for themselves and
-for others as sexual beings, premised on the family as the basic unit of
-society, through the inculcation of <u>positive mainstream values and attitudes</u> about
-sexuality.</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
@@ -70,15 +68,15 @@ health and undermine the integrity of the family. Our students require
 guidance so that they can respond with discernment to the sexual messages
 in the media and other sources.</p>
 <p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
-at Primary 5 and 6. In SEd, students learn to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.</p>
+at Primary 5 and 6. Through these lessons, students will learn healthy
+ways to manage the physiological, social and emotional changes in their
+growing years. They learn to build healthy and rewarding relationships
+with others, including those with members of the opposite sex. Students
+are also guided to make wise, informed and responsible decisions to keep
+themselves safe from sexuality-related risks.</p>
 <p><strong>At Frontier Primary School, the following Sexuality Education lessons will be taught in <u>2024:</u></strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong> 
-<br><strong>Primary 5</strong>
-</p>
+<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong> <br><strong>Primary 5</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -113,8 +111,8 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEMESTER 2</p>
@@ -132,8 +130,8 @@ of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
 </p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEMESTER 2</p>
@@ -149,8 +147,8 @@ so that the students will feel more comfortable during the discussions.</p>
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEMESTER 2</p>
