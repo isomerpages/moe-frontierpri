@@ -473,7 +473,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Huangfang_" rel="noopener" target="_blank">Ms Huang Fang</a>
+<p><a href="/huangfang" rel="noopener" target="_blank">Ms Huang Fang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
