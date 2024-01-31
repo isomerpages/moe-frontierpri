@@ -528,7 +528,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Serene_" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
+<p><a href="/serene" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
