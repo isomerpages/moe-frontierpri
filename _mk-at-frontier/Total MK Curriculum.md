@@ -2,45 +2,100 @@
 title: Total MK Curriculum
 permalink: /total-mk-curriculum/
 description: ""
+variant: tiptap
 ---
-<p><strong>HI-Light Programme</strong><br />The HI-Light Programme supports the holistic development of children through an integrated approach. It focuses on the 6 learning areas:</p>
-<ul>
-<li>Aesthetics and Creative Expression</li>
-<li>Discovery of the World</li>
-<li>Language and Literacy</li>
-<li>Motor Skills Development</li>
-<li>Numeracy</li>
-<li>Social and Emotional Development</li>
+<p><strong><u>HI-Light Programme</u></strong> 
+<br>The HI-Light programme is designed to support the holistic development
+of children by nurturing in them values, social and emotional skills and
+learning dispositions, as well as knowledge and skills across the following
+five learning areas through an integrated approach:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aesthetics and Creative Expression</p>
+</li>
+<li>
+<p>Discovery of the World</p>
+</li>
+<li>
+<p>Language and Literacy</p>
+</li>
+<li>
+<p>Motor Skills Development</p>
+</li>
+<li>
+<p>Numeracy</p>
+<p></p>
+</li>
 </ul>
-<p><strong>Starlight Literacy Programme</strong><br />Starlight Literacy Programme help to nurtures early bilingualism. The programme is offered in English and 3 Mother Tongue languages (Chinese, Malay and Tamil).<br /><strong>Weeks of Wonder (WoW)</strong><br />Children work with their peers and teachers to investigate topics of their interest. Through the WoW projects, children experience the joy of self-motivated learning and finding answers to their questions.<br /><strong>Routines &amp; Transitions</strong><br />Opportunities for children to develop self-help and other social skills, inculcate values and good habits in children are provided through the daily routines and transitions.</p>
-<p><strong>Centre Based Programmes</strong></p>
-<ol>
+<p><strong><u>Starlight Literacy Programme</u></strong> 
+<br>Starlight Literacy Programme help to nurtures early bilingualism. The
+programme is offered in English and 3 Mother Tongue languages (Chinese,
+Malay and Tamil).
+<br>
+<br><strong><u>Weeks of Wonder (WoW)</u></strong> 
+<br>Children work with their peers and teachers to investigate topics of their
+interest. Through the WoW projects, children experience the joy of self-motivated
+learning and finding answers to their questions.
+<br>
+<br><strong><u>Routines &amp; Transitions</u></strong> 
+<br>Opportunities for children to develop self-help and other social skills,
+inculcate values and good habits in children are provided through the daily
+routines and transitions.</p>
+<p></p>
+<p><strong><u>Centre Based Programmes</u></strong>
+</p>
+<ol data-tight="true" class="tight">
 <li>
-<p><strong>Little Explorers<br /></strong>Little Explorers nurture a sense of wonder and curiosity in children by the introduction of many open-ended activities.<strong><br /></strong></p>
-</li>
-<li>
-<p><strong>OutVentures<br /></strong>The OutVentures encourage children and their families to stay healthy through both indoor and outdoor activities to promote physical activities as well as to develop an appreciation to the nature around them.<strong><br /></strong></p>
-</li>
-<li>
-<p><strong>WondeRead</strong></p>
-<p>The WondeRead instils the love for reading in children as well as their parents. The team work closely with National Library Board to provide a range of books in English, Chinese, Malay and Tamil languages for the children.</p>
+<p><strong>Digital Literacy</strong>
+</p>
 </li>
 </ol>
-<p>Newsletter Term 3 2020</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up &amp; pictures to look forward to!&nbsp;Click&nbsp;<strong><a href="/files/Main-Term-3-2020-Newsletter-v4.pdf" target="_blank" rel="noopener">here</a></strong> for the newsletter.</p>
-<p>Newsletter Term 1 2020</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up &amp; pictures to look forward to!&nbsp;Click&nbsp;<strong><a href="/files/Term-1-2020-Newsletter.pdf" target="_blank" rel="noopener">here</a>&nbsp;</strong>for the newsletter.</p>
-<p>K1 - Parent Tea</p>
-<p>Click&nbsp;<a href="https://www.slideshare.net/frontierpri/k1-parent-teas-session-slides">here</a> for the session slides.</p>
-<p>K2 - Parent Tea</p>
-<p>Click&nbsp;<a href="https://www.slideshare.net/frontierpri/k2-parent-teas-session-slides">here</a> for the session slides.</p>
-<p>K2 Transition Talk 2020</p>
-<p>Click&nbsp;<a href="/files/LIFE@MK-K2-Transition-To-Primary-1.pdf">here</a>&nbsp;for the session slides.</p>
-<p>Newsletter Term 4 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up &amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/MKFT-Newsletter-Term-4-2019.pdf">here</a> for the newsletter.</p>
-<p>Newsletter Term 3 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up &amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/Newsletter-Term-3-2019-FINAL.pdf">here</a>&nbsp;for the newsletter.</p>
-<p>Newsletter Term 2 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up &amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/Newsletter-Term-2-2019.pdf">here</a>&nbsp;for the newsletter.</p>
-<p>Newsletter Term 1 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up &amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/Newsletter-Term-1-2019.pdf">here</a>&nbsp;for the newsletter.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leverages technology to develop future-ready learner</p>
+</li>
+<li>
+<p>Equip children with ICT skills in a holistic and developmentally appropriate
+way</p>
+</li>
+<li>
+<p>Opportunities to use iPads as a learner’s tool</p>
+<p></p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Frontier Cares</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aims to nurture Values, Social and Emotional competencies, and Learning
+Dispositions in our children through their daily lived experiences</p>
+</li>
+<li>
+<p>2-year project (From K1 to K2)</p>
+<p></p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Outdoor Learning</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>30 minutes of daily outdoor time in various settings</p>
+</li>
+<li>
+<p>Opportunities to learn how to navigate the world in a way they can understand,
+work in groups, negotiate and resolve conflicts as an extension of their
+classroom learning</p>
+</li>
+<li>
+<p>Foster meaningful friendship and build their social emotional competencies</p>
+</li>
+</ul>
+<p></p>
