@@ -182,7 +182,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#LiLei_" rel="noopener" target="_blank">Mr Li Lei</a>
+<p><a href="/lilei" rel="noopener" target="_blank">Mr Li Lei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
