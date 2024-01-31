@@ -4,7 +4,7 @@ permalink: /total-mk-curriculum/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>HI-Light Programme</u></strong>
+<p><strong><u>HI-Light Programme</u></strong> 
 <br>The HI-Light programme is designed to support the holistic development
 of children by nurturing in them values, social and emotional skills and
 learning dispositions, as well as knowledge and skills across the following
@@ -27,17 +27,17 @@ five learning areas through an integrated approach:</p>
 <p></p>
 </li>
 </ul>
-<p><strong><u>Starlight Literacy Programme</u></strong>
+<p><strong><u>Starlight Literacy Programme</u></strong> 
 <br>Starlight Literacy Programme help to nurtures early bilingualism. The
 programme is offered in English and 3 Mother Tongue languages (Chinese,
 Malay and Tamil).
 <br>
-<br><strong><u>Weeks of Wonder (WoW)</u></strong>
+<br><strong><u>Weeks of Wonder (WoW)</u></strong> 
 <br>Children work with their peers and teachers to investigate topics of their
 interest. Through the WoW projects, children experience the joy of self-motivated
 learning and finding answers to their questions.
 <br>
-<br><strong><u>Routines &amp; Transitions</u></strong>
+<br><strong><u>Routines &amp; Transitions</u></strong> 
 <br>Opportunities for children to develop self-help and other social skills,
 inculcate values and good habits in children are provided through the daily
 routines and transitions.</p>
@@ -99,33 +99,3 @@ classroom learning</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p>Newsletter Term 3 2020</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up
-&amp; pictures to look forward to!&nbsp;Click&nbsp;<strong><a href="/files/Main-Term-3-2020-Newsletter-v4.pdf" rel="noopener" target="_blank">here</a></strong> for
-the newsletter.</p>
-<p>Newsletter Term 1 2020</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up
-&amp; pictures to look forward to!&nbsp;Click&nbsp;<strong><a href="/files/Term-1-2020-Newsletter.pdf" rel="noopener" target="_blank">here</a>&nbsp;</strong>for
-the newsletter.</p>
-<p>K1 - Parent Tea</p>
-<p>Click&nbsp;<a href="https://www.slideshare.net/frontierpri/k1-parent-teas-session-slides" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the session slides.</p>
-<p>K2 - Parent Tea</p>
-<p>Click&nbsp;<a href="https://www.slideshare.net/frontierpri/k2-parent-teas-session-slides" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the session slides.</p>
-<p>K2 Transition Talk 2020</p>
-<p>Click&nbsp;<a href="/files/LIFE@MK-K2-Transition-To-Primary-1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-the session slides.</p>
-<p>Newsletter Term 4 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up
-&amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/MKFT-Newsletter-Term-4-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for the newsletter.</p>
-<p>Newsletter Term 3 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up
-&amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/Newsletter-Term-3-2019-FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the newsletter.</p>
-<p>Newsletter Term 2 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up
-&amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/Newsletter-Term-2-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the newsletter.</p>
-<p>Newsletter Term 1 2019</p>
-<p>Check out our&nbsp;<strong>Newsletter!</strong>&nbsp;Exciting read-up
-&amp; pictures to look forward to!&nbsp;Click&nbsp;<a href="/files/Newsletter-Term-1-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the newsletter.</p>
