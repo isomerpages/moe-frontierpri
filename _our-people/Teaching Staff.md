@@ -514,7 +514,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Voonyen_" rel="noopener" target="_blank">Miss Cheng Voon Yen</a>
+<p><a href="/voonyen/" rel="noopener" target="_blank">Miss Cheng Voon Yen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
