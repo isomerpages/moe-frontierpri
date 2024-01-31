@@ -358,7 +358,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Atiqah_" rel="noopener" target="_blank">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a>
+<p><a href="/atiqah/" rel="noopener" target="_blank">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
