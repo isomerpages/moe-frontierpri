@@ -2,13 +2,14 @@
 title: MK Forms
 permalink: /mk-forms/
 description: ""
+variant: markdown
 ---
 <ul>
 <li>
 <p><a href="/files/Blank-GIRO-Form-MK.pdf" target="_blank" rel="noopener"><strong>MK Giro Form</strong></a></p>
 </li>
 <li>
-<p><strong><a href="https://form.gov.sg/63d8e4e1f2bd6c0012afa37f">MK Waitlist Application Form (FORMSG)</a></strong></p>
+<p><strong><a href="https://form.gov.sg/65b9c87d9a4cd54402e8a47b">MK Waitlist Application Form (FORMSG)</a></strong></p>
 </li>
 <li>
 <p><strong><a href="https://go.gov.sg/mktrfsession" target="_blank" rel="noopener">MK Transfer of Session (FORMSG)</a></strong></p>
