@@ -563,7 +563,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Xueli_" rel="noopener" target="_blank">Miss You Xueli</a>
+<p><a href="/xueli/" rel="noopener" target="_blank">Miss You Xueli</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
