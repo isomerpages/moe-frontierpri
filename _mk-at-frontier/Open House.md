@@ -4,7 +4,7 @@ permalink: /open-house/
 description: ""
 variant: tiptap
 ---
-<p>Please click on the link below:</p>
+<h4>Please click on the link below:</h4>
 <p></p>
 <p><strong><a href="https://drive.google.com/file/d/1iZsBGDhz28wGi8pgLwlMNVzdKiWWrUkh/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">1. Welcome Address By Principal</a></strong>
 </p>
@@ -17,4 +17,5 @@ variant: tiptap
 <p></p>
 <p><strong><a href="https://drive.google.com/file/d/119qp-DCSfBIZcI7_VxOA3OQfBcMUO_UL/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4. MK@Frontier KCare</a></strong>
 </p>
+<h4></h4>
 <p></p>
