@@ -4,6 +4,8 @@ permalink: /open-house/
 description: ""
 variant: markdown
 ---
+Please click on the link below:
+
 <p><a href="https://drive.google.com/file/d/1iZsBGDhz28wGi8pgLwlMNVzdKiWWrUkh/view?usp=drive_link">1. Welcome Address By Principal</a></p>
 
 <p><a href="https://drive.google.com/file/d/1h2Y_8rXHNlRYA2NJoCNF0npwIyt46b0H/view?usp=drive_link">2. MK@Frontier Programme Sharing</a></p>
