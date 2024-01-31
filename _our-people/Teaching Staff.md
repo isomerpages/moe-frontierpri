@@ -728,7 +728,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Michelle_" rel="noopener" target="_blank">Mrs Michelle Tan Soh Soke Mei</a>
+<p><a href="/michelle" rel="noopener" target="_blank">Mrs Michelle Tan Soh Soke Mei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
