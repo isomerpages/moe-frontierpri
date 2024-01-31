@@ -675,7 +675,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Wangwan_" rel="noopener" target="_blank">Miss Wang Wan</a>
+<p><a href="/wangwan" rel="noopener" target="_blank">Miss Wang Wan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
