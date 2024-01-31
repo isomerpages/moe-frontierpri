@@ -287,7 +287,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Renyi_" rel="noopener" target="_blank">Mr Lin Renyi</a>
+<p><a href="/renyi/" rel="noopener" target="_blank">Mr Lin Renyi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
