@@ -182,7 +182,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#LiLei_" rel="noopener" target="_blank">Mr Li Lei</a>
+<p><a href="/lilei" rel="noopener" target="_blank">Mr Li Lei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,11 +287,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Renyi_" rel="noopener" target="_blank">Mr Lin Renyi</a>
+<p><a href="/renyi/" rel="noopener" target="_blank">Mr Lin Renyi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Meilian_" rel="noopener" target="_blank">Mdm Liew Mei Lian</a>
+<p><a href="/meilian" rel="noopener" target="_blank">Mdm Liew Mei Lian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -358,7 +358,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Atiqah_" rel="noopener" target="_blank">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a>
+<p><a href="/atiqah/" rel="noopener" target="_blank">Miss Nur Atiqah Syahirah Binte Mohd Yamin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,7 +473,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Huangfang_" rel="noopener" target="_blank">Ms Huang Fang</a>
+<p><a href="/huangfang" rel="noopener" target="_blank">Ms Huang Fang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -514,7 +514,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Voonyen_" rel="noopener" target="_blank">Miss Cheng Voon Yen</a>
+<p><a href="/voonyen/" rel="noopener" target="_blank">Miss Cheng Voon Yen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -528,7 +528,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Serene_" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
+<p><a href="/serene" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -563,7 +563,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Xueli_" rel="noopener" target="_blank">Miss You Xueli</a>
+<p><a href="/xueli/" rel="noopener" target="_blank">Miss You Xueli</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -654,7 +654,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Ganges_" rel="noopener" target="_blank">Dr Ganges Lim Zi Yang</a>
+<p><a href="/ganges/" rel="noopener" target="_blank">Dr Ganges Lim Zi Yang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -675,7 +675,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Wangwan_" rel="noopener" target="_blank">Miss Wang Wan</a>
+<p><a href="/wangwan" rel="noopener" target="_blank">Miss Wang Wan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -728,7 +728,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Michelle_" rel="noopener" target="_blank">Mrs Michelle Tan Soh Soke Mei</a>
+<p><a href="/michelle" rel="noopener" target="_blank">Mrs Michelle Tan Soh Soke Mei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -762,23 +762,6 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Habib_" rel="noopener" target="_blank">Mr Habib Nasiruddin Bin Karim Gani</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Ashari_" rel="noopener" target="_blank">Mr Ashari Bin Mohamed Salleh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Puaykiang_" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/mtl-department/#Bey_" rel="noopener noreferrer nofollow" target="_blank">Mdm Bey Ay Dih</a>
 </p>
 </td>
@@ -787,8 +770,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Jieqi_" rel="noopener" target="_blank">Miss Arumugam Geethasankari</a>
-</p>
+<p>Miss Arumugam Geethasankari</p>
 </td>
 </tr>
 <tr>
@@ -796,7 +778,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Sheirin_" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheirin Habibah</a>
+<p><a href="/mtl-department/#Sheirin_" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -804,7 +786,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/mathematics-department/#Puaykiang_" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
+</p>
 </td>
 </tr>
 <tr>
