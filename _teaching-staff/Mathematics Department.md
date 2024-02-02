@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"I believe in embracing mistakes to nurture the joy of learning.</em>
+<p><em>"I believe in embracing mistakes to nurture the joy of learning. </em>
 </p>
 <p><em>Learning to be resilient is essential to any child’s success.</em>
 </p>
