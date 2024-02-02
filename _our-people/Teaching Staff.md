@@ -770,8 +770,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Jieqi_" rel="noopener" target="_blank">Miss Arumugam Geethasankari</a>
-</p>
+<p>Miss Arumugam Geethasankari</p>
 </td>
 </tr>
 <tr>
