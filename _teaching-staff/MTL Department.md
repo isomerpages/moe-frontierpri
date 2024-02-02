@@ -208,7 +208,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><em>"As a teacher, recognising and catering to diverse learning styles is crucial. I aspire to be a mentor, guiding students not only in mastering content but also cultivating critical thinking and problem-solving skills, laying the foundation for lifelong learning."</em>
 <br>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
