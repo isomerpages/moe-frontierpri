@@ -223,7 +223,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"I believe every student is capable of learning. As an educator, it is crucial to attentively identify their needs and guide them accordingly. Serving as both a navigator and an attentive listener, I am committed to nurturing the next generation with care and love, fostering their development into resilient and confident leaders of the future."</em>
+<p><em>"I believe every student is capable of learning. As an educator, it is crucial to attentively identify their needs and guide them accordingly. Serving as both a navigator and an attentive listener, I am committed to nurturing the next generation with care and love, fostering their development into resilient and confident leaders of the future."</em> 
 <br>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
@@ -238,7 +238,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"I am firmly committed to the belief that each child possesses an innate passion for learning. As an educator, my aim is to foster and nurture this intrinsic curiosity, guiding students towards becoming enthusiastic and self-directed lifelong learners. By creating a supportive and engaging learning environment, I aspire to inspire a love for knowledge that extends far beyond the classroom, empowering students to explore, question, and grow throughout their lives."</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
