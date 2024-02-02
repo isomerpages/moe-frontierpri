@@ -254,7 +254,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"I believe in encouraging my students to be confident individuals who embrace the differences of one another. Lifelong learning today, is about learning the right values and skills which will enable them to succeed in this fast-paced world. I aspire to empower my students and add some colour to this wondrous yet far-too-brief period of their lives!"</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
