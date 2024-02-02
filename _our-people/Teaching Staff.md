@@ -762,23 +762,6 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Habib_" rel="noopener" target="_blank">Mr Habib Nasiruddin Bin Karim Gani</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Ashari_" rel="noopener" target="_blank">Mr Ashari Bin Mohamed Salleh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Puaykiang_" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/mtl-department/#Bey_" rel="noopener noreferrer nofollow" target="_blank">Mdm Bey Ay Dih</a>
 </p>
 </td>
@@ -796,7 +779,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Sheirin_" rel="noopener noreferrer nofollow" target="_blank">Mdm Sheirin Habibah</a>
+<p><a href="/mtl-department/#Sheirin_" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -804,7 +787,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/mathematics-department/#Puaykiang_" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
+</p>
 </td>
 </tr>
 <tr>
