@@ -286,7 +286,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"I firmly believe that each student possesses the capacity to learn in their unique ways at varying paces. Through nurturing a love for learning within a safe and supportive classroom environment, my goal is to empower students with not only academic proficiency but also the resilience and adaptability essential for a lifelong journey of continuous learning and success."</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
