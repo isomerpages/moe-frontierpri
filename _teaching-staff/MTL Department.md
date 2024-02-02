@@ -270,7 +270,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"I believe that every child is unique and learns differently. Every child has the potential to grow and succeed in an environment where they feel safe to make mistakes, discover their strengths, be confident and kind to one another. "</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
