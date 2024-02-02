@@ -257,7 +257,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
-<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong>
+<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
 <br><strong>ST/Science (Internal)</strong>
 </p>
 </td>
@@ -436,7 +436,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"I always believe that every child is creative in their unique way and all we need is to give them opportunities and learning space, along with a caring heart to guide and support them. I also believe that art is more than a subject as it plays a fundamental part in students’ character building, instils values through the process of artmaking, develops their critical thinking and decision making which prepare them to be future-ready learners. As a teacher, I not only teach my students, but I also learn from them how they perceive their art world and express their art ideas through their work and reflection."</em>
+</p>
 <p>Tel ext:</p>
 <p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
