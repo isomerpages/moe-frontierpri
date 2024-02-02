@@ -64,7 +64,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"A good education is not just about academic performance. It's also about nurturing and developing good characters in all children. As a PE teacher, I believe in creating and providing opportunities for the children through participation of sports and games to develop strong character traits such as resilience, integrity and empathy so that they could lead successful and healthy lives in their adulthood and contribute back to the society in their own ways."</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
@@ -79,7 +80,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"My teaching philosophy centers on fostering curiosity, critical thinking and adapting to diverse learning styles. I believe in creating an inclusive and supportive learning environment that empowers students to explore, question, and apply knowledge to become independent, thoughtful contributors to society."</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
@@ -110,7 +112,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"“To try is not to fail but to fail is not to try.” It is my duty as an educator to cultivate active participation and create a safe environment for my students. Trying and encouragement comes before triumph and success, and I want to be there for all their highs and lows to nurture them into becoming great people."</em>
+</p>
 <p>Tel Ext:</p>
 <p>Email:&nbsp;<a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
