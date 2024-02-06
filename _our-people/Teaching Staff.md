@@ -269,7 +269,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Muhammad_" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
+<p><a href="/muhammad" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
