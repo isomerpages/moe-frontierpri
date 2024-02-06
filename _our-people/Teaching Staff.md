@@ -762,7 +762,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Bey_" rel="noopener noreferrer nofollow" target="_blank">Mdm Bey Ay Dih</a>
+<p><a href="/aydih" rel="noopener noreferrer nofollow" target="_blank">Mdm Bey Ay Dih</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
