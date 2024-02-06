@@ -295,7 +295,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Norhayati_" rel="noopener" target="_blank">Mdm Norhayati Binte Ibnor</a>
+<p><a href="/norhayati" rel="noopener" target="_blank">Mdm Norhayati Binte Ibnor</a>
 </p>
 </td>
 </tr>
@@ -437,7 +437,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Noryanti_" rel="noopener" target="_blank">Mdm Noryanti Mohamed Yahya</a>
+<p><a href="/noryanti" rel="noopener" target="_blank">Mdm Noryanti Mohamed Yahya</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
