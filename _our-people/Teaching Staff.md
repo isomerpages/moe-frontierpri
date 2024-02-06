@@ -216,7 +216,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Olivia_" rel="noopener" target="_blank">Miss Olivia Tao Heping</a>
+<p><a href="/olivia" rel="noopener" target="_blank">Miss Olivia Tao Heping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
