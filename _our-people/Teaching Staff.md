@@ -782,7 +782,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Azrina_" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azrina Bte Kamis</a>
+<p><a href="/azrina" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azrina Bte Kamis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
