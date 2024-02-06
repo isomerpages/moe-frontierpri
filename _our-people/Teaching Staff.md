@@ -795,7 +795,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/mingmin" rel="noopener noreferrer nofollow" target="_blank">Mdm Hee Ming Min</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
