@@ -605,7 +605,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Iswandi_" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
+<p><a href="/iswandi" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
 </p>
 </td>
 </tr>
