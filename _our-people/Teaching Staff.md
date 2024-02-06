@@ -362,7 +362,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Hisham_" rel="noopener" target="_blank">Mr Muhammad Hisham Bin Kamsani</a>
+<p><a href="/hisham" rel="noopener" target="_blank">Mr Muhammad Hisham Bin Kamsani</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
