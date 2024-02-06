@@ -345,7 +345,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Tingting_" rel="noopener" target="_blank">Mdm Chua Ting Ting</a>
+<p><a href="/tingting" rel="noopener" target="_blank">Mdm Chua Ting Ting</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
