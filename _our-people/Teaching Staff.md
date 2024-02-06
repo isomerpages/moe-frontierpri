@@ -459,7 +459,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#JuJie_" rel="noopener" target="_blank">Mdm Ju Jie</a>
+<p><a href="/jujie" rel="noopener" target="_blank">Mdm Ju Jie</a>
 </p>
 </td>
 </tr>
@@ -580,7 +580,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="/pam-and-cca-department/#Janelle_" rel="noopener" target="_blank">Miss Peh Shu Yu, Janele</a>
+<p>&nbsp;<a href="/janele" rel="noopener" target="_blank">Miss Peh Shu Yu, Janele</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
