@@ -419,7 +419,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Juliet_" rel="noopener" target="_blank">Mdm Robert Juliet</a>
+<p><a href="/juliet" rel="noopener" target="_blank">Mdm Robert Juliet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
