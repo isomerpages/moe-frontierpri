@@ -309,7 +309,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Peishi_" rel="noopener" target="_blank">Miss Chen Peishi</a>
+<p><a href="/peishi" rel="noopener" target="_blank">Miss Chen Peishi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
