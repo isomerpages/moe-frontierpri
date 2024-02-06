@@ -251,7 +251,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Lingjun_" rel="noopener" target="_blank">Mdm Qin Lingjun</a>
+<p><a href="/lingjun" rel="noopener" target="_blank">Mdm Qin Lingjun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -749,7 +749,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Simon_" rel="noopener" target="_blank">Mr Chen Dunqiang</a>
+<p><a href="/simon/" rel="noopener" target="_blank">Mr Chen Dunqiang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
