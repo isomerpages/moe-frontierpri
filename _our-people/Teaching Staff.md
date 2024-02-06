@@ -601,7 +601,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Indhumathi_" rel="noopener" target="_blank">Mrs Karthikeyan Indhumathi</a>
+<p><a href="/indhu" rel="noopener" target="_blank">Mrs Karthikeyan Indhumathi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
