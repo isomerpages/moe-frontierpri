@@ -455,7 +455,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Lea_" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
+<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
