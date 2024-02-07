@@ -122,7 +122,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Aishah_" rel="noopener" target="_blank">Mdm Siti Nur Aishah Bte Mohamad Zainudin</a>
+<p><a href="/aishah" rel="noopener" target="_blank">Mdm Siti Nur Aishah Bte Mohamad Zainudin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -597,7 +597,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Francesca_" rel="noopener" target="_blank">Mrs Francesca D'armancourt</a>
+<p><a href="/francesca" rel="noopener" target="_blank">Mrs Francesca D'armancourt</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
