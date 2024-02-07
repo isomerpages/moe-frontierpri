@@ -178,7 +178,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Rachel_" rel="noopener" target="_blank">Mdm Chia Tze Miang, Rachel</a>
+<p><a href="/rachel" rel="noopener" target="_blank">Mdm Chia Tze Miang, Rachel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,7 +549,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Nora_" rel="noopener" target="_blank">Mdm Norazimah Bte Mohamed Senin</a>
+<p><a href="/norazimah" rel="noopener" target="_blank">Mdm Norazimah Bte Mohamed Senin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
