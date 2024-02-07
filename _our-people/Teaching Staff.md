@@ -216,7 +216,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Olivia_" rel="noopener" target="_blank">Miss Olivia Tao Heping</a>
+<p><a href="/olivia" rel="noopener" target="_blank">Miss Olivia Tao Heping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +251,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Lingjun_" rel="noopener" target="_blank">Mdm Qin Lingjun</a>
+<p><a href="/lingjun" rel="noopener" target="_blank">Mdm Qin Lingjun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,7 +269,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Muhammad_" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
+<p><a href="/muhammad" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,7 +295,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Norhayati_" rel="noopener" target="_blank">Mdm Norhayati Binte Ibnor</a>
+<p><a href="/norhayati" rel="noopener" target="_blank">Mdm Norhayati Binte Ibnor</a>
 </p>
 </td>
 </tr>
@@ -309,7 +309,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Peishi_" rel="noopener" target="_blank">Miss Chen Peishi</a>
+<p><a href="/peishi" rel="noopener" target="_blank">Miss Chen Peishi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,7 +345,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Tingting_" rel="noopener" target="_blank">Mdm Chua Ting Ting</a>
+<p><a href="/tingting" rel="noopener" target="_blank">Mdm Chua Ting Ting</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,7 +362,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Hisham_" rel="noopener" target="_blank">Mr Muhammad Hisham Bin Kamsani</a>
+<p><a href="/hisham" rel="noopener" target="_blank">Mr Muhammad Hisham Bin Kamsani</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,7 +419,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Juliet_" rel="noopener" target="_blank">Mdm Robert Juliet</a>
+<p><a href="/juliet" rel="noopener" target="_blank">Mdm Robert Juliet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -437,7 +437,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Noryanti_" rel="noopener" target="_blank">Mdm Noryanti Mohamed Yahya</a>
+<p><a href="/noryanti" rel="noopener" target="_blank">Mdm Noryanti Mohamed Yahya</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,11 +455,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Lea_" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
+<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#JuJie_" rel="noopener" target="_blank">Mdm Ju Jie</a>
+<p><a href="/jujie" rel="noopener" target="_blank">Mdm Ju Jie</a>
 </p>
 </td>
 </tr>
@@ -477,7 +477,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Vic_" rel="noopener noreferrer nofollow" target="_blank">Mr Vic Lai Huei Yuh</a>
+<p><a href="/vic" rel="noopener noreferrer nofollow" target="_blank">Mr Lai Huei Yuh, Vic</a>
 </p>
 </td>
 </tr>
@@ -491,7 +491,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Cham_" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
+<p><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,7 +580,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="/pam-and-cca-department/#Janelle_" rel="noopener" target="_blank">Miss Peh Shu Yu, Janele</a>
+<p>&nbsp;<a href="/janele" rel="noopener" target="_blank">Miss Peh Shu Yu, Janele</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -601,11 +601,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Indhumathi_" rel="noopener" target="_blank">Mrs Karthikeyan Indhumathi</a>
+<p><a href="/indhu" rel="noopener" target="_blank">Mrs Karthikeyan Indhumathi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-and-cca-department/#Iswandi_" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
+<p><a href="/iswandi" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
 </p>
 </td>
 </tr>
@@ -749,7 +749,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Simon_" rel="noopener" target="_blank">Mr Chen Dunqiang</a>
+<p><a href="/simon/" rel="noopener" target="_blank">Mr Chen Dunqiang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -762,7 +762,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Bey_" rel="noopener noreferrer nofollow" target="_blank">Mdm Bey Ay Dih</a>
+<p><a href="/aydih" rel="noopener noreferrer nofollow" target="_blank">Mdm Bey Ay Dih</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -778,11 +778,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Sheirin_" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
+<p><a href="/sheirin" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#Azrina_" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azrina Bte Kamis</a>
+<p><a href="/azrina" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azrina Bte Kamis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -795,7 +795,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/mingmin" rel="noopener noreferrer nofollow" target="_blank">Mdm Hee Ming Min</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
