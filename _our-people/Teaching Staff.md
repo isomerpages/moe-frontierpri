@@ -229,7 +229,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/English-department/#Eliza_" rel="noopener" target="_blank">Miss Eliza Law Wen Yu</a>
+<p><a href="/eliza" rel="noopener" target="_blank">Miss Eliza Law Wen Yu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
