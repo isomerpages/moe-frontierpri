@@ -199,7 +199,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Isaac_" rel="noopener" target="_blank">Mr Leng Song Dao, Isaac</a>
+<p><a href="/isaac" rel="noopener" target="_blank">Mr Leng Song Dao, Isaac</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +247,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-management-department/#Suria_" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
+<p><a href="/suria" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -397,7 +397,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-management-department/#Marie_" rel="noopener" target="_blank">Mrs Marie Ow Yong</a>
+<p><a href="/marie" rel="noopener" target="_blank">Mrs Marie Ow Yong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
