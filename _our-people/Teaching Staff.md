@@ -753,7 +753,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Stephanie" rel="noopener" target="_blank">Mrs Stephanie Ong - Ho Qian Hui</a>
+<p><a href="/stephanie" rel="noopener" target="_blank">Mrs Stephanie Ong - Ho Qian Hui</a>
 </p>
 </td>
 </tr>
