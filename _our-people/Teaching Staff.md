@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#LanShii_" rel="noopener" target="_blank">Mdm Lim Lan Shii</a>
+<p><a href="/lanshii" rel="noopener" target="_blank">Mdm Lim Lan Shii</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
