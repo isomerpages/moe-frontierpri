@@ -689,7 +689,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Shannon_" rel="noopener" target="_blank">Mdm Lim Pei Geok</a>
+<p><a href="/shannon" rel="noopener" target="_blank">Mdm Lim Pei Geok</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -745,7 +745,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Laykoon_" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
+<p><a href="/laykoon" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
