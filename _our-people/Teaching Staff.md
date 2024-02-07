@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#LanShii_" rel="noopener" target="_blank">Mdm Lim Lan Shii</a>
+<p><a href="/lanshii" rel="noopener" target="_blank">Mdm Lim Lan Shii</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#lili" rel="noopener" target="_blank">Miss Chen Lili</a>
+<p><a href="/lili" rel="noopener" target="_blank">Miss Chen Lili</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,11 +122,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Aishah_" rel="noopener" target="_blank">Mdm Siti Nur Aishah Bte Mohamad Zainudin</a>
+<p><a href="/aishah" rel="noopener" target="_blank">Mdm Siti Nur Aishah Bte Mohamad Zainudin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Jingxian_" rel="noopener" target="_blank">Miss Lim Jing Xian</a>
+<p><a href="/jingxian" rel="noopener" target="_blank">Miss Lim Jing Xian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Asmah_" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
+<p><a href="/asmah" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Rachel_" rel="noopener" target="_blank">Mdm Chia Tze Miang, Rachel</a>
+<p><a href="/rachel" rel="noopener" target="_blank">Mdm Chia Tze Miang, Rachel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +199,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Isaac_" rel="noopener" target="_blank">Mr Leng Song Dao, Isaac</a>
+<p><a href="/isaac" rel="noopener" target="_blank">Mr Leng Song Dao, Isaac</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +247,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-management-department/#Suria_" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
+<p><a href="/suria" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -397,7 +397,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-management-department/#Marie_" rel="noopener" target="_blank">Mrs Marie Ow Yong</a>
+<p><a href="/marie" rel="noopener" target="_blank">Mrs Marie Ow Yong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,7 +433,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Carrie_" rel="noopener" target="_blank">Mrs Carrie Laksman</a>
+<p><a href="/carrie" rel="noopener" target="_blank">Mrs Carrie Laksman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,7 +469,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Elaine_" rel="noopener" target="_blank">Mdm Elaine Lee Sui Lyn</a>
+<p><a href="/elaine" rel="noopener" target="_blank">Mdm Elaine Lee Sui Lyn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -532,7 +532,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-management-department/#Yicong_" rel="noopener" target="_blank">Mr Tan Yi Cong</a>
+<p><a href="/yicong" rel="noopener" target="_blank">Mr Tan Yi Cong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,7 +549,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Nora_" rel="noopener" target="_blank">Mdm Norazimah Bte Mohamed Senin</a>
+<p><a href="/norazimah" rel="noopener" target="_blank">Mdm Norazimah Bte Mohamed Senin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -597,7 +597,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Francesca_" rel="noopener" target="_blank">Mrs Francesca D'armancourt</a>
+<p><a href="/francesca" rel="noopener" target="_blank">Mrs Francesca D'armancourt</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -624,7 +624,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Haijing_" rel="noopener" target="_blank">Mdm Wang Haijing</a>
+<p><a href="/haijing" rel="noopener" target="_blank">Mdm Wang Haijing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -689,7 +689,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Shannon_" rel="noopener" target="_blank">Mdm Lim Pei Geok</a>
+<p><a href="/shannon" rel="noopener" target="_blank">Mdm Lim Pei Geok</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +710,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Derek_" rel="noopener" target="_blank">Mr Lee Shen Long, Derek</a>
+<p><a href="/derek" rel="noopener" target="_blank">Mr Lee Shen Long, Derek</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -736,7 +736,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Eileen_" rel="noopener" target="_blank">Mdm Oon Saw Kim, Eileen</a>
+<p><a href="/eileen" rel="noopener" target="_blank">Mdm Oon Saw Kim, Eileen</a>
 </p>
 </td>
 </tr>
@@ -745,7 +745,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/science-department/#Laykoon_" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
+<p><a href="/laykoon" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -753,7 +753,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Stephanie" rel="noopener" target="_blank">Mrs Stephanie Ong - Ho Qian Hui</a>
+<p><a href="/stephanie" rel="noopener" target="_blank">Mrs Stephanie Ong - Ho Qian Hui</a>
 </p>
 </td>
 </tr>
@@ -786,7 +786,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Puaykiang_" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
+<p><a href="/mrstan" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
 </p>
 </td>
 </tr>
