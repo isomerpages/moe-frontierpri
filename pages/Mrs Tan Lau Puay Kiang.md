@@ -4,7 +4,6 @@ permalink: /mrstan/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <table>
 <tbody>
 <tr>
