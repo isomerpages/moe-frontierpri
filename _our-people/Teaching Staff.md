@@ -126,7 +126,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Jingxian_" rel="noopener" target="_blank">Miss Lim Jing Xian</a>
+<p><a href="/jingxian" rel="noopener" target="_blank">Miss Lim Jing Xian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +139,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Asmah_" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
+<p><a href="/asmah" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
