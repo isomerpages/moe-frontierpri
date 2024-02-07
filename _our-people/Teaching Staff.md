@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mtl-department/#lili" rel="noopener" target="_blank">Miss Chen Lili</a>
+<p><a href="/lili" rel="noopener" target="_blank">Miss Chen Lili</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,7 +469,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Elaine_" rel="noopener" target="_blank">Mdm Elaine Lee Sui Lyn</a>
+<p><a href="/elaine" rel="noopener" target="_blank">Mdm Elaine Lee Sui Lyn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
