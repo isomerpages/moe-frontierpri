@@ -532,7 +532,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-management-department/#Yicong_" rel="noopener" target="_blank">Mr Tan Yi Cong</a>
+<p><a href="/yicong" rel="noopener" target="_blank">Mr Tan Yi Cong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
