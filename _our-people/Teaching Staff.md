@@ -433,7 +433,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/ICT-department/#Carrie_" rel="noopener" target="_blank">Mrs Carrie Laksman</a>
+<p><a href="/carrie" rel="noopener" target="_blank">Mrs Carrie Laksman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
