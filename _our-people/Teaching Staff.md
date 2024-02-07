@@ -624,7 +624,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/character-citizenship-education-department/#Haijing_" rel="noopener" target="_blank">Mdm Wang Haijing</a>
+<p><a href="/haijing" rel="noopener" target="_blank">Mdm Wang Haijing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
