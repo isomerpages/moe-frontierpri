@@ -11,12 +11,9 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong><em>Red Cross Youth</em></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
