@@ -233,7 +233,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Minghui_" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
+<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +451,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Suen_" rel="noopener" target="_blank">Mrs Lim - Su-en Loh</a>
+<p><a href="/suen" rel="noopener" target="_blank">Mrs Lim - Su-en Loh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
