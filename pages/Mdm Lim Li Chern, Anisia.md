@@ -11,7 +11,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
 </div>
-<p><strong>Mdm Lim Li-Chern, Anisia</strong>
+<p><strong>Mrs Teng - Lim Li-Chern, Anisia</strong>
 </p>
 <p><strong><em>ST/Learning Needs (Educational Support)</em></strong>
 </p>
