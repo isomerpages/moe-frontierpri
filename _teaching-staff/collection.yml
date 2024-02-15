@@ -2,7 +2,6 @@ collections:
   teaching-staff:
     output: true
     order:
-      - English Department.md
       - Mathematics Department.md
       - MTL Department.md
       - Science Department.md
