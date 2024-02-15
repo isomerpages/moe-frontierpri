@@ -375,7 +375,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Ann_" rel="noopener" target="_blank">Mdm Toh Bee Choo, Ann</a>
+<p><a href="/ann" rel="noopener" target="_blank">Mdm Toh Bee Choo, Ann</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
