@@ -510,7 +510,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Vincents_" rel="noopener" target="_blank">Mr Soh Boon Yew, Vincent</a>
+<p><a href="/vincentsoh" rel="noopener" target="_blank">Mr Soh Boon Yew, Vincent</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
