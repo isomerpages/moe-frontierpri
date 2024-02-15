@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Qianlin_" rel="noopener" target="_blank">Mdm Chia Qian Lin</a>
+<p><a href="/qianlin" rel="noopener" target="_blank">Mdm Chia Qian Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -313,7 +313,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Sri_" rel="noopener" target="_blank">Mdm Sri Arianti Bte Ariffin</a>
+<p><a href="/sri" rel="noopener" target="_blank">Mdm Sri Arianti Bte Ariffin</a>
 </p>
 </td>
 </tr>
