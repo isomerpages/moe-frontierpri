@@ -2,6 +2,5 @@ collections:
   teaching-staff:
     output: true
     order:
-      - ICT Department.md
       - Student Management Department.md
       - School Counsellor and SEN Officers.md
