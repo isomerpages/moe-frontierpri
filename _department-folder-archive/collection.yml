@@ -2,6 +2,7 @@ collections:
   department-folder-archive:
     output: true
     order:
+      - Science Department.md
       - MTL Department.md
       - Mathematics Department.md
       - English Department.md
