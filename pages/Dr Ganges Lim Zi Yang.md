@@ -13,7 +13,8 @@ description: ""
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>ST/Science (Internal)</strong>
+</p>
+<p><strong>ST/Science (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,4 +31,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
