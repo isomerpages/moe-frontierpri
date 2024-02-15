@@ -165,7 +165,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Jessica_" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessica Kho Siok Ching</a>
+<p><a href="/jessica" rel="noopener noreferrer nofollow" target="_blank">Ms Kho Siok Ching. Jessica</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +195,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="/key-personnel-2/#Nusraat_" rel="noopener" target="_blank">Mdm Nusraat Begum Bte Akbar Ali</a>
+<p>&nbsp;<a href="/nusraat" rel="noopener" target="_blank">Mdm Nusraat Begum Bte Akbar Ali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,7 +405,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Jeannett_" rel="noopener" target="_blank">Miss Jeannett Lay Jia Xin</a>
+<p><a href="/jeannett" rel="noopener" target="_blank">Miss Jeannett Lay Jia Xin</a>
 </p>
 </td>
 </tr>
