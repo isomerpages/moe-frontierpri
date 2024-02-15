@@ -328,7 +328,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Vincentchua_" rel="noopener" target="_blank">Mr Chua Boon Meng, Vincent</a>
+<p><a href="/vincentchua" rel="noopener" target="_blank">Mr Chua Boon Meng, Vincent</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
