@@ -553,7 +553,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Dorcas_" rel="noopener" target="_blank">Mdm Lee Hao Yih, Dorcas</a>
+<p><a href="/dorcas" rel="noopener" target="_blank">Mdm Lee Hao Yih, Dorcas</a>
 </p>
 </td>
 </tr>
