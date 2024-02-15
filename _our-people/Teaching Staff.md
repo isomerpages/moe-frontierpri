@@ -401,7 +401,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Chukeng_" rel="noopener" target="_blank">Mrs Chong - Pang Chu Keng</a>
+<p><a href="/chukeng" rel="noopener" target="_blank">Mrs Chong - Pang Chu Keng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -658,7 +658,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Mary_" rel="noopener" target="_blank">Mrs Loh-Lim Cheng Nee, Mary</a>
+<p><a href="/mary" rel="noopener" target="_blank">Mrs Loh-Lim Cheng Nee, Mary</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,7 +693,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Andrielle_" rel="noopener" target="_blank">Miss Lee Yan Ling, Aderine Andrielle</a>
+<p><a href="/andrielle" rel="noopener" target="_blank">Miss Lee Yan Ling, Aderine Andrielle</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
