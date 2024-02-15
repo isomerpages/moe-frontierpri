@@ -2,6 +2,7 @@ collections:
   department-folder-archive:
     output: true
     order:
+      - Character & Citizenship Education Department.md
       - PAM and CCA Department.md
       - Science Department.md
       - MTL Department.md
