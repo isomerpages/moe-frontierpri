@@ -2,5 +2,4 @@ collections:
   teaching-staff:
     output: true
     order:
-      - Student Management Department.md
       - School Counsellor and SEN Officers.md
