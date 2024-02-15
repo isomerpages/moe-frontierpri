@@ -34,7 +34,6 @@ are integral to promoting well-being, for it is often heard the phrase
 that “music soothes the soul”. Our choristers aim to master a variety of
 vocal techniques and various repertoires including songs from different
 musical periods and countries.</p>
-<p>&nbsp;</p>
 <p>The Frontier Choir is guided by the two main values of self-discipline
 and team spirit. In order to succeed, choristers need to exert self-discipline
 in the carrying out of various tasks, in the taking charge of one’s own
