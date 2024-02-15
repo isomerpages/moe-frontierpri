@@ -212,7 +212,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Hanna_" rel="noopener" target="_blank">Mdm Hannaria Srihanum Tumbuck</a>
+<p><a href="/hanna" rel="noopener" target="_blank">Mdm Hannaria Srihanum Tumbuck</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
