@@ -2,7 +2,6 @@ collections:
   teaching-staff:
     output: true
     order:
-      - MTL Department.md
       - Science Department.md
       - PAM and CCA Department.md
       - Character & Citizenship Education Department.md
