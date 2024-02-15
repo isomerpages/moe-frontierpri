@@ -4,7 +4,6 @@ permalink: /qianlin/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <table>
 <tbody>
 <tr>
