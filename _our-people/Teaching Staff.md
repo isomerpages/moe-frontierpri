@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Siwei_" rel="noopener" target="_blank">Mdm Chua Si Wei</a>
+<p><a href="/siwei" rel="noopener" target="_blank">Mdm Chua Si Wei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
