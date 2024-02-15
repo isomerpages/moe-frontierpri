@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Eugena_" rel="noopener" target="_blank">Miss Eugena Ooi Weiling</a>
+<p><a href="/eugena" rel="noopener" target="_blank">Miss Eugena Ooi Weiling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -495,7 +495,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Jieqi_" rel="noopener" target="_blank">Mrs Lee - Neo Jie Qi</a>
+<p><a href="/jieqi" rel="noopener" target="_blank">Mrs Lee - Neo Jie Qi</a>
 </p>
 </td>
 </tr>
