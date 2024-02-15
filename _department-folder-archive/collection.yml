@@ -1,0 +1,12 @@
+collections:
+  department-folder-archive:
+    output: true
+    order:
+      - Student Management Department.md
+      - ICT Department.md
+      - Character & Citizenship Education Department.md
+      - PAM and CCA Department.md
+      - Science Department.md
+      - MTL Department.md
+      - Mathematics Department.md
+      - English Department.md

@@ -8,8 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%;" height="auto" width="100%" src="/images/mtl5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/jing_xian.jpg">
 </div>
 <p><strong>Miss Lim Jing Xian</strong>
 </p>

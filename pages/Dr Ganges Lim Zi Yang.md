@@ -12,7 +12,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
-<p><strong>Dr Ganges Lim Zi Yang</strong>
+<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
+</p>
+<p><strong>ST/Science (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -22,11 +24,12 @@ description: ""
 </p>
 <p><em>I seek to empower every learner to be their own agent of change, so that they can be free to uncover their individual passion for knowledge."</em>
 </p>
-<p>Tel Ext: 283</p>
+<p>Tel Ext: 301</p>
 <p>Email:&nbsp;<a href="mailto:Ganges_Lim_Zi_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ganges_Lim_Zi_Yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
