@@ -341,7 +341,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Idzmaidar_" rel="noopener" target="_blank">Mdm Siti Idzmaidar Binte Amir Wahid</a>
+<p><a href="/idzmaidar" rel="noopener" target="_blank">Mdm Siti Idzmaidar Binte Amir Wahid</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -518,7 +518,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Kahleong_" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kah Leong</a>
+<p><a href="/kahleong" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kah Leong</a>
 </p>
 </td>
 </tr>
@@ -545,7 +545,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Anisia_" rel="noopener" target="_blank">Mrs Teng - Lim Li-Chern, Anisia</a>
+<p><a href="/anisia" rel="noopener" target="_blank">Mrs Teng - Lim Li-Chern, Anisia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
