@@ -237,7 +237,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Anderson_" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
+<p><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
 </p>
 </td>
 </tr>
@@ -379,7 +379,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Mageswari_" rel="noopener" target="_blank">Mrs Sudhakar - Mages Wari Ramasamy</a>
+<p><a href="/mages" rel="noopener" target="_blank">Mrs Sudhakar - Mages Wari Ramasamy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,7 +423,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Weepin_" rel="noopener" target="_blank">Mr Choo Wee Pin</a>
+<p><a href="/weepin" rel="noopener" target="_blank">Mr Choo Wee Pin</a>
 </p>
 </td>
 </tr>
