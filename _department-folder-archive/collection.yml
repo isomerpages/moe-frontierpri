@@ -1,0 +1,4 @@
+collections:
+  department-folder-archive:
+    output: true
+    order: []
