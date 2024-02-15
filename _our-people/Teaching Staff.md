@@ -567,7 +567,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Chenweishen_" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Wei Shen</a>
+<p><a href="/weishen" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Wei Shen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
