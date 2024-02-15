@@ -255,7 +255,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Chokseng_" rel="noopener" target="_blank">Mr Chan Chok Seng</a>
+<p><a href="/chokseng" rel="noopener" target="_blank">Mr Chan Chok Seng</a>
 </p>
 </td>
 </tr>
@@ -441,7 +441,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Nellie_" rel="noopener" target="_blank">Mdm Soh Wee Hong, Nellie</a>
+<p><a href="/nellie" rel="noopener" target="_blank">Mdm Soh Wee Hong, Nellie</a>
 </p>
 </td>
 </tr>
