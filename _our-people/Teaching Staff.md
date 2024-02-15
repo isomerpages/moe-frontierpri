@@ -584,7 +584,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Nidzam_" rel="noopener" target="_blank">Mr Mohammed Nidzam Bin Zakariah</a>
+<p><a href="/nidzam" rel="noopener" target="_blank">Mr Mohammed Nidzam Bin Zakariah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
