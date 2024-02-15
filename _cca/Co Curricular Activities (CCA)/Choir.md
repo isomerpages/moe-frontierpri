@@ -5,8 +5,13 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cho1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir.jpg">
 </div>
 <table>
 <tbody>
@@ -29,6 +34,7 @@ are integral to promoting well-being, for it is often heard the phrase
 that “music soothes the soul”. Our choristers aim to master a variety of
 vocal techniques and various repertoires including songs from different
 musical periods and countries.</p>
+<p>&nbsp;</p>
 <p>The Frontier Choir is guided by the two main values of self-discipline
 and team spirit. In order to succeed, choristers need to exert self-discipline
 in the carrying out of various tasks, in the taking charge of one’s own
@@ -36,7 +42,7 @@ learning and in being willing to practice vocal techniques on one’s own
 beyond formal practice sessions. Also, as choristers sing in a group and
 not individually, team spirit is necessary to ensure that everyone sings
 his / her part right and we all sound good together. The Frontier Choir
-is thankful for five good years thus far and is looking forward to making
+is thankful for eight good years thus far and is looking forward to making
 a difference by bringing more joy and laughter to everyone through our
 good music this year.</p>
 </td>
@@ -104,22 +110,13 @@ Presentation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>*For 2022 Term 1*</strong>
-</p>
-<p><strong>Mondays (Junior Choir &amp; Main Choir)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Virtual sessions: 2.15 p.m. to 3.45 p.m. via Zoom</p>
-</li>
-</ul>
-<p><strong>Fridays (Main Choir)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Virtual sessions: 4.30 p.m. to 6.00 p.m. via Zoom</p>
-</li>
-</ul>
+<p>Mondays (Junior Choir &amp; Main Choir)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.00 p.m. to 4.00 p.m. at Sonatina
+Room 2</p>
+<p>&nbsp;</p>
+<p>Wednesdays (Main Choir)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.00 p.m. to 4.00 p.m. at Sonatina
+Room 2</p>
 </td>
 </tr>
 <tr>
@@ -137,37 +134,24 @@ Presentation</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cho2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cho3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cho4.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_2.jpg">
+</div>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cho5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cho6.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_3.jpg">
+</div>
 <p></p>
