@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/key-personnel-2/#Shirin_" rel="noopener" target="_blank">Mdm Nur Shirin Bte Yaman Yuen</a>
+<p><a href="/shirin" rel="noopener" target="_blank">Mdm Nur Shirin Bte Yaman Yuen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
