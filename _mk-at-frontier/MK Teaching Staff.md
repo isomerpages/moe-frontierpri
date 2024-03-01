@@ -56,7 +56,7 @@ variant: tiptap
 </div>
 <p><strong>Ms Wu Zhijing</strong>
 </p>
-<p><em>Senior Teacher</em>
+<p><em>Senior Teacher / CL</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ variant: tiptap
 </div>
 <p><strong>Ms Nursyura Binte Supari</strong>
 </p>
-<p><em>Senior Teacher</em>
+<p><em>Senior Teacher / EL</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,9 +90,7 @@ variant: tiptap
 </div>
 <p><strong>Ms Prevena D/O Kannathass</strong>
 </p>
-<p><em>Senior Teacher</em>
-<br><em>English Language</em>
-</p>
+<p><em>Senior Teacher</em> / EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>""Educating the mind without educating the heart is no education at all"- Aristotle"</em>
@@ -329,9 +327,13 @@ variant: tiptap
 </div>
 <p><strong>Ms Sharena Binte Muhammed Mubarak</strong>
 </p>
+<p><em>English Language Teacher</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"I believe children are curious learners who construct their own knowledge. Our inquisitive children learn best through play therefore as an educator, it is important to give them the opportunity to play, explore, be curious, and observe in order to learn."</em>
+</p>
+<p><em>Email: <a href="mailto:Sharena_Muhammed_Mubarak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharena_Muhammed_Mubarak@schools.gov.sg</a></em>
 </p>
 </td>
 </tr>
@@ -342,9 +344,13 @@ variant: tiptap
 </div>
 <p><strong>Ms Nurul Ardinah Binte Aminnudin</strong>
 </p>
+<p><em>English Language Teacher</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"As an educator, I believe that children learn best through hands-on activities. Thus, I strive to provide an environment which encourages children to interact actively while being curious."</em>
+</p>
+<p><em>Email: <a href="mailto:Nurul_Ardinah_Aminnudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Ardinah_Aminnudin@schools.gov.sg</a></em>
 </p>
 </td>
 </tr>
@@ -357,15 +363,23 @@ variant: tiptap
 </div>
 <p><strong>Ms Brenda Kok</strong>
 </p>
+<p><em>English Language Teacher</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"I believe all children are unique and they must have a stimulating and supportive learning environment where they can grow physically, mentally, emotionally, and socially. It is my desire to create a safe and nurturing classroom where students feel valued, supported and inspired to reach their full potential. I resonate strongly with this quote - “Teaching is more than imparting knowledge; it is inspiring change. Learning is more than absorbing facts; it is acquiring understanding.” – William Arthur Ward"</em>
+</p>
+<p><em>Email: <a href="mailto:kok_wei_ling_brenda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_wei_ling_brenda@schools.gov.sg</a></em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chen_Siyang.jpg">
+</div>
+<p><strong>Ms Chen Siyang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>“I believe children learn best through providing them positive experiences
