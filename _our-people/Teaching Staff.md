@@ -147,7 +147,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/stephanie" rel="noopener" target="_blank">Mrs Stephanie Ong - Ho Qian Hui</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -753,7 +754,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/stephanie" rel="noopener" target="_blank">Mrs Stephanie Ong - Ho Qian Hui</a>
+<p><a href="/huixian" rel="noopener noreferrer nofollow" target="_blank">Miss Yue Hui Xian</a>
 </p>
 </td>
 </tr>
@@ -766,7 +767,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/pam-department/#Serene_" rel="noopener" target="_blank">Miss Ang Lee Ping</a>
+<p><a href="/sheirin" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/mingmin" rel="noopener noreferrer nofollow" target="_blank">Mdm Hee Ming Min</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/azrina" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azrina Bte Kamis</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/mrstan" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -778,28 +797,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sheirin" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/azrina" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azrina Bte Kamis</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mrstan" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mingmin" rel="noopener noreferrer nofollow" target="_blank">Mdm Hee Ming Min</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ang Lee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
