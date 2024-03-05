@@ -24,8 +24,10 @@ technical assistance or enquiries, please refer to the following table
 for the point of contact.
 <br>
 <br>If your device does not have Zoom installed, please download the <strong>Zoom Desktop Client</strong> or <strong>Zoom Mobile Apps</strong> from <strong><a href="https://zoom.us/download" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
-<p></p>
-<p></p>
+<p>If you are joining the Zoom lesson from a web browser, please refer to
+this file instructions.
+<br>
+</p>
 <table>
 <tbody>
 <tr>
@@ -138,4 +140,4 @@ of school and form class
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>If</p>
