@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents,</p>
-<p>.Please find the links to the HBL instructions for each level and class
+<p>Please find the links to the HBL instructions for each level and class
 below:</p>
 <p>P1:&nbsp;<strong><a href="https://go.gov.sg/p1-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1-hbl-6march</a></strong>
 </p>
