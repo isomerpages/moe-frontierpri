@@ -21,7 +21,11 @@ below:</p>
 link and fill out the <strong><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">form</a></strong>.
 Our personnel will get back to you as soon as possible. For feedback, other
 technical assistance or enquiries, please refer to the following table
-for the point of contact.</p>
+for the point of contact.
+<br>
+<br>If your device does not have Zoom installed, please download the <strong>Zoom Desktop Client</strong> or <strong>Zoom Mobile Apps</strong> from <strong><a href="https://zoom.us/download" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -50,7 +54,7 @@ for the point of contact.</p>
 <p>SLS Administrator - ICT Associate</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a>
+<p><a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a> 
 <br>
 <br>65789555 ext 310</p>
 <p>
@@ -86,7 +90,7 @@ for the point of contact.</p>
 <p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_nidzam_zakariah@schools.gov.sg</a>
+<p><a href="mailto:mohammed_nidzam_zakariah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_nidzam_zakariah@schools.gov.sg</a> 
 <br>
 <br>65789555 ext 246</p>
 </td>
