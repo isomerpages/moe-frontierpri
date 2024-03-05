@@ -7,12 +7,41 @@ description: ""
 <p>Dear Parents,</p>
 <p>Please find the links to the HBL instructions for each level and class
 below:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>P3:&nbsp;<strong><a href="https://go.gov.sg/p3-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3-hbl-</a><a href="https://go.gov.sg/p1-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">6march</a></strong>
 </p>
-<p>P4:&nbsp;<strong><a href="https://go.gov.sg/p4-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4-hbl-</a><a href="https://go.gov.sg/p1-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">6march</a></strong>
-</p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>P5:&nbsp;<strong><a href="https://go.gov.sg/p5-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5-hbl-</a><a href="https://go.gov.sg/p1-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">6march</a></strong>
+<br>
+<br>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4:</strong>&nbsp;<strong><a href="https://go.gov.sg/p4-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4-hbl-</a><a href="https://go.gov.sg/p1-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">6march</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P6:</strong>&nbsp;<strong><a href="https://go.gov.sg/p5-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p6-hbl-</a><a href="https://go.gov.sg/p1-hbl-15aug" rel="noopener noreferrer nofollow" target="_blank">6march</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For password reset and unlocking of accounts, please click on the web
 link and fill out the <strong><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">form</a></strong>.
 Our personnel will get back to you as soon as possible. For feedback, other
@@ -21,7 +50,8 @@ for the point of contact.
 <br>
 <br>If your device does not have Zoom installed, please download the <strong>Zoom Desktop Client</strong> or <strong>Zoom Mobile Apps</strong> from <strong><a href="https://zoom.us/download" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p>If you are joining the Zoom lesson from a web browser, please refer to
-this file instructions.
+this <strong><a href="/files/Student_Zoom__Browser_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a></strong>
+<a href="/files/Student_Zoom__Browser_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>instructions.
 <br>
 </p>
 <table>
@@ -136,4 +166,9 @@ of school and form class
 </tr>
 </tbody>
 </table>
-<p>If</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
