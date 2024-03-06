@@ -43,7 +43,7 @@ sections:
       title: iN-Touch
       description: Check out our Term 1 2024 iN-Touch
       button: Read more
-      url: /files/in-touch term 1 2024.pdf
+      url: /files/in_touch_term_1_2024.pdf
       image: /images/iN-Touch Logo.jpg
       alt: Image alt text
       subtitle: Our Termly Newsletter
