@@ -2,8 +2,8 @@ collections:
   hbl:
     output: true
     order:
-      - HBL Links for 8 March 2024.md
       - HBL Links.md
+      - HBL Links for 8 March 2024.md
       - HBL Links for 6 March 2024.md
       - HBL Links for 15 August 2023.md
       - HBL Links for 13 April 2023.md
