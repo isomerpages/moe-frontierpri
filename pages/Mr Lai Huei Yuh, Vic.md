@@ -12,7 +12,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Vic_Lai_Huei_Yuh.jpg">
 </div>
-<p><strong>Mr Vic Lai Hue Yuh</strong>
+<p><strong>Mr Vic Lai Huei Yuh</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
