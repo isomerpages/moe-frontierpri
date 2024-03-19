@@ -522,7 +522,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Information and Communication Technologys (ICT) Department</strong></h4>
+<h4><strong>Information and Communication Technology (ICT) Department</strong></h4>
 <table>
 <tbody>
 <tr>
