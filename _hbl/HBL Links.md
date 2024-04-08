@@ -9,10 +9,12 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p>Access Zoom through Meeting ID</p>
+<p><strong><a href="/files/Access_Zoom_through_Meeting_ID.pdf" rel="noopener noreferrer nofollow" target="_blank">Access Zoom through Meeting ID</a></strong>
+</p>
 </li>
 <li>
-<p>Access Zoom through Web Browser_SSO</p>
+<p><strong><a href="/files/Access_Zoom_through_Web_Browser_SSO.pdf" rel="noopener noreferrer nofollow" target="_blank">Access Zoom through Web Browser_SSO</a></strong>
+</p>
 </li>
 </ul>
 <hr>
