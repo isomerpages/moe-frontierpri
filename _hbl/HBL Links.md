@@ -4,14 +4,25 @@ permalink: /hbl-2/
 description: ""
 variant: tiptap
 ---
-<p><strong>2024</strong>
-</p>
+<blockquote>
+<p>Guides to Access Zoom Meeting</p>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p>Access Zoom through Meeting ID</p>
+</li>
+<li>
+<p>Access Zoom through Web Browser_SSO</p>
+</li>
+</ul>
+<hr>
+<h4><strong>2024</strong></h4>
 <p><a href="/hbl-links-for-8-march-2024/" rel="noopener" target="_blank">08 March</a>
 </p>
 <p><a href="/hbl-links-for-6-march-2024/" rel="noopener" target="_blank">06 March</a>
 </p>
-<p><strong>2023</strong>
-</p>
+<hr>
+<h4><strong>2023</strong></h4>
 <p><a href="/hbl-links-for-15-august-2023/" rel="noopener" target="_blank">15 August</a>
 </p>
 <p><a href="/hbl-links-for-13-april-2023/" rel="noopener" target="_blank">13 April</a>
