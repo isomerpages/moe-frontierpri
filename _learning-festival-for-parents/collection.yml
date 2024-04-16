@@ -2,7 +2,7 @@ collections:
   learning-festival-for-parents:
     output: true
     order:
-      - Learning Festival For Parents.md
+      - Learning Festival For Parents 2024.md
       - English Department.md
       - Mathematics Department.md
       - Science Department.md
