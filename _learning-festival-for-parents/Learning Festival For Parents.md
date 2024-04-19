@@ -99,6 +99,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
+<hr>
 <h3>By Subjects</h3>
 <table>
 <tbody>
