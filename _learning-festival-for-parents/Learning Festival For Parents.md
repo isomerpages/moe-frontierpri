@@ -12,7 +12,7 @@ variant: tiptap
 <p>Primary 1</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p1" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p1&nbsp;</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-p1" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p1&nbsp;</a></strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p2" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p2&nbsp;</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-p2" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p2&nbsp;</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p3" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p3&nbsp;</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-p3" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p3&nbsp;</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p4" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p4&nbsp;</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-p4" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p4&nbsp;</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p5" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p5&nbsp;</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-p5" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p5&nbsp;</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p6</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p6</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ variant: tiptap
 <p>English</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-el" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-el</a>
+<p><strong><a href="https://for.edu.sg/learning-fest-el" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-el</a></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
