@@ -111,7 +111,9 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Fest/EL.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -124,7 +126,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Fest/MA.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -137,7 +141,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Fest/SC.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -150,7 +156,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Fest/CL.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -163,7 +171,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Fest/ML.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -176,7 +186,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Fest/TL.png">
+</div>
 </td>
 </tr>
 </tbody>
