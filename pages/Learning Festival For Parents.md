@@ -42,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://for.edu.sg/learning-fest-p3" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p3&nbsp;</a></strong>
+<p><strong><a href="https://www.youtube.com/playlist?list=PLTneNP6sjA-vpGfRUrdMVf7ZngvmYAjM4" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p3&nbsp;</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://for.edu.sg/learning-fest-p4" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p4&nbsp;</a></strong>
+<p><strong><a href="https://www.youtube.com/playlist?list=PLTneNP6sjA-u7YFWOdQA6oBYcX7XkbfY4" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p4&nbsp;</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
