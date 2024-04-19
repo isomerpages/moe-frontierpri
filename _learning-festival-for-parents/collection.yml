@@ -1,5 +1,4 @@
 collections:
   learning-festival-for-parents:
     output: true
-    order:
-      - Learning Festival For Parents.md
+    order: []
