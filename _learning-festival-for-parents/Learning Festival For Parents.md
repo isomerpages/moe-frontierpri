@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/le</a>
+<p><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/le</a> 
 <a href="https://for.edu.sg/learning-fest-ma" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-ma</a><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">arning-fest-p6</a>
 </p>
 </td>
@@ -122,7 +122,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-sc</a></strong>
+<p><strong><a href="https://for.edu.sg/learning-fest-sc" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-sc</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,7 +135,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-cl</a></strong>
+<p><strong><a href="https://for.edu.sg/learning-fest-cl" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-cl</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +148,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-ml</a></strong>
+<p><strong><a href="https://for.edu.sg/learning-fest-ml" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-ml</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-tl</a></strong>
+<p><strong><a href="https://for.edu.sg/learning-fest-tl" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-tl</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
