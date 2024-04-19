@@ -77,8 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/le</a> 
-<a href="https://for.edu.sg/learning-fest-ma" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-ma</a><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">arning-fest-p6</a>
+<p><a href="https://for.edu.sg/learning-fest-p6" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/learning-fest-p6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
