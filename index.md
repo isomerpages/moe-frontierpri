@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/fps banner gif 27 sept 2023.gif
+      background: /images/BANNER_13MAY2024.gif
       key_highlights:
         - title: Students & Parents
           description: Downloadable Links
