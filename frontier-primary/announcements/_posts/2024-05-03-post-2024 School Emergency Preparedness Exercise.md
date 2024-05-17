@@ -39,4 +39,4 @@ to help each other bounce back quickly after a emergency.</p>
 <p>For more information on SGSecure, parents may want to refer to <a href="https://www.sgsecure.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgsecure.gov.sg/</a>
 </p>
 <p>For further clarifications on the exercise, parents may contact the school
-at 6790 8596.</p>
+at 6578 9555.</p>
