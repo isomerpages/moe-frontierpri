@@ -41,9 +41,9 @@ sections:
       image: /images/Maker 2 pic 3.jpg
   - infopic:
       title: iN-Touch
-      description: Check out our Term 1 2024 iN-Touch
+      description: Check out our Term 2 2024 iN-Touch
       button: Read more
-      url: /files/in_touch_term_1_2024.pdf
+      url: /files/in_touch_term_2_2024.pdf
       image: /images/iN-Touch Logo.jpg
       alt: Image alt text
       subtitle: Our Termly Newsletter
