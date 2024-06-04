@@ -2,17 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - Event Gallery 2021/Maker@Frontier Induction.md
-      - Event Gallery 2021/Chinese New Year Celebration and Total Defence Day
-        Commemoration.md
-      - Event Gallery 2021/P5 Interdisciplinary Project Work (IPW).md
-      - Event Gallery 2021/P3 to P6 Sports Day 2021.md
-      - Event Gallery 2021/International Friendship Day 2021.md
-      - Event Gallery 2021/Math Learning Corner.md
-      - Event Gallery 2021/Racial Harmony Day 2021.md
-      - Event Gallery 2021/Mother Tongue Language Fortnight Programme 2021.md
-      - Event Gallery 2021/National Day Celebration 2021.md
-      - Event Gallery 2021/.keep
       - Event Gallery 2020/P1 Transition Programme 2020.md
       - Event Gallery 2020/CNY 2020.md
       - Event Gallery 2020/Total Defence Day 2020.md
