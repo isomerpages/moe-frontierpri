@@ -2,7 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - Event Gallery 2022/ARTFRONT@ATAS Corner (Term 1).md
       - Event Gallery 2022/P5 IPW 2022.md
       - Event Gallery 2022/School eLF Investiture 2022.md
       - Event Gallery 2022/Maker@Recess.md
