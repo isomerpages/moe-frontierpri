@@ -12,9 +12,9 @@ sections:
         - title: Prospective Parents
           description: ""
           url: /prospective-parents/
-        - title: Teachers
-          description: Useful Links
-          url: /useful-links-for-teachers/
+        - title: Current Parents
+          description: ""
+          url: /current-parents/
         - title: Alumni
           description: Information for Alumni
           url: /for-alumni/
