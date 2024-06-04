@@ -2,24 +2,24 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - School Services/.keep
       - Principal's Message.md
-      - Vision, Mission & Values.md
       - Our History.md
-      - Our Culture.md
+      - School Services/.keep
+      - Vision, Mission & Values.md
       - Our Crest.md
       - Our School Song.md
-      - Our School Rules.md
-      - Our School Virtual Tour.md
+      - Our Gallery/.keep
       - Our Gallery/Event Gallery 2023.md
       - Our Gallery/Event Gallery 2022.md
       - Our Gallery/Event Gallery 2021.md
       - Our Gallery/Event Gallery 2020.md
       - Our Gallery/Frontier Primary School Videos.md
-      - Our Gallery/.keep
       - School Calendar.md
       - School Information/.keep
       - School Information/P1 Registration Information.md
       - School Information/School Gate Operational Hours.md
       - School Information/School Services.md
+      - Our Culture.md
+      - Our School Rules.md
+      - Our School Virtual Tour.md
+      - Contact Us.md
