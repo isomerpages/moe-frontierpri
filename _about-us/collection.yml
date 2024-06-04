@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - TEST.md
       - School Services/.keep
       - Principal's Message.md
       - Vision, Mission & Values.md
