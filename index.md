@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/BANNER_13MAY2024.gif
       key_highlights:
-        - title: Students & Parents
-          description: Downloadable Links
-          url: /for-students-and-parents/
+        - title: Prospective Parents
+          description: ""
+          url: /prospective-parents/
         - title: Teachers
           description: Useful Links
           url: /useful-links-for-teachers/
