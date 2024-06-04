@@ -19,7 +19,7 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a> (SLS)
-(<a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">request for password reset</a>)</p>
+(<a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">password reset</a>)</p>
 </li>
 <li>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
