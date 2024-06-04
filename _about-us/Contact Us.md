@@ -12,12 +12,5 @@ description: ""
 </p>
 <p><strong>Telephone</strong>
 <br>+65 6578 9555</p>
-<p>Fax</p>
+<p></p>
 <p>+65</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>6790 8596</p>
