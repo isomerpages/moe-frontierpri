@@ -15,9 +15,9 @@ sections:
         - title: Current Parents
           description: ""
           url: /current-parents/
-        - title: Alumni
-          description: Information for Alumni
-          url: /for-alumni/
+        - title: Students
+          description: ""
+          url: /students/
   - resources:
       title: Highlights
       button: More Information
