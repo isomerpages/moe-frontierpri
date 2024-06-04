@@ -2,7 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - Event Gallery 2023/.keep
       - Event Gallery 2022/P1 Transition Programme 2022.md
       - Event Gallery 2022/Chinese New Year 2022.md
       - Event Gallery 2022/Total Defence Day 2022.md
