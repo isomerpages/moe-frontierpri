@@ -1,11 +1,4 @@
 collections:
   event-gallery:
     output: true
-    order:
-      - Event Gallery 2020/P1 Transition Programme 2020.md
-      - Event Gallery 2020/CNY 2020.md
-      - Event Gallery 2020/Total Defence Day 2020.md
-      - Event Gallery 2020/National Day 2020.md
-      - Event Gallery 2020/.keep
-      - Event Gallery 2020/Appreciation Day 2020.md
-      - Event Gallery 2020/Frontier Gratitude Programme 2020.md
+    order: []
