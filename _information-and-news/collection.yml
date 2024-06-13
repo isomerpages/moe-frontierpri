@@ -2,6 +2,7 @@ collections:
   information-and-news:
     output: true
     order:
+      - Executive And Administrative Staff.md
       - Teaching Staff.md
       - School Leaders.md
       - School Calendar.md
