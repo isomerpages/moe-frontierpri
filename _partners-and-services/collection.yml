@@ -1,5 +1,5 @@
 collections:
-  our-people:
+  partners-and-services:
     output: true
     order:
       - Our Partnerships/.keep
