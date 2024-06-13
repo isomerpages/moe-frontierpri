@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - School Leaders.md
       - Key Personnel.md
       - Teaching Staff.md
       - Executive And Administrative Staff.md
