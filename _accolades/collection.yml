@@ -2,10 +2,10 @@ collections:
   accolades:
     output: true
     order:
-      - In The News.md
       - Staff Achievements.md
+      - In The News.md
+      - Students' Achievements/.keep
       - Students' Achievements/Students' Achievements 2022.md
       - Students' Achievements/Students' Achievements 2021.md
       - Students' Achievements/Pupils' Achievements 2020.md
       - Students' Achievements/Pupils' Achievements 2019.md
-      - Students' Achievements/.keep
