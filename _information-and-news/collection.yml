@@ -1,5 +1,5 @@
 collections:
-  accolades:
+  information-and-news:
     output: true
     order:
       - Staff Achievements.md
