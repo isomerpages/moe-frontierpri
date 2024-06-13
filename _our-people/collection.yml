@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Key Personnel.md
       - Our Partnerships/.keep
       - Our Partnerships/School Advisory Committee.md
       - Our Partnerships/Parent Partnership Community (PPC).md
