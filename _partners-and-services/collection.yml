@@ -2,6 +2,7 @@ collections:
   partners-and-services:
     output: true
     order:
+      - Local Partners.md
       - Parent Partnership Community (PPC).md
       - For Alumni.md
       - Our Partnerships/.keep
