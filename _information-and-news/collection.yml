@@ -2,6 +2,7 @@ collections:
   information-and-news:
     output: true
     order:
+      - School Calendar.md
       - Staff Achievements.md
       - In The News.md
       - Students' Achievements/.keep
