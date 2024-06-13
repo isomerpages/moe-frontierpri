@@ -2,12 +2,12 @@ collections:
   information-and-news:
     output: true
     order:
-      - Key Personnel.md
-      - Executive And Administrative Staff.md
-      - Teaching Staff.md
       - School Leaders.md
-      - School Calendar.md
+      - Key Personnel.md
+      - Teaching Staff.md
+      - Executive And Administrative Staff.md
       - Staff Achievements.md
+      - School Calendar.md
       - In The News.md
       - Students' Achievements/.keep
       - Students' Achievements/Students' Achievements 2022.md
