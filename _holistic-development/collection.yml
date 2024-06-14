@@ -2,10 +2,10 @@ collections:
   holistic-development:
     output: true
     order:
+      - Student Management.md
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/About Co–Curricular Programmes.md
       - Co Curricular Activities/Co–Curricular Activities.md
-      - Co Curricular Activities/.keep
-      - Student Management.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Programme for Active Learning (PAL).md
