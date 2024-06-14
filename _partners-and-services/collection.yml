@@ -2,6 +2,7 @@ collections:
   partners-and-services:
     output: true
     order:
+      - SCHOOL DENTAL SERVICE.md
       - SCHOOL UNIFORM.md
       - SCHOOL CANTEEN.md
       - SCHOOL BUS.md
