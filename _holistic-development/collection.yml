@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - About Co–Curricular Programmes.md
       - Student Leadership.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
