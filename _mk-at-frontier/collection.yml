@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - About MK.md
+      - Virtual Tour of MOE Kindergarten @ Frontier.md
       - MK Teaching Staff.md
       - Total MK Curriculum.md
       - Open House.md
-      - Virtual Tour of MOE Kindergarten @ Frontier.md
       - Collaborations.md
-      - Downloads and Links/For Parents.md
       - Downloads and Links/.keep
+      - Downloads and Links/For Parents.md
