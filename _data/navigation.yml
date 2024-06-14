@@ -2,15 +2,13 @@ logo: /images/Frontier Logo High Quality for Print.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Partners And Services
-    collection: partners-and-services
-  - title: Subjects
-    collection: subjects
-  - title: CCA
-    collection: cca
-  - title: Holistic Development
-    collection: holistic-development
   - title: Information And News
     collection: information-and-news
+  - title: Subjects
+    collection: subjects
+  - title: Holistic Development
+    collection: holistic-development
+  - title: Partners And Services
+    collection: partners-and-services
   - title: MK@Frontier
     collection: mk-at-frontier
