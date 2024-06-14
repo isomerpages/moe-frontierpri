@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Co Curricular Activities/Co–Curricular Activities.md
       - Co Curricular Activities/.keep
       - Student Management.md
       - About Co–Curricular Programmes.md
