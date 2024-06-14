@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Structured Co–Curricular Activities (SCCA).md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Red Cross.md
       - Co Curricular Activities (CCA)/Scouts.md
