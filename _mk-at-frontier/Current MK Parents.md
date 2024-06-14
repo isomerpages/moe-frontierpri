@@ -4,8 +4,7 @@ permalink: /current-mk-parents/
 variant: tiptap
 description: ""
 ---
-<p><strong>MK Forms</strong>
-</p>
+<h4><strong>MK Forms</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.frontierpri.moe.edu.sg/files/Blank-GIRO-Form-MK.pdf" rel="noopener noreferrer nofollow" target="_blank">MK GIRO</a> (for
@@ -21,8 +20,7 @@ please refer to the guide to apply online)</p>
 </p>
 </li>
 </ol>
-<p><strong>KiFAS Forms &amp; Information</strong>
-</p>
+<h4><strong>KiFAS Forms &amp; Information</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.frontierpri.moe.edu.sg/files/KF1-Enrolment-and-KiFAS-Application-Jan-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">KF1 - Enrolment and KiFAS Application</a>
@@ -49,13 +47,15 @@ please refer to the guide to apply online)</p>
 </p>
 </li>
 </ol>
-<p><strong>K1 Orientation</strong>
-</p>
+<h4><strong>K1 Orientation</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.frontierpri.moe.edu.sg/files/MKFT_Slides_for_K1_Orientation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MK K1 2024 Orientation</a>
 </p>
 </li>
-</ol>
+<li>
 <p><a href="https://www.frontierpri.moe.edu.sg/files/KCare-K1-2021-Orientation-Slides-.pdf" rel="noopener noreferrer nofollow" target="_blank">KCare K1 2021 Orientation Slides</a>
 </p>
+</li>
+</ol>
+<p></p>
