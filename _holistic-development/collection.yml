@@ -2,8 +2,8 @@ collections:
   holistic-development:
     output: true
     order:
+      - Student Leadership.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Programme for Active Learning (PAL).md
       - Thinking Silhouette.md
-      - Student Leadership.md
