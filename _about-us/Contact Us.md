@@ -17,7 +17,7 @@ description: ""
 <h4><strong>Visitor Information</strong></h4>
 <p>All visitors are required to sign in at the security post located at the
 main gate to obtain a pass before proceeding to the General Office.</p>
-<p>Parents may drive your cars to the school porch from up <strong>to 7.30 am</strong> to
+<p>Parents may drive your cars to the school porch from up <strong>7:00am to 7:20am</strong> to
 drop-off your children when you send your children to school.</p>
 <p>Parents may drive in to pick up your children:
 <br>- From 1.50 pm onwards on usual school days.
