@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Management.md
+      - Co Curricular Activities/Structured Co–Curricular Activities (SCCA).md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/About Co–Curricular Programmes.md
       - Co Curricular Activities/Co–Curricular Activities.md
