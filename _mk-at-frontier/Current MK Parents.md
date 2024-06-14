@@ -9,7 +9,7 @@ description: ""
 <li>
 <p><a href="https://www.frontierpri.moe.edu.sg/files/Blank-GIRO-Form-MK.pdf" rel="noopener noreferrer nofollow" target="_blank">MK GIRO</a> (for
 <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-ibanking" rel="noopener noreferrer nofollow" target="_blank">POSB</a>or <a href="https://www.dbs.com.sg/index/default.page" rel="noopener noreferrer nofollow" target="_blank">DBS</a> accounts,
-please refer to the guide to apply online)</p>
+please refer to the <a href="/files/Steps_to_apply_GIRO_online_for_DBS_and_POSB_accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">guide to apply online</a>)</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/mktrfsession" rel="noopener noreferrer nofollow" target="_blank">MK Request for Transfer of Session</a>
