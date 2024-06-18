@@ -59,7 +59,7 @@ users</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lena</p>
+<p>Mrs Yap Lena Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Eliza Law</p>
