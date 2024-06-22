@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - In The News.md
-      - School Calendar.md
       - Principal's Message.md
       - Our History.md
       - Our Vision, Mission & Values.md
@@ -12,4 +10,6 @@ collections:
       - Our GREAT Culture.md
       - School Rules.md
       - School Virtual Tour.md
+      - School Calendar.md
+      - In The News.md
       - Contact Us.md
