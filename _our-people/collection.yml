@@ -1,5 +1,5 @@
 collections:
-  information-and-news:
+  our-people:
     output: true
     order:
       - School Leaders.md
