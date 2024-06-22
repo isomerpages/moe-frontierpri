@@ -4,23 +4,6 @@ permalink: /department/mother-tongue/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Our Vision<br></strong>Cultivate •&nbsp;Aspire •&nbsp;Lead</h4>
-<h4><strong>Our Mission<br></strong>We aim to:</h4>
-<ol>
-<li>
-<p>Empower our students to develop Confidence and Passion in the learning
-of their Mother Tongue Language.</p>
-</li>
-<li>
-<p>Enable our students to become Effective Bilingual Communicators and Lifelong
-Learners who embrace strong Moral Values with the Knowledge and Skills
-we imparted to them.</p>
-</li>
-<li>
-<p>Enrich our students with Traditional Cultures and Values through the study
-of Mother Tongue Languages.</p>
-</li>
-</ol>
 <h4><strong>Department Heads and Members</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
