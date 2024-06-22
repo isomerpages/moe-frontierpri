@@ -13,7 +13,7 @@ description: ""
 </p>
 <p><strong>Telephone</strong>
 <br>+65 6578 9555</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/frontier.primary"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/FB.png"></a>
 <h4><strong>Visitor Information</strong></h4>
 <p>All visitors are required to sign in at the security post located at the
 main gate to obtain a pass before proceeding to the General Office.</p>
