@@ -16,20 +16,20 @@ variant: tiptap
 <p>Mr Anderson Tan (HOD PAM / CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Wee Pin (SH PE and Sports / PE Coordinator)</p>
+<p>Mr Choo Wee Pin (SH PE and Sports)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang - Tam Hui Yun, Lea (SH / SWB int)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Kho Siok Ching, Jessica (ST / Art)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Miss Peh Shu Yu (Music Coordinator)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Norazimah Binte Mohamed Senin</p>
+<p>Miss Peh Shu Yu (Music Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Olivia Tao He Ping</p>
@@ -48,7 +48,15 @@ variant: tiptap
 <p>Mr Muhammad Hisham Bin Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Lai Huei Yu, Vic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Muhammad Iswandi Bin Isnawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
