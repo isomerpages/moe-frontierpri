@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - ICT.md
       - English.md
       - Mathematics.md
       - Mother Tongue.md
@@ -11,3 +10,4 @@ collections:
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/MOE Sexuality Education in Schools.md
+      - ICT.md
