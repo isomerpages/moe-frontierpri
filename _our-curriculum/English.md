@@ -4,8 +4,6 @@ permalink: /department/english/
 description: ""
 variant: tiptap
 ---
-<h5><strong>Our Vision:&nbsp;</strong>Confident Thinkers, Adaptable Individuals, Passionate Leaders</h5>
-<h5><strong>Our Mission:&nbsp;</strong>To achieve EL Syllabus 2020 Learner Outcomes:&nbsp;Empathetic Communicators, Discerning Readers, Creative Inquirers</h5>
 <h5><strong>Department Heads and Members</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
