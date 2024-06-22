@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - For Alumni.md
-      - Parent Partnership Community (PPC).md
       - Local Partners.md
       - Overseas Partners.md
-      - Canteen.md
+      - Parent Partnership Community (PPC).md
       - Bookshop.md
-      - Uniform.md
-      - School Bus.md
+      - Canteen.md
       - Dental.md
+      - School Bus.md
+      - Uniform.md
