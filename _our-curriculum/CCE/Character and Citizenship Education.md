@@ -44,6 +44,14 @@ variant: tiptap
 <p>Mdm Norazimah</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Stephanie Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Frontier Primary School (FPS) adopts a school-wide approach in creating
