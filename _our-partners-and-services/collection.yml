@@ -1,5 +1,5 @@
 collections:
-  partners-and-services:
+  our-partners-and-services:
     output: true
     order:
       - For Alumni.md
