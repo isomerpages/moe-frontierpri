@@ -3,71 +3,148 @@ title: Character and Citizenship Education
 permalink: /department/cce/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-<p style="text-align: center;"><strong>Our Vision</strong></p>
-<p style="text-align: center;">Every Frontierer is a Confident Thinker, Adaptable Individual and Passionate Leader with good character</p>
-<p style="text-align: center;"><strong>Our Mission</strong></p>
-<p style="text-align: center;">To nurture character and build competencies in Frontierers through actualising our G.R.E.A.T. Culture and holistic curriculum</p>
-<p style="text-align: center;"><strong>Department Heads and Members</strong></p>
-<table width="657">
+<h4><strong>Department Heads and Members</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="border:1px solid black;">Miss Jeannett Lay Jia Xin (HOD)</td>
-<td style="border:1px solid black;">Mdm Nusraat Begum Bte Akbar Ali (SH)</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jeannett Lay Jia Xin (HOD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nusraat Begum Bte Akbar Ali (SH)</p>
+</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">Mdm Hannaria Srihanum (ST/LP)</td>
-<td style="border:1px solid black;">Mdm Siti Idzmaidar (ST/Ed Support)</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teng - Lim Li-Chern, Anisia (ST/Ed Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Idzmaidar (ST/Ed Support)</p>
+</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">Mrs Teng - Lim Li-Chern, Anisia (ST/Ed Support)</td>
-<td style="border:1px solid black;">Mr Ben Chua Kian Guan</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chen Peishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Tze Miang Rachel</p>
+</td>
 </tr>
 <tr>
-<td style="border:1px solid black;">Miss Chen Peishi</td>
-<td style="border:1px solid black;">Mdm Aneesah Beevi Bte Asah</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Mdm Wang Haijing</td>
-<td style="border:1px solid black;">Mdm Norazimah</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">Mdm Chia Tze Miang Rachel</td>
-<td style="border:1px solid black;"></td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Haijing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norazimah</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: justify;">Frontier Primary School (FPS) adopts a school-wide approach in creating a caring and enabling environment to meet students’ needs. Our school lays the foundation that supports learning by paying more careful attention to relationship building (e.g. the quality of Teacher-Student Relationship, Peer Relationship) in order to build resilience, develop character, citizenship and future readiness in Frontierers.</p>
-<p style="text-align: justify;">Aside from building a caring and enabling environment for Frontierers to learn at FPS through relationship building, we aspire to develop Frontierers to be Confident Thinkers, Adaptable Individuals and Passionate Leaders with good character through the CCE fundamental building blocks. Based on the three big CCE ideas of Identity, Relationships and Choices, these fundamental building blocks comprise the learning of core values, social and emotional competencies, and citizenship dispositions. The CCE fundamental building blocks at Frontier include subjects like Form Teachers Guidance Period (FTGP), CCE MT / NTIL, Social Studies as well as learning experiences like commemorating four National Education events, Values in Action (VIA) activities and assembly programmes linked to CCE outcomes.</p>
-<p style="text-align: center;"><strong>Department's Highlights</strong></p>
-<p><strong>Values in Action (VIA) by Frontierers</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>Frontier Primary School (FPS) adopts a school-wide approach in creating
+a caring and enabling environment to meet students’ needs. Our school lays
+the foundation that supports learning by paying more careful attention
+to relationship building (e.g. the quality of Teacher-Student Relationship,
+Peer Relationship) in order to build resilience, develop character, citizenship
+and future readiness in Frontierers.</p>
+<p>Aside from building a caring and enabling environment for Frontierers
+to learn at FPS through relationship building, we aspire to develop Frontierers
+to be Confident Thinkers, Adaptable Individuals and Passionate Leaders
+with good character through the CCE fundamental building blocks. Based
+on the three big CCE ideas of Identity, Relationships and Choices, these
+fundamental building blocks comprise the learning of core values, social
+and emotional competencies, and citizenship dispositions. The CCE fundamental
+building blocks at Frontier include subjects like Form Teachers Guidance
+Period (FTGP), CCE MT / NTIL, Social Studies as well as learning experiences
+like commemorating four National Education events, Values in Action (VIA)
+activities and assembly programmes linked to CCE outcomes.</p>
+<p><strong>Department's Highlights</strong>
+</p>
+<p><strong>Values in Action (VIA) by Frontierers</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/cce1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/cce2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/cce3.jpeg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/cce1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/cce2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/cce3.jpeg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Commemorative Events in Frontier</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p><strong>Commemorative Events in Frontier</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%;"><img style="width: 60%;" src="/images/cce4.jpg"></td>
-<td style="width: 50%;"><img style="width: 60%;" src="/images/cce5.jpeg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/cce4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/cce5.jpeg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><strong><span class="fl-heading-text">Total Defence Day</span></strong></td>
-<td style="width: 50%; text-align: center;"><strong><span class="fl-heading-text">International Friendship Day</span></strong></td>
+<td rowspan="1" colspan="1">
+<p><strong>Total Defence Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>International Friendship Day</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img style="width: 60%;" src="/images/cce6.jpg"></td>
-<td style="width: 50%;"><img style="width: 60%;" src="/images/cce7.jpg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/cce6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/cce7.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><strong><span class="fl-heading-text">Racial Harmony Day</span></strong></td>
-<td style="width: 50%; text-align: center;"><strong><span class="fl-heading-text">National Day</span></strong></td>
+<td rowspan="1" colspan="1">
+<p><strong>Racial Harmony Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Day</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
