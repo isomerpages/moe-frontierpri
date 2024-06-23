@@ -1,0 +1,13 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - PE, Art and Music (PAM).md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - ICT.md

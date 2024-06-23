@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/BANNER_13MAY2024.gif
       key_highlights:
-        - title: Students & Parents
-          description: Downloadable Links
-          url: /for-students-and-parents/
-        - title: Teachers
-          description: Useful Links
-          url: /useful-links-for-teachers/
-        - title: Alumni
-          description: Information for Alumni
-          url: /for-alumni/
+        - title: Prospective Parents
+          description: ""
+          url: /prospective-parents/
+        - title: Current Parents
+          description: ""
+          url: /current-parents/
+        - title: Students
+          description: ""
+          url: /students/
   - resources:
       title: Highlights
       button: More Information

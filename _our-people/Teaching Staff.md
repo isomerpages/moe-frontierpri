@@ -6,7 +6,13 @@ variant: tiptap
 ---
 <p><strong>The list of Form Teachers in 2024 can be found below. To view a teacher's contact information, please click on his or her name.</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -270,11 +276,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/muhammad" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
+<p><a href="/mardiana" rel="noopener noreferrer nofollow" target="_blank">Mdm Mardiana Abdul Manap</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/muhammad" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -334,6 +341,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -346,7 +354,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/tingting" rel="noopener" target="_blank">Mdm Chua Ting Ting</a>
+<p><a href="/kahleong" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kah Leong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -519,8 +527,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/kahleong" rel="noopener noreferrer nofollow" target="_blank">Mr Ow Kah Leong</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -537,7 +544,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="/laykoon" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -554,8 +562,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/dorcas" rel="noopener" target="_blank">Mdm Lee Hao Yih, Dorcas</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -585,11 +592,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/nidzam" rel="noopener" target="_blank">Mr Mohammed Nidzam Bin Zakariah</a>
+<p><a href="/dorcas" rel="noopener" target="_blank">Mdm Lee Hao Yih, Dorcas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/nidzam" rel="noopener" target="_blank">Mr Mohammed Nidzam Bin Zakariah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -722,7 +730,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Non-Form Teachers</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -746,7 +760,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/laykoon" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
+<p><a href="/laykoon" rel="noopener" target="_blank">Mr Stanley Chin Ming Sing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -809,7 +823,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Allied Educators</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -831,7 +851,7 @@ variant: tiptap
 <p>Special Education Needs Officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/allied-educators/#Huishin_" rel="noopener" target="_blank">Miss Ng Hui Shin</a>
+<p><a href="/allied-educators/#Huishin_" rel="noopener" target="_blank">Miss Siti Fadhilah Atkha</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

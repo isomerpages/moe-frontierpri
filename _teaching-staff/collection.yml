@@ -1,5 +1,0 @@
-collections:
-  teaching-staff:
-    output: true
-    order:
-      - School Counsellor and SEN Officers.md
