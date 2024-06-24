@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - For Teachers.md
       - School Leaders.md
       - Key Personnel.md
       - Teaching Staff.md
