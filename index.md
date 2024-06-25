@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNER_13MAY2024.gif
+      background: /images/BANNER_25JUNE2024.gif
       key_highlights:
         - title: Prospective Parents
           description: ""
