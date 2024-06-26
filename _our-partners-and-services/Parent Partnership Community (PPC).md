@@ -11,9 +11,10 @@ with the PPC is via the PPC Executive Committee (EXCO), formed by a few
 parents within the PPC. Other than being the bridge between the School
 and PPC, the EXCO also oversees all initiatives and efforts undertaken
 by the PPC.</p>
-<p>The members of the EXCO for 2023 are:</p>
+<p>The members of the EXCO for 2024 are:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PPC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee_2024_Feb_V1.png">
 </div>
 <p>We are constantly welcoming passionate parents coming onboard our PPC
 family to share information, share experiences and contribute ideas in
