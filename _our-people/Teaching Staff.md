@@ -836,7 +836,7 @@ variant: tiptap
 <p>School Counselor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/allied-educators/#Joyce_" rel="noopener" target="_blank">Mdm Joyce Siew Phui Yee&nbsp;</a>
+<p><a href="/Joyce/" rel="noopener" target="_blank">Mdm Joyce Siew Phui Yee&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -851,11 +851,11 @@ variant: tiptap
 <p>Special Education Needs Officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/allied-educators/#Huishin_" rel="noopener" target="_blank">Miss Siti Fadhilah Atkha</a>
+<p><a href="/fadhilah/" rel="noopener" target="_blank">Miss Siti Fadhilah Atkha</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/allied-educators/#Geena_" rel="noopener noreferrer nofollow" target="_blank">Ms Geena Er Qian Hui</a>
+<p><a href="/geena/" rel="noopener noreferrer nofollow" target="_blank">Ms Geena Er Qian Hui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
