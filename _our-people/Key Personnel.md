@@ -325,7 +325,7 @@ variant: tiptap
 <p><em>"I believe that every child has the potential to learn. As an educator, my commitment revolves around empowering my students. This empowerment entails not only nurturing their acquisition of knowledge, but also instilling the courage to face challenges, nurturing adaptive and critical thinking and instilling a strong belief in their own ability to achieve success."</em>
 </p>
 <p>Tel ext:</p>
-<p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<p>Email:&nbsp;<a href="mailto:chan_wei_shen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wei_shen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
