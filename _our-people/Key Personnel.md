@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>English Language Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,7 +103,11 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong>Mathematics Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,7 +116,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Yap Huie Yuan</strong>
 </p>
-<p><strong><em>HOD/Mathematics</em></strong>
+<p><strong><em>HOD/Curriculum</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,7 +222,11 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong>Science Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -277,7 +289,11 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong>Mother Tongue Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -389,7 +405,11 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong>PE, ART, MUSIC (PAM) &amp; CCA Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -446,7 +466,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Character and Citizenship Education (CCE) Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -523,7 +547,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Information and Communication Technology (ICT) Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -565,7 +593,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>School Staff Developer (SSD)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -588,7 +620,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Student Management Department</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
