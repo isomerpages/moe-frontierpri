@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Frontier Inspiration.md
+      - The Frontier Inspiration.md
       - Principal's Message.md
       - Our History.md
       - Our Vision, Mission & Values.md
