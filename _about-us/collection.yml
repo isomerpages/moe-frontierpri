@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - The Frontier Inspiration.md
       - Principal's Message.md
       - Our History.md
       - Our Vision, Mission & Values.md
       - Our Crest.md
       - Our School Song.md
       - Our GREAT Culture.md
+      - The Frontier Inspiration.md
       - School Rules.md
       - School Virtual Tour.md
       - School Calendar.md
