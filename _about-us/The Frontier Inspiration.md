@@ -4,6 +4,13 @@ permalink: /the-frontier-inspiration/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Frontier_Inspiration_Windmill.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p>Like a windmill that harnesses the changing wind to generate positive
 energy, Frontier stands unwavering and thrives in the face of change, grounded
 in our philosophy of providing Strong Fundamentals for Future Learning.
