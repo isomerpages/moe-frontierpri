@@ -102,7 +102,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -240,12 +241,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
+<p><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -500,11 +500,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
+<p><a href="/jieqi" rel="noopener" target="_blank">Mrs Lee - Neo Jie Qi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/jieqi" rel="noopener" target="_blank">Mrs Lee - Neo Jie Qi</a>
+<p><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
 </p>
 </td>
 </tr>
