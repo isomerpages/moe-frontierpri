@@ -48,7 +48,7 @@ variant: tiptap
 <p>Mr Muhammad Hisham Bin Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Huei Yu, Vic</p>
+<p>Mr Lai Huei Yuh, Vic</p>
 </td>
 </tr>
 <tr>
