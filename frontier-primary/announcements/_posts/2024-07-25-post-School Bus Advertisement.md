@@ -43,7 +43,8 @@ Required from Vendor)</p>
 </ol>
 <p>• Address: 20 Jurong West Street 61, Singapore 648200</p>
 <p>• Contract Number: +65 6578 9555</p>
-<p>• Email: frontier_ps@moe.edu.sg</p>
+<p>• Email: <a href="frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>
+</p>
 <p>• Contact Person: Mr. Hiew Zi Jie</p>
 <p></p>
 <p><strong><u>How to get there?</u></strong>
