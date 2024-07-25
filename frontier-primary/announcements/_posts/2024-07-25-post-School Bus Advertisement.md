@@ -10,7 +10,9 @@ variant: tiptap
 <h4>School Bus Advertisement</h4>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<h4>Service Requirements</h4>
+<p></p>
+<p><strong><u>Service Requirements</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
@@ -23,9 +25,11 @@ Procedure below.</p>
 <li>
 <p><a href="/files/4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
 </p>
+<p></p>
 </li>
 </ol>
-<h4>Application Procedure</h4>
+<p><strong><u>Application Procedure</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the <a href="/files/2__Call_for_Proposal___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal – Annex A</a> (Information
@@ -34,16 +38,20 @@ Required from Vendor)</p>
 <li>
 <p>Submit the completed Call for Proposal – Annex A by closing date, 23:59,
 08 August 2024 to the School’s General Office.</p>
+<p></p>
 </li>
 </ol>
 <p>• Address: 20 Jurong West Street 61, Singapore 648200</p>
 <p>• Contract Number: +65 6578 9555</p>
-<p>• Email: <a href="frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sgsg</a>
+<p>• Email: frontier_ps@moe.edu.sg</p>
+<p>• Contact Person: Mr</p>
+<p></p>
+<p><strong><u>How to get there?</u></strong>
 </p>
-<p>• Contact Person: Mdm. Jessie</p>
-<h4>How to get there?</h4>
 <p>• Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
 <p>• Bus number: 900 – 3 minutes walking distance</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
