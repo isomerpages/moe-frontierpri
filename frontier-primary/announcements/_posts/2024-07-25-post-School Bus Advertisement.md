@@ -7,10 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School Bus Advertisement</p>
+<h4>School Bus Advertisement</h4>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<p>Service Requirements</p>
+<h4>Service Requirements</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Call for Proposal</p>
@@ -22,7 +22,7 @@ Procedure below.</p>
 <p>Request for School Bus Services</p>
 </li>
 </ol>
-<p>Application Procedure</p>
+<h4>Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the Call for Proposal – Annex A (Information Required from Vendor)</p>
@@ -37,11 +37,10 @@ Procedure below.</p>
 <p>• Email: <a href="mailto:abc_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abc_ps@moe.edu.sg</a>
 </p>
 <p>• Contact Person: Mdm. Jessie</p>
-<p><strong>How to get there?</strong>
-</p>
+<h4>How to get there?</h4>
 <p>• Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
 <p>• Bus number: 900 – 3 minutes walking distance</p>
 <p></p>
 <p></p>
 <p></p>
-<p>School Site: School Bus Advertisement</p>
+<p></p>
