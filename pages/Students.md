@@ -18,8 +18,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a> (SLS)
-(<a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">password reset</a>)</p>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a> (SLS)</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">SLS &amp; MIMS Help Form</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
