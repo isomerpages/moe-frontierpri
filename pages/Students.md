@@ -21,7 +21,7 @@ description: ""
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a> (SLS)</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">SLS &amp; MIMS Help Form</a>
+<p><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">MIMS School-based Helpline</a>
 </p>
 </li>
 <li>
