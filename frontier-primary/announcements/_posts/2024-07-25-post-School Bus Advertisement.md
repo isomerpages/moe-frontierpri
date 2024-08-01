@@ -49,8 +49,7 @@ Required from Vendor)</p>
 <p></p>
 <p><strong><u>How to get there?</u></strong>
 </p>
-<p>• Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
-<p>• Bus number: 900 – 3 minutes walking distance</p>
+<p>• Nearest MRT: Pioneer MRT (EW28 line) – 5 minutes walking distance</p>
 <p></p>
 <p></p>
 <p></p>
