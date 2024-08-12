@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Parents,</p>
+<p>Please find the HBL link for 13 August 2024 under For Students&gt;**HBL
+Links for 13 August** menu</p>
+<p>or you can click <strong>[here](<a href="https://frontierpri.moe.edu.sg/hbl-links-for-13-august-2024/)**" rel="noopener noreferrer nofollow" target="_blank">https://frontierpri.moe.edu.sg/hbl-links-for-13-august-2024/)</a></strong>.</p>
