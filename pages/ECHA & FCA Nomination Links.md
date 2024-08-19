@@ -53,11 +53,11 @@ deserving students for our consideration. You can access the forms from
 the following links, starting from 28 August 2024 (Wednesday) to 09 September
 2024 (Monday):</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Peer Nomination (P1-2): <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary1and2-peernomination2024</a>
+Peer Nomination (P1-2): <a href="https://go.gov.sg/primary1and2-peernomination2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary1and2-peernomination2024</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Peer Nomination (P3): <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary3-peernomination2024</a>
+Peer Nomination (P3): <a href="https://go.gov.sg/primary3-peernomination2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary3-peernomination2024</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Parent/ Guardian Nomination: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guardiannomination2024-primary1-3</a>
+Parent/ Guardian Nomination: <a href="https://go.gov.sg/parent-guardiannomination2024-primary1-3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guardiannomination2024-primary1-3</a>
 </p>
