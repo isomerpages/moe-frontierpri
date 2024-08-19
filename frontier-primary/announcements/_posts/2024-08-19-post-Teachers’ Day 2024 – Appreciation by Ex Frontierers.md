@@ -7,18 +7,28 @@ description: ""
 image: ""
 variant: tiptap
 ---
-**Teachers’ Day 2023 Appreciation by Ex Frontierers**
-
-
-We will be celebrating Teachers’ Day on Thursday, Aug 31, 2023.
-
-In view of the impending Polling Day for the Presidential Election 2023 scheduled on Friday, September 1, 2023, we want to inform you that that the school will not be able to accommodate visits from Ex Frontierers who had planned or were planning to meet with their teachers on August 31, 2023.  This decision is based on the following factors:
-
-1.	The school premises will be required to be cleared and secured between 12:00 PM to 2:00 PM on that day.  This is essential to facilitate the necessary preparations for converting the school into a Polling Station for the upcoming Polling Day.
-2.	Many of our teachers and staff members will be actively involved as election workers for the Presidential Election.  On the afternoon of August 31, they are required to report to their assigned election centers for important briefings and duties related to the election.
-
-For Ex Frontierers who wish to express their gratitude to their teachers, you are highly encouraged to fill in the Google Form: https://go.gov.sg/frontier-teachersday  This platform will serve as an alternative way to convey your appreciation.
-
-We sincerely appreciate your understanding, cooperation, and ongoing support.  Your cooperation during this time is greatly valued.
-
-Thank you.
+<p>Dear Alumni,&nbsp;</p>
+<p>As Teacher’s Day approaches, we welcome you to return to Frontier on <strong>Thursday, 29 August, between 1 to 2pm</strong>.
+This special day is an opportunity to reconnect with your former teachers
+and express gratitude towards them.&nbsp;&nbsp;</p>
+<p>However, there is also a need to ensure that normal school operations
+are not affected. Student and staff safety remains as the school’s priority.&nbsp;</p>
+<p>Please note that you should be dressed <strong>appropriately</strong> and
+your movement is restricted to Canteen only. Our staff will ensure order
+in the school, so we appreciate your cooperation. The school reserves the
+right to invite uncooperative/disrespectful visitors out of the school
+premises.&nbsp;</p>
+<p>Thank you and we look forward to seeing you!&nbsp;</p>
+<p><u>Alumni Dress Code</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full school or half school uniform (school T-shirt with school pants/skirt)
+is preferred.&nbsp;</p>
+</li>
+<li>
+<p>No revealing attire (top or bottom), fanciful hair style and colour and
+visible tattoos on any part of body.</p>
+</li>
+</ul>
+<p></p>
