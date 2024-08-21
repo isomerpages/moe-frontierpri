@@ -59,5 +59,5 @@ Peer Nomination (P1-2): <a href="https://go.gov.sg/primary1and2-peernomination20
 Peer Nomination (P3): <a href="https://go.gov.sg/primary3-peernomination2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary3-peernomination2024</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Parent/ Guardian Nomination: <a href="https://go.gov.sg/parent-guardiannomination2024-primary1-3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guardiannomination2024-primary1-3</a>
+Parent/ Guardian Nomination: <a href="https://go.gov.sg/parent-guardiannomination2024-primary1to3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guardiannomination2024-primary1-3</a>
 </p>
