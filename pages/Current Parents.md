@@ -45,6 +45,14 @@ description: ""
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Accident Insurance</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/parentguardiannomination2024" rel="noopener nofollow" target="_blank">Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2024 Nomination</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/parent-guardiannomination2024-primary1-" rel="noopener nofollow" target="_blank">Enhancements to Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) Nomination</a>
+</p>
+</li>
 </ol>
 </td>
 </tr>
