@@ -548,6 +548,7 @@ Examination</p>
 </tbody>
 </table>
 <p>&nbsp;&nbsp;</p>
-<p>Information above is accurate as of 24 June 2024. Details of the specific
-events will be provided in separate letters and consent forms nearer the
-dates. Please note that events in the School Calendar are subject to change.</p>
+<p>**Information above is accurate as of 09 September 2024. Details of the
+specific events will be provided in separate letters and consent forms
+nearer the dates. Please note that events in the School Calendar are subject
+to change.</p>
