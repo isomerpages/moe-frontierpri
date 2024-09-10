@@ -37,7 +37,8 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>PSLE Listening Comprehension</p>
+<p>PSLE Listening Comprehension
+<br>(No school for P1 to P5 students)</p>
 </li>
 </ul>
 </td>
@@ -261,10 +262,12 @@ Examination</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>PSLE Marking Exercise</p>
+<p>PSLE Marking Exercise
+<br>(No school for P1, P2, P6 students)</p>
 </li>
 <li>
-<p>P3 to P5 Support Programme</p>
+<p>P3 to P5 Support Programme
+<br>(For selected students)</p>
 </li>
 <li>
 <p>P6 SwimSafer and Coding Programme</p>
@@ -279,10 +282,12 @@ Examination</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>PSLE Marking Exercise</p>
+<p>PSLE Marking Exercise
+<br>(No school for P1, P2, P6 students)</p>
 </li>
 <li>
-<p>P3 to P5 Support Programme</p>
+<p>P3 to P5 Support Programme
+<br>(For selected students)</p>
 </li>
 <li>
 <p>P6 SwimSafer and Coding Programme</p>
@@ -548,7 +553,7 @@ Examination</p>
 </tbody>
 </table>
 <p>&nbsp;&nbsp;</p>
-<p>**Information above is accurate as of 09 September 2024. Details of the
+<p>**Information above is accurate as of 10 September 2024. Details of the
 specific events will be provided in separate letters and consent forms
 nearer the dates. Please note that events in the School Calendar are subject
 to change.</p>
