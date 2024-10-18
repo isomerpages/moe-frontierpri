@@ -131,12 +131,8 @@ way</p>
 <p><strong><u>Frontier Cares</u></strong>
 <br>
 </p>
-</li>
-</ol>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -146,30 +142,25 @@ way</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Frontier_cares_1.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Frontier_cares_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Frontier_cares_3.jpg">
-</div>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Showing concern when the bear is injured.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Frontier_cares_2.jpg">
+</div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Taking care of the bear during snack time.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Including the Frontier Care in our class photo.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Frontier_cares_3.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Aims to nurture Values, Social and Emotional competencies, and Learning
