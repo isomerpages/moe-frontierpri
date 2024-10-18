@@ -180,9 +180,7 @@ Dispositions in our children through their daily lived experiences</p>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MSMlk-zQVWrYFMsvAHkdAGX3TGhKWQXO/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/outdoor_photo.jpg"></a>
 </li>
 </ol>
-<p><em>Watch the video above!</em>
-<br><em>--</em>
-</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>30 minutes of daily outdoor time in various settings</p>
@@ -196,4 +194,24 @@ classroom learning</p>
 <p>Foster meaningful friendship and build their social emotional competencies</p>
 </li>
 </ul>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong><u>Musical Garden</u></strong>
+</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/mk_frontier_edible_garden.jpg">
+</div>
+<blockquote>
+<p><strong><em><a href="/files/MK RESOURCES/mk_frontier_edible_garden.pdf" rel="noopener nofollow" target="_blank">Check out this garden!</a></em></strong>
+</p>
+</blockquote>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
