@@ -4,7 +4,11 @@ permalink: /mk-curriculum/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>HI-Light Programme</u></strong> 
+<h4><strong>HI-Light Programme </strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/hi_light_photo.jpg">
+</div>
+<p>
 <br>The HI-Light programme is designed to support the holistic development
 of children by nurturing in them values, social and emotional skills and
 learning dispositions, as well as knowledge and skills across the following
