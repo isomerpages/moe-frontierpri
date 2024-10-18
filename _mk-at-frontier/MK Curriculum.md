@@ -31,11 +31,11 @@ five learning areas through an integrated approach:</p>
 </li>
 <li>
 <p>Numeracy</p>
-<p></p>
+<hr>
 </li>
 </ul>
-<p><strong><u>Starlight Literacy Programme</u></strong> 
-<br>Starlight Literacy Programme help to nurtures early bilingualism. The
+<h4><strong>Starlight Literacy Programme</strong> </h4><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/13m06WsswIVyfJtGzNa306toG54mxFFLM/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="Click on the imhttps://drive.google.com/file/d/13m06WsswIVyfJtGzNa306toG54mxFFLM/view?usp=drive_linkage above" src="/images/MK RESOURCES/starlight_photo.jpg"></a>
+<p>Starlight Literacy Programme help to nurtures early bilingualism. The
 programme is offered in English and 3 Mother Tongue languages (Chinese,
 Malay and Tamil).
 <br>
