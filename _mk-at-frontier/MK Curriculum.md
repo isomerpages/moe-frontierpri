@@ -180,6 +180,9 @@ Dispositions in our children through their daily lived experiences</p>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MSMlk-zQVWrYFMsvAHkdAGX3TGhKWQXO/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/outdoor_photo.jpg"></a>
 </li>
 </ol>
+<p>Click on the link below to watch the videos:
+<br><strong>1) <a href="https://drive.google.com/file/d/1dC_Q7UNjFm0DQWo8uNBNgqEQny4hnr8D/view?usp=drive_link" rel="noopener nofollow" target="_blank">Outdoor Video 1</a><br>2) <a href="https://drive.google.com/file/d/1MSMlk-zQVWrYFMsvAHkdAGX3TGhKWQXO/view?usp=drive_link" rel="noopener nofollow" target="_blank">Outdoor Video 2</a></strong>
+</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
