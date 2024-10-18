@@ -34,7 +34,7 @@ five learning areas through an integrated approach:</p>
 <hr>
 </li>
 </ul>
-<h4><strong>Starlight Literacy Programme</strong> </h4><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/13m06WsswIVyfJtGzNa306toG54mxFFLM/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="Click on the imhttps://drive.google.com/file/d/13m06WsswIVyfJtGzNa306toG54mxFFLM/view?usp=drive_linkage above" src="/images/MK RESOURCES/starlight_photo.jpg"></a>
+<h4><strong>Starlight Literacy Programme</strong></h4><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/13m06WsswIVyfJtGzNa306toG54mxFFLM/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="Click on the imhttps://drive.google.com/file/d/13m06WsswIVyfJtGzNa306toG54mxFFLM/view?usp=drive_linkage above" src="/images/MK RESOURCES/starlight_photo.jpg"></a>
 <p>Starlight Literacy Programme help to nurtures early bilingualism. The
 programme is offered in English and 3 Mother Tongue languages (Chinese,
 Malay and Tamil).
@@ -90,6 +90,7 @@ Dispositions in our children through their daily lived experiences</p>
 <li>
 <p><strong>Outdoor Learning</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MSMlk-zQVWrYFMsvAHkdAGX3TGhKWQXO/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/outdoor_photo.jpg"></a>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
