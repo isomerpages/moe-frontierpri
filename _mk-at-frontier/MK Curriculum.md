@@ -90,12 +90,10 @@ learning and finding answers to their questions.
 </tbody>
 </table>
 <hr>
-<h4><strong>Routines &amp; Transitions</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/learning_centre_photo.jpg">
-</div>
-<p>Opportunities for children to develop self-help and other social skills,
+<h4><strong>Routines &amp; Transitions</strong></h4><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1S-YVJqwJFER6a-2chCc2js-oXLDhfXbe/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/learning_centre_photo.jpg"></a>
+<p><em>Watch the video above!</em>
+<br><em>--</em>
+<br>Opportunities for children to develop self-help and other social skills,
 inculcate values and good habits in children are provided through the daily
 routines and transitions.</p>
 <hr>
