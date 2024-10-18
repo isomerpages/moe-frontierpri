@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/hi_light_photo.jpg">
 </div>
-<p>Click on the link below to watch the videos:
+<p>Click on the link below:
 <br>1) <strong><a href="https://drive.google.com/file/d/18kXVQ6Qae4VKWdNErTOK4mOPxTkOE9C9/view?usp=drive_link" rel="noopener nofollow" target="_blank">HI-Light Video 1</a></strong>
 <br>2) <strong><a href="https://drive.google.com/file/d/1pyU_9X37F2rNyoS-juD6C1UsO7IzEcUf/view?usp=drive_link" rel="noopener nofollow" target="_blank">HI-Light Video 2</a></strong>
 <br>
