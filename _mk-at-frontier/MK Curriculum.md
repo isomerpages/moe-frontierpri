@@ -95,6 +95,9 @@ routines and transitions.</p>
 <hr>
 <h4><strong>Centre Based Programmes</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1S-YVJqwJFER6a-2chCc2js-oXLDhfXbe/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/learning_centre_photo.jpg"></a>
+<p><em>Watch the video above!</em>
+<br><em>--</em>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Digital Literacy</u></strong>
