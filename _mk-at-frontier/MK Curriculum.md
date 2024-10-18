@@ -91,15 +91,24 @@ learning and finding answers to their questions.
 </table>
 <hr>
 <h4><strong>Routines &amp; Transitions</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/learning_centre_photo.jpg">
+</div>
 <p>Opportunities for children to develop self-help and other social skills,
 inculcate values and good habits in children are provided through the daily
 routines and transitions.</p>
 <hr>
 <h4><strong>Centre Based Programmes</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1S-YVJqwJFER6a-2chCc2js-oXLDhfXbe/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/learning_centre_photo.jpg"></a>
-<p><em>Watch the video above!</em>
-<br><em>--</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/mkreads.jpg">
+</div>
+<blockquote>
+<p><strong><a href="/files/MK RESOURCES/mkreads.pdf" rel="noopener nofollow" target="_blank">MK Reads</a></strong>
 </p>
+<p></p>
+</blockquote>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Digital Literacy</u></strong>
@@ -177,7 +186,10 @@ Dispositions in our children through their daily lived experiences</p>
 <li>
 <p><strong><u>Outdoor Learning</u></strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1MSMlk-zQVWrYFMsvAHkdAGX3TGhKWQXO/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/outdoor_photo.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/outdoor_photo.jpg">
+</div>
 </li>
 </ol>
 <p>Click on the link below to watch the videos:
