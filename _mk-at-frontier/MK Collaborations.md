@@ -7,7 +7,9 @@ variant: tiptap
 <blockquote>
 <h2>Collaborations with Parents</h2>
 </blockquote><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1w22vffk_9-_G74J1h9yb66nHjZ8gQmSq/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/transition_photo.jpg"></a>
-<p>Being part of Frontier Primary School, we enhance children's learning
+<p><em>Watch the video above!</em>
+<br><em>--</em>
+<br>Being part of Frontier Primary School, we enhance children's learning
 and promote our CARE values by collaborating with the primary school by
 being involved in activities such as:</p>
 <ul data-tight="true" class="tight">
