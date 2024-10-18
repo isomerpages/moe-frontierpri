@@ -202,12 +202,12 @@ classroom learning</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/mk_frontier_edible_garden.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Musical_garden_1.jpg">
 </div>
-<blockquote>
-<p><strong><em><a href="/files/MK RESOURCES/mk_frontier_edible_garden.pdf" rel="noopener nofollow" target="_blank">Check out this garden!</a></em></strong>
-</p>
-</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/Musical_garden_2.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
