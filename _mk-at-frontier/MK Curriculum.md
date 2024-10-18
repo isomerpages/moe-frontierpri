@@ -39,16 +39,20 @@ five learning areas through an integrated approach:</p>
 programme is offered in English and 3 Mother Tongue languages (Chinese,
 Malay and Tamil).
 <br>
-<br><strong><u>Weeks of Wonder (WoW)</u></strong> 
+</p>
+<hr>
+<p><strong><u>Weeks of Wonder (WoW)</u></strong> 
 <br>Children work with their peers and teachers to investigate topics of their
 interest. Through the WoW projects, children experience the joy of self-motivated
 learning and finding answers to their questions.
 <br>
-<br><strong><u>Routines &amp; Transitions</u></strong> 
+</p>
+<hr>
+<p><strong><u>Routines &amp; Transitions</u></strong> 
 <br>Opportunities for children to develop self-help and other social skills,
 inculcate values and good habits in children are provided through the daily
 routines and transitions.</p>
-<p></p>
+<hr>
 <p><strong><u>Centre Based Programmes</u></strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -67,7 +71,7 @@ way</p>
 </li>
 <li>
 <p>Opportunities to use iPads as a learner’s tool</p>
-<p></p>
+<hr>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
@@ -75,6 +79,8 @@ way</p>
 <p><strong>Frontier Cares</strong>
 <br>
 </p>
+</li>
+</ol>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -112,8 +118,6 @@ way</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Aims to nurture Values, Social and Emotional competencies, and Learning
@@ -121,7 +125,7 @@ Dispositions in our children through their daily lived experiences</p>
 </li>
 <li>
 <p>2-year project (From K1 to K2)</p>
-<p></p>
+<hr>
 </li>
 </ul>
 <ol start="3" data-tight="true" class="tight">
