@@ -47,6 +47,46 @@ interest. Through the WoW projects, children experience the joy of self-motivate
 learning and finding answers to their questions.
 <br>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/WoW_Project_CL.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/WoW_Project_ML.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/WoW_Project_TL.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/MK RESOURCES/WoW_Project_CL.pdf" rel="noopener nofollow" target="_blank">Chinese Language</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/MK RESOURCES/WoW_Project_ML.pdf" rel="noopener nofollow" target="_blank">Malay Language</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/MK RESOURCES/WoW_Project_TL.pdf" rel="noopener nofollow" target="_blank">Tamil Language</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p><strong><u>Routines &amp; Transitions</u></strong> 
 <br>Opportunities for children to develop self-help and other social skills,
