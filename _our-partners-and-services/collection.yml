@@ -2,6 +2,7 @@ collections:
   our-partners-and-services:
     output: true
     order:
+      - School Advisory Committee.md
       - Alumni.md
       - Local Partners.md
       - Overseas Partners.md
