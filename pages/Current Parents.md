@@ -82,6 +82,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://drive.google.com/file/d/1GR8tbCJRMIWgqD_tczXOGjl5gszKs5Sy/view?usp=sharing" rel="noopener nofollow" target="_blank">Higher Mother Tongue Parent's Briefing Slides</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.frontierpri.moe.edu.sg/learning-festival-for-parents/" rel="noopener noreferrer nofollow" target="_blank">Learning Festival</a>
 </p>
 </li>
