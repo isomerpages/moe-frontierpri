@@ -82,7 +82,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1GR8tbCJRMIWgqD_tczXOGjl5gszKs5Sy/view?usp=sharing" rel="noopener nofollow" target="_blank">Higher Mother Tongue Parent's Briefing Slides</a>
+<p><a href="https://drive.google.com/file/d/1GR8tbCJRMIWgqD_tczXOGjl5gszKs5Sy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Offering of Higher Mother Tongue Language for Primary 3 in 2025</a>
 </p>
 </li>
 <li>
@@ -95,10 +95,6 @@ description: ""
 </li>
 <li>
 <p><a href="https://go.gov.sg/mtsp-briefing-to-parents" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Support Programme Information Session</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/hmtl-p3-2024" rel="noopener noreferrer nofollow" target="_blank">Offering of Higher Mother Tongue Language for Primary 3 in 2024</a>
 </p>
 </li>
 </ol>
