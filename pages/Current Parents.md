@@ -82,7 +82,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1GR8tbCJRMIWgqD_tczXOGjl5gszKs5Sy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Offering of Higher Mother Tongue Language for Primary 3 in 2025</a>
+<p><a href="https://go.gov.sg/p3-hmt-2025" rel="noopener noreferrer nofollow" target="_blank">Offering of Higher Mother Tongue Language for Primary 3 in 2025</a>
 </p>
 </li>
 <li>
