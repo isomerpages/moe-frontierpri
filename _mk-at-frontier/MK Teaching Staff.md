@@ -253,7 +253,8 @@ variant: tiptap
 </p>
 <p><em>'Education is a tree shaking a tree, a cloud to promote a cloud, a soul awaken another soul'— Karl Theodor Jaspers"</em>
 </p>
-<p>Email:&nbsp;</p>
+<p>Email:&nbsp;<a href="mailto:Wen_Lanfen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wen_Lanfen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +270,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>"Every child is unique. Let’s appreciate their strengths, support their growth, and tailor our teaching to nurture their love for learning Chinese."</em>
 </p>
-<p>Email:&nbsp;</p>
+<p>Email:&nbsp;<a href="mailto:Rui_Rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rui_Rui@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
