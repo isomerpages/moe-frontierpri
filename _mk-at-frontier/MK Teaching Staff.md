@@ -240,7 +240,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wen </strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/wen_lanfen.jpg">
+</div>
+<p><strong>Ms Wen Lanfen</strong>
 </p>
 <p><em>Chinese Language Teacher</em>
 </p>
@@ -255,6 +258,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/RUI_RUI.jpg">
+</div>
 <p><strong>Ms Rui Rui</strong>
 </p>
 <p><em>Chinese Language Teacher</em>
