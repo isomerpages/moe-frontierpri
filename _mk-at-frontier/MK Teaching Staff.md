@@ -277,6 +277,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Ms Lu RuiQin</strong>
+</p>
+<p><em>Chinese Language Teacher</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"I believe that children are unique individuals with varied abilities, interests, needs, and learning styles. They should feel valued and encouraged to reach their full potential."</em>
+</p>
+<p>Email:&nbsp;<a href="mailto:lu_ruiqin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_ruiqin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts23.jpg">
 </div>
