@@ -11,7 +11,11 @@ variant: tiptap
 </p>
 <p><em>"Every child is unique with his own strengths, temperaments and needs. The child as a learner is sincere and earnest in his quest for knowledge and excellence. Given the right nurturing care and environment, every child will be able to succeed and contribute in his own ways. A child's success should be celebrated to spur him on and his failure should be forgiven so that he is not afraid to explore and attempt. Thus, each child should be appreciated in his own merits and be encouraged to pursue and excel in his areas of interests and strengths. Every child symbolizes hope for the country and should be cherished, nurtured and developed to become a useful citizen."</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,33 +73,32 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/ts6.jpg">
+<img style="width:75%;;" height="auto" width="100%" src="/images/Prevena.jpg">
 </div>
-<p><strong>Ms Nursyura Binte Supari</strong>
+<p><strong>Ms Prevena D/O Kannathass</strong>
 </p>
-<p><em>Senior Teacher / EL</em>
-</p>
+<p><em>Senior Teacher</em> / EL (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"I come to school every day looking forward to creating smiles and developing the love for learning in our little charges!"</em>
+<p><em>""Educating the mind without educating the heart is no education at all"- Aristotle"</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:nurasyura_binte_supari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurasyura_binte_supari@schools.gov.sg</a>
+<p>Email:&nbsp;<a href="mailto:prevena_kannathass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prevena_kannathass</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Prevena.jpg">
+<img style="width:75%;" height="auto" width="100%" src="/images/ts11.png">
 </div>
-<p><strong>Ms Prevena D/O Kannathass</strong>
+<p><strong>Ms Khong Mei Chan</strong>
 </p>
-<p><em>Senior Teacher</em> / EL</p>
+<p><em>Senior Teacher</em> / EL (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>""Educating the mind without educating the heart is no education at all"- Aristotle"</em>
+<p><em>"Children can reach for the stars when provided with an environment that is safe for exploration."</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:prevena_kannathass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prevena_kannathass</a>
+<p>Email:&nbsp;<a href="mailto:khong_mei_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khong_mei_chen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -113,23 +116,6 @@ variant: tiptap
 <p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em>
 </p>
 <p>Email:&nbsp;<a href="mailto:khoo_ann_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ann_yee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/ts11.png">
-</div>
-<p><strong>Ms Khong Mei Chan</strong>
-</p>
-<p><em>English Language Teacher</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"Children can reach for the stars when provided with an environment that is safe for exploration."</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:khong_mei_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khong_mei_chen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -181,23 +167,6 @@ variant: tiptap
 <p><em>"Love is the best education. It is important to love the children and to provide them with a pleasant environment that develops them into a positive, confident and loving individuals. Children learn best through fun and engaging activities."</em>
 </p>
 <p>Email:&nbsp;<a href="mailto:Yu_Ying_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yu_Ying_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/ts20.jpg">
-</div>
-<p><strong>Ms Liu Hui</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"Each child has something special that can be built upon. The more we believe in him, will enable him to achieve his or her highest potential."</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:liu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -266,6 +235,60 @@ variant: tiptap
 <p><em>"I believe that every child is a unique individual and pro-active learner. I value and wish to cultivate self-learning and reflectiveness. I will provide learning opportunities to enhance their learning and development."</em>
 </p>
 <p>Email:&nbsp;<a href="mailto:low_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jasmine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/wen_lanfen.jpg">
+</div>
+<p><strong>Ms Wen Lanfen</strong>
+</p>
+<p><em>Chinese Language Teacher</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"I believe in encouraging and leading the children. They will grow to be unique, independent individuals who seek self-improvement.</em>
+</p>
+<p><em>'Education is a tree shaking a tree, a cloud to promote a cloud, a soul awaken another soul'— Karl Theodor Jaspers"</em>
+</p>
+<p>Email:&nbsp;<a href="mailto:Wen_Lanfen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wen_Lanfen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/RUI_RUI.jpg">
+</div>
+<p><strong>Ms Rui Rui</strong>
+</p>
+<p><em>Chinese Language Teacher</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"Every child is unique. Let’s appreciate their strengths, support their growth, and tailor our teaching to nurture their love for learning Chinese."</em>
+</p>
+<p>Email:&nbsp;<a href="mailto:Rui_Rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rui_Rui@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Lu_Ruiqin.jpg">
+</div>
+<p><strong>Ms Lu RuiQin</strong>
+</p>
+<p><em>Chinese Language Teacher</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"I believe that children are unique individuals with varied abilities, interests, needs, and learning styles. They should feel valued and encouraged to reach their full potential."</em>
+</p>
+<p>Email:&nbsp;<a href="mailto:lu_ruiqin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_ruiqin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
