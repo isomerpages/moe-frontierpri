@@ -18,7 +18,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/hbl-links-for-13-august-2024/" rel="noopener noreferrer nofollow" target="_blank">HBL Links for 13 August</a>
+<p><a href="/hbl-links/" rel="noopener nofollow" target="_blank">Links to HBL Matters</a>
 </p>
 </li>
 <li>

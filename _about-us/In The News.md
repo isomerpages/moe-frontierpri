@@ -2,8 +2,9 @@
 title: In The News
 permalink: /in-the-news/
 description: ""
+variant: markdown
 ---
-<h4><strong>n-The-News@Frontier Archive for 2019<br></strong></h4>
+<h4><strong>In-The-News@Frontier Archive for 2019<br></strong></h4>
 <ul>
 <li><strong><a href="/images/Zhaobao.jpg" target="_blank" rel="noopener">Lianhe Zaobao - </a>04/08/2019</strong></li>
 <li><strong><a href="/images/11062019.jpg" target="_blank" rel="noopener">Shin Min Daily News- </a>11/06/2019<br></strong><strong><br></strong></li>
