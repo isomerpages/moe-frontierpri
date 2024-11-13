@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <blockquote>
-<p>Guides to Access Zoom Meeting</p>
+<p>Guides to MS Teams</p>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
