@@ -97,6 +97,10 @@ description: ""
 <p><a href="https://go.gov.sg/mtsp-briefing-to-parents" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Support Programme Information Session</a>
 </p>
 </li>
+<li>
+<p><a href="/files/P1_Orientation_AY2025.pdf" rel="noopener nofollow" target="_blank">P1 Orientation AY2025</a>
+</p>
+</li>
 </ol>
 </td>
 </tr>
