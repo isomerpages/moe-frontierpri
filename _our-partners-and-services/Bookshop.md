@@ -67,7 +67,7 @@ variant: tiptap
 <p>P5 4S1H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/BOOKLISTS 2024/FPS_P5_4S_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong>
+<p><a href="/files/BOOKLISTS 2025/FPS_P5__4S_HMT_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ variant: tiptap
 <p>P5 4S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/BOOKLISTS 2024/FPS_P5_4S.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong>
+<p><a href="/files/BOOKLISTS 2025/FPS_P5__4S_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +113,7 @@ variant: tiptap
 <p>P5 2S2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/BOOKLISTS 2024/FPS_P5_2S2F.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong>
+<p><a href="/files/BOOKLISTS 2025/FPS_P5__2S2F_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ variant: tiptap
 <p>P5 3S1FMA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/BOOKLISTS 2024/FPS_P5_3S1FMA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong>
+<p><a href="/files/BOOKLISTS 2025/FPS_P5__3S1FMA_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +158,7 @@ variant: tiptap
 <p>P5 3S1FMTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/BOOKLISTS 2024/FPS_P5_3S1FMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong>
+<p><a href="/files/BOOKLISTS 2025/P5__3S1FMT_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +180,7 @@ variant: tiptap
 <p>P5 4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/BOOKLISTS 2024/FPS_P5_4F.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong>
+<p><a href="/files/BOOKLISTS 2025/P5__4F_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
