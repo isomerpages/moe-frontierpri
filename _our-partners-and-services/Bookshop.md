@@ -166,7 +166,7 @@ variant: tiptap
 <p>P6 3S1FMA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6__3S1FMA_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6__3S1FMA_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
