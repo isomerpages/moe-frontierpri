@@ -74,7 +74,7 @@ variant: tiptap
 <p>P6 4S1H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6__4S_HMT_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6__4S_HMT_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>P6 4S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6__4S_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6__4S_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>P6 2S2F (FMA &amp; FSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FSC_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FSC_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
@@ -143,7 +143,8 @@ variant: tiptap
 <p>P6 2S2F (FMA &amp; FMT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FMT_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FMT_.pdf" rel="noopener nofollow" target="_blank">Downloa</a></strong>
+<a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FMT_.pdf" rel="noopener nofollow" target="_blank">d</a>
 </p>
 </td>
 </tr>
@@ -187,7 +188,7 @@ variant: tiptap
 <p>P6 3S1FMTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6__3S1FMT_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6__3S1FMT_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
@@ -208,7 +209,7 @@ variant: tiptap
 <p>P6 4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6__4F_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6__4F_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
@@ -230,7 +231,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKLISTS 2025/FPS_P6__1S3F_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong><a href="/files/BOOKLISTS 2025/FPS_P6__1S3F_.pdf" rel="noopener nofollow" target="_blank">Download</a></strong>
 </p>
 </td>
 </tr>
