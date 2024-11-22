@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/di.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -65,25 +69,13 @@ and relationships through positive interactions with their peers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Design and Innovation CCA aims to develop students:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>to think independently and critically, and communicate effectively&nbsp;<em>(21CC – Confident Person)</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to <strong><u>think independently and critically</u></strong>,
+and <strong><u>explain their reasoning and decision</u></strong> 
 </p>
-</li>
-<li>
-<p>to work in teams, is innovative, takes calculated risks and strives for
-excellence&nbsp;<em>(21 CC – Active Contributor)</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Being <strong><u>reflective to question, modify and improve thoughts</u></strong>
 </p>
-</li>
-<li>
-<p>to take an active role in bettering the lives of others and is informed
-about Singapore and the world (21CC – Concerned Citizen)</p>
-</li>
-<li>
-<p>to question, reflect, persevere and takes responsibility for own learning
-(21 CC – Self-directed Learner)</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to <strong><u>interact and work effectively in group settings</u></strong>,
+and strives for excellence</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +84,10 @@ about Singapore and the world (21CC – Concerned Citizen)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -101,12 +96,12 @@ about Singapore and the world (21CC – Concerned Citizen)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Nidzam (2nd&nbsp;IC)</p>
+<p>Mr Mohammed Nidzam (1st&nbsp;IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Tze Miang Rachel</p>
+<p>Mr Chan Wei Shen (2nd IC)</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +111,7 @@ about Singapore and the world (21CC – Concerned Citizen)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Carrie Laksman</p>
+<p>Mdm Chia Tze Miang Rachel</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +129,8 @@ about Singapore and the world (21CC – Concerned Citizen)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, 2:00 p.m. to 4:00 p.m. at Digital Den Red, Blue, Purple</p>
+<p><strong>Fridays,</strong> 2:00 p.m. to 4:00 p.m. at Digital Den Red, Blue,
+Purple</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +144,12 @@ about Singapore and the world (21CC – Concerned Citizen)</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
