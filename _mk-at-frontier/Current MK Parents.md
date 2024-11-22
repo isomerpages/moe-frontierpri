@@ -50,11 +50,11 @@ please refer to the <a href="/files/Steps_to_apply_GIRO_online_for_DBS_and_POSB_
 <h4><strong>K1 Orientation</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.frontierpri.moe.edu.sg/files/MKFT_Slides_for_K1_Orientation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MK K1 2024 Orientation</a>
+<p><a href="/files/MK RESOURCES/MK_K1_2025_Orientation.pdf" rel="noopener nofollow" target="_blank">MK K1 2025 Orientation</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.frontierpri.moe.edu.sg/files/KCare-K1-2021-Orientation-Slides-.pdf" rel="noopener noreferrer nofollow" target="_blank">KCare K1 2021 Orientation Slides</a>
+<p><a href="/files/MK RESOURCES/KCare_K1_2025_Orientation.pdf" rel="noopener nofollow" target="_blank">KCare K1 2025 Orientation</a>
 </p>
 </li>
 </ol>
