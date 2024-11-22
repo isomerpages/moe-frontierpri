@@ -117,10 +117,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 1S3F</p>
+<p>P6 2S2F (FMA &amp; FSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FSC_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,10 +140,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 2S2F</p>
+<p>P6 2S2F (FMA &amp; FMT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BOOKLISTS 2025/FPS_P6_2S2F__FMA___FMT_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -207,6 +209,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/BOOKLISTS 2025/FPS_P6__4F_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 1S3F</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/BOOKLISTS 2025/FPS_P6__1S3F_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
