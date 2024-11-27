@@ -54,7 +54,7 @@ please refer to the <a href="/files/Steps_to_apply_GIRO_online_for_DBS_and_POSB_
 </p>
 </li>
 <li>
-<p><a href="/files/MK RESOURCES/KCare_K1_2025_Orientation.pdf" rel="noopener nofollow" target="_blank">KCare K1 2025 Orientation</a>
+<p><a href="/files/MK RESOURCES/KCare_K1_2025_Orientation_.pdf" rel="noopener nofollow" target="_blank">KCare K1 2025 Orientation</a>
 </p>
 </li>
 </ol>
