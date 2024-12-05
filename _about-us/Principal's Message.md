@@ -22,7 +22,7 @@ and imbibed with the essential values. Our tag line “<strong>Dancers with Life
 our aspirations for our students to thrive in the face of life’s challenges
 and be able to forge new breakthroughs in their journeys ahead.&nbsp;</p>
 <p>As a young school, we have made steady progress, developing our students
-to be wholesome individuals with tenacity and adaptability. Guided by our <strong><em>Think. Tech. Grow. Teaching &amp; Learning Framework</em></strong>,
+to be wholesome individuals with tenacity and adaptability. Guided by our <strong><em>Think. Tech. Grow Teaching &amp; Learning Framework</em></strong>,
 Frontier is one of the first schools to onboard the <strong><em>MOE’s EdTech Masterplan 2030</em></strong> and
 we will be onboarding <strong><em>MOE’s E21CC</em></strong> in 2025. Supported
 by these two powerful directives <em>and our</em><strong><em> 4E Strategy </em></strong><em>which aims to</em><strong><em> Enable, Engage, Enrich and Empower</em></strong>,
