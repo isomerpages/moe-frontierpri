@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>The Frontier Inspiration</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P_Message.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P_Message.jpg">
 </div>
 <p>I am privileged to be appointed the 2<sup>nd</sup>&nbsp;Principal of Frontier
 Primary School with effect from 15 Dec 2017.</p>
