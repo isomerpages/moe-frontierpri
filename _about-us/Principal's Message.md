@@ -46,7 +46,7 @@ the school will grow from strength to strength. For parents who are deciding
 on a school that will adequately equip its students to be new future-ready,
 you know you can entrust your precious ones with Frontier. &nbsp;</p>
 <p></p>
-<p><strong> Make a Difference, Be the Difference<br></strong><em>our School Motto that continues to inspire and guide us ……….</em>
+<p><strong>Make a Difference, Be the Difference<br></strong><em>our School Motto that continues to inspire and guide us ……….</em>
 </p>
 <p>Mrs Tonnine Chua
 <br>Principal, Frontier Primary School &amp; MK@Frontier</p>
