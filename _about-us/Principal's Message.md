@@ -4,7 +4,7 @@ permalink: /principals-message/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Strong Fundamentals, Future Learning</strong></h4>
+<h4><strong>The Frontier Inspiration</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P_Message.jpg">
