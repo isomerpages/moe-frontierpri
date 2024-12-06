@@ -30,7 +30,7 @@ our students will learn and thrive with skilful innovative teaching and
 values inculcation and within a conducive and enabling school environment.
 &nbsp;Under the careful supervision of our committed teachers, our students
 are nurtured to blossom to be the best that they could be. We are proud
-that while our Frontiers continue to excel beyond the non-academics, their
+that while our Frontiers continue to excel beyond the academics, their
 PSLE sterling results have sustained and surpassed national standards since
 2018. Our highly esteemed teachers have been selected to share and present
 at the national and international conferences to benefit more educators
