@@ -412,7 +412,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp19.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp19.jpg">
 </div>
 <p><strong>Mr Tan Choon Seng, Anderson</strong>
 </p>
@@ -430,11 +430,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp20.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp20.jpg">
 </div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
-<p><strong><em>SH/PE &amp; Sports</em></strong>
+<p><strong><em>Subject Head / PE &amp; Sports</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,9 +448,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
 </div>
-<p><strong>Mdm Jessica Kho Siok Ching<br>ST/Art</strong>
+<p><strong>Mdm Jessica Kho Siok Ching<br>Senior Teacher / Art</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,7 +473,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp21.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp21.jpg">
 </div>
 <p><strong>Miss Jeannett Lay Jia Xin</strong>
 </p>
@@ -491,11 +491,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp22.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp22.jpg">
 </div>
 <p><strong>Mdm Nusraat Begum Bte Akbar Ali</strong>
 </p>
-<p><strong><em>SH/CCE</em></strong>
+<p><strong><em>Subject Head/CCE</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
