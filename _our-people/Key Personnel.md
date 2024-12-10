@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp1.jpg">
 </div>
 <p><strong>Mr Chua Boon Meng, Vincent</strong>
 </p>
@@ -32,7 +32,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp2.jpg">
 </div>
 <p><strong>Mdm Toh Bee Choo, Ann</strong>
 </p>
@@ -50,11 +50,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp3.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp3.jpg">
 </div>
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong>
 </p>
-<p><strong><em>LH/English Language</em></strong>
+<p><strong><em>Level Head / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,11 +68,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp5.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp5.jpg">
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
-<p><strong><em>ST/English Language</em></strong>
+<p><strong><em>Lead Teacher / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,9 +86,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%;" height="auto" width="100%" src="/images/eng1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
-<p><strong>Mdm Nurashikin Mohamed Zamrabi (Internal)</strong>
+<p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
+<br><strong><em>Senior Teacher / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +113,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp7.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp7.jpg">
 </div>
 <p><strong>Mdm Yap Huie Yuan</strong>
 </p>
@@ -130,11 +131,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp8.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp8.jpg">
 </div>
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
-<p><strong><em>LH/Mathematics</em></strong>
+<p><strong><em>Level Head / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,11 +149,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp9.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp9.jpg">
 </div>
 <p><strong>Miss Eugena Ooi Weiling</strong>
 </p>
-<p><strong><em>LH/Mathematics</em></strong>
+<p><strong><em>Level Head / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,11 +167,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp10.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp10.jpg">
 </div>
 <p><strong>Mr Soh Boon Yew, Vincent</strong>
 </p>
-<p><strong><em>ST/Mathematics</em></strong>
+<p><strong><em>Senior Teacher / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,11 +185,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp11.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp11.jpg">
 </div>
 <p><strong>Mdm Chua Si Wei</strong>
 </p>
-<p><strong><em>ST/Mathematics</em></strong>
+<p><strong><em>Senior Teacher / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,11 +204,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp23.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp23.jpg">
 </div>
 <p><strong>Mdm Hannaria Srihanum Tumbuck</strong>
 </p>
-<p><strong><em>ST/Learning Needs (Lower Primary)</em></strong>
+<p><strong><em>Senior Teacher / Learning Needs (Lower Primary)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,7 +232,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp12.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp12.jpg">
 </div>
 <p><strong>Miss Lee Yan Ling, Aderine Andrielle</strong>
 </p>
@@ -249,11 +250,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp13.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp13.jpg">
 </div>
 <p><strong>Mrs Chong - Pang Chu Keng</strong>
 </p>
-<p><strong><em>LH/Science</em></strong>
+<p><strong><em>Level Head / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +271,7 @@ variant: tiptap
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>ST/Science (Internal)</strong>
+<br><strong>Senior Teacher / Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,10 +298,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp14.jpg">
-</div>
-<p><strong>Mrs Loh - Lim Cheng Nee, Mary</strong>
+<p><strong>Mdm Fong Mei Ying</strong>
 </p>
 <p><strong><em>HOD/Mother Tongue</em></strong>
 </p>
@@ -309,16 +307,16 @@ variant: tiptap
 <p><em>“I believe every Frontierer is unique and has the potential to excel if they put their mind to it. I wish to become a source of endless Motivation, Encouragement and Inspiration for them so that they can achieve their goals and realize their dreams.”</em>
 </p>
 <p>Tel ext: 126</p>
-<p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_cheng_nee@schools.gov.sg</a>
+<p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
-<p><strong>Mr Chan Wei Shen<br>LT/Chinese Language</strong>
+<p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,11 +330,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp15.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp15.jpg">
 </div>
 <p><strong>Mdm Lee Hao Yih, Dorcas</strong>
 </p>
-<p><strong><em>SH/Mother Tongue</em></strong>
+<p><strong><em>Subject Head / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -350,11 +348,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp16.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp16.jpg">
 </div>
 <p><strong>Mdm Sri Arianti Bte Ariffin</strong>
 </p>
-<p><strong><em>SH/Malay and Tamil Language</em></strong>
+<p><strong><em>Subject Head / Malay and Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -368,11 +366,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp17.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp17.jpg">
 </div>
 <p><strong>Mdm Chia Qian Lin</strong>
 </p>
-<p><strong><em>ST/Chinese Language</em></strong>
+<p><strong><em>Senior Teacher / Chinese Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,11 +384,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp18.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp18.jpg">
 </div>
 <p><strong>Mrs Mageswari Sudhakar</strong>
 </p>
-<p><strong><em>ST/Tamil Language</em></strong>
+<p><strong><em>Senior Teacher / Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -414,7 +412,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp19.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp19.jpg">
 </div>
 <p><strong>Mr Tan Choon Seng, Anderson</strong>
 </p>
@@ -432,11 +430,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp20.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp20.jpg">
 </div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
-<p><strong><em>SH/PE &amp; Sports</em></strong>
+<p><strong><em>Subject Head / PE &amp; Sports</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,9 +448,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
 </div>
-<p><strong>Mdm Jessica Kho Siok Ching<br>ST/Art</strong>
+<p><strong>Mdm Jessica Kho Siok Ching<br>Senior Teacher / Art</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -475,7 +473,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp21.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp21.jpg">
 </div>
 <p><strong>Miss Jeannett Lay Jia Xin</strong>
 </p>
@@ -493,11 +491,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp22.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp22.jpg">
 </div>
 <p><strong>Mdm Nusraat Begum Bte Akbar Ali</strong>
 </p>
-<p><strong><em>SH/CCE</em></strong>
+<p><strong><em>Subject Head / CCE</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -511,11 +509,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp24.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp24.jpg">
 </div>
 <p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
 </p>
-<p><strong><em>ST/Educational Support</em></strong>
+<p><strong><em>Senior Teacher / Educational Support</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -529,11 +527,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp6.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
 </div>
 <p><strong>Mdm Lim Li-Chern, Anisia</strong>
 </p>
-<p><strong><em>ST/Learning Needs (Educational Support)</em></strong>
+<p><strong><em>Senior Teacher / Learning Needs (Educational Support)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -575,11 +573,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp25.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp25.jpg">
 </div>
 <p><strong>Mr Mohammed Nidzam Bin Zakariah</strong>
 </p>
-<p><strong><em>SH/ICT</em></strong>
+<p><strong><em>Subject Head / ICT</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,7 +600,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp26.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp26.jpg">
 </div>
 <p><strong>Mdm Rasidah Bte Mohd Rasit</strong>
 </p>
@@ -629,7 +627,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp27.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp27.jpg">
 </div>
 <p><strong>Mrs Teo Ming Hui</strong>
 </p>
@@ -647,11 +645,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp29.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp29.jpg">
 </div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
-<p><strong><em>SH/Student Management (Internal)</em></strong>
+<p><strong><em>Subject Head / Student Management (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -665,7 +663,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp30.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp30.jpg">
 </div>
 <p><strong>Mr Chan Chok Seng</strong>
 </p>
@@ -683,7 +681,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp31.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp31.jpg">
 </div>
 <p><strong>Mdm Soh Wee Hong, Nellie</strong>
 </p>
@@ -701,7 +699,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp32.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp32.jpg">
 </div>
 <p><strong>Mdm Luk Meng Lee</strong>
 </p>
