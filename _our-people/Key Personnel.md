@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp1.jpg">
 </div>
 <p><strong>Mr Chua Boon Meng, Vincent</strong>
 </p>
@@ -32,7 +32,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp2.jpg">
 </div>
 <p><strong>Mdm Toh Bee Choo, Ann</strong>
 </p>
@@ -50,11 +50,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp3.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp3.jpg">
 </div>
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong>
 </p>
-<p><strong><em>LH/English Language</em></strong>
+<p><strong><em>Level Head / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,11 +68,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp5.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp5.jpg">
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
-<p><strong><em>ST/English Language</em></strong>
+<p><strong><em>Lead Teacher / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +88,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:70%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
-<p><strong>Mdm Nurashikin Mohamed Zamrabi (Internal)</strong>
+<p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
+<br><strong><em>Senior Teacher / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,7 +319,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
-<p><strong>Mr Chan Wei Shen<br>LT/Chinese Language</strong>
+<p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
