@@ -86,7 +86,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%;" height="auto" width="100%" src="/images/eng1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
 <br><strong><em>Senior Teacher / English Language</em></strong>
@@ -113,7 +113,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp7.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp7.jpg">
 </div>
 <p><strong>Mdm Yap Huie Yuan</strong>
 </p>
@@ -131,11 +131,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp8.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp8.jpg">
 </div>
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
-<p><strong><em>LH/Mathematics</em></strong>
+<p><strong><em>Level Head / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,11 +149,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp9.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp9.jpg">
 </div>
 <p><strong>Miss Eugena Ooi Weiling</strong>
 </p>
-<p><strong><em>LH/Mathematics</em></strong>
+<p><strong><em>Level Head / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,11 +167,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp10.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp10.jpg">
 </div>
 <p><strong>Mr Soh Boon Yew, Vincent</strong>
 </p>
-<p><strong><em>ST/Mathematics</em></strong>
+<p><strong><em>Senior Teacher / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,11 +185,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp11.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp11.jpg">
 </div>
 <p><strong>Mdm Chua Si Wei</strong>
 </p>
-<p><strong><em>ST/Mathematics</em></strong>
+<p><strong><em>Senior Teacher / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,11 +204,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp23.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp23.jpg">
 </div>
 <p><strong>Mdm Hannaria Srihanum Tumbuck</strong>
 </p>
-<p><strong><em>ST/Learning Needs (Lower Primary)</em></strong>
+<p><strong><em>Senior Teacher / Learning Needs (Lower Primary)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
