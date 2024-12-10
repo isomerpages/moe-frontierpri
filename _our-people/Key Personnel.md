@@ -314,7 +314,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
 <p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
 </p>
@@ -330,11 +330,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp15.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp15.jpg">
 </div>
 <p><strong>Mdm Lee Hao Yih, Dorcas</strong>
 </p>
-<p><strong><em>SH/Mother Tongue</em></strong>
+<p><strong><em>Subject Head / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,11 +348,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp16.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp16.jpg">
 </div>
 <p><strong>Mdm Sri Arianti Bte Ariffin</strong>
 </p>
-<p><strong><em>SH/Malay and Tamil Language</em></strong>
+<p><strong><em>Subject Head / Malay and Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -366,11 +366,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp17.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp17.jpg">
 </div>
 <p><strong>Mdm Chia Qian Lin</strong>
 </p>
-<p><strong><em>ST/Chinese Language</em></strong>
+<p><strong><em>Senior Teacher / Chinese Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,11 +384,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp18.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp18.jpg">
 </div>
 <p><strong>Mrs Mageswari Sudhakar</strong>
 </p>
-<p><strong><em>ST/Tamil Language</em></strong>
+<p><strong><em>Senior Teacher / Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
