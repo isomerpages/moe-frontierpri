@@ -509,7 +509,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp24.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp24.jpg">
 </div>
 <p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
 </p>
@@ -527,11 +527,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp6.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
 </div>
 <p><strong>Mdm Lim Li-Chern, Anisia</strong>
 </p>
-<p><strong><em>ST/Learning Needs (Educational Support)</em></strong>
+<p><strong><em>Senior Teacher / Learning Needs (Educational Support)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
