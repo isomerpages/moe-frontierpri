@@ -600,7 +600,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp26.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp26.jpg">
 </div>
 <p><strong>Mdm Rasidah Bte Mohd Rasit</strong>
 </p>
@@ -627,7 +627,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp27.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp27.jpg">
 </div>
 <p><strong>Mrs Teo Ming Hui</strong>
 </p>
@@ -645,11 +645,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp29.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp29.jpg">
 </div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
-<p><strong><em>SH/Student Management (Internal)</em></strong>
+<p><strong><em>Subject Head / Student Management (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -663,7 +663,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp30.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp30.jpg">
 </div>
 <p><strong>Mr Chan Chok Seng</strong>
 </p>
@@ -681,7 +681,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp31.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp31.jpg">
 </div>
 <p><strong>Mdm Soh Wee Hong, Nellie</strong>
 </p>
@@ -699,7 +699,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp32.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp32.jpg">
 </div>
 <p><strong>Mdm Luk Meng Lee</strong>
 </p>
