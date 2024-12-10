@@ -232,7 +232,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp12.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp12.jpg">
 </div>
 <p><strong>Miss Lee Yan Ling, Aderine Andrielle</strong>
 </p>
@@ -250,11 +250,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp13.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp13.jpg">
 </div>
 <p><strong>Mrs Chong - Pang Chu Keng</strong>
 </p>
-<p><strong><em>LH/Science</em></strong>
+<p><strong><em>Level Head / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,7 +271,7 @@ variant: tiptap
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>ST/Science (Internal)</strong>
+<br><strong>Senior Teacher / Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
