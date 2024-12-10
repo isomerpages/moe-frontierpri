@@ -573,11 +573,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp25.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp25.jpg">
 </div>
 <p><strong>Mr Mohammed Nidzam Bin Zakariah</strong>
 </p>
-<p><strong><em>SH/ICT</em></strong>
+<p><strong><em>Subject Head / ICT</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
