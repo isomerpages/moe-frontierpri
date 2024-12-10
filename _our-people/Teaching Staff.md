@@ -134,13 +134,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/jingxian" rel="noopener" target="_blank">Miss Lim Jing Xian</a>
-<br>
-<br><a href="/vic" rel="noopener noreferrer nofollow" target="_blank">Mr Lai Huei Yuh, Vic</a>
+<p><a href="/vic" rel="noopener noreferrer nofollow" target="_blank">Mr Lai Huei Yuh, Vic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/jingxian" rel="noopener" target="_blank">Miss Lim Jing Xian</a>
+</p>
 </td>
 </tr>
 <tr>
