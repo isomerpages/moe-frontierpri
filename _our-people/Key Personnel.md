@@ -513,7 +513,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
 </p>
-<p><strong><em>ST/Educational Support</em></strong>
+<p><strong><em>Senior Teacher / Educational Support</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
