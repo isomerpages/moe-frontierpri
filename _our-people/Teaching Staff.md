@@ -847,7 +847,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/menglee" rel="noopener" target="_blank">Mdm Luk Meng Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -868,9 +869,7 @@ variant: tiptap
 <p>Mdm Fong Mei Ying (HOD MT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/menglee" rel="noopener" target="_blank">Mdm Luk Meng Lee</a>
-<br>
-<br><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
+<p><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
