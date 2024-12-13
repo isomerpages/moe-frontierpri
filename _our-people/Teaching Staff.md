@@ -388,8 +388,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sri" rel="noopener" target="_blank">Mdm Sri Arianti Bte Ariffin</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -499,9 +498,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/marie" rel="noopener" target="_blank">Mrs Marie Ow Yong</a>
-<br>
-<br><a href="/renyi/" rel="noopener" target="_blank">Mr Lin Renyi</a>
+<p><a href="/renyi/" rel="noopener" target="_blank">Mr Lin Renyi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -611,9 +608,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/kiranjeet/" rel="noopener" target="_blank">Mrs Raspal Singh</a>
-<br>
-<br><a href="/carrie" rel="noopener" target="_blank">Mrs Carrie Laksman</a>
+<p><a href="/carrie" rel="noopener" target="_blank">Mrs Carrie Laksman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +705,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/wangwan" rel="noopener" target="_blank">Miss Wang Wan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
@@ -727,10 +723,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="/janele" rel="noopener" target="_blank">Miss Peh Shu Yu, Janele</a>
+<br>
+<br><a href="/kiranjeet/" rel="noopener" target="_blank">Mrs Raspal Singh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/haijing" rel="noopener" target="_blank">Mdm Wang Haijing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -746,10 +745,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/francesca" rel="noopener" target="_blank">Mrs Francesca D'armancourt</a>
+<br>
+<br><a href="/marie" rel="noopener" target="_blank">Mrs Marie Ow Yong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/sri" rel="noopener" target="_blank">Mdm Sri Arianti Bte Ariffin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/iswandi" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
@@ -776,8 +778,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/haijing" rel="noopener" target="_blank">Mdm Wang Haijing</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -835,8 +836,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/wangwan" rel="noopener" target="_blank">Miss Wang Wan</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/rasidah" rel="noopener" target="_blank">Mdm Rasidah Bte Mohd Rasit</a>
