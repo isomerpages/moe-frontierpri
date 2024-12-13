@@ -241,7 +241,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="/nusraat" rel="noopener" target="_blank">Mdm Nusraat Begum Bte Akbar Ali</a>
+<p><a href="/nusraat" rel="noopener" target="_blank">Mdm Nusraat Begum Bte Akbar Ali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,9 +354,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br><a href="/weishen" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Wei Shen</a>
+<p><a href="/weishen" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Wei Shen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,9 +370,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mathematics-department/#Laisoonling_" rel="noopener" target="_blank">Mdm Lai Soon Ling</a>
-<br>
-<br><a href="/serene" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
+<p><a href="/serene" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,16 +390,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br><a href="/anisia" rel="noopener" target="_blank">Mrs Teng - Lim Li-Chern, Anisia</a>
+<p><a href="/anisia" rel="noopener" target="_blank">Mrs Teng - Lim Li-Chern, Anisia</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br><a href="/sheirin" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
+<p><a href="/sheirin" rel="noopener noreferrer nofollow" target="_blank">Ms Sheirin Habibah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,9 +415,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
+<p><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -556,9 +546,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
-<br>
-<br><a href="/weepin" rel="noopener" target="_blank">Mr Choo Wee Pin</a>
+<p><a href="/weepin" rel="noopener" target="_blank">Mr Choo Wee Pin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -734,8 +722,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/iswandi" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -763,10 +750,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/mathematics-department/#Laisoonling_" rel="noopener" target="_blank">Mdm Lai Soon Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -783,7 +772,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/iswandi" rel="noopener" target="_blank">Mr Muhammad Iswandi Bin Isnawan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
