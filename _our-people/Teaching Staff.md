@@ -550,7 +550,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/jujie" rel="noopener" target="_blank">Mdm Ju Jie</a>
+<p>
 <br>
 <br>
 </p>
@@ -618,7 +618,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Andrielle Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -750,7 +750,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
+<p><a href="/menglee" rel="noopener" target="_blank">Mdm Luk Meng Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,7 +776,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/jujie" rel="noopener" target="_blank">Mdm Ju Jie</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -797,7 +798,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -835,8 +837,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/menglee" rel="noopener" target="_blank">Mdm Luk Meng Lee</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
