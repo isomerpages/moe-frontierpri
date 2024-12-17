@@ -18,7 +18,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Chua Boon Meng, Vincent</strong>
 </p>
-<p><strong><em>HOD/English Language</em></strong>
+<p><strong><em>HOD / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Toh Bee Choo, Ann</strong>
 </p>
-<p><strong><em>LH/English Language</em></strong>
+<p><strong><em>LH / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +117,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Yap Huie Yuan</strong>
 </p>
-<p><strong><em>HOD/Curriculum</em></strong>
+<p><strong><em>HOD / Curriculum</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,7 +236,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Lee Yan Ling, Aderine Andrielle</strong>
 </p>
-<p><strong><em>HOD/Science</em></strong>
+<p><strong><em>HOD / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,7 +300,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Fong Mei Ying</strong>
 </p>
-<p><strong><em>HOD/Mother Tongue</em></strong>
+<p><strong><em>HOD / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -416,7 +416,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Tan Choon Seng, Anderson</strong>
 </p>
-<p><strong><em>HOD/PAM &amp; CCA</em></strong>
+<p><strong><em>HOD / PAM &amp; CCA</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -477,7 +477,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Jeannett Lay Jia Xin</strong>
 </p>
-<p><strong><em>HOD/CCE</em></strong>
+<p><strong><em>HOD / CCE</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -513,7 +513,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Siti Nur Aishah Mohamad Zainudin</strong>
 </p>
-<p><strong><em>Subject Head / SWB (Internal)</em></strong>
+<p><strong><em>Subject Head / Student Well Being (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -577,7 +577,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Ow Kah Leong</strong>
 </p>
-<p><strong><em>HOD/ICT &amp; Data Management</em></strong>
+<p><strong><em>HOD / ICT &amp; Data Management</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -649,7 +649,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Teo Ming Hui</strong>
 </p>
-<p><strong><em>HOD/Student Management</em></strong>
+<p><strong><em>HOD / Student Management</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
