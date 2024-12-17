@@ -4,7 +4,11 @@ permalink: /aishah/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -12,6 +16,8 @@ description: ""
 <img style="width:100%;" height="auto" width="100%" src="/images/cha5.jpg">
 </div>
 <p><strong>Mdm Siti Nur Aishah Mohamad Zainudin</strong>
+</p>
+<p><strong><em>Subject Head / Student Well Being (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
