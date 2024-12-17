@@ -307,7 +307,7 @@ variant: tiptap
 <p><em>“I believe every Frontierer is unique and has the potential to excel if they put their mind to it. I wish to become a source of endless Motivation, Encouragement and Inspiration for them so that they can achieve their goals and realize their dreams.”</em>
 </p>
 <p>Tel ext: 126</p>
-<p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<p>Email:&nbsp;<a href="mailto:fong_mei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_mei_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
