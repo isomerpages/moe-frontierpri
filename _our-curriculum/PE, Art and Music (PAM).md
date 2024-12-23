@@ -16,20 +16,20 @@ variant: tiptap
 <p>Mr Anderson Tan (HOD PAM / CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Wee Pin (SH PE and Sports)</p>
+<p>Mr Choo Wee Pin (SH PE and Sports/ PE Coordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang - Tam Hui Yun, Lea (SH / SWB int)</p>
+<p>Ms Kho Siok Ching Jessica (ST Art/ Art Coordinator)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Kho Siok Ching, Jessica (ST / Art)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Miss Peh Shu Yu (Music Coordinator)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hisham Bin Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Olivia Tao He Ping</p>
@@ -45,22 +45,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hisham Bin Kamsani</p>
+<p>Mrs Ang - Tam Hui Yun, Lea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lai Huei Yuh, Vic</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Iswandi Bin Isnawan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p><strong>Key Approaches</strong>
+</p>
 <p>The school believes that a child needs to be holistically developed well
 to be able to thrive and succeed in the face of challenges in the uncertain
 world that they grow up to be a part of. Subjects such as Physical Education,
@@ -73,6 +67,8 @@ ready to face the rapidly-changing world while demonstrating resilience,
 empathy, sportsmanship and appreciation for the arts. Imbued with a strong
 moral compass to guide them in their actions, our Frontierers will make/be
 that difference.</p>
+<p><strong>Key Programmes &amp; Activities</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,7 +91,7 @@ that difference.</p>
 </table>
 <p>PE Experiences</p>
 <p>To achieve the desired outcomes of PAM, Frontier Primary’s commitment
-to drive quality sports and arts programmes through the PAM committee include</p>
+to drive quality sports and arts programmes through the PAM subjects include</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Offering structured broad-based programmes that expose students to a range

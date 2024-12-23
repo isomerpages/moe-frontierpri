@@ -14,21 +14,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / EL : Mr Vincent Chua</p>
+<p>Mr Vincent Chua,, Head of Department (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH / EL : Mdm Toh Bee Choo, Ann</p>
+<p>Mdm Ann Toh Bee Choo, Level Head (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH / EL : Mdm Nur Shirin Yaman Yuen</p>
+<p>Mdm Nur Shirin Bte Yaman Yuen, Level Head (EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST /EL : Miss Eulindra Lim Weiqing</p>
+<p>Miss Eulindra Lim Weiqing, Lead Teacher (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / EL : Mdm Nurashikin Mohd Zamrabi</p>
+<p>Mdm Nurashikin Bte Mohamed Zamrabi, Senior Teacher (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Suat Peng, Tina</p>
@@ -39,21 +39,21 @@ variant: tiptap
 <p>Mrs Raspal Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Ali Bin Mohamed Yasin</p>
+<p>Miss Sandra Phong Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sandra Phong Pei Shan</p>
+<p>Mrs Sabrina Zhang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Zhang</p>
+<p>Mdm Valerie Low Baoqin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Harsharan Kaur d/o T S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valerie Low Baoqin</p>
+<p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +61,10 @@ variant: tiptap
 <p>Mdm Magdalein Goh (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Renee Kwan Pui Leng (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -73,13 +73,14 @@ variant: tiptap
 <p><strong><em>STELLAR</em></strong>  <em>(</em><strong><em>S</em></strong><em>trategies for&nbsp;</em><strong><em>E</em></strong><em>nglish&nbsp;</em><strong><em>L</em></strong><em>anguage&nbsp;</em><strong><em>L</em></strong><em>earning and&nbsp;</em><strong><em>R</em></strong><em>eading)</em> is
 an English Language instructional programme adopted at all levels in Frontier
 Primary School. The STELLAR 2.0 vision is to nurture children who love
-reading and have a strong foundation in the English Language. This will
-be achieved by:
+reading and have a strong foundation in the English Language.</p>
+<p>This will be achieved by:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. strengthening our students’ language
 and reading skills
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. promoting a positive learning attitude</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Stellar.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_2.jpg">
 </div>
 <p>Students are immersed in language learning and are exposed to a variety
 of genres that are engaging and age-appropriate. The use of different strategies
@@ -96,25 +97,21 @@ to optimise their learning. Teachers carry out <strong><em>Differentiated Instru
 designing appropriate activities to support, reinforce and extend their
 learning. They also harness <strong><em>e-Pedagogy</em></strong> design learning
 experiences that enhance student engagement, subject mastery and help students
-acquire and strengthen their 21<sup>st</sup>&nbsp;Century Competencies<em>.</em>
+acquire and strengthen their emerging 21<sup>st</sup> Century Competencies
+such as Collaboration, Communication and Information skills<em>.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/eng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_3.jpg">
 </div>
 <p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/stellar_all.png">
-</div>
-<p><strong>EdTech in EL</strong>
+<br><strong>EdTech in EL</strong>
 </p>
 <p>The EL department harnesses and leverages technology to enhance teaching
-and learning. The teachers use the <strong><em>Think, Tech, Grow</em></strong>  <strong><em>@ Frontier</em></strong> schoolwide
-learning approach to:</p>
-<ol data-tight="true" class="tight">
+and learning. &nbsp; The teachers use the Think.Tech.Grow school-wide teaching
+and learning framework to:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>promote and deepen students’ thinking process;</p>
+<p>promote and deepen students’ thinking processes;</p>
 </li>
 <li>
 <p>design tech-enabled learning experiences; and</p>
@@ -122,64 +119,31 @@ learning approach to:</p>
 <li>
 <p>provide feedback to students for their growth in learning</p>
 </li>
-</ol>
+</ul>
 <p>We aim to build strong fundamentals in our students with digital literacy
 and technological skills to prepare them for a technology-transformed world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/edtech_all.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_4.jpg">
 </div>
-<h4><strong>Departmental Highlights</strong></h4>
-<p><strong>Read@Frontier - Young Readers Programme</strong>
+<h4><strong>Key Programmes &amp; Activities</strong></h4>
+<p><strong>Read@Frontier - Young Readers Programme (Primary 1 to 6)</strong>
 </p>
 <p>The Young Readers Programme aims to encourage and excite our students
 to be confident and avid readers. Students will participate in Extensive
-Reading activities such as Speech and Drama, Show and Tell and <strong>Frontopia,</strong> to
+Reading activities such as Speech and Drama, Show and Tell and Readers
+Theatre, and regularly visit our school library, <strong><em>Frontopia,</em> </strong>to
 explore and appreciate different book genres.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YR1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_5.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p>Students get to participate in termly thematic activities during their
+recess at the <strong><em>Exploring English Corner</em></strong>. These
+reading-related activities include quizzes, storytelling sessions and gaining
+new knowledge through information on the notice boards and reading good
+writing pieces on display.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YR2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_6.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Students will also get to participate in termly thematic activities during
-their recess at the <strong>Exploring English Corner.</strong> These reading-related
-activities include quizzes, storytelling sessions and gaining new knowledge
-through information on the noticeboards and reading good writing pieces
-on display.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/yr3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/yr4.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Buddy Reading Programme</strong>
 </p>
 <p>This programme supports emergent readers in Primary 2 to help them improve
@@ -189,43 +153,23 @@ will engage and motivate their juniors in reading twice a week in the morning
 before the flag-raising ceremony. These Primary 4 Frontierers exercise
 student agency by acting responsibly and contributing actively to help
 improve the reading proficiency level of their juniors.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/BUDDY1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_7.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/BUDDY2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Write@Frontier - Inkredibles Creative Writing Competition</strong>
 </p>
-<p>The EL department organised the inaugural The Inkredibles Creative Writing
-Competition 2023 during the June school holidays in 2023 to encourage and
-inspire our Primary 3 to 5 Frontierers to unleash their creativity and
-showcase their flair in writing. This competition aims to provide a meaningful
-activity during the school holidays for the students and promote student
-agency in them. A total of 15 Frontierers were affirmed for their excellent
-pieces of writing.</p>
+<p>The EL department organised the annual<sup> </sup>Inkredibles Creative
+Writing Competition during the June school holidays in 2024 to encourage
+and inspire our Primary 2 to 5 Frontierers to unleash their creativity
+and showcase their flair in writing. This competition aims to provide a
+meaningful activity for our students and promote student agency in them.
+A total of 25 Frontierers were affirmed for their excellent pieces of writing.
+We look forward to receiving more creative submissions in 2025!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/WRITE1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_8.jpg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/WRITE2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_9.jpg">
 </div>
 <h5><strong>Excel@Frontier – English Language Stretch Programme</strong></h5>
 <p>The English Language Stretch Programme aims to develop our students to
@@ -234,10 +178,10 @@ Selected Primary 4 and Primary 5 students participate in challenging activities
 in Oracy, Writing and Literature to hone and sharpen their language skills.
 This programme also provides our students opportunities that allow them
 to challenge themselves further through the participation of external oratorical
-and writing competitions and assuming the role of an emcee during school
-events. Some of them will also participate in a Cluster Partnership programme
-where they will be able to exchange ideas and learn from like-minded students
-from schools within the cluster.</p>
+and writing competitions organised by GEB, and assuming the role of an
+emcee during school events. Some of them also participate in a Cluster
+Partnership programme where they will be able to exchange ideas and learn
+from like-minded students from schools within the cluster.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -267,62 +211,6 @@ from schools within the cluster.</p>
 </tr>
 </tbody>
 </table>
-<p>Debating lessons during EL Stretch Programme</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng14.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng15.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>10th Anniversary Celebrations Student Emcees</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng16.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng17.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng19.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Wits &amp; Words – Inter-school Debate Championship 2023<br></strong>The
-team demonstrated resilience and determination to learn and improve through
-winning and losing in the various rounds of the competition. One of our
-debaters was also the Best Speaker of the House in the second round. Well
-done, debaters!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DEBATERS.jpg">
-</div>
 <p><strong>1. Learning Support Programme<br></strong>The Learning Support
 Programme (LSP) is an MOE-initiated programme which aims to provide early
 intervention and support for selected Primary 1 and Primary 2 students
@@ -338,10 +226,10 @@ programme seeks to enable the selected students to acquire coping strategies
 in reading so that they will be better able to cope with their learning
 in school. Teachers will use a systematic set of strategies and activities
 which have been carefully designed by MOE in this programme.</p>
-<p><strong>3. Reading Remediation Programme<br></strong>The Reading Remediation
-Programme (RRP) aims to provide support for Primary 3 and Primary 4 students
-who face consistent difficulty in reading despite having completed the
-Learning Support Programme in Primary 1 and Primary 2. This MOE-initiated
-programme exposes students to a range of strategies for reading comprehension
-which will enable them to recognise words and read grade-level texts with
-fluency and comprehension.</p>
+<p><strong>3. Reading Remediation Programme</strong>
+<br>The Reading Remediation Programme (RRP) aims to provide support for Primary
+3 and Primary 4 students who face consistent difficulty in reading despite
+having completed the Learning Support Programme in Primary 1 and Primary
+2. This MOE-initiated programme exposes students to a range of strategies
+for reading comprehension which will enable them to recognise words and
+read grade-level texts with fluency and comprehension.</p>

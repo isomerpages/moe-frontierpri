@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh-Lim Cheng Nee (HOD / MTL)</p>
+<p>Mdm Fong Mei Ying (HOD / MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Arianti Bte Ariffin (SH / ML &amp; TL)</p>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mdm Luk Meng Lee (YH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mardiana Bte Abdul Manap</p>
+<p>Mdm Noryanti Bte Mohamed Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wang Wan</p>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>Mrs Teo Ming Hui (HOD / SM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noryanti Bte Mohamed Yahya</p>
+<p>Mdm Mardiana Bte Abdul Manap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Huang Fang</p>
@@ -83,26 +83,30 @@ variant: tiptap
 <p>Mr Ow Kah Leong (HOD / ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Nan Qiang Simon</p>
+<p>Mdm Nor Azrina</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Li Li</p>
+<p>Mdm Liew Mei Lian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Mei Lian</p>
+<p></p>
+<p>Mdm Cham Kah Mien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hee Ming Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Li Lei</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Jing Xian</p>
+<p>Mdm Lim Lan Shii</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Qin Ling Jun</p>
@@ -113,13 +117,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lan Shii</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cham Kah Mien</p>
+<p>Mr Chen Nan Qiang Simon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
