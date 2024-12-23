@@ -41,14 +41,14 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
-<p>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<p>You may click <strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 more information on MOE Sexuality Education.</p>
 <h4><strong>OVERVIEW OF FRONTIER PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
@@ -78,7 +78,13 @@ themselves safe from sexuality-related risks.</p>
 <br>
 <br><strong>Primary 5</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,7 +165,13 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p><strong>Primary 6</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
