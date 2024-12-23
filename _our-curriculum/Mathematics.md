@@ -14,40 +14,29 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yap Huie Yuan (HOD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Neo Jie Qi (LH)</p>
+<p>Mrs Lee - Neo Jie Qi (LH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Eugena Ooi (LH)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Soh (ST)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Chua Si Wei (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hannaria Srihanum (ST/LP)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Asmahwaty Binte Abdullah</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Patrick Chua Cherng Haur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Asmahwaty Binte Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Nur Aishah Mohamad Zainudin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lai Soon Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Elaine Lee</p>
@@ -58,21 +47,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Lay Puay Kiang</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Yap Lay Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oon Saw Kim Eileen</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Miss Yue Hui Xian</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Lee</p>
+<p>Mdm Aw Yong Wai Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Siew Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -103,32 +92,9 @@ skills</p>
 <p>Our teachers create opportunities and space for our Frontierer to explore
 and discover the joy of learning. CPA (<u>C</u>oncrete to&nbsp;<u>P</u>ictorial
 to&nbsp;<u>A</u>bstract) Approach is used to develop mathematical concepts.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_1.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>2. Learning Experiences to ignite joy of learning in Mathematics</strong>
 </p>
 <table style="minWidth: 50px">
@@ -192,9 +158,10 @@ their knowledge of key mathematical concepts and competencies. Students
 will be given opportunities to discuss and express their thoughts and ideas
 in both verbal and written forms. Teachers scaffolds students’ learning
 through the use of&nbsp; mathematical language.</p>
-<p>Through verbalising the thoughts processes while tackling reasoning and
+<p>Through verbalising the thought processes while tackling reasoning and
 communication tasks, students develop the capacities to think logically,
-confidently, critically and creatively. These thinking dispositions are
+confidently, critically and creatively. This strengthens their<strong> e21CC</strong> -
+Critical thinking skills and Communication skills. These dispositions are
 important for our Frontierers to lead a productive life and be life-long
 learners.</p>
 <table style="minWidth: 50px">
@@ -238,12 +205,15 @@ learners.</p>
 <br>How do we help our students to facilitate the development of metacognitive
 skills during problem solving?
 <br>
-<br>Frontier Primary school has customized the <strong>STAR Framework (<u>S</u>top. <u>T</u>hink. <u>A</u>ct. <u>R</u>eflect)</strong> which
+<br>Frontier Primary school has customized the <strong>STAR Framework (<u>S</u>tudy. <u>T</u>hink. <u>A</u>ct. <u>R</u>eflect) </strong>which
 helps to:
 <br>• to guide students to monitor and regulate their thinking.
 <br>• enable our students to pause frequently and use the question prompts
 to guide them in problem solving
 <br>• create the awareness and to regulate our students’ thinking.</p>
+<p>The STAR Framework in problem solving is explicitly taught to the students.
+It acts as a checklist to guide students’ actions which encourages them
+to take ownership of their learning as they engage in self-reflection.</p>
 <p><strong>2. <u>Provision of Opportunities through Talent Management</u></strong>
 </p>
 <p>Math Stretch Programme is conducted for selected Primary 3 to Primary
@@ -260,13 +230,4 @@ that Mathematics learning is fun, exciting and challenging through a framework
 of problem solving approach</p>
 </li>
 </ul>
-<p><strong>3.</strong>&nbsp;<strong><u>Working with our parents</u></strong>
-</p>
-<p>As a Collaborative Partner, Parent Workshops are held annually to empower
-and equip parents with the relevant skills to support their child’s learning
-at home. Parents will also gain a deeper understanding on the strategies
-our teachers are using in the classroom and can help to reinforce relevant
-mathematical concepts too! We are heartened to receive favourable feedback
-from parents on the workshops the department has been conducting. Do look
-forward to the upcoming workshops that the Math Department is organising
-for the parents!</p>
+<p></p>
