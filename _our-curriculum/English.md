@@ -14,21 +14,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / EL : Mr Vincent Chua</p>
+<p>Mr Vincent Chua,, Head of Department (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH / EL : Mdm Toh Bee Choo, Ann</p>
+<p>Mdm Ann Toh Bee Choo, Level Head (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH / EL : Mdm Nur Shirin Yaman Yuen</p>
+<p>Mdm Nur Shirin Bte Yaman Yuen, Level Head (EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT /EL : Miss Eulindra Lim Weiqing</p>
+<p>Miss Eulindra Lim Weiqing, Lead Teacher (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / EL : Mdm Nurashikin Mohd Zamrabi</p>
+<p>Mdm Nurashikin Bte Mohamed Zamrabi, Senior Teacher (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Suat Peng, Tina</p>
