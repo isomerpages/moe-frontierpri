@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Li Shaohui</p>
+<p>Mr Ganges Lim (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Xiao Wei Serene</p>
@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Atiqah Syahirah</p>
+<p>Miss Li Shaohui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss You Xueli</p>
@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Voon Yen</p>
+<p>Mdm Nur Atiqah Syahirah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Renyi</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ganges Lim</p>
+<p>Ms Cheng Voon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Michelle Tan Soh Soke Mei</p>
