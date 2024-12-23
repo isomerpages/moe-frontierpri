@@ -226,10 +226,10 @@ programme seeks to enable the selected students to acquire coping strategies
 in reading so that they will be better able to cope with their learning
 in school. Teachers will use a systematic set of strategies and activities
 which have been carefully designed by MOE in this programme.</p>
-<p><strong>3. Reading Remediation Programme<br></strong>The Reading Remediation
-Programme (RRP) aims to provide support for Primary 3 and Primary 4 students
-who face consistent difficulty in reading despite having completed the
-Learning Support Programme in Primary 1 and Primary 2. This MOE-initiated
-programme exposes students to a range of strategies for reading comprehension
-which will enable them to recognise words and read grade-level texts with
-fluency and comprehension.</p>
+<p><strong>3. Reading Remediation Programme</strong>
+<br>The Reading Remediation Programme (RRP) aims to provide support for Primary
+3 and Primary 4 students who face consistent difficulty in reading despite
+having completed the Learning Support Programme in Primary 1 and Primary
+2. This MOE-initiated programme exposes students to a range of strategies
+for reading comprehension which will enable them to recognise words and
+read grade-level texts with fluency and comprehension.</p>
