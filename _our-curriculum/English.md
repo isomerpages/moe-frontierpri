@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST /EL : Miss Eulindra Lim Weiqing</p>
+<p>LT /EL : Miss Eulindra Lim Weiqing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / EL : Mdm Nurashikin Mohd Zamrabi</p>
@@ -39,21 +39,21 @@ variant: tiptap
 <p>Mrs Raspal Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Ali Bin Mohamed Yasin</p>
+<p>Miss Sandra Phong Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sandra Phong Pei Shan</p>
+<p>Mrs Sabrina Zhang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Zhang</p>
+<p>Mdm Valerie Low Baoqin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Harsharan Kaur d/o T S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valerie Low Baoqin</p>
+<p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +61,10 @@ variant: tiptap
 <p>Mdm Magdalein Goh (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Renee Kwan Pui Leng (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -73,13 +73,14 @@ variant: tiptap
 <p><strong><em>STELLAR</em></strong>  <em>(</em><strong><em>S</em></strong><em>trategies for&nbsp;</em><strong><em>E</em></strong><em>nglish&nbsp;</em><strong><em>L</em></strong><em>anguage&nbsp;</em><strong><em>L</em></strong><em>earning and&nbsp;</em><strong><em>R</em></strong><em>eading)</em> is
 an English Language instructional programme adopted at all levels in Frontier
 Primary School. The STELLAR 2.0 vision is to nurture children who love
-reading and have a strong foundation in the English Language. This will
-be achieved by:
+reading and have a strong foundation in the English Language.</p>
+<p>This will be achieved by:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. strengthening our students’ language
 and reading skills
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. promoting a positive learning attitude</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Stellar.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_2.jpg">
 </div>
 <p>Students are immersed in language learning and are exposed to a variety
 of genres that are engaging and age-appropriate. The use of different strategies
@@ -96,25 +97,21 @@ to optimise their learning. Teachers carry out <strong><em>Differentiated Instru
 designing appropriate activities to support, reinforce and extend their
 learning. They also harness <strong><em>e-Pedagogy</em></strong> design learning
 experiences that enhance student engagement, subject mastery and help students
-acquire and strengthen their 21<sup>st</sup>&nbsp;Century Competencies<em>.</em>
+acquire and strengthen their emerging 21<sup>st</sup> Century Competencies
+such as Collaboration, Communication and Information skills<em>.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/eng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_3.jpg">
 </div>
 <p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/stellar_all.png">
-</div>
-<p><strong>EdTech in EL</strong>
+<br><strong>EdTech in EL</strong>
 </p>
 <p>The EL department harnesses and leverages technology to enhance teaching
-and learning. The teachers use the <strong><em>Think, Tech, Grow</em></strong>  <strong><em>@ Frontier</em></strong> schoolwide
-learning approach to:</p>
-<ol data-tight="true" class="tight">
+and learning. &nbsp; The teachers use the Think.Tech.Grow school-wide teaching
+and learning framework to:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>promote and deepen students’ thinking process;</p>
+<p>promote and deepen students’ thinking processes;</p>
 </li>
 <li>
 <p>design tech-enabled learning experiences; and</p>
@@ -122,64 +119,31 @@ learning approach to:</p>
 <li>
 <p>provide feedback to students for their growth in learning</p>
 </li>
-</ol>
+</ul>
 <p>We aim to build strong fundamentals in our students with digital literacy
 and technological skills to prepare them for a technology-transformed world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/edtech_all.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_4.jpg">
 </div>
-<h4><strong>Departmental Highlights</strong></h4>
-<p><strong>Read@Frontier - Young Readers Programme</strong>
+<h4><strong>Key Programmes &amp; Activities</strong></h4>
+<p><strong>Read@Frontier - Young Readers Programme (Primary 1 to 6)</strong>
 </p>
 <p>The Young Readers Programme aims to encourage and excite our students
 to be confident and avid readers. Students will participate in Extensive
-Reading activities such as Speech and Drama, Show and Tell and <strong>Frontopia,</strong> to
+Reading activities such as Speech and Drama, Show and Tell and Readers
+Theatre, and regularly visit our school library, <strong><em>Frontopia,</em> </strong>to
 explore and appreciate different book genres.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YR1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_5.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p>Students get to participate in termly thematic activities during their
+recess at the <strong><em>Exploring English Corner</em></strong>. These
+reading-related activities include quizzes, storytelling sessions and gaining
+new knowledge through information on the notice boards and reading good
+writing pieces on display.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/YR2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_6.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Students will also get to participate in termly thematic activities during
-their recess at the <strong>Exploring English Corner.</strong> These reading-related
-activities include quizzes, storytelling sessions and gaining new knowledge
-through information on the noticeboards and reading good writing pieces
-on display.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/yr3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/yr4.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Buddy Reading Programme</strong>
 </p>
 <p>This programme supports emergent readers in Primary 2 to help them improve
