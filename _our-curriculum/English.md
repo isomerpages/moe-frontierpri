@@ -153,43 +153,23 @@ will engage and motivate their juniors in reading twice a week in the morning
 before the flag-raising ceremony. These Primary 4 Frontierers exercise
 student agency by acting responsibly and contributing actively to help
 improve the reading proficiency level of their juniors.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/BUDDY1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_7.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/BUDDY2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Write@Frontier - Inkredibles Creative Writing Competition</strong>
 </p>
-<p>The EL department organised the inaugural The Inkredibles Creative Writing
-Competition 2023 during the June school holidays in 2023 to encourage and
-inspire our Primary 3 to 5 Frontierers to unleash their creativity and
-showcase their flair in writing. This competition aims to provide a meaningful
-activity during the school holidays for the students and promote student
-agency in them. A total of 15 Frontierers were affirmed for their excellent
-pieces of writing.</p>
+<p>The EL department organised the annual<sup> </sup>Inkredibles Creative
+Writing Competition during the June school holidays in 2024 to encourage
+and inspire our Primary 2 to 5 Frontierers to unleash their creativity
+and showcase their flair in writing. This competition aims to provide a
+meaningful activity for our students and promote student agency in them.
+A total of 25 Frontierers were affirmed for their excellent pieces of writing.
+We look forward to receiving more creative submissions in 2025!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/WRITE1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_8.jpg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/WRITE2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_9.jpg">
 </div>
 <h5><strong>Excel@Frontier – English Language Stretch Programme</strong></h5>
 <p>The English Language Stretch Programme aims to develop our students to
@@ -198,10 +178,10 @@ Selected Primary 4 and Primary 5 students participate in challenging activities
 in Oracy, Writing and Literature to hone and sharpen their language skills.
 This programme also provides our students opportunities that allow them
 to challenge themselves further through the participation of external oratorical
-and writing competitions and assuming the role of an emcee during school
-events. Some of them will also participate in a Cluster Partnership programme
-where they will be able to exchange ideas and learn from like-minded students
-from schools within the cluster.</p>
+and writing competitions organised by GEB, and assuming the role of an
+emcee during school events. Some of them also participate in a Cluster
+Partnership programme where they will be able to exchange ideas and learn
+from like-minded students from schools within the cluster.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -231,62 +211,6 @@ from schools within the cluster.</p>
 </tr>
 </tbody>
 </table>
-<p>Debating lessons during EL Stretch Programme</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng14.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng15.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>10th Anniversary Celebrations Student Emcees</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng16.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng17.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eeng19.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Wits &amp; Words – Inter-school Debate Championship 2023<br></strong>The
-team demonstrated resilience and determination to learn and improve through
-winning and losing in the various rounds of the competition. One of our
-debaters was also the Best Speaker of the House in the second round. Well
-done, debaters!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/DEBATERS.jpg">
-</div>
 <p><strong>1. Learning Support Programme<br></strong>The Learning Support
 Programme (LSP) is an MOE-initiated programme which aims to provide early
 intervention and support for selected Primary 1 and Primary 2 students
