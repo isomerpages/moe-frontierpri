@@ -4,7 +4,11 @@ permalink: /huieyuan/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ description: ""
 </div>
 <p><strong>Mdm Yap Huie Yuan</strong>
 </p>
-<p><strong><em>HOD/Mathematics</em></strong>
+<p><strong><em>HOD/Curriculum</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
