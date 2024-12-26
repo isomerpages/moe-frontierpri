@@ -4,7 +4,11 @@ permalink: /jieqi/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -14,6 +18,7 @@ description: ""
 <p><strong>Mrs Lee - Neo Jie Qi</strong>
 </p>
 <p><strong><em>LH/Mathematics</em></strong>
+<br><strong><em>(covering HOD/MA)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

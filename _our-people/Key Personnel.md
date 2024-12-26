@@ -136,6 +136,7 @@ variant: tiptap
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
 <p><strong><em>Level Head / Mathematics</em></strong>
+<br><strong><em>(covering HOD/MA)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -5,16 +5,20 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
-<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
+<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong>
 </p>
-<p><strong>ST/Science (Internal)</strong>
+<p><strong>ST/Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
