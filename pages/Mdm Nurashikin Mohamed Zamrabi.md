@@ -4,7 +4,11 @@ permalink: /shikin/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ description: ""
 </div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi</strong>
 </p>
-<p><strong>ST/English Language (Internal)</strong>
+<p><strong>ST/English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
