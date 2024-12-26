@@ -558,7 +558,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -592,8 +593,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
