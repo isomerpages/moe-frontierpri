@@ -4,7 +4,11 @@ permalink: /eulindra/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ description: ""
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
-<p><strong><em>ST/English Language</em></strong>
+<p><strong><em>Lead Teacher /English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
