@@ -113,24 +113,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp7.jpg">
-</div>
-<p><strong>Mdm Yap Huie Yuan</strong>
-</p>
-<p><strong><em>HOD / Curriculum</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
-</p>
-<p>Tel ext: 120</p>
-<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener" target="_blank">yap_huie_yuan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/kp8.jpg">
 </div>
 <p><strong>Miss Neo Jie Qi</strong>
@@ -178,7 +160,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>“I believe in providing children with a holistic learning experience where they gain knowledge and skills on how to develop a good character and become a good person who can contribute to the society. I also believe that learning has to be meaningful so that the learners will see connection to what they have learnt to their daily lives.”</em>
 </p>
-<p>Tel ext: 284</p>
+<p>Tel ext: 240</p>
 <p>Email:&nbsp;<a href="mailto:vincent_soh_boon_yew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vincent_soh_boon_yew@schools.gov.sg</a>
 </p>
 </td>
@@ -309,22 +291,6 @@ variant: tiptap
 </p>
 <p>Tel ext: 126</p>
 <p>Email:&nbsp;<a href="mailto:fong_mei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_mei_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
-</div>
-<p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"I believe that every child has the potential to learn. As an educator, my commitment revolves around empowering my students. This empowerment entails not only nurturing their acquisition of knowledge, but also instilling the courage to face challenges, nurturing adaptive and critical thinking and instilling a strong belief in their own ability to achieve success."</em>
-</p>
-<p>Tel ext: 240</p>
-<p>Email:&nbsp;<a href="mailto:chan_wei_shen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wei_shen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -607,6 +573,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
+</div>
+<p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"I believe that every child has the potential to learn. As an educator, my commitment revolves around empowering my students. This empowerment entails not only nurturing their acquisition of knowledge, but also instilling the courage to face challenges, nurturing adaptive and critical thinking and instilling a strong belief in their own ability to achieve success."</em>
+</p>
+<p>Tel ext: 247</p>
+<p>Email:&nbsp;<a href="mailto:chan_wei_shen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_wei_shen@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>School Staff Developer (SSD)</strong></h4>
@@ -674,7 +656,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>“In the words of Aristotle, “educating the mind without educating the heart is no education at all”. I aim to help my pupils reach their potential academically, and inculcate strong moral values and character in them as I believe these are what make up the foundation of lasting success.”</em>
 </p>
-<p>Tel ext: 200</p>
+<p>Tel ext: 246</p>
 <p>Email:&nbsp;<a href="mailto:su-en_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su-en_loh@schools.gov.sg</a>
 </p>
 </td>
@@ -730,6 +712,24 @@ variant: tiptap
 </p>
 <p>Tel ext: 132</p>
 <p>Email:&nbsp;<a href="mailto:luk_meng_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luk_meng_lee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yap huie yuan.jpg">
+</div>
+<p><strong>Mdm Yap Huie Yuan</strong>
+</p>
+<p><strong><em>HOD / Curriculum</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
+</p>
+<p>Tel ext: 120</p>
+<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_huie_yuan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
