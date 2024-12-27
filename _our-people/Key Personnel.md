@@ -733,6 +733,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
+</p>
+<p>Tel ext: 120</p>
+<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_huie_yuan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
