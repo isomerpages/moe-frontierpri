@@ -9,22 +9,14 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Access_Zoom_through_Meeting_ID.pdf" rel="noopener noreferrer nofollow" target="_blank">Access Zoom through Meeting ID</a></strong>
+<p><strong><a href="/files/Join_MS_Teams_Meeting___Mobile_Devices.pdf" rel="noopener nofollow" target="_blank">Join MS Teams Meeting with Mobile Devices</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Access_Zoom_through_Web_Browser_SSO.pdf" rel="noopener noreferrer nofollow" target="_blank">Access Zoom through Web Browser_SSO</a></strong>
+<p><strong><a href="/files/Join_MS_Teams_Meeting___PC_Laptop.pdf" rel="noopener nofollow" target="_blank">Join MS Teams Meeting with PC/Laptop</a></strong>
 </p>
 </li>
 </ul>
-<hr>
-<h4><strong>2024</strong></h4>
-<p><a href="/hbl-links-for-18-april-2024/" rel="noopener" target="_blank">18 April</a>
-</p>
-<p><a href="/hbl-links-for-8-march-2024/" rel="noopener" target="_blank">08 March</a>
-</p>
-<p><a href="/hbl-links-for-6-march-2024/" rel="noopener" target="_blank">06 March</a>
-</p>
 <hr>
 <p>For password reset and unlocking of accounts, please click on the web
 link and fill out the form. Our personnel will get back to you as soon
@@ -63,7 +55,7 @@ refer to the following table for the point of contact.</p>
 <p>Password reset and unlocking of accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SLS Administrator - ICT Associate</p>
+<p>SLS Administrator - ICT Manager</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a> 
