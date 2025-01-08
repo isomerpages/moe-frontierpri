@@ -9,11 +9,11 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Access_Zoom_through_Meeting_ID.pdf" rel="noopener noreferrer nofollow" target="_blank">Access Zoom through Meeting ID</a></strong>
+<p><strong><a href="/files/Join_MS_Teams_Meeting___Mobile_Devices.pdf" rel="noopener nofollow" target="_blank">Join MS Teams Meeting with Mobile Devices</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Access_Zoom_through_Web_Browser_SSO.pdf" rel="noopener noreferrer nofollow" target="_blank">Access Zoom through Web Browser_SSO</a></strong>
+<p><strong><a href="/files/Join_MS_Teams_Meeting___PC_Laptop.pdf" rel="noopener nofollow" target="_blank">Join MS Teams Meeting with PC/Laptop</a></strong>
 </p>
 </li>
 </ul>
