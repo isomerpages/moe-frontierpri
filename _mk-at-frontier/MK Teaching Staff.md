@@ -42,7 +42,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/FARIHA.jpg">
 </div>
-<p><strong>Ms Nor Fariha Binte Mohd Ferdaus </strong>
+<p><strong>Ms Nor Fariha Binte Mohd Ferdaus</strong>
 </p>
 <p><em>Deputy Centre Head</em>
 </p>
@@ -325,15 +325,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SHARIFFAH_NADIA.jpg">
+</div>
+<p><strong>Ms Shariffah Nadia Binte Said Mohamed Isham</strong>
 </p>
-<p><em>Teacher</em>
+<p><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>" "</em>
+<p><em>“I believe that children should be given equal opportunities to learn at their own pace. Together, children will prosper at greater heights.”</em>
 </p>
-<p>Email:</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Shariffah_nadia_said_mohamed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
