@@ -2,7 +2,6 @@ collections:
   our-partners-and-services:
     output: true
     order:
-      - Canteen Advertisement/Canteen.md
       - Canteen Advertisement/.keep
       - School Advisory Committee.md
       - Alumni.md
