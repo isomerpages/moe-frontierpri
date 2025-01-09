@@ -40,6 +40,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/FARIHA.jpg">
+</div>
+<p><strong>Ms Nor Fariha Binte Mohd Ferdaus</strong>
+</p>
+<p><em>Deputy Centre Head</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>“Children learn best when they are actively engaged in their environment; where exploration, experimentation, and social interaction are at the heart of the experience. By actively exploring and experimenting with their surroundings, children develop critical thinking skills, deepen their understanding, and build confidence in their abilities.”</em>
+</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">nor_fariha_mohd_ferdaus@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts26.jpg">
 </div>
 <p><strong>Ms Gunasekaran Anuradha</strong>
@@ -190,35 +207,32 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Lim Chiau Ling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/TAN_HWEE_HSIA.jpg">
 </div>
-<p><strong>Ms Lim Chiau Ling</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<p><strong>Ms Tan Hwee Hsia</strong>
+<br><em> Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"My job as a teacher is to ignite a spark that creates a desire to learn in our children."</em>
+<p><em>“It’s okay for the children to make mistakes. Teach them to learn from their mistakes.”</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:lim_chiau_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chiau_ling@schools.gov.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">tan_hwee_hsia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Ei Zhe Qi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SHI_JIALI.png">
 </div>
-<p><strong>Ms Ei Zhe Qi</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<p><strong>Ms Shi Jiali</strong>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em>
+<p><em>“Encouragement should be given to students to ask questions, explore, and seek answers independently.”</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:ei_zhe_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ei_zhe_qi@schools.gov.sg</a>
-</p>
+<p>Email:</p>
 </td>
 </tr>
 <tr>
@@ -311,18 +325,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/ts24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SHARIFFAH_NADIA.jpg">
 </div>
-<p><strong>Ms Siti Nur Amira Khalim</strong>
+<p><strong>Ms Shariffah Nadia Binte Said Mohamed Isham</strong>
 </p>
-<p><em>Malay Language Teacher</em>
+<p><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"It is not only the children who learn something each day.&nbsp; The teachers learn something from the children too and that makes teaching beautiful."</em>
+<p><em>“I believe that children should be given equal opportunities to learn at their own pace. Together, children will prosper at greater heights.”</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:siti_nur_amira_binte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_amira_binte@schools.gov.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Shariffah_nadia_said_mohamed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -333,7 +348,7 @@ variant: tiptap
 </div>
 <p><strong>Ms Vaidhegi D/O Arumugam</strong>
 </p>
-<p><em>Tamil Language Teacher</em>
+<p><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
