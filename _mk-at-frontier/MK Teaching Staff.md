@@ -203,7 +203,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms</strong>
 </p>
-<p><em> Teacher</em>
+<p><em>Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
