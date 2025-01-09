@@ -6,17 +6,17 @@ variant: tiptap
 ---
 <blockquote>
 <p>Guides to MS Teams</p>
-</blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Join_MS_Teams_Meeting___Mobile_Devices.pdf" rel="noopener nofollow" target="_blank">Join MS Teams Meeting with Mobile Devices</a></strong>
+<p><strong><a href="/files/MS_Teams_Meeting___Mobile_Devices.pdf" rel="noopener nofollow" target="_blank">MS Teams Meeting with Mobile Devices</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Join_MS_Teams_Meeting___PC_Laptop.pdf" rel="noopener nofollow" target="_blank">Join MS Teams Meeting with PC/Laptop</a></strong>
+<p><strong><a href="/files/MS_Teams_Meeting___PC_Laptop.pdf" rel="noopener nofollow" target="_blank">MS Teams Meeting with PC/Laptop</a></strong>
 </p>
 </li>
 </ul>
+</blockquote>
 <hr>
 <p>For password reset and unlocking of accounts, please click on the web
 link and fill out the form. Our personnel will get back to you as soon
