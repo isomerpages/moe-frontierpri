@@ -40,6 +40,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/FARIHA.jpg">
+</div>
+<p><strong>Ms Nor Fariha Binte Mohd Ferdaus </strong>
+</p>
+<p><em>Deputy Centre Head</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>“Children learn best when they are actively engaged in their environment; where exploration, experimentation, and social interaction are at the heart of the experience. By actively exploring and experimenting with their surroundings, children develop critical thinking skills, deepen their understanding, and build confidence in their abilities.”</em>
+</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">nor_fariha_mohd_ferdaus@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts26.jpg">
 </div>
 <p><strong>Ms Gunasekaran Anuradha</strong>
@@ -189,25 +206,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms </strong>
-<br><em> Teacher</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/TAN_HWEE_HSIA.jpg">
+</div>
+<p><strong>Ms Tan Hwee Hsia</strong>
+<br><em> Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>" "</em>
+<p><em>“It’s okay for the children to make mistakes. Teach them to learn from their mistakes.”</em>
 </p>
-<p>Email:</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">tan_hwee_hsia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms</strong>
-</p>
-<p><em>Teacher</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SHI_JIALI.png">
+</div>
+<p><strong>Ms Shi Jiali</strong>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>" "</em>
+<p><em>“Encouragement should be given to students to ask questions, explore, and seek answers independently.”</em>
 </p>
 <p>Email:</p>
 </td>
