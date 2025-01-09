@@ -2,13 +2,13 @@ collections:
   our-partners-and-services:
     output: true
     order:
-      - Canteen.md
       - School Advisory Committee.md
       - Alumni.md
       - Local Partners.md
       - Overseas Partners.md
       - Parent Partnership Community (PPC).md
       - Bookshop.md
+      - Canteen.md
       - Dental Service.md
       - School Bus.md
       - Student Care Centre.md
