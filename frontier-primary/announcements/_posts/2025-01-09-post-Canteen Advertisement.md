@@ -29,8 +29,8 @@ application form:</p>
 <p></p>
 <p>·&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and back)</p>
 <p>·&nbsp;&nbsp;&nbsp; List of proposed menu and pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates such as</p>
-<p>Basic Food Hygiene Course, etc.</p>
+<p>·&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates such as Basic Food
+Hygiene Course, etc.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp; Submit the completed application form and documents
 to the School’s General Office.</p>
@@ -56,7 +56,7 @@ Board (HPB) under the ‘Healthy Meals in Schools Programme (HMSP) guidelines
 of food safety and personal hygiene.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthy and fit to operate the stall.</p>
 <p></p>
-<p><strong>Applicants should preferably fulfil the following criteria.</strong>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possess catering experience or experience
 operating in a school environment.</p>
