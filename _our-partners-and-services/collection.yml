@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Canteen.md
-      - Canteen Advertisement/.keep
       - School Advisory Committee.md
       - Alumni.md
       - Local Partners.md
