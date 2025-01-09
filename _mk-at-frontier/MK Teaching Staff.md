@@ -189,36 +189,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Lim Chiau Ling.jpg">
-</div>
-<p><strong>Ms Lim Chiau Ling</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<p><strong>Ms </strong>
+<br><em> Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"My job as a teacher is to ignite a spark that creates a desire to learn in our children."</em>
+<p><em>" "</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:lim_chiau_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chiau_ling@schools.gov.sg</a>
-</p>
+<p>Email:</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Ei Zhe Qi.jpg">
-</div>
-<p><strong>Ms Ei Zhe Qi</strong>
+<p><strong>Ms</strong>
 </p>
-<p><em>Chinese Language Teacher</em>
+<p><em> Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em>
+<p><em>" "</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:ei_zhe_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ei_zhe_qi@schools.gov.sg</a>
-</p>
+<p>Email:</p>
 </td>
 </tr>
 <tr>
@@ -311,19 +302,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/ts24.png">
-</div>
-<p><strong>Ms Siti Nur Amira Khalim</strong>
+<p><strong>Ms</strong>
 </p>
-<p><em>Malay Language Teacher</em>
+<p><em>Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"It is not only the children who learn something each day.&nbsp; The teachers learn something from the children too and that makes teaching beautiful."</em>
+<p><em>" "</em>
 </p>
-<p>Email:&nbsp;<a href="mailto:siti_nur_amira_binte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_amira_binte@schools.gov.sg</a>
-</p>
+<p>Email:</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +320,7 @@ variant: tiptap
 </div>
 <p><strong>Ms Vaidhegi D/O Arumugam</strong>
 </p>
-<p><em>Tamil Language Teacher</em>
+<p><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
