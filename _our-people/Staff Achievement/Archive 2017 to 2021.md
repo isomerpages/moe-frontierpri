@@ -107,10 +107,8 @@ third_nav_title: Staff Achievement
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>West 3 Cluster Networked Learning Circle</strong>
-<br>Mdm Li Jia Yang
-<br>Ms Lim Jing Xian
-<br>Mdm Li Yixian
-<br>Mdm Chia Qian Lin</p>
+<br><u>Mdm Li Jia Yang <br>Ms Lim Jing Xian <br>Mdm Li Yixian <br>Mdm Chia Qian Lin</u>
+</p>
 </td>
 </tr>
 </tbody>
