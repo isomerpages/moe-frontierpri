@@ -37,8 +37,7 @@ third_nav_title: Staff Achievement
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teacher Leaders Programme 1 (10-week full-time programme)</strong>
-</p>
-<p><u>Mdm Chia Qian Lin</u>
+<br><u>Mdm Chia Qian Lin</u>
 <br>
 </p>
 <hr>
@@ -59,9 +58,8 @@ third_nav_title: Staff Achievement
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers Conference</strong>
-</p>
-<p>Supporting Learning in Art Classrooms through Peer Feedback:</p>
-<p><strong>Presenter:</strong>  <u>Ms Guo Xuanyun</u>
+<br>Supporting Learning in Art Classrooms through Peer Feedback:
+<br><strong>Presenter:</strong>  <u>Ms Guo Xuanyun</u>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff20.jpg">
@@ -117,8 +115,8 @@ third_nav_title: Staff Achievement
 <td rowspan="1" colspan="1">
 <p><strong>iMTL Portal NLC Professional Sharing 2017</strong>
 <br>Topic: Effectiveness of iMTL Portal in the Teaching and Learning of Reading
-Comprehension Amongst Primary 5 Pupils</p>
-<p><strong>Presenters:</strong>
+Comprehension Amongst Primary 5 Pupils
+<br><strong>Presenters:</strong>
 <br><u>Mr Mohammed Nidzam Zakariah</u>
 <br><u>Mdm Norhayati Ibnor</u>
 </p>
