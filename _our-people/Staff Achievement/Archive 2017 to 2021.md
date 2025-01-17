@@ -37,8 +37,7 @@ third_nav_title: Staff Achievement
 <td rowspan="1" colspan="1">
 <p><strong>Instructional Mentor Training (Instructional Mentoring Programme)</strong>
 <br><u>Mrs Anisia Teng</u>
-</p>
-<p><u>Mdm Hannaria Srihanum</u>
+<br><u>Mdm Hannaria Srihanum</u>
 </p>
 </td>
 </tr>
