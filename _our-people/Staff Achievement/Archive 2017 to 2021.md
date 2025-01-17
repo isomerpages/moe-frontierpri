@@ -41,7 +41,11 @@ third_nav_title: Staff Achievement
 <p><strong>Teacher Leaders Programme 1 (10-week full-time programme)</strong>
 </p>
 <p><u>Mdm Chia Qian Lin</u>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff4.jpeg">
+</div>
 </td>
 </tr>
 </tbody>
