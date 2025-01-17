@@ -85,8 +85,9 @@ third_nav_title: Staff Achievement
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>West 3 Cluster Annual Chinese Sharing</strong>
-<br>Mdm Lim Lan Shii
-<br>Mr Li Lei</p>
+<br><strong>Presenters:</strong>
+<br><u>Mdm Lim Lan Shii <br>Mr Li Lei</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff21.jpg">
 </div>
