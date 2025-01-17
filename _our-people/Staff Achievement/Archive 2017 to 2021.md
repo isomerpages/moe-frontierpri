@@ -20,15 +20,32 @@ third_nav_title: Staff Achievement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Management and Leadership in Schools Programme (17 weeks full-time programme)</strong>
 </p>
 <p><u>Mdm Nusraat Begum</u>
 <br>
 </p>
+<hr>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teacher Leaders Programme 1 (10-week full-time programme)</strong>
 </p>
 <p><u>Mdm Chia Qian Lin</u>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
@@ -52,7 +69,7 @@ third_nav_title: Staff Achievement
 <p><strong>iMTL Portal NLC Professional Sharing 2017</strong>
 <br>Topic: Effectiveness of iMTL Portal in the Teaching and Learning of Reading
 Comprehension Amongst Primary 5 Pupils</p>
-<p><u>Presenters:</u>
+<p><strong>Presenters:</strong>
 <br><u>Mr Mohammed Nidzam Zakariah</u>
 <br><u>Mdm Norhayati Ibnor</u>
 </p>
