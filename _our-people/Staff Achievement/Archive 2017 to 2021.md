@@ -5,7 +5,134 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievement
 ---
+<h4><strong><u>2021</u></strong></h4>
+<p> <strong>National Day Commendation Award</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff3.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Innergy Commendation Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team members of F@CE (ALP).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff1.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Division-Level Innovation Award</strong>
+</p>
+<p>The MOE Division-Level Innovation Award recognises MOE staff who has injected
+innovation in the work to improve the experience of the division's internal
+or external stakeholders.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jeannett Lay Jia Xin</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Public Administration Medal (Silver)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tonnine Chua</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Commendation Medal</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Ming Hui</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Service Excellence Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+<p>Mohammed Nidzam Bin Zakariah</p>
+<p>Aneesah Beevi Bte Amssah</p>
+<p><strong>Silver</strong>
+</p>
+<p>You Xue Li</p>
+<p>Anisah Bte Amat</p>
+<p>Chong-Pang Chu Keng</p>
+<p>Huang Fang</p>
+<p>Li Jia Yang</p>
+<p>Li Shao Hui</p>
+<p>Liyanna Bte Johan</p>
+<p>Siti Nur Aisha Binte Mohamad Zainudin</p>
+<p>Wang Wan</p>
+<p>Yap Huijing Marie Noele</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
