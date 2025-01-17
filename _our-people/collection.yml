@@ -2,11 +2,11 @@ collections:
   our-people:
     output: true
     order:
-      - Staff Achievement/Staff Achievements.md
-      - Staff Achievement/Archive 2017 to 2021.md
-      - Staff Achievement/.keep
       - School Leaders.md
       - Key Personnel.md
       - Teaching Staff.md
       - Non Teaching Staff.md
+      - Staff Achievement/.keep
+      - Staff Achievement/Staff Achievements.md
+      - Staff Achievement/Archive 2017 to 2021.md
       - Useful Links For Teachers.md
