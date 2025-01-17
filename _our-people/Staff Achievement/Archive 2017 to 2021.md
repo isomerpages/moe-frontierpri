@@ -5,6 +5,45 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievement
 ---
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>SPACEEE</p>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<blockquote>
+<p>2020</p>
+</blockquote>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Management and Leadership in Schools Programme (17 weeks full-time programme)</strong>
+<br><u>Mdm Toh Bee Choo</u>
+<br><u>Mdm Lee Hao Yih Dorcas</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Instructional Mentor Training (Instructional Mentoring Programme)</strong>
+<br><u>Mrs Anisia Teng</u>
+</p>
+<p><u>Mdm Hannaria Srihanum</u>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -142,7 +181,6 @@ Enthuse Oracy Skill Amongst Parents and Children at Home</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
