@@ -30,10 +30,8 @@ third_nav_title: Staff Achievement
 <p><strong>Management and Leadership in Schools Programme (17 weeks full-time programme)</strong>
 </p>
 <p><u>Mdm Nusraat Begum</u>
-<br>
 </p>
 <hr>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -43,8 +41,54 @@ third_nav_title: Staff Achievement
 <p><u>Mdm Chia Qian Lin</u>
 <br>
 </p>
+<hr>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff4.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers Conference</strong>
+</p>
+<p>Supporting Learning in Art Classrooms through Peer Feedback:</p>
+<p><strong>Presenter:</strong>  <u>Ms Guo Xuanyun</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff20.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>West 3 Cluster Annual Chinese Sharing</strong>
+<br>Mdm Lim Lan Shii
+<br>Mr Li Lei</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff21.jpg">
 </div>
 </td>
 </tr>
