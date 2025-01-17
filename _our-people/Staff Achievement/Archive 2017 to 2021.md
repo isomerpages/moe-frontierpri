@@ -116,6 +116,27 @@ third_nav_title: Staff Achievement
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>AGAB Professional Sharing for Parents</strong>
+<br>Topic: Engaging Strategies using Non-conventional Drama Techniques to
+Enthuse Oracy Skill Amongst Parents and Children at Home</p>
+<p><strong>Presenter:</strong>  <u>Mdm Rasidah Mohd Rasit</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff23.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
