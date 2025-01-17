@@ -5,8 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Achievement
 ---
+<h4><strong>Culture of Learning</strong></h4>
+<p>To empower and motivate staff for professional development to support
+quality teaching and learning, the following teachers have successfully
+completed milestone programme.</p>
+<p></p>
+<p></p>
 <h4><strong><u>2021</u></strong></h4>
-<p> <strong>National Day Commendation Award</strong>
+<p><strong>National Day Commendation Award</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
