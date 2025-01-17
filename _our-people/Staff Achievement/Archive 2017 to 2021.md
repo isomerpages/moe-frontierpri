@@ -128,8 +128,50 @@ their service excellence.
 </tr>
 </tbody>
 </table>
-<p>
+<p></p>
+<p><strong><u>Silver</u></strong>
 <br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mdm Aneesah Beevi Bte Amssah</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff16.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Norhayati Binte Ibnor</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff17.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nusraat Begum Bte Akbar Ali</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff18.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Peh Shu Yu</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff19.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
 </td>
