@@ -171,9 +171,21 @@ their service excellence.
 </tr>
 </tbody>
 </table>
+<hr>
 <p>
-<br>
+<br><strong>President’s Award for Teachers Nominees</strong>
+<br><u>Ms Lim Weiqing Eulindra</u>
+<br><u>Mr Yang Qidong</u>
+<br><u>Mdm Asmahwaty Binte Abdullah</u>
+<br><u>Mdm Chua Si Wei</u>
+<br><u>Mdm Heng Ju Imm</u>
 </p>
+<hr>
+<p></p>
+<p><strong>Inspiring Teacher of English Award Nominee</strong>
+<br><u>Ms Eulindra Lim</u>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
