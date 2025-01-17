@@ -88,11 +88,46 @@ The following officers have been awarded the MSEA 2020 in recognition of
 their service excellence.
 <br>
 <br><strong><u>Platinum and Gold</u></strong>
+<br>Mr Wong Teong Man</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/staff12.jpg">
+</div>
+<p><strong><u>Gold</u></strong>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ms Hannaria Srihanum Tumbuck</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff12.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/staff13.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Lim Lan Shii</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff14.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Mdm Lee Hao Yih Dorcas</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff15.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 <br>
@@ -281,4 +316,4 @@ Comprehension Amongst Primary 5 Pupils
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Mr Wong Teong Man</p>
