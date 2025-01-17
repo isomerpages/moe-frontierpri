@@ -7,12 +7,6 @@ third_nav_title: Staff Achievement
 ---
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p>SPACEEE</p>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -24,6 +18,86 @@ third_nav_title: Staff Achievement
 <p>2020</p>
 </blockquote>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Caring Teacher Award (organised by National Institute of Education)</strong>
+<br>The Caring Teacher Awards is organised by the National Institute of Education
+every year to acknowledge teachers who go beyond the call of duty for the
+holistic development of their pupils and to ensure that their charges grow
+up to be confident and independent learners for our nation. The following
+teachers have been awarded the Caring Teacher Award this year:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ms Lim Weiqing Eulindra</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Su-En Loh</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Hannaria Srihanum Tumbuck</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Lan Shii</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Choon Seng Anderson</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>
+<br><strong>The MOE Service Excellence Award (MSEA)</strong>
+</p>
+<p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
+in service delivery, consistent in serving our stakeholders and partners
+with C.A.R.E (courtesy, accessibility, responsiveness and effectiveness).
+The following officers have been awarded the MSEA 2020 in recognition of
+their service excellence.
+<br>
+<br><strong><u>Platinum and Gold</u></strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff12.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
