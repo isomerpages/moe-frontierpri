@@ -335,41 +335,61 @@ Work (IPW)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong>March</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 to 7 Mar, Mon to Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Timed
+Practice 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 to 13 Mar, Tue to Fri, Mon to Thur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Health
+Screening for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Mar, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Day
+Training (for selected P5 and P6 students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Mar, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower Primary
+Games Day (P1 and P2 students)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Day
+(P3 to P6 students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Mar, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S-eLF L.E.S.S.
+A (for selected students)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;</p>
-<p>**Information above is accurate as of 10 September 2024. Details of the
-specific events will be provided in separate letters and consent forms
-nearer the dates. Please note that events in the School Calendar are subject
-to change.</p>
+<p>&nbsp;&nbsp;**Information above is accurate as of 03 January 2025. Details
+of the specific events will be provided in separate letters and consent
+forms nearer the dates. Please note that events in the School Calendar
+are subject to change.</p>
