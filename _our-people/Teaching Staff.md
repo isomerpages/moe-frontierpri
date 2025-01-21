@@ -860,17 +860,4 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/laykoon" rel="noopener" target="_blank">Mrs Yong-Yap Lay Koon</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
