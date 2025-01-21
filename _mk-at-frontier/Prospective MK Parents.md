@@ -11,6 +11,12 @@ description: ""
 </p>
 </li>
 </ol>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/MK_OPEN_HOUSE_2025.jpg">
+</div>
+<p></p>
 <h4><strong>Open House</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
