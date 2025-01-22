@@ -467,7 +467,7 @@ Enthuse Oracy Skill Amongst Parents and Children at Home</p>
 <p><strong>Presenter:</strong>  <u>Mdm Rasidah Mohd Rasit</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff23.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff23.jpg">
 </div>
 </td>
 </tr>
