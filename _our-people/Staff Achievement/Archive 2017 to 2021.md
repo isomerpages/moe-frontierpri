@@ -16,11 +16,11 @@ completed milestone programme.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff3.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -38,7 +38,7 @@ completed milestone programme.</p>
 <p>Team members of F@CE (ALP).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff1.jpeg">
 </div>
 </td>
 </tr>
@@ -63,7 +63,7 @@ or external stakeholders.</p>
 <p>Ms Jeannett Lay Jia Xin</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff6.jpg">
 </div>
 </td>
 </tr>
