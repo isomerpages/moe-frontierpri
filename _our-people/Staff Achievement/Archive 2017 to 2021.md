@@ -374,12 +374,10 @@ their service excellence.
 <td rowspan="1" colspan="1">
 <p><strong>Teacher Leaders Programme 1 (10-week full-time programme)</strong>
 <br><u>Mdm Chia Qian Lin</u>
-<br>
 </p>
 <hr>
-<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff4.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff4.jpeg">
 </div>
 </td>
 </tr>
@@ -398,7 +396,7 @@ their service excellence.
 <br><strong>Presenter:</strong>  <u>Ms Guo Xuanyun</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff20.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff20.jpg">
 </div>
 </td>
 </tr>
@@ -423,7 +421,7 @@ their service excellence.
 <br><u>Mdm Lim Lan Shii <br>Mr Li Lei</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff21.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff21.jpg">
 </div>
 </td>
 </tr>
@@ -446,7 +444,7 @@ their service excellence.
 <br><u>Mdm Li Jia Yang <br>Ms Lim Jing Xian <br>Mdm Li Yixian <br>Mdm Chia Qian Lin</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff22.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff22.jpg">
 </div>
 </td>
 </tr>
