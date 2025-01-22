@@ -221,13 +221,14 @@ The following officers have been awarded the MSEA 2020 in recognition of
 their service excellence.
 <br>
 <br><strong><u>Platinum and Gold</u></strong>
-<br>Mr Wong Teong Man</p>
+<br>
+<br>Mr Wong Teong Man
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/staff12.jpg">
 </div>
-<p><strong><u>Gold</u></strong>
-<br>
-</p>
+<h4><strong><u>Gold</u></strong><br></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -262,9 +263,7 @@ their service excellence.
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Silver</u></strong>
-<br>
-</p>
+<h4><strong><u>Silver</u></strong><br></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
