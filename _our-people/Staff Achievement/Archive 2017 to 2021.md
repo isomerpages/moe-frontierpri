@@ -13,15 +13,27 @@ completed milestone programme.</p>
 <p></p>
 <h4><strong><u>2021</u></strong></h4>
 <p><strong>National Day Commendation Award</strong>
-<br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff2.png">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff3.png">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -29,14 +41,13 @@ completed milestone programme.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Innergy Commendation Award</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Team members of F@CE (ALP).</p>
-<p></p>
+<p><strong>Innergy Commendation Award</strong>
+<br>Team members of F@CE (ALP)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff1.jpeg">
 </div>
