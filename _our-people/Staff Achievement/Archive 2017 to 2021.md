@@ -51,17 +51,19 @@ completed milestone programme.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MOE Division-Level Innovation Award</strong>
 </p>
 <p>The MOE Division-Level Innovation Award recognises MOE staff who has injected
 innovation in the work to improve the experience of the division's internal
 or external stakeholders.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jeannett Lay Jia Xin</p>
 <p></p>
+<p><u>Ms Jeannett Lay Jia Xin</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff6.jpg">
 </div>
@@ -82,7 +84,8 @@ or external stakeholders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tonnine Chua</p>
+<p><u>Mrs Tonnine Chua</u>
+</p>
 </td>
 </tr>
 </tbody>
@@ -100,7 +103,8 @@ or external stakeholders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Ming Hui</p>
+<p><u>Mrs Teo Ming Hui</u>
+</p>
 </td>
 </tr>
 </tbody>
@@ -120,21 +124,12 @@ or external stakeholders.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
+<br><u>Mohammed Nidzam Bin Zakariah<br>Aneesah Beevi Bte Amssah</u>
 </p>
-<p>Mohammed Nidzam Bin Zakariah</p>
-<p>Aneesah Beevi Bte Amssah</p>
+<p></p>
 <p><strong>Silver</strong>
+<br><u>You Xue Li<br>Anisah Bte Amat<br>Chong-Pang Chu Keng<br>Huang Fang<br>Li Jia Yang<br>Li Shao Hui<br>Liyanna Bte Johan<br>Siti Nur Aisha Binte Mohamad Zainudin<br>Wang Wan<br>Yap Huijing Marie Noele</u>
 </p>
-<p>You Xue Li</p>
-<p>Anisah Bte Amat</p>
-<p>Chong-Pang Chu Keng</p>
-<p>Huang Fang</p>
-<p>Li Jia Yang</p>
-<p>Li Shao Hui</p>
-<p>Liyanna Bte Johan</p>
-<p>Siti Nur Aisha Binte Mohamad Zainudin</p>
-<p>Wang Wan</p>
-<p>Yap Huijing Marie Noele</p>
 </td>
 </tr>
 </tbody>
