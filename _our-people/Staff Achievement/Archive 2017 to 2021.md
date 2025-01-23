@@ -13,15 +13,27 @@ completed milestone programme.</p>
 <p></p>
 <h4><strong><u>2021</u></strong></h4>
 <p><strong>National Day Commendation Award</strong>
-<br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff2.png">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff3.png">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -29,16 +41,15 @@ completed milestone programme.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Innergy Commendation Award</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Team members of F@CE (ALP).</p>
-<p></p>
+<p><strong>Innergy Commendation Award</strong>
+<br>Team members of F@CE (ALP)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff1.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff1.jpeg">
 </div>
 </td>
 </tr>
@@ -51,19 +62,21 @@ completed milestone programme.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MOE Division-Level Innovation Award</strong>
 </p>
 <p>The MOE Division-Level Innovation Award recognises MOE staff who has injected
 innovation in the work to improve the experience of the division's internal
 or external stakeholders.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jeannett Lay Jia Xin</p>
 <p></p>
+<p><u>Ms Jeannett Lay Jia Xin</u>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff6.jpg">
 </div>
 </td>
 </tr>
@@ -82,7 +95,8 @@ or external stakeholders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tonnine Chua</p>
+<p><u>Mrs Tonnine Chua</u>
+</p>
 </td>
 </tr>
 </tbody>
@@ -100,7 +114,8 @@ or external stakeholders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Ming Hui</p>
+<p><u>Mrs Teo Ming Hui</u>
+</p>
 </td>
 </tr>
 </tbody>
@@ -120,21 +135,12 @@ or external stakeholders.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Gold</strong>
+<br><u>Mohammed Nidzam Bin Zakariah<br>Aneesah Beevi Bte Amssah</u>
 </p>
-<p>Mohammed Nidzam Bin Zakariah</p>
-<p>Aneesah Beevi Bte Amssah</p>
+<p></p>
 <p><strong>Silver</strong>
+<br><u>You Xue Li<br>Anisah Bte Amat<br>Chong-Pang Chu Keng<br>Huang Fang<br>Li Jia Yang<br>Li Shao Hui<br>Liyanna Bte Johan<br>Siti Nur Aisha Binte Mohamad Zainudin<br>Wang Wan<br>Yap Huijing Marie Noele</u>
 </p>
-<p>You Xue Li</p>
-<p>Anisah Bte Amat</p>
-<p>Chong-Pang Chu Keng</p>
-<p>Huang Fang</p>
-<p>Li Jia Yang</p>
-<p>Li Shao Hui</p>
-<p>Liyanna Bte Johan</p>
-<p>Siti Nur Aisha Binte Mohamad Zainudin</p>
-<p>Wang Wan</p>
-<p>Yap Huijing Marie Noele</p>
 </td>
 </tr>
 </tbody>
@@ -221,13 +227,14 @@ The following officers have been awarded the MSEA 2020 in recognition of
 their service excellence.
 <br>
 <br><strong><u>Platinum and Gold</u></strong>
-<br>Mr Wong Teong Man</p>
+<br>
+<br>Mr Wong Teong Man
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/staff12.jpg">
 </div>
-<p><strong><u>Gold</u></strong>
-<br>
-</p>
+<h4><strong><u>Gold</u></strong><br></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -262,9 +269,7 @@ their service excellence.
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Silver</u></strong>
-<br>
-</p>
+<h4><strong><u>Silver</u></strong><br></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -374,12 +379,10 @@ their service excellence.
 <td rowspan="1" colspan="1">
 <p><strong>Teacher Leaders Programme 1 (10-week full-time programme)</strong>
 <br><u>Mdm Chia Qian Lin</u>
-<br>
 </p>
 <hr>
-<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff4.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff4.jpeg">
 </div>
 </td>
 </tr>
@@ -398,7 +401,7 @@ their service excellence.
 <br><strong>Presenter:</strong>  <u>Ms Guo Xuanyun</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff20.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff20.jpg">
 </div>
 </td>
 </tr>
@@ -423,7 +426,7 @@ their service excellence.
 <br><u>Mdm Lim Lan Shii <br>Mr Li Lei</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff21.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff21.jpg">
 </div>
 </td>
 </tr>
@@ -446,7 +449,7 @@ their service excellence.
 <br><u>Mdm Li Jia Yang <br>Ms Lim Jing Xian <br>Mdm Li Yixian <br>Mdm Chia Qian Lin</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff22.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff22.jpg">
 </div>
 </td>
 </tr>
@@ -467,7 +470,7 @@ Enthuse Oracy Skill Amongst Parents and Children at Home</p>
 <p><strong>Presenter:</strong>  <u>Mdm Rasidah Mohd Rasit</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff23.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/staff23.jpg">
 </div>
 </td>
 </tr>
@@ -503,4 +506,4 @@ Comprehension Amongst Primary 5 Pupils
 </tr>
 </tbody>
 </table>
-<p>Mr Wong Teong Man</p>
+<p></p>
