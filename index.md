@@ -41,7 +41,7 @@ sections:
       image: /images/Maker 2 pic 3.jpg
   - infopic:
       title: iN-Touch
-      description: Check out our Term 1 2025 iN-Touch
+      description: Our Term 1 2025 iN-Touch >> (In Progress)
       button: Read more
       url: /files/iN_Touch_Term_1_2025.pdf
       image: /images/iN-Touch Logo.jpg
