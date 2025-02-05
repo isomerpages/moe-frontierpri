@@ -11,6 +11,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h4>Executive &amp; Admin Staff</h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas1.jpg">
@@ -54,6 +59,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>"Children are the future of our society. Education is their best tool for learning and growing up."</em>
 </p>
+<p>Email:&nbsp;<a href="mailto:lim_hwee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_kee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KIM FAH.jpg">
+</div>
+<p><strong>Mdm Chew Kim Fah</strong>
+<br><strong><em>Administrative Executive</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Email:&nbsp;<a href="mailto:lim_hwee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_kee@schools.gov.sg</a>
 </p>
 </td>
@@ -127,8 +146,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas8.jpg">
 </div>
 <p><strong>Mr Muhammad Basri Bin Ispandi</strong>
-</p>
-<p><strong><em>Desktop Engineer</em></strong>
+<br><strong><em>Desktop Engineer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,8 +160,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas9.jpg">
 </div>
 <p><strong>Miss Nur Ilyanah Binte Slamat</strong>
-</p>
-<p><strong><em>Desktop Engineer</em></strong>
+<br><strong><em>Desktop Engineer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,8 +174,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas10.jpg">
 </div>
 <p><strong>Mdm Chua Peck Nging</strong>
-</p>
-<p><strong><em>Receptionist</em></strong>
+<br><strong><em>Receptionist</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,10 +186,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/KIM FAH.jpg">
 </div>
-<p><strong>Mdm Chew Kim Fah</strong>
-</p>
-<p><strong><em>Admin Executive</em></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -185,8 +198,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas12.jpg">
 </div>
 <p><strong>Mr Amir Parus</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
+<br><strong><em>Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,8 +211,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas13.jpg">
 </div>
 <p><strong>Mdm Anisah Bte Amat</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
+<br><strong><em>Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,8 +224,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas14.jpg">
 </div>
 <p><strong>Mdm Manjeet Kaur d/o/ Kapoor Singh</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
+<br><strong><em>Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,8 +237,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas16.jpg">
 </div>
 <p><strong>Mdm Nina Bte Osman</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
+<br><strong><em>Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
