@@ -285,8 +285,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_fong_mei_ying.jpg">
 </div>
 <p><strong>Mdm Fong Mei Ying</strong>
-</p>
-<p><strong><em>HOD / Mother Tongue</em></strong>
+<br><strong><em>HOD / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
