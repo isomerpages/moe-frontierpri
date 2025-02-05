@@ -219,6 +219,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <h4><strong>Support Staff</strong></h4>
 </td>
@@ -229,7 +237,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas8.jpg">
 </div>
 <p><strong>Mr Muhammad Basri Bin Ispandi</strong>
-<br><strong><em>Desktop Engineer</em></strong>
+<br><strong><em>Desktop Engineer (NCS)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,12 +251,25 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas9.jpg">
 </div>
 <p><strong>Miss Nur Ilyanah Binte Slamat</strong>
-<br><strong><em>Desktop Engineer</em></strong>
+<br><strong><em>Desktop Engineer (NCS)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"The great aim of education is not knowledge, but action."</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SUHANA.jpg">
+</div>
+<p><strong>Mdm Suhana Binte Sulaiman</strong>
+<br><strong><em>Library Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -266,15 +287,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/MALIKA.jpg">
+</div>
+<p><strong>Mdm Malika D/O Subramaniam</strong>
+<br><strong><em>Office Assistant</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
