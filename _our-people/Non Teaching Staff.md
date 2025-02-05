@@ -11,27 +11,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas1.jpg">
-</div>
-<p><strong>Mr Wong Teong Man</strong>
-</p>
-<p><strong><em>Operations Manager</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"One of the hallmarks of a well brought up person is manners."</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:wong_teong_man@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teong_man@schools.gov.sg</a>
-</p>
+<td rowspan="1" colspan="2">
+<h4><strong>Executive &amp; Admin Staff</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mr_hiew_zi_jie.jpg">
+</div>
 <p><strong>Mr Hiew Zi Jie</strong>
-</p>
-<p><strong><em>Administrative Manager</em></strong>
+<br><strong><em>Administrative Manager</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,11 +34,40 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eas1.jpg">
+</div>
+<p><strong>Mr Wong Teong Man</strong>
+<br><strong><em>Operations Manager</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"One of the hallmarks of a well brought up person is manners."</em>
+</p>
+<p>Email:&nbsp;<a href="mailto:wong_teong_man@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teong_man@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mr_lian_tian_teng.jpg">
+</div>
+<p><strong>Mr Lian Tian Teng</strong>
+<br><strong><em>Operations Manager @ MK</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email:&nbsp;<a href="mailto:Lian_Tian_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lian_Tian_Teng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas3.jpg">
 </div>
 <p><strong>Mdm Serene Hwee Kee Lim</strong>
-</p>
-<p><strong><em>Administrative Executive</em></strong>
+<br><strong><em>Administrative Executive</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,11 +80,38 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KIM FAH.jpg">
+</div>
+<p><strong>Mdm Chew Kim Fah</strong>
+<br><strong><em>Administrative Executive</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email:&nbsp;<a href="mailto:lim_hwee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_kee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ALICE.jpg">
+</div>
+<p><strong>Mdm Alice Tan Gek Cheng</strong>
+<br><strong><em>Corporate Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email:&nbsp;<a href="mailto:Tan_Gek_Cheng_Alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Gek_Cheng_Alice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas4.jpg">
 </div>
 <p><strong>Mdm Jumilah Binte Sumonor</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
+<br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,27 +124,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/ALICE.jpg">
-</div>
-<p><strong>Mdm Alice Tan Gek Cheng</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>Email:&nbsp;<a href="mailto:Tan_Gek_Cheng_Alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Gek_Cheng_Alice@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_zarina_begam_d_o_walli_mohamed.jpg">
 </div>
 <p><strong>Ms Zarina Begam d/o Walli Mohamed</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
+<br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,11 +140,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/miss_nur_aisha_binte_idris.jpg">
 </div>
 <p><strong>Miss Nur Aisha Idris</strong>
-</p>
-<p><strong><em>ICT Associate</em></strong>
+<br><strong><em>ICT Manager</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,11 +156,88 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eas12.jpg">
+</div>
+<p><strong>Mr Amir Parus</strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eas13.jpg">
+</div>
+<p><strong>Mdm Anisah Bte Amat</strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eas14.jpg">
+</div>
+<p><strong>Mdm Manjeet Kaur d/o/ Kapoor Singh</strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ASIFA_IFA.jpg">
+</div>
+<p><strong>Mdm Noer Asifa Poernomo</strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/eas16.jpg">
+</div>
+<p><strong>Mdm Nina Bte Osman</strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Support Staff</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas8.jpg">
 </div>
 <p><strong>Mr Muhammad Basri Bin Ispandi</strong>
-</p>
-<p><strong><em>Desktop Engineer</em></strong>
+<br><strong><em>Desktop Engineer (NCS)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,8 +251,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas9.jpg">
 </div>
 <p><strong>Miss Nur Ilyanah Binte Slamat</strong>
-</p>
-<p><strong><em>Desktop Engineer</em></strong>
+<br><strong><em>Desktop Engineer (NCS)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,25 +262,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SUHANA.jpg">
+</div>
+<p><strong>Mdm Suhana Binte Sulaiman</strong>
+<br><strong><em>Library Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas10.jpg">
 </div>
 <p><strong>Mdm Chua Peck Nging</strong>
-</p>
-<p><strong><em>Receptionist</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/KIM FAH.jpg">
-</div>
-<p><strong>Mdm Chew Kim Fah</strong>
-</p>
-<p><strong><em>Admin Executive</em></strong>
+<br><strong><em>Receptionist</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,53 +288,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/MALIKA.jpg">
 </div>
-<p><strong>Mr Amir Parus</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas13.jpg">
-</div>
-<p><strong>Mdm Anisah Bte Amat</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas14.jpg">
-</div>
-<p><strong>Mdm Manjeet Kaur d/o/ Kapoor Singh</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas16.jpg">
-</div>
-<p><strong>Mdm Nina Bte Osman</strong>
-</p>
-<p><strong><em>Operations Support Officer</em></strong>
+<p><strong>Mdm Malika D/O Subramaniam</strong>
+<br><strong><em>Office Assistant</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -23,7 +23,8 @@ will have chances to interact with the teachers and students while holding
 meaningful school events and activities.</p>
 <p><strong><u>Join Us</u></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PPC.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PPC_2025.jpg">
 </div>
 <p></p>
