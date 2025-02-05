@@ -397,6 +397,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chen_Siyang.jpg">
 </div>
 <p><strong>Ms Chen Siyang</strong>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
