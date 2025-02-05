@@ -16,8 +16,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas1.jpg">
 </div>
 <p><strong>Mr Wong Teong Man</strong>
-</p>
-<p><strong><em>Operations Manager</em></strong>
+<br><strong><em>Operations Manager</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,9 +28,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mr_hiew_zi_jie.jpg">
+</div>
 <p><strong>Mr Hiew Zi Jie</strong>
-</p>
-<p><strong><em>Administrative Manager</em></strong>
+<br><strong><em>Administrative Manager</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,8 +48,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas3.jpg">
 </div>
 <p><strong>Mdm Serene Hwee Kee Lim</strong>
-</p>
-<p><strong><em>Administrative Executive</em></strong>
+<br><strong><em>Administrative Executive</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,8 +64,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas4.jpg">
 </div>
 <p><strong>Mdm Jumilah Binte Sumonor</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
+<br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,8 +80,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/ALICE.jpg">
 </div>
 <p><strong>Mdm Alice Tan Gek Cheng</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
+<br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,11 +92,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_zarina_begam_d_o_walli_mohamed.jpg">
 </div>
 <p><strong>Ms Zarina Begam d/o Walli Mohamed</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
+<br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,11 +108,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/miss_nur_aisha_binte_idris.jpg">
 </div>
 <p><strong>Miss Nur Aisha Idris</strong>
-</p>
-<p><strong><em>ICT Associate</em></strong>
+<br><strong><em>ICT Manager</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
