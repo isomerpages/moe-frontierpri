@@ -24,31 +24,39 @@ variant: tiptap
 <p>Ms Kho Siok Ching Jessica (ST Art/ Art Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Peh Shu Yu (Music Coordinator)</p>
+<p>Miss Janele Peh Shu Yu (Music Coordinator)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Hisham Bin Kamsani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Olivia Tao He Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Leng Song Dao Isaac</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Bin Jellanie</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Miss Olivia Tao Heping</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang - Tam Hui Yun, Lea</p>
+<p>Mr Isaac Leng Song Dao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Huei Yuh, Vic</p>
+<p>Mr Muhammad Hisham Bin Kamsani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ang Hui Yun, Lea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraziman Binte Mohamed Senin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vic Lai Huei Yuh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Habib Nasiruddin</p>
 </td>
 </tr>
 </tbody>
