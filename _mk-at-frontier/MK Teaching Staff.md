@@ -24,8 +24,7 @@ variant: tiptap
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mrs_Hephzi_See.jpeg">
 </div>
 <p><strong>Mrs Hephzi See</strong>
-</p>
-<p><em>Centre Head</em>
+<br><em>Centre Head</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,8 +42,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/FARIHA.jpg">
 </div>
 <p><strong>Ms Nor Fariha Binte Mohd Ferdaus</strong>
-</p>
-<p><em>Deputy Centre Head</em>
+<br><em>Deputy Centre Head</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,12 +54,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/ts26.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/MK_ANU.jpg">
 </div>
 <p><strong>Ms Gunasekaran Anuradha</strong>
-</p>
-<p>Level Head</p>
+<br>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"I believe that it is important to inculcate moral values in young children."</em>
@@ -76,8 +74,7 @@ variant: tiptap
 <img style="width:75%;" height="auto" width="100%" src="/images/ts5.jpg">
 </div>
 <p><strong>Ms Wu Zhijing</strong>
-</p>
-<p><em>Senior Teacher / CL</em>
+<br><em>Senior Teacher / CL</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,8 +90,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/Prevena.jpg">
 </div>
 <p><strong>Ms Prevena D/O Kannathass</strong>
-</p>
-<p><em>Senior Teacher</em> / EL (Int)</p>
+<br><em>Senior Teacher</em> / EL (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>""Educating the mind without educating the heart is no education at all"- Aristotle"</em>
@@ -109,8 +105,7 @@ variant: tiptap
 <img style="width:75%;" height="auto" width="100%" src="/images/ts11.png">
 </div>
 <p><strong>Ms Khong Mei Chan</strong>
-</p>
-<p><em>Senior Teacher</em> / EL (Int)</p>
+<br><em>Senior Teacher</em> / EL (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"Children can reach for the stars when provided with an environment that is safe for exploration."</em>
@@ -125,8 +120,7 @@ variant: tiptap
 <img style="width:75%;" height="auto" width="100%" src="/images/Khoo Ann Yee.jpg">
 </div>
 <p><strong>Ms Khoo Ann Yee</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,8 +136,7 @@ variant: tiptap
 <img style="width:75%;" height="auto" width="100%" src="/images/ts12.jpg">
 </div>
 <p><strong>Ms Sandhya Muralli</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,8 +152,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts13.jpg">
 </div>
 <p><strong>Ms Zuraidah Binte Abdul Hamid</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,8 +168,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts17.jpg">
 </div>
 <p><strong>Ms Yu Ying</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,8 +184,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts21.jpg">
 </div>
 <p><strong>Ms Loh Hwee Boon</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,8 +231,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/Low Jasmine.jpg">
 </div>
 <p><strong>Ms Low Jasmine</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,8 +247,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/wen_lanfen.jpg">
 </div>
 <p><strong>Ms Wen Lanfen</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,8 +265,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/RUI_RUI.jpg">
 </div>
 <p><strong>Ms Rui Rui</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,8 +282,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Lu_Ruiqin.jpg">
 </div>
 <p><strong>Ms Lu RuiQin</strong>
-</p>
-<p><em>Chinese Language Teacher</em>
+<br><em>Chinese Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,8 +298,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/ts23.jpg">
 </div>
 <p><strong>Ms Nurafida Abdul Razak</strong>
-</p>
-<p><em>Malay Language Teacher</em>
+<br><em>Malay Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -330,8 +315,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SHARIFFAH_NADIA.jpg">
 </div>
 <p><strong>Ms Shariffah Nadia Binte Said Mohamed Isham</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,8 +331,7 @@ variant: tiptap
 <img style="width:75%;;" height="auto" width="100%" src="/images/Vaidhegi.jpg">
 </div>
 <p><strong>Ms Vaidhegi D/O Arumugam</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,8 +347,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Sharena.jpg">
 </div>
 <p><strong>Ms Sharena Binte Muhammed Mubarak</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,8 +363,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Ardinah.jpg">
 </div>
 <p><strong>Ms Nurul Ardinah Binte Aminnudin</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,8 +381,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Brenda.jpg">
 </div>
 <p><strong>Ms Brenda Kok</strong>
-</p>
-<p><em>English Language Teacher</em>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
