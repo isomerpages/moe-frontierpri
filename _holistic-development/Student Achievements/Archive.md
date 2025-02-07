@@ -1,8 +1,9 @@
 ---
-title: Student Achievements
-permalink: /student-achievements/
+title: Archive
+permalink: /student-achievements-archive/
 description: ""
 variant: tiptap
+third_nav_title: Student Achievements
 ---
 <table>
 <tbody>
