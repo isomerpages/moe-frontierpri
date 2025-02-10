@@ -12,10 +12,8 @@ description: ""
 </li>
 </ol>
 <hr>
+<h4><strong>MK Registration Now Open!</strong> 📢<br>📅 7 February 2025, 9AM – 17 February 2025, 4PM<br></h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/preschool/moe-kindergarten/register"><img style="width: 40%;" height="auto" width="100%" alt="SCAN/CLICK ON IT" src="/images/MK RESOURCES/MK_REGISTRATION_2025.jpg"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK RESOURCES/MK_OPEN_HOUSE_2025.jpg">
-</div>
 <p></p>
 <h4><strong>Open House</strong></h4>
 <ol data-tight="true" class="tight">
@@ -36,4 +34,8 @@ description: ""
 </p>
 </li>
 </ol>
+<hr>
+<h4><a href="https://for.edu.sg/2025mkopenhouse" rel="noopener nofollow" target="_blank">Exciting Moments from Our Open House!</a></h4>
+<p><em>For parents who were unable to attend our Open House on 8 February 2025, we invite you to watch this video created by Mr Timothy Boay, a parent who visited us during the event.</em>
+</p>
 <p></p>
