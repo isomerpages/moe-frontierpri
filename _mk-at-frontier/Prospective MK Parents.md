@@ -12,10 +12,7 @@ description: ""
 </li>
 </ol>
 <hr>
-<h4><strong>MK Registration Now Open!</strong> 📢<br>📅 7 February 2025, 9 AM – 17 February 2025, 4 PM</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/MK_REGISTRATION_2025.jpg">
-</div>
+<h4><strong>MK Registration Now Open!</strong> 📢<br>📅 7 February 2025, 9 AM – 17 February 2025, 4 PM</h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/preschool/moe-kindergarten/register"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MK RESOURCES/MK_REGISTRATION_2025.jpg"></a>
 <h4><strong>Open House</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
