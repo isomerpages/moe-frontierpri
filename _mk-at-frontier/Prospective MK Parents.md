@@ -12,8 +12,7 @@ description: ""
 </li>
 </ol>
 <hr>
-<h4><strong>MK Registration Now Open!</strong> 📢<br>📅 7 February 2025, 9AM – 17 February 2025, 4PM<br></h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/preschool/moe-kindergarten/register"><img style="width: 40%;" height="auto" width="100%" alt="SCAN/CLICK ON IT" src="/images/MK RESOURCES/MK_REGISTRATION_2025.jpg"></a>
-<p></p>
+<h4><strong>MK Registration <u>Closed</u></strong> 📢<br>📅 7 February 2025, 9AM – 17 February 2025, 4PM</h4>
 <p></p>
 <h4><strong>Open House</strong></h4>
 <ol data-tight="true" class="tight">
