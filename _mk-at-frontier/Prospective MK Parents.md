@@ -7,13 +7,12 @@ description: ""
 <h4><strong>MK Forms</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/65b9c87d9a4cd54402e8a47b" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application</a>
+<p><a href="https://form.gov.sg/67b2fb1348524991442648fb" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application</a>
 </p>
 </li>
 </ol>
 <hr>
-<h4><strong>MK Registration Now Open!</strong> 📢<br>📅 7 February 2025, 9AM – 17 February 2025, 4PM<br></h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/preschool/moe-kindergarten/register"><img style="width: 40%;" height="auto" width="100%" alt="SCAN/CLICK ON IT" src="/images/MK RESOURCES/MK_REGISTRATION_2025.jpg"></a>
-<p></p>
+<h4><strong>MK Registration <u>Closed</u></strong> 📢<br>📅 7 February 2025, 9AM – 17 February 2025, 4PM</h4>
 <p></p>
 <h4><strong>Open House</strong></h4>
 <ol data-tight="true" class="tight">
