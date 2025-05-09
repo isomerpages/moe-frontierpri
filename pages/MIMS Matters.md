@@ -12,10 +12,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/SSPR_Reset_Password"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSPR_Reset_Password.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSPR_Reset_Password.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/SSPR_Setup_Questions"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SSPR_Setup_Questions.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SSPR_Setup_Questions.jpg">
+</div>
 </td>
 </tr>
 </tbody>
