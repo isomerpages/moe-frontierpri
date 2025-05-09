@@ -29,7 +29,8 @@ description: ""
 <p></p>
 <hr>
 <h4>MIMS Self-Service Password Reset (SSPR) Guide</h4>
-<p>Please refer to this guide and follow the steps given.</p>
+<p>Please refer to this <strong><a href="/files/MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a></strong> and
+follow the steps given.</p>
 <hr>
 <h4>MIMS School-Based Helpline</h4>
 <p>Fill out the <strong><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong> if
