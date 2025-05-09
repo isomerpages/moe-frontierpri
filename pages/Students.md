@@ -18,14 +18,14 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/hbl-links/" rel="noopener nofollow" target="_blank">Links to HBL Matters</a>
+<p><a href="/mims-matters" rel="noopener nofollow" target="_blank">MIMS Matters</a>
 </p>
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a> (SLS)</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/frontier-formsg" rel="noopener noreferrer nofollow" target="_blank">MIMS School-Based Helpline</a>
+<p><a href="/hbl-links/" rel="noopener nofollow" target="_blank">Links to HBL Matters</a>
 </p>
 </li>
 <li>

@@ -19,9 +19,10 @@ variant: tiptap
 </blockquote>
 <hr>
 <p>For password reset and unlocking of accounts, please click on the web
-link and fill out the form. Our personnel will get back to you as soon
-as possible. For feedback, other technical assistance or enquiries, please
-refer to the following table for the point of contact.</p>
+link and fill out the <strong><a href="https://go.gov.sg/frontier-formsg" rel="noopener nofollow" target="_blank">form</a></strong>.
+Our personnel will get back to you as soon as possible. For feedback, other
+technical assistance or enquiries, please refer to the following table
+for the point of contact.</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
