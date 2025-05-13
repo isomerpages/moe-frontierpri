@@ -18,16 +18,6 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="/images/SSPR_Setup_Questions.jpg"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SSPR_Setup_Questions.jpg"></a>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/images/SSPR_Reset_Password.jpg" rel="noopener nofollow" target="_blank">Click to enlarge image</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/images/SSPR_Setup_Questions.jpg" rel="noopener nofollow" target="_blank">Click to enlarge image</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <hr>
