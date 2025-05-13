@@ -12,15 +12,15 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.frontierpri.moe.edu.sg/files/SSPR_Reset_Password.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSPR_Reset_Password.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/images/SSPR_Reset_Password.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSPR_Reset_Password.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.frontierpri.moe.edu.sg/files/SSPR_Setup_Questions.pdf"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SSPR_Setup_Questions.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/images/SSPR_Setup_Questions.jpg"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SSPR_Setup_Questions.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/Images/SSPR_Reset_Password.jpg" rel="noopener nofollow" target="_blank">Click to enlarge image</a>
+<p><a href="/images/SSPR_Reset_Password.jpg" rel="noopener nofollow" target="_blank">Click to enlarge image</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
