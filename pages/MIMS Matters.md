@@ -18,9 +18,18 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://www.frontierpri.moe.edu.sg/files/SSPR_Setup_Questions.pdf"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SSPR_Setup_Questions.jpg"></a>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/Images/SSPR_Reset_Password.jpg" rel="noopener nofollow" target="_blank">Click to enlarge image</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/SSPR_Setup_Questions.jpg" rel="noopener nofollow" target="_blank">Click to enlarge image</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <h4>MIMS Self-Service Password Reset (SSPR) Guide</h4>
 <p>Please refer to this <strong><a href="/files/MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a></strong> and
