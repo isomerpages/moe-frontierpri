@@ -4,10 +4,11 @@ collections:
     order:
       - Signature Programme (Applied Learning Programme (ALP)).md
       - Signature Programme (Learning for Life Programme (LLP)).md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/About Co–Curricular Programmes.md
-      - Co Curricular Activities/Co–Curricular Activities.md
-      - Co Curricular Activities/Structured Co–Curricular Activities (SCCA).md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/About Co–Curricular Programmes.md
+      - Co Curricular Activities (CCA)/Co–Curricular Activities.md
+      - Co Curricular Activities (CCA)/Structured Co–Curricular Activities
+        (SCCA).md
       - Programme for Active Learning (PAL).md
       - Student Management.md
       - Thinking Silhouette.md
