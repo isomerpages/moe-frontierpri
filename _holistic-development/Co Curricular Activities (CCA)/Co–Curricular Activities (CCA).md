@@ -106,9 +106,8 @@ Primary School currently offers the following CCAs (<em>You may click on the CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/sports/rugby/" rel="noopener" target="_blank">Rugby</a></strong>
+<p><strong><a href="/ccp/cca/sports/softball/" rel="noopener" target="_blank">Softball</a></strong>
 </p>
-<p>(boys only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/ccp/cca/sports/choir/" rel="noopener" target="_blank">Choir</a></strong>
@@ -123,29 +122,13 @@ Primary School currently offers the following CCAs (<em>You may click on the CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/sports/softball/" rel="noopener" target="_blank">Softball</a></strong>
+<p><strong><a href="/ccp/cca/sports/sport-climbing/" rel="noopener" target="_blank">Rockwall Climbing</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/ccp/cca/danzwhiz/" rel="noopener" target="_blank">Modern Dance</a></strong>
 </p>
 <p>(boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/sports/sport-climbing/" rel="noopener" target="_blank">Rockwall Climbing</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/string-ensemble/" rel="noopener" target="_blank">String Ensemble</a></strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
