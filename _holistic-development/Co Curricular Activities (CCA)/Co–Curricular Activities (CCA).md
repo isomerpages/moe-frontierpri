@@ -1,8 +1,8 @@
 ---
-title: Co–Curricular Activities
+title: Co–Curricular Activities (CCA)
 permalink: /ccp/cca/
 description: ""
-third_nav_title: Co Curricular Activities
+third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <p>Co-Curricular Activities (CCAs) are an important aspect of a child’s growing
@@ -92,8 +92,7 @@ Primary School currently offers the following CCAs (<em>You may click on the CCA
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/ccp/cca/chinese-dance/" rel="noopener" target="_blank">Chinese Dance</a></strong>
-</p>
-<p>(girls only)</p>
+<br>(girls only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/ccp/cca/clubs-societies/robotics-and-new-media-club/" rel="noopener" target="_blank">Design and Innovation</a></strong>
@@ -106,9 +105,8 @@ Primary School currently offers the following CCAs (<em>You may click on the CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/sports/rugby/" rel="noopener" target="_blank">Rugby</a></strong>
+<p><strong><a href="/ccp/cca/sports/softball/" rel="noopener" target="_blank">Softball</a></strong>
 </p>
-<p>(boys only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/ccp/cca/sports/choir/" rel="noopener" target="_blank">Choir</a></strong>
@@ -123,28 +121,11 @@ Primary School currently offers the following CCAs (<em>You may click on the CCA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/sports/softball/" rel="noopener" target="_blank">Softball</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/danzwhiz/" rel="noopener" target="_blank">Modern Dance</a></strong>
-</p>
-<p>(boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/ccp/cca/sports/sport-climbing/" rel="noopener" target="_blank">Rockwall Climbing</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/ccp/cca/string-ensemble/" rel="noopener" target="_blank">String Ensemble</a></strong>
+<p><strong><a href="/ccp/cca/danzwhiz/" rel="noopener" target="_blank">Modern Dance</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -2,7 +2,7 @@
 title: About Co–Curricular Programmes
 permalink: /ccp/
 description: ""
-third_nav_title: Co Curricular Activities
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <p>Participation in Co-Curricular Activities (CCAs) play an integral role in the holistic development of a child’s in his/her primary school years. Frontier Primary School’s approach to the implementation of Co-Curricular Activities dovetails with the recommendations set by MOE and CCAB. Our CCA programme is founded on the following guiding principles:</p>
 <ul>
