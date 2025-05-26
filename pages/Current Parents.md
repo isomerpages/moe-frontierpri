@@ -18,7 +18,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.frontierpri.moe.edu.sg/files/" rel="noopener noreferrer nofollow" target="_blank">Leave During School Days</a>
+<p><a href="https://www.frontierpri.moe.edu.sg/files/Application_for_Leave_During_School_Days_v202504.pdf" rel="noopener noreferrer nofollow" target="_blank">Leave During School Days</a>
 </p>
 </li>
 <li>
