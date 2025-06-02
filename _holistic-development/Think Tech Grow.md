@@ -1,7 +1,8 @@
 ---
-title: Thinking Silhouette
-permalink: /thinking-silhouette/
+title: Think Tech Grow
+permalink: /think-tech-grow/
 description: ""
+variant: tiptap
 ---
 <p> Thinking Silhouette is a customised thinking model that helps the school realise its vision of developing our students into ‘Confident Thinkers’. The visible thinking routines from Harvard Project Zero have been adopted in Thinking Silhouette. These routines include a set of guiding questions for our students to frame their thinking process and sharpen their thinking skills. The application of the thinking routines is carried out consistently across different curriculum subjects and during co-curricular activities such as Interdisciplinary Project Work.</p>
 
