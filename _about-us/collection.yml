@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Corporate Video.md
       - Principal's Message.md
       - Our History.md
       - Our Vision, Mission & Values.md
@@ -13,5 +12,6 @@ collections:
       - School Rules.md
       - School Virtual Tour.md
       - School Calendar.md
+      - School Corporate Video.md
       - In The News.md
       - Contact Us.md
