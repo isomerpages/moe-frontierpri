@@ -102,7 +102,8 @@ description: ""
 </p>
 </li>
 <li>
-<p>iN-Touch 2025</p>
+<p><a href="/files/iN_Touch_Term_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">iN-Touch 2025</a>
+</p>
 </li>
 </ol>
 </td>
