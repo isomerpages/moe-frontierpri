@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p><strong>Department Heads and Members</strong>
-</p>
+<h4><strong>Department Heads and Members</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
