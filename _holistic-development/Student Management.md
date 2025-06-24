@@ -291,6 +291,26 @@ due to illness, personal challenges, or disciplinary issues.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<p></p>
+<ul>
+<li>
+<p><u>Thumbs Up! Affirmation&nbsp; and Model Class Award</u>
+</p>
+</li>
+</ul>
+<p>At Frontier, we place great importance on student recognition as a key
+strategy to foster a strong sense of belonging and to cultivate a positive
+school culture. By intentionally highlighting and affirming positive behaviours,
+we make expectations clear and reinforce the values we uphold as a school
+community.</p>
+<p>Our school-level motivational programmes, <strong>Thumbs Up! Affirmation</strong> and
+the <strong>Model Class Award</strong>, recognise both individual students
+and classes who consistently demonstrate exemplary conduct and positive
+attitudes. These recognitions are shared and celebrated at the end of each
+term, creating an encouraging and affirming environment where students
+feel valued and motivated to do their best.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="198" width="353" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcloI7z6cwXrJhvfnlh4-1YFjDorv8w_jTQ9nqopcvYxqrI1aqz0iNA3YuMEKjnEJduKF7liaantWdvy3k-k8np-i8djwREpJCaEW18kXowpJ4N7FcEhWdsnzH7VwYMs4gcB-7HNA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
 <p></p>
