@@ -2,7 +2,6 @@ collections:
   holistic-development:
     output: true
     order:
-      - Student Leadership.md
       - Signature Programme (Applied Learning Programme (ALP)).md
       - Signature Programme (Learning for Life Programme (LLP)).md
       - Co Curricular Activities (CCA)/.keep
@@ -12,10 +11,11 @@ collections:
         (SCCA).md
       - Programme for Active Learning (PAL).md
       - Student Management.md
+      - Student Leadership.md
       - Think Tech Grow.md
       - Trips for Internationalisation Experience (TIE).md
+      - Student Achievements/.keep
       - Student Achievements/2025.md
       - Student Achievements/2024.md
       - Student Achievements/2022.md
-      - Student Achievements/.keep
       - Student Achievements/Archive.md
