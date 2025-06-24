@@ -230,19 +230,18 @@ possession any weapon.
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They are also not allowed
 to bring any weapon-like item which can
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; be used or is&nbsp;
-intended to be used to cause harm to others.</p>
-<p>
+intended to be used to cause harm to others.
 <br>
 </p>
 <p>CLASSROOM CONDUCT</p>
 <p>15.&nbsp; &nbsp; &nbsp; &nbsp; Students must seek permission from the
 teacher before entering
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and leaving the classroom.</p>
-<p>16.&nbsp; &nbsp; &nbsp; &nbsp; Students should maintain the cleanliness
-of the school environment.</p>
-<p>17.&nbsp; &nbsp; &nbsp; &nbsp; Students should take care of their own
-belongings.</p>
-<p>18.&nbsp; &nbsp; &nbsp; &nbsp; Students should have integrity in words
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and leaving the classroom.
+<br>16.&nbsp; &nbsp; &nbsp; &nbsp; Students should maintain the cleanliness
+of the school environment.
+<br>17.&nbsp; &nbsp; &nbsp; &nbsp; Students should take care of their own
+belongings.
+<br>18.&nbsp; &nbsp; &nbsp; &nbsp; Students should have integrity in words
 and deeds.</p>
 <p>
 <br>
