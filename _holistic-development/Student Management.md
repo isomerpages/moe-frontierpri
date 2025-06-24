@@ -130,13 +130,11 @@ the S.T.A.R. Approach. They should STOP. THINK. ACT. and then REFLECT.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="243" width="245" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwj2j5BB8wmWilRgIY7Ja3AoUfCdjL7n5MaUAb8jkhs0udmGVz8pV1ZMpsXWeh5k3d6vWWc9-GS3zgNUy_EJbd-6HHqLsSoT1QKvgurf8gyG91REXVm2sIZy-_1XWzv00pukKdPA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+<img style="width: 70%;" height="243" width="245" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwj2j5BB8wmWilRgIY7Ja3AoUfCdjL7n5MaUAb8jkhs0udmGVz8pV1ZMpsXWeh5k3d6vWWc9-GS3zgNUy_EJbd-6HHqLsSoT1QKvgurf8gyG91REXVm2sIZy-_1XWzv00pukKdPA?key=iq8aTdDzoS6mWuAKu9kmjQ">
 </div>
 <p>
-<br>School Discipline
-<br>
-</p>
-<p>In enacting a positive and proactive approach to discipline in school,
+<br><u>School Discipline </u>
+<br>In enacting a positive and proactive approach to discipline in school,
 there are three aspects to consider:</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="190" width="320" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5_DycSAPiWTx8xtYipeL9D6879uR4aHV6t3hxF1JJF4FpLFcqMH2Qu9VX805pgxPhpcFf8_AM8lrkoVleKOtqHwbORBPXZ4SKdLSUy6yMsFXkRPgV8L73J8sxeTcEf02m0Epk?key=iq8aTdDzoS6mWuAKu9kmjQ">
