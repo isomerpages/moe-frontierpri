@@ -235,6 +235,6 @@ Frontier Primary School. Some Frontierers may decide to pursue LLP Tier
 <p><strong>FPS LLP PROGRAMMES AT A GLANCE</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/llp18.jpg">
+<img style="margin-left:0px;margin-top:0px;" height="315" width="576" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckZH5B1bD30V_mLPHubxm87AIZ5ARpKUH5ChXvMLqJAn3fuzw_dZ3oIimvO4X_yLu-0HjpNzMGNHc3jwwimC0AFN-IFIbRHx6kGkBh8bQz-ww4huTBDRXCT832DERMANPJ8SBV9w?key=iq8aTdDzoS6mWuAKu9kmjQ">
 </div>
 <p></p>
