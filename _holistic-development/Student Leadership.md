@@ -125,6 +125,98 @@ eLF Council and Alumni.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
+<p><strong>CCA Leadership Programme</strong>
+</p>
+<p>Our CCA Leaders undergo leadership development through a CCA Leadership
+Course. The course focuses on the theory of leadership which also provides
+opportunities for students to exercise thinking and leadership in various
+CCA contexts. Participants also get to experience scenario-based challenges
+where they will be required to exercise their leadership competencies in
+different situations.</p>
+<p>Through the CCA Leadership Course, our participants:</p>
+<ul>
+<li>
+<p>Are provided with opportunities to <strong>step up as leaders</strong> in
+authentic situations</p>
+</li>
+<li>
+<p><strong>Take on different roles</strong> during the course, <strong>learning to lead and serve</strong>
+</p>
+</li>
+<li>
+<p><strong>Understand the expectations of a leader </strong>and develop oneself
+in the following domains of Identity, Leadership and Choice</p>
+</li>
+</ul>
+<p><strong>Develop their confidence, cultivate skills and values</strong> in
+service and leadership to enable them to be more effective in their role.</p>
+<p></p>
+<p>CCA Leaders Experience</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="184" width="562" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcElhZvxKW2BRkH_0s5PA_XGEXg-ArIV6UP8A4nH3ZjIPfBfc3EtvT7ThjinMnqJ16chhldiV0QgLa0GlOwCkP2YQpY2Abaqckq59OSBUeoZMh2omrWjwL1KruHPu-VAsxA_GnI7g?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>Workshop Sessions as part of leadership development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="175" width="562" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2s1fnacekk5-gQFokOpcb3DKLHAmprUddleHsZEdjvKny8R-DJfgtVgEm4H7dssrP7FAu_9gwi7bbfAXzoBCoELZsaLfBYF_pUusFvdbs9t5LfggV6QbOtftpLDHl-OJUl67xyQ?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>Learning to communicate effectively and problem-solve as a team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="193" width="562" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcC8plA_oEkO2mlrpzTadMn-rHhpbLjW8Co2bQvGcsXNoNM5NvLhVMOPnoTz6dYituCcnrXONc5-iy9tNEyZDP4DlSj-Odc0yk7YQ9OVtAEKxt1AO7PMtGHPlGLo1Q15O2JO-5OFQ?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>Leading the upcoming CCA Leaders through facilitation and team challenges
+as Student Cadres</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="141" width="562" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf5JtmffqxC0mlRAweMZnEKMZeAG7MLv-M-R-VTqNcinDdJ1_AJjw2_Wcr_CllTbT2kCYejgr8JftcI9XZjjT0N-SDUZi4IGngrZYmbZY71mQzEeJYEpiS6FUbZ5muJ1wC1fztt?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>Engaging Active Seniors during a Serve to Lead programme in partnership
+with ActiveSG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="199" width="562" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc9BTxKpaT7uHMC4oQGlrNuROgR8BHKj6NvvqYuxrLK5L4C3qoUcbfbHDiyD-gEiPE-yBdqy1HoMRud_GJ6zpBHZAAkUdZE3V1qoDgbnXbn2NGkz5tbquZoRld5gOJSTqeW7dyP?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>Contributing at School Events as Student Umpires</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="167" width="562" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeem6WRJ7e-1dTqlIeuuip3yyfUEHUgekubfCvJoB1qO7j3N08EsKvzR8DThrOl1EmP9MW1wK31R7f2uZpkL4koPzlt_KFgLC-QmbtV0gDShKLiF5c1nEqiPbRG7f3OEfhQEt31lw?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>Hosting visitors at The F.L.Y. as school ambassadors</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
