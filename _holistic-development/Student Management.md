@@ -314,3 +314,26 @@ feel valued and motivated to do their best.</p>
 <img style="margin-left:0px;margin-top:0px;" height="198" width="353" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcloI7z6cwXrJhvfnlh4-1YFjDorv8w_jTQ9nqopcvYxqrI1aqz0iNA3YuMEKjnEJduKF7liaantWdvy3k-k8np-i8djwREpJCaEW18kXowpJ4N7FcEhWdsnzH7VwYMs4gcB-7HNA?key=iq8aTdDzoS6mWuAKu9kmjQ">
 </div>
 <p></p>
+<p></p>
+<hr>
+<p></p>
+<ul>
+<li>
+<p><u>S.H.I.N.E. Programme</u>
+<br>
+</p>
+</li>
+</ul>
+<p>The After-School Support Programme is a proactive initiative aimed at
+identifying and assisting students who may be facing complex personal,
+social, or academic challenges. By providing targeted support beyond curriculum
+hours, the programme seeks to create a safe and nurturing environment that
+strengthens students’ resilience, enhances their overall well-being, and
+supports their holistic development.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="242" width="455" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_T2Peyul2-Dn7Y2hl2hNAMIqGZQoqNaEFUk2vjtVqCUmEHzLVoljPMLcPbt-wlpCO3RmeoRSQfIQenylkLQDxol8qv_6rjuaOD420KPFpC8-x_bTWUssJVUJna1enO5jSSL2v2g?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>
+<br>
+</p>
+<p></p>
