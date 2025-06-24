@@ -22,7 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim - Su-en Loh, Subject Head (Student Management)</p>
+<p>Mrs Lim - Su-en Loh, Subject Head
+<br>(Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Marie Ow Yong</p>
@@ -70,7 +71,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Umairah Insyirah Binte Abdul Rahman (SEN Officer)</p>
+<p>Miss Umairah Insyirah Binte Abdul Rahman
+<br>(SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -78,7 +80,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Fadhilah Atkha Binte Mohamed Sani (SEN Officer)</p>
+<p>Miss Siti Fadhilah Atkha Binte Mohamed Sani
+<br>(SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
