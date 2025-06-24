@@ -243,10 +243,10 @@ of the school environment.
 belongings.
 <br>18.&nbsp; &nbsp; &nbsp; &nbsp; Students should have integrity in words
 and deeds.</p>
-<h4><br><strong>Key Programmes &amp; Activities</strong></h4>
-<p>
-<br>
-</p>
+<h4></h4>
+<hr>
+<p></p>
+<h4><strong>Key Programmes &amp; Activities</strong><br></h4>
 <ul>
 <li>
 <p><u>Back to Frontier Programme</u>
