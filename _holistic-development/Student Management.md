@@ -90,160 +90,92 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<h4><strong>Key Approaches</strong></h4>
+<p>The<strong> Student Management Department </strong>&nbsp;plays a vital
+role in nurturing our students&nbsp; by creating a safe, supportive, and
+values-driven school environment. Its work is central to the holistic development
+of every child—ensuring not just academic progress, but personal growth
+and well-being.&nbsp;</p>
+<p>The department believes in promoting positive student behaviour. We hope
+to help our students learn from mistakes, make better choices, and grow
+in character.</p>
+<p>Premised on the belief that every student matters, our department works
+closely with teachers, parents, and student support teams—including SEN
+Officers—to provide timely interventions for students who may face behavioural,
+learning or social challenges. These efforts ensure that students are not
+left behind, but are supported with compassion and understanding.
+<br>
+</p>
+<p>Thumbs Up! Values In Action
+<br>
+</p>
+<p>To enable stronger behavioural demonstration of school values, the school
+introduced Thumbs Up! Values in Action! to concretise how it would like
+for students to display the school values via specific behaviours. Thumbs
+Up! is aligned to our school Motto, Make a Difference and Be the Difference.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="96" width="576" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXde5nex01_FPNpc4LblIJcc879z-OakgZv36pWoF75vLgYaaW4X7kpTBLUE-Av_BSkYBR7zc0nR7lPbdvTLLkw9we0pM1ExkuGvfF1RrrZ4zM14E6c_CxAzySyQ_n8x922hwHqsEA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>S.T.A.R. Approach
+<br>
+</p>
+<p>The school aims to instill in all students the value of self-discipline.
+Self-discipline is a life-long value that will serve and benefit them tremendously
+as they grow and mature.&nbsp;
+<br>
+</p>
+<p>Whenever faced with a difficult situation, students are taught to use
+the S.T.A.R. Approach. They should STOP. THINK. ACT. and then REFLECT.</p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="243" width="245" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwj2j5BB8wmWilRgIY7Ja3AoUfCdjL7n5MaUAb8jkhs0udmGVz8pV1ZMpsXWeh5k3d6vWWc9-GS3zgNUy_EJbd-6HHqLsSoT1QKvgurf8gyG91REXVm2sIZy-_1XWzv00pukKdPA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<p>
+<br>School Discipline
+<br>
+</p>
+<p>In enacting a positive and proactive approach to discipline in school,
+there are three aspects to consider:</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="190" width="320" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5_DycSAPiWTx8xtYipeL9D6879uR4aHV6t3hxF1JJF4FpLFcqMH2Qu9VX805pgxPhpcFf8_AM8lrkoVleKOtqHwbORBPXZ4SKdLSUy6yMsFXkRPgV8L73J8sxeTcEf02m0Epk?key=iq8aTdDzoS6mWuAKu9kmjQ">
+</div>
+<ul>
+<li>
+<p><strong>Promote and Prevent</strong>
+</p>
+</li>
+</ul>
+<p>We believe <strong>promoting</strong> a safe and supportive environment
+is important. Hence, we emphasize on strong Teacher-Student Relationship
+and communicating our school rules and expectations to the students regularly.
+By doing so, we hope to <strong>prevent</strong> challenging behaviours from
+occurring and disrupting learning.&nbsp;</p>
+<ul>
+<li>
+<p><strong>Address and Correct</strong>
+</p>
+</li>
+</ul>
+<p>Despite preventive measures, students could still display inappropriate
+behaviours due to various reasons. As educators, we <strong>address</strong> the
+inappropriate behaviour promptly so that it does not disrupt teaching and
+learning, and <strong>correct</strong> it before it affects students’ development
+and well-being.&nbsp;&nbsp;</p>
+<ul>
+<li>
+<p><strong>Replace and Restore</strong>
+</p>
+</li>
+</ul>
+<p>As the ultimate goal is for students to develop self-discipline and good
+character, it is important for teachers to help misbehaving students to <strong>replace</strong> their
+inappropriate behaviour with prosocial, appropriate ones, and to <strong>restore</strong> relationships
+with others hurt by their actions.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
-<p></p>
-<p>The school’s student leadership programme, exemplary Leaders@Frontier
-(eLF), is premised on the belief that ‘<strong>Every Student is a Leader</strong>’
-and is designed to achieve the school’s vision of “Passionate Leaders”.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll1.jpg">
-</div>
-<p>Student leadership development is deployed through a 3-tier approach:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Baseline leadership training&nbsp;</strong>known as “Class eLF
-Training” is conducted for all students through level-customized student
-leadership training packages which aim to equip students with competencies
-such as self-awareness, empathy and taking initiative. All students are
-given opportunities to be a Class eLF within the class.</p>
-</li>
-<li>
-<p>Students who exhibit exemplary leadership qualities and values are selected
-to become a&nbsp;<strong>School eLF</strong>&nbsp;(S-eLF), to lead at the
-school. These students are nominated by their teachers and undergo an interview
-to be confirmed as S-eLF.&nbsp;<strong>Teacher mentors are assigned</strong>&nbsp;to
-all S-eLF to provide group mentoring.&nbsp;<strong>Regular meetings and trainings</strong>&nbsp;are
-also conducted regularly to support and develop the S-eLFs. The school<strong>&nbsp;monitors and</strong>&nbsp;<strong>assesses the performance of S-eLF</strong>&nbsp;through
-self-evaluation, peer­evaluation, evaluation by form teachers and eLF teachers
-over the course of the year. A 6-year plan for the&nbsp;<strong>progressive development</strong>&nbsp;of
-the S-eLF knowledge, skills and values is used as the skeleton for all
-S-eLF trainings</p>
-</li>
-<li>
-<p>In parallel with S-eLF, students who exhibit leadership qualities in their
-CCAs are similarly identified for appointments to lead at the CCA level,
-under the guidance of CCA teachers. In 2019, the school started a CCA Leadership
-Camp to&nbsp;<strong>develop leadership traits and qualities</strong>&nbsp;through
-scenario-based opportunities for application. CCA teachers are provided
-with information on the students’ strengths and AFGs to enable continued
-development during CCA.</p>
-</li>
-<li>
-<p>A S-eLF Council has also been formed to&nbsp;<strong>serve the school at a higher level</strong>.
-The S-eLF Council is voted into the different council positions by staff
-and the student body. They undergo different trainings and are mentored
-closely by the S-eLF teachers. The S-eLF Council members will co-plan certain
-segments of S-eLF-L.E.S.S with the S-eLF teachers. During certain eLF Meet
-and S-eLF-L.E.S.S, the Upper Primary S-eLF will also facilitate certain
-segments and guide the younger S-eLF, such as how to be effective in carrying
-out their duties and how to manage difficult and uncooperative peers.</p>
-</li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll2.png">
-</div>
-<p><strong><u>S-eLF contribution to the Community</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>S-eLF Leadership Camp</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>S-eLF Affirmation</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll8.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Photo taken together with the S-eLF Alumni Members</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll9.jpg">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll10.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sll11.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
