@@ -186,8 +186,7 @@ all. The school takes a serious view of Frontierers’ discipline and conduct.
 All students are to uphold the school rules. Students who do not comply
 with the school rules will be given Disciplinary forms, and consequences
 will be meted out according to the severity of the offence as deemed fit
-by the school.&nbsp;</p>
-<p>
+by the school.&nbsp;
 <br>
 <br>
 </p>
