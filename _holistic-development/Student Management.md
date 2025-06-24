@@ -116,7 +116,7 @@ Up! is aligned to our school Motto, Make a Difference and Be the Difference.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="96" width="576" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXde5nex01_FPNpc4LblIJcc879z-OakgZv36pWoF75vLgYaaW4X7kpTBLUE-Av_BSkYBR7zc0nR7lPbdvTLLkw9we0pM1ExkuGvfF1RrrZ4zM14E6c_CxAzySyQ_n8x922hwHqsEA?key=iq8aTdDzoS6mWuAKu9kmjQ">
 </div>
-<p>S.T.A.R. Approach
+<p><u>S.T.A.R. Approach</u> 
 <br>
 </p>
 <p>The school aims to instill in all students the value of self-discipline.
