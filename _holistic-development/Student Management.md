@@ -249,15 +249,12 @@ and deeds.</p>
 </p>
 <ul>
 <li>
-<p>Back to Frontier Programme</p>
-</li>
-</ul>
-<p>The programme helps students ease back into school routines, rebuild confidence,
+<p><u>Back to Frontier Programme</u>
+<br>The programme helps students ease back into school routines, rebuild confidence,
 and re-establish connections with peers and teachers after a long absence
 due to illness, personal challenges, or disciplinary issues.</p>
-<p>
-<br>
-</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
