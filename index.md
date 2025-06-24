@@ -32,7 +32,6 @@ sections:
       alt: Applied Learning Programme
   - infopic:
       title: Learning for Life Programme (LLP)
-      subtitle: Add an image and text
       id: infopic
       description: Nurturing Cultured and Expressive FRONTierers
       button: More Information
