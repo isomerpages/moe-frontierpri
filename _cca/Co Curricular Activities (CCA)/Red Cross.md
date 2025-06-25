@@ -121,3 +121,51 @@ Cross Youth uniforms</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/RED/Disaster_Risk_Management.png">
+</div>
+<p>RCY Links applying their knowledge of Disaster Management in the annual
+Disaster Risk Reduction Championship</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RCY Links applying their knowledge of First Aid in the annual First Aid Championship" src="/images/CCA/RED/First_Aid_Championship_Pic.jpg">
+</div>
+<p>RCY Links applying their knowledge of First Aid in the annual First Aid
+Championship</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/CCA/RED/Scouts_CCA_Collaboration_Pic__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/CCA/RED/Scouts_CCA_Collaboration_Pic__2_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>RCY CCA collaborating with Scouts CCA to share knowledge and skills in
+first aid and outdoor education</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RCY Links learn about the importance of gut health during their Learning Journey to Yakult Factory" src="/images/CCA/RED/Yakult_Factory_Pic.jpg">
+</div>
+<p>RCY Links learn about the importance of gut health during their Learning
+Journey to Yakult Factory</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="6" src="/images/CCA/RED/Service_to_the_elderly.jpg">
+</div>
+<p>RCY Links develop compassion and civi mindedness as they plan and execute
+activities for seniors at Nursing Homes</p>
+<p></p>
