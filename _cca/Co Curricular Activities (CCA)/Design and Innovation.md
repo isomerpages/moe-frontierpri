@@ -149,7 +149,7 @@ and strives for excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fridays,</strong> 2:00 p.m. to 4:00 p.m. at Digital Den Red, Blue,
-Purple</p>
+Purple &amp; iMaker Lab</p>
 </td>
 </tr>
 <tr>
