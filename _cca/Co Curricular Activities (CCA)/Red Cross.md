@@ -85,12 +85,12 @@ projects</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lan Shii (I/C)</p>
-<p>Mrs Lim - Su-en Loh(2 I/C)</p>
+<p>Mrs Lim – Su-en Loh (I/C)</p>
+<p>Mrs Lee – Sandra Phong Pei Shan (2 I/C)</p>
 <p>Mdm Sri Arianti Bte Ariffin</p>
-<p>Mrs Lee - Sandra Phong Pei Shan</p>
-<p>Mr Li Lei</p>
 <p>Mrs Valerie Teo</p>
+<p>Mr Li Lei</p>
+<p>Mdm Yap Lay Koon</p>
 </td>
 </tr>
 <tr>
@@ -110,10 +110,12 @@ projects</p>
 <td rowspan="1" colspan="1">
 <p>Students are to be in their Red Cross Youth T-Shirt during the normal
 CCA days.</p>
+<p>&nbsp;</p>
 <p>Students will be notified in advance to wear their Red Cross Youth uniform
 for internal events in school or external events.</p>
-<p>*Red Cross Youth – Headquarters will bear the cost for the first set of
-Red Cross Youth uniform.</p>
+<p>&nbsp;</p>
+<p>*Red Cross Youth – Headquarters will bear the cost for two sets of Red
+Cross Youth uniforms</p>
 </td>
 </tr>
 </tbody>
