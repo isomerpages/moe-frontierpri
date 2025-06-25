@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" src="/images/es.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/Picture1.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -61,11 +71,12 @@ energy, water conservation and waste management.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nusraat (I/C)</p>
-<p>Mrs Raspal Singh (2 I/C)</p>
-<p>Miss Kaur Harsharan</p>
+<p>Dr Ganges Lim (I/C)</p>
+<p>Mdm Nusraat (2 I/C)</p>
+<p>Mrs Raspal Singh (I/C)</p>
 <p>Mrs Sudhakar</p>
-<p>Mrs Yap - Chua Lena</p>
+<p>Mr Lin Renyi</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -74,7 +85,7 @@ energy, water conservation and waste management.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Sessions will be held on Mondays. Please refer to the detailed schedule
+<p>CCA Sessions will be held on Fridays. Please refer to the detailed schedule
 given in Parents Gateway.</p>
 </td>
 </tr>
