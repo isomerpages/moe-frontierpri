@@ -100,7 +100,12 @@ like Chinese New Year, and even external showcases!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, 2:00 p.m. to 4:00 p.m. @ PAL ROOM, Level 2</p>
+<p>Mondays, 2:00 p.m. to 4:00 p.m. @ PAL ROOM, Level 2
+<br>
+</p>
+<p>Additional practices:
+<br>Information about additional sessions will be communicated via letter
+to students.</p>
 </td>
 </tr>
 <tr>
