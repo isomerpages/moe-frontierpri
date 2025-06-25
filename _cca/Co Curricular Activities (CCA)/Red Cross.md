@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/rc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/RED/Main_Pic.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -22,18 +32,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frontier Primary Red Cross was established in 2015, we aim to combine
-character-building, leadership, essential lifesaving skills, blood donation
-knowledge and local community service in its curriculum. Incuded in the
-curriculum is the Red Cross ethos and service to humanity as a core focus.
-Members visit Home for the Disabled to show cares and concerns and bring
-joy and happiness to the needy, underprivileged and handicapped. Members
-will also involve in various VIA programme such as Litter Picking, Mozzie
-Wipe and many more, to build up member's awareness in how to contribute
-back to society on the best of their ability. We want to bring the best
-out of our members and prepare them to be a leader in their families and
-community. This is in line with MOE's approach in developing the 21st century
-competencies for the youngs, focusing on character and citizenship education.</p>
+<p>Red Cross Youth (RCY) is a co-curricular activity (CCA) that integrates
+character-building, leadership, essential lifesaving skills and blood donation
+knowledge, local community service and overseas humanitarian projects in
+its curriculum, with the Red Cross ethos and service to humanity as a core
+focus.</p>
+<p>RCY strives to instill the Red Cross Youth spirit and strengthen core
+values such as compassion, passion and professionalism in all members.
+By participating in providing Singapore Red Cross humanitarian services,
+Red Cross Youths are groomed to become good citizens with a strong sense
+of civic responsibility. They are trained to be adaptable, resilient and
+confident team players.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -42,8 +52,7 @@ competencies for the youngs, focusing on character and citizenship education.</p
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students, who are willing to lend a helping hand in relieving human
-suffering.</p>
+<p>P3 – P6 Boys and Girls</p>
 </td>
 </tr>
 <tr>
@@ -55,16 +64,17 @@ suffering.</p>
 <p>Students will learn to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Be equipped with basic first aid knowledge in attending to minor injuries.</p>
+<p>Be equipped with basic first aid knowledge in attending to minor injuries</p>
 </li>
 <li>
-<p>Develop compassion in helping fellow human facing suffering and emergencies.</p>
+<p>Develop compassion in helping others facing suffering and emergencies</p>
 </li>
 <li>
 <p>Foster character building and develop social emotional awareness</p>
 </li>
 <li>
-<p>Cultivate the love and joy of Red Cross spirit.</p>
+<p>Play an active role in serving the school and community through Values-in-Action
+projects</p>
 </li>
 </ul>
 </td>
