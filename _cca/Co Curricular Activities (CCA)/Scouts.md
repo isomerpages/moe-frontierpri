@@ -196,4 +196,29 @@ environmental sustainability.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MNDiscover Jurong Lake Gardens’ Edible Garden with Frontier Cub Scouts&nbsp;</strong>
+</p>
+<p>The post is featured on MND’s Instagram and TikTok accounts.
+<br>Check it out here:
+<br>Part 1: <a href="https://www.instagram.com/share/reel/BBIXH9us9p" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/share/reel/BBIXH9us9p</a>
+<br>Part 2:&nbsp; <a href="https://www.instagram.com/share/reel/BAJFwAphTb" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/share/reel/BAJFwAphTb</a>&nbsp;</p>
+<p><strong><em>E21CC CCI1 Communication</em></strong><em>: Effectively communicates information and construct knowledge</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
