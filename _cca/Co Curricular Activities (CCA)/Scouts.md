@@ -252,6 +252,50 @@ in group settings to contribute to shared goals</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="7" src="/images/CCA/SCOUTS/7.png">
+</div>
+<p>Supporting one another during outdoor cooking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="6" src="/images/CCA/SCOUTS/6.png">
+</div>
+<p>Demonstrating resilience and team work while building a structure</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="8" src="/images/CCA/SCOUTS/8.jpg">
+</div>
+<p></p>
+<p>Learning more About Scouting at the Singapore Scout Association</p>
+<p><strong>E21CC CCI3 Collaboration:</strong> Interacts and works effectively
+in group settings to contribute to shared goals</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="9" src="/images/CCA/SCOUTS/9.jpg">
+</div>
+<p></p>
+<p>Fostering student agency through peer guidance and shared experiences.</p>
+<p><strong>E21CC CCI1 Communication: </strong>Effectively communicates information
+and construct knowledge</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
