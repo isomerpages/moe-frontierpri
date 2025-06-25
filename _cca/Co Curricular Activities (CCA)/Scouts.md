@@ -236,6 +236,22 @@ role to improve the school, community and nation</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="5" src="/images/CCA/SCOUTS/5.png">
+</div>
+<p></p>
+<p>When the tent won’t stand, we listen actively, share ideas and solve the
+problem together.</p>
+<p><strong>E21CC CCI1 Communication:</strong> Effectively communicates information
+and construct knowledge</p>
+<p><strong>E21CC CCI3 Collaboration:</strong> Interacts and works effectively
+in group settings to contribute to shared goals</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
