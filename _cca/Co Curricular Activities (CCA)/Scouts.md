@@ -216,6 +216,24 @@ environmental sustainability.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/CCA/SCOUTS/3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/CCA/SCOUTS/4.jpg">
+</div>
+<p></p>
+<p>At the official opening of Jurong Lake Gardens, our Cub Scouts shared
+with SM Lee Hsien Loong and CNA about their roles as NParks tour guides
+and how they created plant labels through Maker Ed.</p>
+<p><strong>E21CC CGC2 Civic Literacy:</strong> Play active and constructive
+role to improve the school, community and nation</p>
+<p></p>
 </td>
 </tr>
 </tbody>
