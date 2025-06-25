@@ -119,4 +119,23 @@ to students.</p>
 </tr>
 </tbody>
 </table>
+<p>2024 SYF</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 SYF" src="/images/CCA/MODERN/SYF_2024.jpg">
+</div>
+<p></p>
+<p>2023 Dance Performance at Frontier CC</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2023 Dance Performance at Frontier CC" src="/images/CCA/MODERN/2023_Dance_Performance_at_Frontier_CC.jpg">
+</div>
+<p>2020 Post SYF Performance at Esplanade</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2020 Post SYF Performance at Esplanade" src="/images/CCA/MODERN/2020_Post_SYF_Performance_at_Esplanade.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2020 Post SYF Performance at Esplanade" src="/images/CCA/MODERN/2020_Post_SYF_Performance_at_Esplanade_2.png">
+</div>
+<p></p>
 <p></p>
