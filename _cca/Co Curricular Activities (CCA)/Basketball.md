@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/bask.jpeg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -73,9 +77,10 @@ these values beyond the basketball court to their lives.</p>
 <p>Mr Lai Huei Yuh, Vic (2 I/C)</p>
 <p>Mdm Wang Hai Jing</p>
 <p>Mdm Liew Mei Lian</p>
-<p>Ms Chen Li Li</p>
 <p>Mrs Francesca d'Armancourt</p>
-<p>Mdm Lai Soon Ling</p>
+<p>Mdm Mardiana Abdul Manap</p>
+<p>Miss Harsharan Kaur</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -84,7 +89,11 @@ these values beyond the basketball court to their lives.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays and Fridays, 2:00 p.m. to 4:00 p.m. @ Indoor Sports Hall</p>
+<p>Mondays:
+<br>2:00 p.m. to 4:00 p.m. @ Indoor Sports Hall (School Team players only)</p>
+<p>Fridays:
+<br>2:00 p.m. to 4:00 p.m. @ Indoor Sports Hall (All boys)</p>
+<p>2:00 p.m. to 4:00 p.m. @ Jurong West Primary School (ISH) (All girls)</p>
 </td>
 </tr>
 <tr>
@@ -98,4 +107,12 @@ these values beyond the basketball court to their lives.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/BASKETBALL/Boys_School_Team.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA/BASKETBALL/Girls_School_Team.jpg">
+</div>
 <p></p>
