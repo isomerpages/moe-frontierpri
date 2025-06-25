@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" src="/images/sb1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/SOFTBALL/Batting.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -22,16 +32,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Softball is a team sport in which every player plays a crucial role to
-ensure the success of the team. The sport provides opportunities for the
-softball players to cultivate important values and life skills such as
-self-discipline, tolerance, leadership, resilience, cooperation and good
-sportsmanship. All Softball players in Frontier will develop and harness
-the fundamental skills of throwing, catching, fielding, pitching, batting
-and base-running. As softball involves a variety of skills, players will
-participate in a developmentally age-appropriate regime. In order to hone
-their softball skills, game situations and friendly matches will be incorporated
-in the training programme.</p>
+<p>Softball is a team sport where each player plays an essential role in
+contributing to the team’s overall success. It offers valuable opportunities
+for athletes to develop key life skills and values, including self-discipline,
+leadership, resilience, teamwork, and sportsmanship.</p>
+<p>At Frontier, all Softball CCA members will attend regular practices. Given
+the diverse range of abilities required in the sport, training will be
+tailored to suit the developmental stage of each member. To prepare them
+for the annual National School Games (NSG), students will engage in game-based
+scenarios and friendly matches as part of the training programme.</p>
 </td>
 </tr>
 <tr>
@@ -71,21 +80,11 @@ and fair play.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang - Tam Hui Yun Lea (I/C)</p>
-<p>Miss Peh Shu Yu, Janele (2 I/C)</p>
-<p>Mr Choo Wee Pin</p>
-<p>Mdm Chua Ting Ting</p>
-<p>Mdm Asmahwaty</p>
-<p>Mr Muhammad Iswandi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Captains:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ang-Tam Hui Yun Lea (I/C)
+<br>Mr Choo Wee Pin</p>
+<p>Mdm Asmahwaty Binte Abdullah</p>
+<p>Mdm Nur Shirin Bte Yaman Yuen</p>
+<p>Mdm Siti Nur Aishah Bte Mohamad Zainudin</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +93,11 @@ and fair play.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays, 2:00 p.m. to 4:00 p.m. @ School Field</p>
-<p>Refer to school softball noticeboard for more information</p>
+<p>School Team: Mondays, 2.00 p.m. to 4.00 p.m. @ School Field</p>
+<p>Developmental Team: Fridays, 2.00 p.m. to 4.00 p.m. @ School Field</p>
+<p>Additional practices:
+<br>Information about additional sessions will be communicated via letter
+to students.</p>
 </td>
 </tr>
 <tr>
@@ -104,13 +106,19 @@ and fair play.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will be in PE attire unless otherwise stated. Sports shoes and
-cap (if any)</p>
+<p>Students will be training in their Softball CCA attire which consists
+of the jersey, long pants and cap. (Students may choose to wear their own
+sports shoes)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
