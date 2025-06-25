@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 33%;" height="auto" width="100%" src="/images/sco.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/SCOUTS/1.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -22,15 +32,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frontier Scouts is the right CCA for boys and girls who want to be intellectually
-stimulated and physically engaged. Through Scouting, we hope to instill
-character, citizenship and leadership qualities in our scouts and develop
-them into adaptable individuals.</p>
-<p>We provide our scouts with a lot of meaningful learning experiences to
-work in teams and participate in outings, training programmes, VIA activities
-and camps. The exposure allows our scouts to earn a series of proficiency
-badges and pick up life skills such as tent pitching, first aid and knot
-tying.</p>
+<p>Frontier Scouts is the ideal CCA for both boys and girls who are eager
+to be intellectually stimulated and physically engaged. Through the Scouting
+programme, we aim to nurture character, citizenship, and leadership qualities
+in our Scouts, helping them grow into adaptable and responsible individuals.</p>
+<p>&nbsp;</p>
+<p>Our Scouts enjoy a wide range of meaningful learning experiences, including
+working in teams and taking part in outdoor outings, training programmes,
+Values-in-Action (VIA) activities, and camps. These activities not only
+promote teamwork and resilience but also provide opportunities to earn
+proficiency badges and acquire valuable life skills such as tent pitching,
+first aid, and knot tying.</p>
+<p>&nbsp;</p>
+<p>Join us and embark on an exciting journey of adventure, growth, and discovery!</p>
 </td>
 </tr>
 <tr>
@@ -48,18 +62,19 @@ tying.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will learn to:
-<br>
-</p>
+<p>Students will learn to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Exercise self-control</p>
+<p><strong>Collaborate</strong> effectively by listening actively, supporting
+their peers, and working towards shared goals.</p>
 </li>
 <li>
-<p>Be a fabulous team player</p>
+<p><strong>Think critically</strong> by analysing situations, making sound
+decisions, and reflecting on how their actions impact others.</p>
 </li>
 <li>
-<p>Serve the community</p>
+<p><strong>Serve the community</strong> through meaningful projects that demonstrate
+care, responsibility, and empathy.</p>
 </li>
 </ul>
 </td>
@@ -70,10 +85,20 @@ tying.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold for Frank Cooper Sands Award Year of Assessment 2016</p>
-<p>Gold for Frank Cooper Sands Award Year of Assessment 2017</p>
-<p>Gold for Frank Cooper Sands Award Year of Assessment 2018</p>
-<p>Gold for Frank Cooper Sands Award Year of Assessment 2019</p>
+<p>Achieved the Frank Cooper Sands Award for seven consecutive years (Gold,
+Year of Assessment 2016–2023), and recognized for continued excellence
+in 2024 and 2025 under the revised award framework.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>External Partnership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frontier Primary School is proud to partner with NParks to nurture our
+scouts as caring citizens who actively connect with the community and champion
+environmental sustainability.</p>
 </td>
 </tr>
 <tr>
@@ -82,11 +107,12 @@ tying.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eugena Ooi Wei Ling (I/C)</p>
+<p>Ms Eugena Ooi Wei Ling (I/C)</p>
 <p>Mdm Noryanti Mohamed Yahya (2 I/C)</p>
-<p>Miss Siti Nur Aishah Mohamad Zainudin</p>
+<p>Mdm Chia Qian Lin</p>
+<p>Mrs Carrie Laksman</p>
 <p>Ms Chen Peishi</p>
-<p>Mr Ganges Lim Zi Yang</p>
+<p>Ms Sheirin Habibah</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +130,7 @@ tying.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Lab</p>
+<p>3RY1 Classroom</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +144,13 @@ tying.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
