@@ -5,13 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/rw.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/Picture01.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/rw2.jpg">
-</div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -68,11 +75,12 @@ and good sportsmanship whilst providing them with a tactile and fun experience.<
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yi Cong (I/C)</p>
-<p>Miss Nur Atiqah Syahirah Bte Mohd Yamin (2 I/C)</p>
-<p>Mdm Suria Bte Mohamed Sani</p>
-<p>Mdm Lim Pei Geok</p>
-<p>Mrs Ang Cheng Chew - Teh Ai Choo</p>
+<p>Mdm Shannon, Lim Pei Geok (2 I/C)</p>
 <p>Mdm Toh Bee Choo, Ann</p>
+<p>Mdm Suria Bte Mohamed Sani</p>
+<p>Mrs Cheong – Li Shaohui</p>
+<p>Miss Nur Atiqah Syahirah</p>
+<p>Mrs Ang Cheng Chew - Teh Ai Choo</p>
 </td>
 </tr>
 <tr>
@@ -81,8 +89,9 @@ and good sportsmanship whilst providing them with a tactile and fun experience.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays (Pri 4) and Fridays (Pri 5 &amp; 6), 2:00 p.m. &nbsp;to 4:00 p.m.
-@ Climbing&nbsp;Wall</p>
+<p>P3 and P5: Mondays</p>
+<p>P4 and P6: Fridays</p>
+<p>Shortlisted competitive climbers will be training on Mondays and Fridays</p>
 </td>
 </tr>
 <tr>
@@ -91,9 +100,15 @@ and good sportsmanship whilst providing them with a tactile and fun experience.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will be in PE T-shirt and track pants unless otherwise stated.</p>
+<p>PE T-shirt, track pants and rockwall climbing shoes.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rockwall Climbers with their National Primary Schools Sports Climbing Championships medals (NPSSCC)" src="/images/CCA/Picture02.jpg">
+</div>
+<p>Rockwall Climbers with their National Primary Schools Sports Climbing
+Championships medals (NPSSCC)</p>
 <p></p>
