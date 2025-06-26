@@ -23,11 +23,19 @@ sections:
       button: More Information
       subtitle: Stay up to date with us
   - infopic:
-      title: iN-Touch
-      description: Our Term 1 2025 iN-Touch >> (In Progress)
-      button: Read more
-      url: /files/iN_Touch_Term_1_2025.pdf
-      image: /images/iN-Touch Logo.jpg
-      alt: Image alt text
-      subtitle: Our Termly Newsletter
+      title: Applied Learning Programme (ALP)
+      id: infopic
+      description: Nurturing the Thinking F.A.C.E for Tomorrow
+      button: More Information
+      url: https://www.frontierpri.moe.edu.sg/applied-learning-programme/
+      image: /images/ALP_EDITED.png
+      alt: Applied Learning Programme
+  - infopic:
+      title: Learning for Life Programme (LLP)
+      id: infopic
+      description: Nurturing Cultured and Expressive FRONTierers
+      button: More Information
+      url: https://www.frontierpri.moe.edu.sg/learning-for-life-programme-llp/
+      image: /images/LLP_EDITED.png
+      alt: Learning for Life Programme
 ---

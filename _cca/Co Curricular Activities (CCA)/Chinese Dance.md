@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/CHINESE/SYF_2024_1.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -22,22 +32,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Chinese Dance CCA started in 2013 and aims to provide a tactile experience
-for students to be engaged in fun dance training and to encompass learning
-in a creative way, cultivate a love and an appreciation for the aesthetics,
-help students better appreciate the cultural significance behind cultural
-dances and elements in dance, and help students develop better motor skills
-and showmanship through dance and movement and performance/competition
-opportunities. Most importantly, it helps students understand and appreciate
-the importance of teamwork.</p>
-<p>Students will also be training for SYF Arts Presentation biennially. It
-is a presentation platform where students showcase their dance performances
-and get recognition for it. The dance troupe has represented the school
-in the Singapore Youth Festival Arts Presentation (SYF AP) thrice, in 2014,
-2016 and 2018 and has attained the “Distinction” all three times. They
-have also represented the school in various community performances and
-in international events like the Singapore International Campus Arts Festival
-(SICAF) held at Victoria Theatre in 2015.</p>
+<p>The Chinese Dance CCA, established in 2013, offers students an engaging
+platform to explore dance in a fun and tactile way. It aims to foster creativity,
+cultivate an appreciation for aesthetics, and deepen students' understanding
+of the cultural significance of traditional dances. Through training, students
+develop enhanced motor skills, showmanship, and teamwork, while also gaining
+opportunities to perform and compete.</p>
+<p>A key highlight of the CCA is its participation in the biennial Singapore
+Youth Festival Arts Presentation (SYF AP), where students showcase their
+talents and receive recognition for their efforts. The dance troupe has
+proudly represented the school in the SYF AP in 2014, 2016, 2018, 2022,
+and 2024, achieving the prestigious "Distinction" award each time, both
+before and after the COVID-19 pandemic. In addition to SYF AP, the troupe
+has performed in various community events and international platforms.</p>
 </td>
 </tr>
 <tr>
@@ -79,9 +86,9 @@ CNY Celebrations)</p>
 <td rowspan="1" colspan="1">
 <p>Miss Wang Wan (I/C)</p>
 <p>Miss Huang Fang (2 I/C)</p>
-<p>Miss Lim Jing Xian</p>
-<p>Miss Eliza Lim</p>
-<p>Mdm Ju Jie</p>
+<p>Miss Eliza Law Wen Yu</p>
+<p>Mdm Qin Lingjun</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,10 +97,10 @@ CNY Celebrations)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fridays, 2:00 p.m.&nbsp; to 4:00 p.m. @ PAL Room</p>
+<p>Fridays, 2:00 p.m.&nbsp; to 4:00 p.m. @ PAL Room &amp; Sonatina Room</p>
 <p>Additional practices:
 <br>Information about additional sessions will be communicated via letter
-to students</p>
+to students.</p>
 </td>
 </tr>
 <tr>
@@ -102,27 +109,27 @@ to students</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will be training in their dance gear which consists of school
-P.E T-shirt, dark colour leggings and dance shoes. (Students are to wear
-their own dance shoes.)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cd1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cd2.jpg">
-</div>
+<p>Students will train in their dance gear, which consists of the school
+P.E. T-shirt, dark-coloured leggings (black or dark blue), and beige dance
+shoes.</p>
+<p>* Leggings and dance shoes are to be purchased by parents outside of school.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024" src="/images/CCA/CHINESE/SYF_2024_2.jpg">
+</div>
+<p>SYF 2024</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2022" src="/images/CCA/CHINESE/SYF_2022.jpg">
+</div>
+<p>SYF 2022</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2018" src="/images/CCA/CHINESE/SYF_2018.jpg">
+</div>
+<p>SYF 2018</p>
+<p>SYF 2022</p>

@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/bad.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/BADMINTON/Badminton_Picture.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -30,7 +40,7 @@ rally with an opponent using several variations of hitting the shuttle
 over the net. Quick-thinking is also a pre-requisite of a good badminton
 player. Students who demonstrate great potential would be shortlisted for
 advance training and have the opportunity to represent the school if we
-decide to participate in the Zonal competition.</p>
+decide to participate in the National School Games (NSG).</p>
 </td>
 </tr>
 <tr>
@@ -69,12 +79,13 @@ back and forth over the net</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hisham (I/C)</p>
-<p>Mdm Chua Siwei (2 I/C)</p>
+<p>Mr Muhd Hisham (I/C)</p>
+<p>Mdm Lim Lan Shii (2 I/C)</p>
 <p>Mr Chua Cherng Haur, Patrick</p>
 <p>Mdm Robert Juliet</p>
-<p>Mdm Cham Kah Mien</p>
 <p>Mdm Ng Xiao Wei, Serene</p>
+<p>Mdm Cham Kah Mien</p>
+<p>Mdm Siti Idzmaidar</p>
 </td>
 </tr>
 <tr>
@@ -108,4 +119,20 @@ but students can bring along their own rackets if they wish to do so.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Senior Girls NSG" src="/images/CCA/BADMINTON/Senior_Girls_NSG.jpg">
+</div>
+<p>Senior Girls NSG</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Senior Boys NSG" src="/images/CCA/BADMINTON/Senior_Boys_NSG.jpg">
+</div>
+<p>Senior Boys NSG</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students warming up during CCA training" src="/images/CCA/BADMINTON/Students_Warm_Up.jpg">
+</div>
+<p>Students warming up during CCA training</p>
+<p></p>
 <p></p>

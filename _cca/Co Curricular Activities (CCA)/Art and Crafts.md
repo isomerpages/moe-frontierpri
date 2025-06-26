@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/ac.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/ART/AC1.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -70,10 +80,10 @@ journeys and art workshops.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kho Siok Ching, Jessica</p>
-<p>Mr Muhammad Bin Jellanie (2IC)</p>
-<p>Mdm Norazimah</p>
-<p>Miss Cheng Voon Yen</p>
+<p>Ms Kho Siok Ching, Jessica (1 I/C)</p>
+<p>Mdm Norazimah Binte Mohamed Senin (2 I/C)</p>
+<p>Mdm Cheong Yueh Tinng Evelyn</p>
+<p>Ms Lew Ern Na</p>
 </td>
 </tr>
 <tr>
@@ -82,8 +92,8 @@ journeys and art workshops.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays 2 to 4pm (for P4 and P5 students) @ Art Room</p>
-<p>Fridays 2 to 4pm (for P6 students) @ Art Room</p>
+<p>Mondays from 2 to 4pm (for P4 and P5 students) at Art Room</p>
+<p>Fridays from 2 to 4pm (for P3 and P6 students) at Art Room</p>
 </td>
 </tr>
 <tr>
@@ -97,22 +107,32 @@ journeys and art workshops.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ac1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/CCA/ART/AC3.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ac2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/CCA/ART/AC4.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ac3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA/ART/AC2.jpg">
 </div>
 </td>
 </tr>

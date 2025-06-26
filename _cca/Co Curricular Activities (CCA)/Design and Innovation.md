@@ -5,9 +5,28 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/di.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA/DESIGN/Pic_1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA/DESIGN/Pic_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,7 +89,7 @@ and relationships through positive interactions with their peers.</p>
 <td rowspan="1" colspan="1">
 <p>Design and Innovation CCA aims to develop students:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to <strong><u>think independently and critically</u></strong>,
-and <strong><u>explain their reasoning and decision</u></strong> 
+and <strong><u>explain their reasoning and decision</u></strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Being <strong><u>reflective to question, modify and improve thoughts</u></strong>
 </p>
@@ -130,7 +149,7 @@ and strives for excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fridays,</strong> 2:00 p.m. to 4:00 p.m. at Digital Den Red, Blue,
-Purple</p>
+Purple &amp; iMaker Lab</p>
 </td>
 </tr>
 <tr>
@@ -144,30 +163,12 @@ Purple</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/di1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/CCA/DESIGN/Pic_3.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/di2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/CCA/DESIGN/Pic_4.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/di3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
