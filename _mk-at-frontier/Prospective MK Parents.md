@@ -7,7 +7,7 @@ description: ""
 <h4><strong>MK Forms</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/67b2fb1348524991442648fb" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application</a>
+<p><a href="https://go.gov.sg/mk-waitlist-application" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Application</a>
 </p>
 </li>
 </ol>
