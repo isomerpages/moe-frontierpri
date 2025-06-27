@@ -18,7 +18,7 @@ description: ""
 </div>
 <p><strong>Mdm Joyce Siew Phui Yee</strong>
 </p>
-<p><em>School Counselor</em>
+<p><em>Senior School Counsellor</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
