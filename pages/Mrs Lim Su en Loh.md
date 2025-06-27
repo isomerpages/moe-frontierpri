@@ -4,7 +4,11 @@ permalink: /suen/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ description: ""
 </div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
-<p><strong><em>SH/Student Management (Internal)</em></strong>
+<p><strong><em>SH/Student Management</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
