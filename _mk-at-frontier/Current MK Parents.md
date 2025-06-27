@@ -16,7 +16,7 @@ please refer to the <a href="/files/Steps_to_apply_GIRO_online_for_DBS_and_POSB_
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/mkft-withdraw" rel="noopener noreferrer nofollow" target="_blank">MK Withdrawal Form</a>
+<p><a href="https://go.gov.sg/mkwithdrawalform" rel="noopener noreferrer nofollow" target="_blank">MK Withdrawal Form</a>
 </p>
 </li>
 </ol>
