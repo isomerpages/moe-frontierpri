@@ -18,10 +18,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.frontierpri.moe.edu.sg/files/FORMS/Application_for_Leave_During_School_Days_v202504.pdf" rel="noopener noreferrer nofollow" target="_blank">Leave During School Days</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/fpsloa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence</a> (LOA)
 (<a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">about LOA</a>)</p>
 </li>
