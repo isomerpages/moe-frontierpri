@@ -80,20 +80,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KIM FAH.jpg">
-</div>
-<p><strong>Mdm Chew Kim Fah</strong>
-<br><strong><em>Administrative Executive</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:chiew_kim_fah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_kim_fah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ALICE.jpg">
 </div>
 <p><strong>Mdm Alice Tan Gek Cheng</strong>
@@ -274,25 +260,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas10.jpg">
-</div>
-<p><strong>Mdm Chua Peck Nging</strong>
-<br><strong><em>Receptionist</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/MALIKA.jpg">
-</div>
-<p><strong>Mdm Malika D/O Subramaniam</strong>
-<br><strong><em>Office Assistant</em></strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
