@@ -17,7 +17,7 @@ description: ""
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
-<p><strong><em>Lead Teacher /English Language</em></strong>
+<p><strong>Lead Teacher / High Ability Learners</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
