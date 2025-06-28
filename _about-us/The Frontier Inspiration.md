@@ -6,8 +6,9 @@ description: ""
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Frontier_Inspiration_Windmill.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fronter_Inspiration_Windmill_Graphic_Final_updated5Jun2025.png">
 </div>
 <p>Like a windmill that harnesses the changing wind to generate positive
 energy, Frontier stands unwavering and thrives in the face of change, grounded
