@@ -478,11 +478,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100%;" height="auto" width="100%" src="/images/cha5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/Org Chart Photos/mdm_siti_nur_aishah_bte_mohamad_zainudin.jpg">
 </div>
 <p><strong>Mdm Siti Nur Aishah Mohamad Zainudin</strong>
 </p>
-<p><strong><em>Subject Head / Student Well Being (Internal)</em></strong>
+<p><strong><em>Subject Head / Student Well Being</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
