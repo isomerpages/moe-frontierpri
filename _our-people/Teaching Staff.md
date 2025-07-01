@@ -828,7 +828,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counselor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/joyce/" rel="noopener" target="_blank">Mdm Joyce Siew Phui Yee&nbsp;</a>
