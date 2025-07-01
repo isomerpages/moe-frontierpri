@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nur Aishah Bte Mohd Zainudin, Subject Head (SWB) Internal</p>
+<p>Mdm Siti Nur Aishah Bte Mohd Zainudin, Subject Head / Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Idzmaidar Bte Amir Wahid,&nbsp; Senior Teacher (Educational Support</p>
