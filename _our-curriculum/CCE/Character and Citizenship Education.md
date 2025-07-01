@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mdm Chia Tze Miang Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sheirin Habibah</p>
 </td>
 </tr>
 <tr>
@@ -50,6 +50,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wang Haijing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Joyce Siew Phui Yee (Senior School Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Azura Bte Saripi @ Julya (School Counsellor)</p>
 </td>
 </tr>
 </tbody>
