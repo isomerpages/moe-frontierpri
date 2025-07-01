@@ -224,7 +224,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mrslee-sandra/" rel="noopener" target="_blank">Mrs Lee - Sandra Phong Pei Shan</a>
+<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,6 +263,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -273,6 +274,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/asmah" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/evelyn/" rel="noopener" target="_blank">Mdm Cheong Yueh Tinng, Evelyn</a>
@@ -303,6 +305,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -319,6 +322,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -338,6 +342,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -355,6 +360,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -367,7 +373,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/janele" rel="noopener" target="_blank">Miss Peh Shu Yu, Janele</a>
+<p><a href="/mrslee-sandra/" rel="noopener" target="_blank">Mrs Lee - Sandra Phong Pei Shan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -424,12 +430,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/norhayati" rel="noopener" target="_blank">Mdm Norhayati Binte Ibnor</a>
+<p><a href="/nellie" rel="noopener" target="_blank">Mdm Soh Wee Hong, Nellie</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/nellie" rel="noopener" target="_blank">Mdm Soh Wee Hong, Nellie</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -448,6 +453,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/derek" rel="noopener" target="_blank">Mr Lee Shen Long, Derek</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -484,7 +490,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/norhayati" rel="noopener" target="_blank">Mdm Norhayati Binte Ibnor</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -605,7 +612,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
+<p><a href="/sri" rel="noopener" target="_blank">Mdm Sri Arianti Bte Ariffin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -789,16 +796,14 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sri" rel="noopener" target="_blank">Mdm Sri Arianti Bte Ariffin</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/mrstan" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/chukeng" rel="noopener" target="_blank">Mrs Chong - Pang Chu Keng</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -828,7 +833,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counselor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/joyce/" rel="noopener" target="_blank">Mdm Joyce Siew Phui Yee&nbsp;</a>
