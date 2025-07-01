@@ -652,7 +652,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
-<p><strong><em>Subject Head / Student Management (Internal)</em></strong>
+<p><strong><em>Subject Head / Student Management</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
