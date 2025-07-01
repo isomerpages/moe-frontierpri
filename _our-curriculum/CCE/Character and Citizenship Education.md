@@ -25,7 +25,7 @@ variant: tiptap
 <p>Mdm Siti Nur Aishah Bte Mohd Zainudin, Subject Head / Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Idzmaidar Bte Amir Wahid,&nbsp; Senior Teacher (Educational Support</p>
+<p>Mdm Siti Idzmaidar Bte Amir Wahid,&nbsp; Senior Teacher (Educational Support)</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mdm Chia Tze Miang Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norazimah</p>
+<p></p>
 </td>
 </tr>
 <tr>
