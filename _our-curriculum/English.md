@@ -14,21 +14,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Chua, HOD / English Language</p>
+<p>Mr Vincent Chua,
+<br>HOD / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ann Toh Bee Choo, LH / English Language</p>
+<p>Mdm Ann Toh Bee Choo,
+<br>LH / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shirin Bte Yaman Yuen, LH / English Language</p>
+<p>Mdm Nur Shirin Bte Yaman Yuen,
+<br>LH / English Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Eulindra Lim Weiqing, LT / English Language</p>
+<p>Miss Eulindra Lim Weiqing,
+<br>LT / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurashikin Bte Mohamed Zamrabi, ST / English Language</p>
+<p>Mdm Nurashikin Bte Mohamed Zamrabi,
+<br>ST / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Suat Peng, Tina</p>
