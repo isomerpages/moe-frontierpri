@@ -13,10 +13,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Anderson Tan (HOD PAM / CCA)</p>
+<p>Mr Anderson Tan
+<br>HOD PAM / CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Wee Pin (SH PE and Sports/ PE Coordinator)</p>
+<p>Mr Choo Wee Pin
+<br>SH / PE Coordinator &amp; Sports</p>
 </td>
 </tr>
 <tr>
