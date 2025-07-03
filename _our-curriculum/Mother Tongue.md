@@ -22,7 +22,8 @@ variant: tiptap
 <br>SH / Malay and Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mageswari Sudhakar (ST / TL)</p>
+<p>Mrs Mageswari Sudhakar
+<br>ST / Tamil Language</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +51,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Qian Lin (ST / CL)</p>
+<p>Mdm Chia Qian Lin
+<br>(ST / Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norhayati Bte Ibnor</p>
