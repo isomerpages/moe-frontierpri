@@ -47,20 +47,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Nidzam Bin Zakariah,
-<br>(SH / ICT)</p>
+<br>SH / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ow Kah Leong,
-<br>(HOD / ICT &amp; Data Management)</p>
+<br>HOD / ICT &amp; Data Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Teo Ming Hui,
-<br>(HOD / Student Management)</p>
+<br>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Luk Meng Lee (YH)
+<p>Mdm Luk Meng Lee
+<br>YH
 <br>
 </p>
 </td>
