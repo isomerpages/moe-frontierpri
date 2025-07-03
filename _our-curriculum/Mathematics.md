@@ -18,7 +18,8 @@ variant: tiptap
 <br>LH / Mathematics (covering HOD/MA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eugena Ooi (LH)</p>
+<p>Miss Eugena Ooi
+<br>LH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Soh (ST)</p>
