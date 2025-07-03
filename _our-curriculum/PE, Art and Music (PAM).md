@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Anderson Tan
-<br>HOD PAM / CCA</p>
+<br>HOD / PAM &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Wee Pin
