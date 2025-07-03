@@ -33,7 +33,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hannaria Srihanum,
-<br>ST / Learning Needs (Lower Primary)</p>
+<br>ST / Learning Needs
+<br>(Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Asmahwaty Binte Abdullah</p>
