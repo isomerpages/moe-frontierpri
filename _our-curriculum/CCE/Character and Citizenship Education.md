@@ -33,7 +33,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teng - Lim Li-Chern, Anisia, Senior Teacher (Educational Support)</p>
+<p>Mrs Teng - Lim Li-Chern, Anisia,
+<br>ST / Learning Needs (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chen Peishi</p>
