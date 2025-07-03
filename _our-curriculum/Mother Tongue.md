@@ -14,15 +14,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Ying
+<p>Mdm Fong Mei Ying,
 <br>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hao Yih Dorcas
+<p>Mdm Lee Hao Yih Dorcas,
 <br>SH / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Arianti Bte Ariffin
+<p>Mdm Sri Arianti Bte Ariffin,
 <br>SH / Malay &amp; Tamil Language</p>
 </td>
 </tr>
