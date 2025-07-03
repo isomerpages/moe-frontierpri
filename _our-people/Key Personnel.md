@@ -89,7 +89,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
-<br><strong><em>Senior Teacher / English Language</em></strong>
+<br><strong><em>ST / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
