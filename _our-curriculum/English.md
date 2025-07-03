@@ -14,13 +14,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Chua,, Head of Department (EL)</p>
+<p>Mr Vincent Chua, HOD / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ann Toh Bee Choo, Level Head (EL)</p>
+<p>Mdm Ann Toh Bee Choo, LH / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shirin Bte Yaman Yuen, Level Head (EL)</p>
+<p>Mdm Nur Shirin Bte Yaman Yuen, LH / English Language</p>
 </td>
 </tr>
 <tr>
