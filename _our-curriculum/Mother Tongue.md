@@ -36,7 +36,8 @@ variant: tiptap
 <br>(ST / Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Wei Shen (LT / Chinese Language)</p>
+<p>Mr Chen Wei Shen
+<br>(LT / Chinese Language)</p>
 </td>
 </tr>
 <tr>
