@@ -88,7 +88,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Kah Leong (HOD / ICT)</p>
+<p>Mr Ow Kah Leong
+<br>(HOD / ICT &amp; Data Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Azrina</p>
