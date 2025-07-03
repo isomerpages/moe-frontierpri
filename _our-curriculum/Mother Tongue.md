@@ -26,7 +26,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hao Yih Dorcas (SH / CL)</p>
+<p>Mdm Lee Hao Yih Dorcas
+<br>SH / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rasidah Bte Mohd Rasit (SSD)</p>
