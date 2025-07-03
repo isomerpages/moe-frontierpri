@@ -23,7 +23,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Arianti Bte Ariffin
-<br>SH / Malay and Tamil Language</p>
+<br>SH / Malay &amp; Tamil Language</p>
 </td>
 </tr>
 <tr>
