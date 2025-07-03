@@ -32,7 +32,8 @@ variant: tiptap
 <br>ST / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hannaria Srihanum (ST/LP)</p>
+<p>Mdm Hannaria Srihanum
+<br>ST / Learning Needs (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Asmahwaty Binte Abdullah</p>
