@@ -564,7 +564,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Mohammed Nidzam Bin Zakariah</strong>
 </p>
-<p><strong><em>Subject Head / ICT</em></strong>
+<p><strong><em>SH / ICT</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,7 +580,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
-<p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
+<p><strong>Mr Chan Wei Shen<br>LT / Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -652,7 +652,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
-<p><strong><em>Subject Head / Student Management</em></strong>
+<p><strong><em>SH / Student Management</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
