@@ -446,7 +446,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Jeannett Lay Jia Xin</strong>
 </p>
-<p><strong><em>HOD / CCE</em></strong>
+<p><strong><em>HOD / Character and Citizenship Education</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
