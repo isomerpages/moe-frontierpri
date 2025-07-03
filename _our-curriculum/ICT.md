@@ -13,11 +13,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Kah Leong
+<p>Mr Ow Kah Leong,
 <br>HOD / ICT &amp; Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Nidzam (SH / ICT)</p>
+<p>Mr Mohammed Nidzam,
+<br>SH / ICT</p>
 </td>
 </tr>
 <tr>
