@@ -50,15 +50,19 @@ variant: tiptap
 <br>(SH / ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Robert Juliet</p>
+<p>Mr Ow Kah Leong
+<br>(HOD / ICT &amp; Data Management)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Karthikeyan Indhumathi</p>
+<p>Mrs Teo Ming Hui
+<br>(HOD / Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati Bte Ibnor</p>
+<p>Mdm Luk Meng Lee (YH)
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms M B Sheirin Habibah</p>
@@ -66,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Luk Meng Lee (YH)</p>
+<p>Mdm Robert Juliet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noryanti Bte Mohamed Yahya</p>
@@ -77,8 +81,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Ming Hui
-<br>(HOD / Student Management)</p>
+<p>Mdm Norhayati Bte Ibnor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mardiana Bte Abdul Manap</p>
@@ -89,8 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Kah Leong
-<br>(HOD / ICT &amp; Data Management)</p>
+<p>Mdm Karthikeyan Indhumathi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Azrina</p>
@@ -102,7 +104,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Mdm Cham Kah Mien</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +117,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Lan Shii</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Qin Ling Jun</p>
