@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee - Neo Jie Qi (LH)</p>
+<p>Mrs Lee - Neo Jie Qi LH / Mathematics (covering HOD/MA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Eugena Ooi (LH)</p>
