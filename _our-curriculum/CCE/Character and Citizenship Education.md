@@ -14,7 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeannett Lay Jia Xin, HOD / Character and Citizenship Education</p>
+<p>Ms Jeannett Lay Jia Xin,
+<br>HOD / Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nusraat Begum Bte Akbar Ali,
