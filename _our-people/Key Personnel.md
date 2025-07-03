@@ -154,7 +154,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Soh Boon Yew, Vincent</strong>
 </p>
-<p><strong><em>Senior Teacher / Mathematics</em></strong>
+<p><strong><em>ST / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
