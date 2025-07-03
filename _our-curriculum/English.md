@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Eulindra Lim Weiqing, Lead Teacher (EL)</p>
+<p>Miss Eulindra Lim Weiqing, LT / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurashikin Bte Mohamed Zamrabi, Senior Teacher (EL)</p>
+<p>Mdm Nurashikin Bte Mohamed Zamrabi, ST / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Suat Peng, Tina</p>
