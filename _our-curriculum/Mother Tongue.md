@@ -44,7 +44,8 @@ variant: tiptap
 <p>Mr Chen Wei Shen (LT / CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Nidzam Bin Zakariah (SH / ICT)</p>
+<p>Mr Mohammed Nidzam Bin Zakariah
+<br>(SH / ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Robert Juliet</p>
