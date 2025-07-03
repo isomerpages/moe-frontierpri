@@ -72,7 +72,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
-<p><strong><em>Lead Teacher / English Language</em></strong>
+<p><strong><em>LT / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
