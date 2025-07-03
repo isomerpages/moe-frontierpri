@@ -191,7 +191,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Hannaria Srihanum Tumbuck</strong>
 </p>
-<p><strong><em>Senior Teacher / Learning Needs (Lower Primary)</em></strong>
+<p><strong><em>ST / Learning Needs (Lower Primary)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
