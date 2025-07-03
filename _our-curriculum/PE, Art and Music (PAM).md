@@ -18,7 +18,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Choo Wee Pin
-<br>SH / PE Coordinator &amp; Sports</p>
+<br>SH / PE &amp; Sports
+<br>(PE Coordinator)</p>
 </td>
 </tr>
 <tr>
