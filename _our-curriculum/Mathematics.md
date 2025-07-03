@@ -28,7 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Si Wei (ST)</p>
+<p>Mdm Chua Si Wei
+<br>ST / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hannaria Srihanum (ST/LP)</p>
