@@ -14,7 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Ying (HOD / MTL)</p>
+<p>Mdm Fong Mei Ying
+<br>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Arianti Bte Ariffin (SH / ML &amp; TL)</p>
