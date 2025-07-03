@@ -54,7 +54,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong>
 </p>
-<p><strong><em>Level Head / English Language</em></strong>
+<p><strong><em>LH / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
