@@ -303,7 +303,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Lee Hao Yih, Dorcas</strong>
 </p>
-<p><strong><em>Subject Head / Mother Tongue</em></strong>
+<p><strong><em>SH / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -321,7 +321,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Sri Arianti Bte Ariffin</strong>
 </p>
-<p><strong><em>Subject Head / Malay and Tamil Language</em></strong>
+<p><strong><em>SH / Malay &amp; Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,7 +339,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Chia Qian Lin</strong>
 </p>
-<p><strong><em>Senior Teacher / Chinese Language</em></strong>
+<p><strong><em>ST / Chinese Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,7 +357,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Mageswari Sudhakar</strong>
 </p>
-<p><strong><em>Senior Teacher / Tamil Language</em></strong>
+<p><strong><em>ST / Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,7 +403,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
-<p><strong><em>Subject Head / PE &amp; Sports</em></strong>
+<p><strong><em>SH / PE &amp; Sports</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,7 +419,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
 </div>
-<p><strong>Mdm Jessica Kho Siok Ching<br>Senior Teacher / Art</strong>
+<p><strong>Mdm Jessica Kho Siok Ching<br>ST / Art</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
