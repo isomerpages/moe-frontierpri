@@ -237,7 +237,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Chong - Pang Chu Keng</strong>
 </p>
-<p><strong><em>Level Head / Science</em></strong>
+<p><strong><em>LH / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,7 +254,7 @@ variant: tiptap
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>Senior Teacher / Science</strong>
+<br><strong>ST / Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
