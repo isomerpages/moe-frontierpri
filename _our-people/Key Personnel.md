@@ -518,7 +518,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Lim Li-Chern, Anisia</strong>
 </p>
-<p><strong><em>Senior Teacher / Learning Needs (Educational Support)</em></strong>
+<p><strong><em>ST / Learning Needs (Educational Support)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
