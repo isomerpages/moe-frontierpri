@@ -172,7 +172,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Chua Si Wei</strong>
 </p>
-<p><strong><em>Senior Teacher / Mathematics</em></strong>
+<p><strong><em>ST / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
