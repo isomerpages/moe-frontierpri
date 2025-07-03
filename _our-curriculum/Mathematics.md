@@ -22,7 +22,8 @@ variant: tiptap
 <br>LH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Soh (ST)</p>
+<p>Mr Vincent Soh
+<br>ST / Mathematics</p>
 </td>
 </tr>
 <tr>
