@@ -23,7 +23,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ganges Lim (ST)</p>
+<p>Dr Ganges Lim Zi Yang
+<br>ST / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Xiao Wei Serene</p>
