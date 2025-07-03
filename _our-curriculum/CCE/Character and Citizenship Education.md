@@ -14,10 +14,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeannett Lay Jia Xin, Head of Department (CCE)</p>
+<p>Ms Jeannett Lay Jia Xin, HOD / Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nusraat Begum Bte Akbar Ali, Subject Head (CCE)</p>
+<p>Mdm Nusraat Begum Bte Akbar Ali,
+<br>SH / Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
