@@ -42,15 +42,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rasidah Bte Mohd Rasit
+<p>Mdm Rasidah Bte Mohd Rasit,
 <br>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Nidzam Bin Zakariah
+<p>Mr Mohammed Nidzam Bin Zakariah,
 <br>(SH / ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Kah Leong
+<p>Mr Ow Kah Leong,
 <br>(HOD / ICT &amp; Data Management)</p>
 </td>
 </tr>
