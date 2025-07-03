@@ -18,7 +18,8 @@ variant: tiptap
 <br>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Arianti Bte Ariffin (SH / ML &amp; TL)</p>
+<p>Mdm Sri Arianti Bte Ariffin
+<br>SH / Malay and Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mageswari Sudhakar (ST / TL)</p>
