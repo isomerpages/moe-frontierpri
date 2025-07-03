@@ -27,7 +27,8 @@ variant: tiptap
 <br>SH / Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Idzmaidar Bte Amir Wahid,&nbsp; Senior Teacher (Educational Support)</p>
+<p>Mdm Siti Idzmaidar Bte Amir Wahid,
+<br>ST / Educational Support</p>
 </td>
 </tr>
 <tr>
