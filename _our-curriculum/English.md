@@ -29,7 +29,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Eulindra Lim Weiqing,
-<br>LT / English Language</p>
+<br>LT / Learning Needs
+<br>(High Ability Learners)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurashikin Bte Mohamed Zamrabi,
