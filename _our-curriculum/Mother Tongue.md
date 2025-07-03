@@ -18,30 +18,31 @@ variant: tiptap
 <br>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Arianti Bte Ariffin
-<br>SH / Malay and Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Mageswari Sudhakar
-<br>ST / Tamil Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lee Hao Yih Dorcas
 <br>SH / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rasidah Bte Mohd Rasit
-<br>School Staff Developer (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Karthikeyan Indhumathi</p>
+<p>Mdm Sri Arianti Bte Ariffin
+<br>SH / Malay and Tamil Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Wei Shen (LT / CL)</p>
+<p>Mrs Mageswari Sudhakar
+<br>ST / Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Qian Lin
+<br>(ST / Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Wei Shen (LT / Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rasidah Bte Mohd Rasit
+<br>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Nidzam Bin Zakariah
@@ -53,8 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Qian Lin
-<br>(ST / Chinese Language)</p>
+<p>Mdm Karthikeyan Indhumathi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norhayati Bte Ibnor</p>
