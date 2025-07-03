@@ -23,7 +23,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kho Siok Ching Jessica ST Art/ Art Coordinator</p>
+<p>Ms Kho Siok Ching Jessica
+<br>ST Art/ Art Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Isaac Leng Song Dao</p>
