@@ -136,7 +136,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Eugena Ooi Weiling</strong>
 </p>
-<p><strong><em>Level Head / Mathematics</em></strong>
+<p><strong><em>LH / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
