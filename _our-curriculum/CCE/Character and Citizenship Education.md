@@ -58,10 +58,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Joyce Siew Phui Yee (Senior School Counsellor)</p>
+<p>Mdm Joyce Siew Phui Yee,
+<br>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Azura Bte Saripi @ Julya (School Counsellor)</p>
+<p>Ms Siti Azura Bte Saripi @ Julya,
+<br>School Counsellor</p>
 </td>
 </tr>
 </tbody>
