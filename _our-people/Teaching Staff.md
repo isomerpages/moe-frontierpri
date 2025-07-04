@@ -741,7 +741,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="/mingmin" rel="noopener noreferrer nofollow" target="_blank">Mdm Hee Ming Min</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/michelle" rel="noopener" target="_blank">Mrs Michelle Tan Soh Soke Mei</a>
@@ -758,7 +759,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="/lena/" rel="noopener" target="_blank">Mrs Yap - Chua Lena</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/muhammad" rel="noopener" target="_blank">Mr Muhammad Bin Jellanie</a>
@@ -775,46 +777,48 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/aydih" rel="noopener noreferrer nofollow" target="_blank">Mdm Beh Ay Dih</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/lena/" rel="noopener" target="_blank">Mrs Yap - Chua Lena</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mingmin" rel="noopener noreferrer nofollow" target="_blank">Mdm Hee Ming Min</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mrstan" rel="noopener" target="_blank">Mrs Tan - Lau Puay Kiang</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Miss Kwan Pui Leng</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Arumugam Geethasankari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lew Ern Nah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Azura Binte Saripi @ Julya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Siew Kwan</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Er Kia Hui</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Indra Bahadur Gurung</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Macus Rouis Quek Weng Sung</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vineetha Kalathil Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
