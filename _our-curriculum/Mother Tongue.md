@@ -14,43 +14,56 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Ying (HOD / MTL)</p>
+<p>Mdm Fong Mei Ying,
+<br>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Arianti Bte Ariffin (SH / ML &amp; TL)</p>
+<p>Mdm Lee Hao Yih Dorcas,
+<br>SH / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mageswari Sudhakar (ST / TL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Hao Yih Dorcas (SH / CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rasidah Bte Mohd Rasit (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Karthikeyan Indhumathi</p>
+<p>Mdm Sri Arianti Bte Ariffin,
+<br>SH / Malay &amp; Tamil Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Wei Shen (LT / CL)</p>
+<p>Mrs Mageswari Sudhakar,
+<br>ST / Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Nidzam Bin Zakariah (SH / ICT)</p>
+<p>Mdm Chia Qian Lin,
+<br>ST / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Robert Juliet</p>
+<p>Mr Chen Wei Shen,
+<br>LT / Chinese Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Qian Lin (ST / CL)</p>
+<p>Mdm Rasidah Bte Mohd Rasit,
+<br>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati Bte Ibnor</p>
+<p>Mr Mohammed Nidzam Bin Zakariah,
+<br>SH / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ow Kah Leong,
+<br>HOD / ICT &amp; Data Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Ming Hui,
+<br>HOD / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Luk Meng Lee,
+<br>Year Head P3/6
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms M B Sheirin Habibah</p>
@@ -58,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Luk Meng Lee (YH)</p>
+<p>Mdm Robert Juliet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noryanti Bte Mohamed Yahya</p>
@@ -69,7 +82,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Ming Hui (HOD / SM)</p>
+<p>Mdm Norhayati Bte Ibnor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mardiana Bte Abdul Manap</p>
@@ -80,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Kah Leong (HOD / ICT)</p>
+<p>Mdm Karthikeyan Indhumathi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Azrina</p>
@@ -92,7 +105,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Mdm Cham Kah Mien</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +118,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Lan Shii</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Qin Ling Jun</p>

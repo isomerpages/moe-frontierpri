@@ -14,21 +14,28 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee - Neo Jie Qi (LH)</p>
+<p>Mrs Lee - Neo Jie Qi,
+<br>LH / Mathematics
+<br>(covering HOD/MA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eugena Ooi (LH)</p>
+<p>Miss Eugena Ooi,
+<br>LH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Soh (ST)</p>
+<p>Mr Vincent Soh,
+<br>ST / Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Si Wei (ST)</p>
+<p>Mdm Chua Si Wei,
+<br>ST / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hannaria Srihanum (ST/LP)</p>
+<p>Mdm Hannaria Srihanum,
+<br>ST / Learning Needs
+<br>(Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Asmahwaty Binte Abdullah</p>

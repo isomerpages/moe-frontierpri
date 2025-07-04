@@ -13,15 +13,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Andrielle Lee (HOD)</p>
+<p>Miss Andrielle Lee,
+<br>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong - Pang Chu Keng (LH)</p>
+<p>Mrs Chong - Pang Chu Keng,
+<br>LH / Science</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ganges Lim (ST)</p>
+<p>Dr Ganges Lim Zi Yang,
+<br>ST / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Xiao Wei Serene</p>

@@ -13,15 +13,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Anderson Tan (HOD PAM / CCA)</p>
+<p>Mr Anderson Tan,
+<br>HOD / PAM &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Wee Pin (SH PE and Sports/ PE Coordinator)</p>
+<p>Mr Choo Wee Pin,
+<br>SH / PE &amp; Sports
+<br>(PE Coordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kho Siok Ching Jessica (ST Art/ Art Coordinator)</p>
+<p>Ms Kho Siok Ching Jessica,
+<br>ST / Art
+<br>(Art Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Isaac Leng Song Dao</p>
