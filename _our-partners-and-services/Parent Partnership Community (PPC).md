@@ -12,9 +12,8 @@ parents within the PPC. Other than being the bridge between the School
 and PPC, the EXCO also oversees all initiatives and efforts undertaken
 by the PPC.</p>
 <p>The members of the EXCO for 2024 are:</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Committee_2024_Feb_V1.png">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/PPC_2025_ORG_CHART.jpg">
 </div>
 <p>We are constantly welcoming passionate parents coming onboard our PPC
 family to share information, share experiences and contribute ideas in

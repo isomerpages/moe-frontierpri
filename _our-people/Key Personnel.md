@@ -54,7 +54,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong>
 </p>
-<p><strong><em>Level Head / English Language</em></strong>
+<p><strong><em>LH / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,8 @@ variant: tiptap
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
-<p><strong><em>Lead Teacher / English Language</em></strong>
+<p><strong><em>LT / Learning Needs (High Ability Learners)</em></strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +90,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
-<br><strong><em>Senior Teacher / English Language</em></strong>
+<br><strong><em>ST / English Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +118,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
-<p><strong><em>Level Head / Mathematics</em></strong>
+<p><strong><em>LH / Mathematics</em></strong>
 <br><strong><em>(covering HOD/MA)</em></strong>
 </p>
 </td>
@@ -136,7 +137,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Eugena Ooi Weiling</strong>
 </p>
-<p><strong><em>Level Head / Mathematics</em></strong>
+<p><strong><em>LH / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +155,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Soh Boon Yew, Vincent</strong>
 </p>
-<p><strong><em>Senior Teacher / Mathematics</em></strong>
+<p><strong><em>ST / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +173,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Chua Si Wei</strong>
 </p>
-<p><strong><em>Senior Teacher / Mathematics</em></strong>
+<p><strong><em>ST / Mathematics</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +192,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Hannaria Srihanum Tumbuck</strong>
 </p>
-<p><strong><em>Senior Teacher / Learning Needs (Lower Primary)</em></strong>
+<p><strong><em>ST / Learning Needs (Lower Primary)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,7 +238,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Chong - Pang Chu Keng</strong>
 </p>
-<p><strong><em>Level Head / Science</em></strong>
+<p><strong><em>LH / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,7 +255,7 @@ variant: tiptap
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>Senior Teacher / Science</strong>
+<br><strong>ST / Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,7 +304,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Lee Hao Yih, Dorcas</strong>
 </p>
-<p><strong><em>Subject Head / Mother Tongue</em></strong>
+<p><strong><em>SH / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -321,7 +322,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Sri Arianti Bte Ariffin</strong>
 </p>
-<p><strong><em>Subject Head / Malay and Tamil Language</em></strong>
+<p><strong><em>SH / Malay &amp; Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,7 +340,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Chia Qian Lin</strong>
 </p>
-<p><strong><em>Senior Teacher / Chinese Language</em></strong>
+<p><strong><em>ST / Chinese Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,7 +358,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Mageswari Sudhakar</strong>
 </p>
-<p><strong><em>Senior Teacher / Tamil Language</em></strong>
+<p><strong><em>ST / Tamil Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,7 +404,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
-<p><strong><em>Subject Head / PE &amp; Sports</em></strong>
+<p><strong><em>SH / PE &amp; Sports</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,7 +420,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
 </div>
-<p><strong>Mdm Jessica Kho Siok Ching<br>Senior Teacher / Art</strong>
+<p><strong>Mdm Jessica Kho Siok Ching<br>ST / Art</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -446,7 +447,7 @@ variant: tiptap
 </div>
 <p><strong>Miss Jeannett Lay Jia Xin</strong>
 </p>
-<p><strong><em>HOD / CCE</em></strong>
+<p><strong><em>HOD / Character and Citizenship Education</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -464,7 +465,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Nusraat Begum Bte Akbar Ali</strong>
 </p>
-<p><strong><em>Subject Head / CCE</em></strong>
+<p><strong><em>SH / Character and Citizenship Education</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -482,7 +483,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Siti Nur Aishah Mohamad Zainudin</strong>
 </p>
-<p><strong><em>Subject Head / Student Well Being</em></strong>
+<p><strong><em>SH / Student Well Being</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,7 +501,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
 </p>
-<p><strong><em>Senior Teacher / Educational Support</em></strong>
+<p><strong><em>ST / Educational Support</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -518,7 +519,7 @@ variant: tiptap
 </div>
 <p><strong>Mdm Lim Li-Chern, Anisia</strong>
 </p>
-<p><strong><em>Senior Teacher / Learning Needs (Educational Support)</em></strong>
+<p><strong><em>ST / Learning Needs (Educational Support)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,7 +565,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Mohammed Nidzam Bin Zakariah</strong>
 </p>
-<p><strong><em>Subject Head / ICT</em></strong>
+<p><strong><em>SH / ICT</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,7 +581,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
-<p><strong>Mr Chan Wei Shen<br>Lead Teacher / Chinese Language</strong>
+<p><strong>Mr Chan Wei Shen<br>LT / Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -652,7 +653,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
-<p><strong><em>Subject Head / Student Management</em></strong>
+<p><strong><em>SH / Student Management</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -14,23 +14,28 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeannett Lay Jia Xin, Head of Department (CCE)</p>
+<p>Ms Jeannett Lay Jia Xin,
+<br>HOD / Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nusraat Begum Bte Akbar Ali, Subject Head (CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nur Aishah Bte Mohd Zainudin, Subject Head / Student Well Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Idzmaidar Bte Amir Wahid,&nbsp; Senior Teacher (Educational Support)</p>
+<p>Mdm Nusraat Begum Bte Akbar Ali,
+<br>SH / Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teng - Lim Li-Chern, Anisia, Senior Teacher (Educational Support)</p>
+<p>Mdm Siti Nur Aishah Bte Mohd Zainudin,
+<br>SH / Student Well Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Idzmaidar Bte Amir Wahid,
+<br>ST / Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Teng - Lim Li-Chern, Anisia,
+<br>ST / Learning Needs (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chen Peishi</p>
@@ -54,10 +59,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Joyce Siew Phui Yee (Senior School Counsellor)</p>
+<p>Mdm Joyce Siew Phui Yee,
+<br>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Azura Bte Saripi @ Julya (School Counsellor)</p>
+<p>Ms Siti Azura Bte Saripi @ Julya,
+<br>School Counsellor</p>
 </td>
 </tr>
 </tbody>

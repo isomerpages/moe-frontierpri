@@ -16,8 +16,9 @@ description: ""
 <img style="width: 100%;" height="auto" width="100%" src="/images/kp5.jpg">
 </div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
-</p>
-<p><strong>Lead Teacher / High Ability Learners</strong>
+<br>
+<br><strong>LT / Learning Needs</strong>
+<br><strong>(High Ability Learners)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
