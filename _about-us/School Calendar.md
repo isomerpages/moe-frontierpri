@@ -225,7 +225,70 @@ Examination</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;**Information above is accurate as of 30 June 2025. Details
-of the specific events will be provided in separate letters and consent
-forms nearer the dates. Please note that events in the School Calendar
-are subject to change.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P5 Review 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Aug, Mon to 22 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Preliminary Written Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P2 SCCA (2CA1, 2CA2, 2CA3, 2CA4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>September</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sep, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers’ Day Celebration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Sep, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers’ Day School Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Sep, Thu to 12 Sep, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Holiday Revision</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;**Information above is accurate as of 30 June 2025. Details of the
+specific events will be provided in separate letters and consent forms
+nearer the dates. Please note that events in the School Calendar are subject
+to change.</p>
