@@ -872,7 +872,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Umairah Insyirah Binte Abdul Rahman</p>
+<p><a href="/miss-umairah-insyirah-binte-abdul-rahman/" rel="noopener nofollow" target="_blank">Miss Umairah Insyirah Binte Abdul Rahman</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
