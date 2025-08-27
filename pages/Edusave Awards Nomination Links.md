@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <blockquote>
-<p>Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2024</p>
+<p>Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2025</p>
 </blockquote>
 <p>The MOE Edusave Character Award (ECHA) and Frontier Character Award (FCA)
 aim to recognise outstanding Frontierers who demonstrate exemplary character
@@ -19,10 +19,10 @@ Citizens. These awards will be given to deserving students who demonstrate:</p>
 <p>There is a rigorous process of nomination and selection of the students
 by the staff within the school. Parents and students are also encouraged
 to nominate deserving students for our consideration using the following
-links, starting from 28 August 2024 (Wednesday) to 09 September 2024 (Monday):</p>
-<p><strong>Peer Nomination (for P1 to P6):</strong>&nbsp;<a href="https://go.gov.sg/studentnomination2024" rel="noopener" target="_blank">https://go.gov.sg/studentnomination2024</a>
+links, starting from 01 September 2025 (Monday) to 15 September 2025 (Monday):</p>
+<p><strong>Peer Nomination:</strong>&nbsp;<a href="https://go.gov.sg/studentnomination2025" rel="noopener" target="_blank">https://go.gov.sg/studentnomination2025</a>
 </p>
-<p><strong>Parent/ Guardian Nomination</strong>:&nbsp;<a href="https://go.gov.sg/parentguardiannomination2024" rel="noopener" target="_blank">https://go.gov.sg/parentguardiannomination2024</a>
+<p><strong>Parent/ Guardian Nomination</strong>:&nbsp;<a href="https://go.gov.sg/parentguardiannomination2025" rel="noopener" target="_blank">https://go.gov.sg/parentguardiannomination2025</a>
 </p>
 <p>--</p>
 <blockquote>
