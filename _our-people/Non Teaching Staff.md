@@ -80,6 +80,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="aisha idris" src="/images/Org Chart Photos/miss_nur_aisha_binte_idris.jpg">
+</div>
+<p><strong>Miss Nur Aisha Idris</strong>
+<br><strong><em>ICT Manager</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"Growth, is when we look within ourselves and discover who we are, what the purpose of our life. When we understand ourselves, we are able to shape a better future."</em>
+</p>
+<p>Email:&nbsp;<a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ALICE.jpg">
 </div>
 <p><strong>Mdm Alice Tan Gek Cheng</strong>
@@ -120,22 +136,6 @@ variant: tiptap
 <p><em>"I share the same believe as John Dewey - 'Education is not the preparation for life, but education is life itself.'"</em>
 </p>
 <p>Email:&nbsp;<a href="mailto:zarina_begam_walli_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zarina_begam_walli_mohamed@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/miss_nur_aisha_binte_idris.jpg">
-</div>
-<p><strong>Miss Nur Aisha Idris</strong>
-<br><strong><em>ICT Manager</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"Growth, is when we look within ourselves and discover who we are, what the purpose of our life. When we understand ourselves, we are able to shape a better future."</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,7 +206,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mdm Yeo Shiow Ching" src="/images/Org Chart Photos/MDM_YEO_SHIOW_CHING.jpg">
+</div>
+<p><strong><em>Mdm Yeo Shiow Ching</em></strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -260,7 +265,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fairuz" src="/images/Org Chart Photos/FAIRUZ.jpg">
+</div>
+<p><strong>Mr Muhammad Fairuz Bin Salim</strong>
+<br><strong><em>Science Lab Technician</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="yvonne" src="/images/Org Chart Photos/YVONNE.jpg">
+</div>
+<p><strong>Mdm Chong Yu Lynn, Yvonne</strong>
+<br><strong><em>Office Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="angela" src="/images/Org Chart Photos/ANGELA.jpg">
+</div>
+<p><strong>Mdm Yap Geok Swan, Angela</strong>
+<br><strong><em>Receptionist</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

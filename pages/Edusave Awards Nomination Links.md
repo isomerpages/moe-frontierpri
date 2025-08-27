@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <blockquote>
-<p>Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2024</p>
+<p>Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2025</p>
 </blockquote>
 <p>The MOE Edusave Character Award (ECHA) and Frontier Character Award (FCA)
 aim to recognise outstanding Frontierers who demonstrate exemplary character
@@ -19,10 +19,10 @@ Citizens. These awards will be given to deserving students who demonstrate:</p>
 <p>There is a rigorous process of nomination and selection of the students
 by the staff within the school. Parents and students are also encouraged
 to nominate deserving students for our consideration using the following
-links, starting from 28 August 2024 (Wednesday) to 09 September 2024 (Monday):</p>
-<p><strong>Peer Nomination (for P1 to P6):</strong>&nbsp;<a href="https://go.gov.sg/studentnomination2024" rel="noopener" target="_blank">https://go.gov.sg/studentnomination2024</a>
+links, starting from 01 September 2025 (Monday) to 15 September 2025 (Monday):</p>
+<p><strong>Peer Nomination:</strong>&nbsp;<a href="https://go.gov.sg/studentnomination2025" rel="noopener" target="_blank">https://go.gov.sg/studentnomination2025</a>
 </p>
-<p><strong>Parent/ Guardian Nomination</strong>:&nbsp;<a href="https://go.gov.sg/parentguardiannomination2024" rel="noopener" target="_blank">https://go.gov.sg/parentguardiannomination2024</a>
+<p><strong>Parent/ Guardian Nomination</strong>:&nbsp;<a href="https://go.gov.sg/parentguardiannomination2025" rel="noopener" target="_blank">https://go.gov.sg/parentguardiannomination2025</a>
 </p>
 <p>--</p>
 <blockquote>
@@ -33,14 +33,14 @@ Service (EAGLES)</p>
 was introduced in 2001 to recognise students' leadership qualities, excellence
 in nonacademic activities, and service to community and schools. This yearly
 award is open to students who are Singapore Citizens.</p>
-<p>With effect from 2024, EAGLES is enhanced to recognise students with consistent
+<p>Since 2024, EAGLES has been enhanced to recognise students with consistent
 and exemplary demonstration of Emerging 21st Century Competencies (E21CC)
 in government/government-aided primary and secondary schools, independent
 schools, specialised independent schools, and junior colleges/Millennia
 Institute (JC/MI). This is part of the larger goal to prepare our students
 to thrive in a fast-changing, complex and inter-connected world, by encouraging
 the development and application of future-ready competencies.</p>
-<p>[NEW] P1- 3 students must satisfy the following set of eligibility criteria
+<p>P1- 3 students must satisfy the following set of eligibility criteria
 before he/she can be awarded EAGLES (E21CC):</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Singapore Citizens who attain a conduct grade of ‘Good’ or better;</p>
@@ -50,14 +50,20 @@ in school settings and contexts (More details on the list of E21CC can
 be found in the letter that has been sent via Parents Gateway.)</p>
 <p>Similarly to ECHA and FCA, parents and students are encouraged to nominate
 deserving students for our consideration. You can access the forms from
-the following links, starting from 28 August 2024 (Wednesday) to 09 September
-2024 (Monday):</p>
+the following links, starting from 01 September 2025 (Monday) to 15 September
+2025 (Monday):</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Peer Nomination (P1-2): <a href="https://go.gov.sg/primary1and2-peernomination2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary1and2-peernomination2024</a>
+Peer Nomination (P1-2): <a href="https://go.gov.sg/p1-2-eagles-peer-nomination" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1-2-eagles-peer-nomination</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Peer Nomination (P3): <a href="https://go.gov.sg/primary3-peernomination2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/primary3-peernomination2024</a>
+Peer Nomination (P3): ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/p3-eagles-peer-nomination" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3-eagles-peer-nomination</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Parent/ Guardian Nomination: <a href="https://go.gov.sg/parent-guardiannomination2024-primary1to3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/parent-guardiannomination2024-primary1-3</a>
+Parent/ Guardian Nomination: <a href="https://go.gov.sg/p1-3-eagles-parents-nomination" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1-3-eagles-parents-nomination</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
