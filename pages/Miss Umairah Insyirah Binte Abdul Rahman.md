@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="umairah" src="/images/Org Chart Photos/SENO_UMAIRAH_INSYIRAH.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="umairah" src="/images/Org Chart Photos/SENO_UMAIRAH_INSYIRAH.jpg">
 </div>
 <p><strong>Miss Umairah Insyirah Binte Abdul Rahman</strong>
 </p>
