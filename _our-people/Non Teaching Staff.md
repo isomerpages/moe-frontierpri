@@ -206,7 +206,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mdm Yeo Shiow Ching" src="/images/Org Chart Photos/MDM_YEO_SHIOW_CHING.jpg">
+</div>
+<p><strong><em>Mdm Yeo Shiow Ching</em></strong>
+<br><strong><em>Operations Support Officer</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -273,7 +278,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="yvonne" src="/images/Org Chart Photos/YVONNE.jpg">
+</div>
+<p><strong>Mdm Chong Yu Lynn, Yvonne</strong>
+<br><strong><em>Office Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="angela" src="/images/Org Chart Photos/ANGELA.jpg">
+</div>
+<p><strong>Mdm Yap Geok Swan, Angela</strong>
+<br><strong><em>Receptionist</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
