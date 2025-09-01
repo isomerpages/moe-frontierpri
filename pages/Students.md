@@ -41,7 +41,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/studentnomination2024" rel="noopener nofollow" target="_blank">Peer Nomination (P1 to P6) - ECHA Award</a>
+<p><a href="https://go.gov.sg/studentnomination2025" rel="noopener nofollow" target="_blank">Peer Nomination (P1 to P6) - ECHA Award</a>
 </p>
 </li>
 <li>
