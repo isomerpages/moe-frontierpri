@@ -41,15 +41,15 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/studentnomination2024" rel="noopener nofollow" target="_blank">Peer Nomination (P1 to P6) - ECHA Award</a>
+<p><a href="https://go.gov.sg/studentnomination2025" rel="noopener nofollow" target="_blank">Peer Nomination (P1 to P6) - ECHA Award</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/primary1and2-peernomination2024" rel="noopener nofollow" target="_blank">Peer Nomination (P1 and P2) - EAGLES Award</a>
+<p><a href="https://go.gov.sg/p1-2-eagles-peer-nomination" rel="noopener nofollow" target="_blank">Peer Nomination (P1 and P2) - EAGLES Award</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/primary3-peernomination2024" rel="noopener nofollow" target="_blank">Peer Nomination (P3) - EAGLES Award</a>
+<p><a href="https://go.gov.sg/p3-eagles-peer-nomination" rel="noopener nofollow" target="_blank">Peer Nomination (P3) - EAGLES Award</a>
 </p>
 </li>
 </ol>
