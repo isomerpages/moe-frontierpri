@@ -42,7 +42,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/parentguardiannomination2024" rel="noopener nofollow" target="_blank">Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2024 Nomination</a>
+<p><a href="https://go.gov.sg/parentguardiannomination2025" rel="noopener nofollow" target="_blank">Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2025 Nomination</a>
 </p>
 </li>
 <li>
