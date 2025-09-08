@@ -8,8 +8,8 @@ description: ""
 <br>20 Jurong West Street 61
 <br>Singapore 648200</p>
 <p><strong>Email</strong>
-<br><a href="frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>
-<br>(for MK related matters, please email <a href="mk_frontier@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_frontier@moe.edu.sg)</a>
+<br><a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>
+<br>(for MK related matters, please email <a href="mailto:mk_frontier@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_frontier@moe.edu.sg)</a>
 </p>
 <p><strong>Telephone</strong>
 <br>+65 6578 9555</p>
