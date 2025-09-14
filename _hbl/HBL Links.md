@@ -56,7 +56,7 @@ for the point of contact.</p>
 <p>Password reset and unlocking of accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SLS Administrator - ICT Manager</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a> 
