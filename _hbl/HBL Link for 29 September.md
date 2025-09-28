@@ -14,7 +14,7 @@ below:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4-hbl-29sep-2025</a>
+<p><strong>P4: <a href="https://go.gov.sg/p4-hbl-29sep-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4-hbl-29sep-2025</a></strong>
 </p>
 </td>
 </tr>
