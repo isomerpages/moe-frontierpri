@@ -39,7 +39,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/FARIHA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="FARIHA" src="/images/MK RESOURCES/FARIHA.jpg">
 </div>
 <p><strong>Ms Nor Fariha Binte Mohd Ferdaus</strong>
 <br><em>Deputy Centre Head</em>
@@ -404,6 +404,23 @@ variant: tiptap
 <p>“I believe children learn best through providing them positive experiences
 with a wide range of knowledge, skills and tasks”</p>
 <p>Email: <a href="mailto:CHEN_SIYANG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHEN_SIYANG_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="HAZIQAH" src="/images/MK RESOURCES/HAZIQAH.jpg">
+</div>
+<p><strong>Ms Nurul Haziqah Binti Mohd Nordin</strong>
+<br><em>English Language Teacher</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“I strongly believe in being a positive influence for children. I aim
+to nurture their learning through values such as kindness, respect, and
+empathy, while supporting them to grow into confident learners.”</p>
+<p>Email: <a href="mailto:Nurul_Haziqah_Mohd_Nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Haziqah_Mohd_Nordin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
