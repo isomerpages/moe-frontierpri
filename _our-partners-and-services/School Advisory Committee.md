@@ -2,5 +2,10 @@
 title: School Advisory Committee
 permalink: /school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-<img src="/images/SAC 2023 (1).jpg">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SAC ORG CHART" src="/images/Org Chart Photos/SAC_ORG_CHART.jpg">
+</div>
+<p></p>
