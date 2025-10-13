@@ -2,8 +2,8 @@ collections:
   mk-at-frontier:
     output: true
     order:
-      - MK Achievement.md
       - About MK.md
+      - MK Achievement.md
       - MK Virtual Tour.md
       - MK Teaching Staff.md
       - MK Curriculum.md
