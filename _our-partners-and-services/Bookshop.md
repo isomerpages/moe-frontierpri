@@ -64,13 +64,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 4S1H</p>
+<p>P5 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P5__STD_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 4S1H</p>
+<p>P6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Download</p>
@@ -85,13 +86,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 4S</p>
+<p>P5 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Download</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 4S</p>
+<p>P6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Download</p>
@@ -106,16 +107,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 2S2F</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 2S2F (FMA &amp; FSC)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -127,80 +128,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 3S1FMA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 2S2F (FMA &amp; FMT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 3S1FMTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 3S1FMA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 3S1FMTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,13 +138,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 1S3F</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
 </td>
 </tr>
 </tbody>
