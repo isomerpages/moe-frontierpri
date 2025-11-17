@@ -89,7 +89,8 @@ variant: tiptap
 <p>P5 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P5__FDN_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Foundation</p>
