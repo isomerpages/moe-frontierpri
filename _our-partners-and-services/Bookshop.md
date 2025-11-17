@@ -60,7 +60,8 @@ variant: tiptap
 <p>P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="files/BOOKLISTS 2026/FPS_P1.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 4S1H</p>
