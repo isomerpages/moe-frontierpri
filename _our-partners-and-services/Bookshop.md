@@ -74,7 +74,8 @@ variant: tiptap
 <p>P6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P6__STD_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +97,8 @@ variant: tiptap
 <p>P6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P6__FDN_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,4 +146,5 @@ variant: tiptap
 </tbody>
 </table>
 <p><a href="/files/BOOKLISTS 2026/FPS_P3.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<a href="/files/BOOKLISTS 2026/FPS_P6__STD_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
