@@ -23,6 +23,6 @@ meaningful school events and activities.</p>
 <p><strong><u>Join Us</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/FPS_PPC_SIGNUP_AY2026.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="PPC" src="/images/FPS_PPC_SIGNUP_AY2026.jpg">
 </div>
 <p></p>
