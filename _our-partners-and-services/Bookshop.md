@@ -81,7 +81,8 @@ variant: tiptap
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P2.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 4S</p>
@@ -101,7 +102,7 @@ variant: tiptap
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 2S2F</p>
@@ -121,7 +122,7 @@ variant: tiptap
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 3S1FMA</p>
