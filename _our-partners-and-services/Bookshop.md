@@ -60,19 +60,22 @@ variant: tiptap
 <p>P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P1.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 4S1H</p>
+<p>P5 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P5__STD_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 4S1H</p>
+<p>P6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P6__STD_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,19 +83,22 @@ variant: tiptap
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P2.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 4S</p>
+<p>P5 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P5__FDN_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 4S</p>
+<p>P6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P6__FDN_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,19 +106,20 @@ variant: tiptap
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P3.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 2S2F</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 2S2F (FMA &amp; FSC)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -120,79 +127,20 @@ variant: tiptap
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p><a href="/files/BOOKLISTS 2026/FPS_P4.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 3S1FMA</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 2S2F (FMA &amp; FMT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 3S1FMTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 3S1FMA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 3S1FMTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -209,13 +157,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 1S3F</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Download</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
