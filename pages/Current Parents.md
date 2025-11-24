@@ -78,6 +78,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/P1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2026</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/p3-hmt-2025" rel="noopener noreferrer nofollow" target="_blank">Offering of Higher Mother Tongue Language for Primary 3 in 2025</a>
 </p>
 </li>
@@ -91,10 +95,6 @@ description: ""
 </li>
 <li>
 <p><a href="https://go.gov.sg/mtsp-briefing-to-parents" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Support Programme Information Session</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P1_Orientation_AY2025.pdf" rel="noopener nofollow" target="_blank">P1 Orientation AY2025</a>
 </p>
 </li>
 <li>
