@@ -78,23 +78,15 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/P1_Orientation_2026.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2026</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/p3-hmt-2025" rel="noopener noreferrer nofollow" target="_blank">Offering of Higher Mother Tongue Language for Primary 3 in 2025</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.frontierpri.moe.edu.sg/learning-festival-for-parents/" rel="noopener noreferrer nofollow" target="_blank">Learning Festival</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.frontierpri.moe.edu.sg/subject-briefings-2024/" rel="noopener noreferrer nofollow" target="_blank">P2-P6 Subject Briefings 2024</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/mtsp-briefing-to-parents" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Support Programme Information Session</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P1_Orientation_AY2025.pdf" rel="noopener nofollow" target="_blank">P1 Orientation AY2025</a>
 </p>
 </li>
 <li>
