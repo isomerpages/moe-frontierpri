@@ -86,14 +86,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.frontierpri.moe.edu.sg/learning-festival-for-parents/" rel="noopener noreferrer nofollow" target="_blank">Learning Festival</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.frontierpri.moe.edu.sg/subject-briefings-2024/" rel="noopener noreferrer nofollow" target="_blank">P2-P6 Subject Briefings 2024</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/mtsp-briefing-to-parents" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Support Programme Information Session</a>
 </p>
 </li>
