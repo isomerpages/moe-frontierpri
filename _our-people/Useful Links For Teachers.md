@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://rbs.avero-tech.com" rel="noopener nofollow" target="_blank">Resource Booking Service (RBS) </a>
+<p><a href="https://rbs.avero-tech.com" rel="noopener nofollow" target="_blank">Resource Booking Service (RBS)</a>
 </p>
 </td>
 </tr>
