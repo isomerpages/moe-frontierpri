@@ -30,9 +30,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" alt="Ms Ngiam Wee Heng" src="/images/Org Chart Photos/Ms_Ngiam_Wee_Heng.jpg">
 </div>
 <p>
-<br>
-</p>
-<p><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
+<br><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +49,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>The world is changing at an unprecedented pace. We need to prepare our children for the unknown, unseen and unpredictable.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>The world is changing at an unprecedented pace. We need to prepare our children for the unknown, unseen and unpredictable. I believe the education today is about teaching the right values and giving our students the skills they need to succeed in this new world; and helping them grow the confidence to practice those skills to deal with unpredictability and change, and to overcome any future challenges.”</em>
