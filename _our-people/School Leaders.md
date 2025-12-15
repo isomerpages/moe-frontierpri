@@ -29,7 +29,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Ms Ngiam Wee Heng" src="/images/Org Chart Photos/Ms_Ngiam_Wee_Heng.jpg">
 </div>
-<p></p>
+<p>
+<br>
+</p>
 <p><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
 </p>
 </td>
