@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h4><strong>Nurturing the Thinking&nbsp;F.A.C.E&nbsp;for Tomorrow<br><em><u>(F</u>rontierers who are&nbsp;<u>A</u>daptive,&nbsp;<u>C</u>ommunicative and&nbsp;<u>E</u>mpowered)</em></strong></h4>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="359" width="519" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvW21YYs8NGXQXG6Ch5lUEBiNKpBbGNjgJYAwj7wgDSiSenaRTweLfoOWa9nEpOLPfZMzmtW07xgT7G3FJpVN_K_Xkvypxm5loq6ncD8zpIcAWQ-_F3MbvuD_psZwNzWavDOAT?key=iq8aTdDzoS6mWuAKu9kmjQ">
-</div>
 <h4><strong><u>Our LOGO</u></strong></h4>
 <p>The evolving silhouettes depict the progression and transformation of
 Frontierers during a 6 years’ school journey.</p>
