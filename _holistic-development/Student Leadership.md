@@ -4,9 +4,6 @@ permalink: /student-leadership/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="276" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdDlgk5pgu9EhnPlSFh0gHgrzlDcRzzav0wYL1IXrt5EoGeeEMn31lTcRvliMnMdNJsb1LZm8aV8hvH3XqGaJ3OH6qRfcTrsTuPq1ySglc9TXYc8K8ZOL6SkQkz96g4_NrgAEG0?key=iq8aTdDzoS6mWuAKu9kmjQ">
-</div>
 <p>Frontier Primary School’s student leadership programme, Exemplary Leaders
 @ Frontier (eLF), is premised on the belief that ‘Every Student is a Leader’
 and is designed to achieve the school’s vision of “Passionate Leaders”.&nbsp;
