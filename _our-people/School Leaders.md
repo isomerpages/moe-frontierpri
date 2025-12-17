@@ -9,6 +9,8 @@ variant: tiptap
 </div>
 <p><strong>Mrs Jessie Heng (Ang Chai Ting)<em><br></em></strong><em>Principal</em>
 </p>
+<p><em>Updating in Progress...</em>
+</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -20,7 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mrs Claudia Choon" src="/images/VP_Mrs_Choon.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Mrs Claudia Choon" src="/images/VP_Mrs_Choon.jpg">
 </div>
 <p><strong>Mrs Claudia Choon<em><br></em></strong><em>Vice-Principal</em>
 </p>
@@ -35,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/sl4.jpeg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/sl4.jpeg">
 </div>
 <p><strong>Mr Ang Boon Chin<em><br></em></strong><em>Vice-Principal (Administration)</em>
 </p>
@@ -49,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>The world is changing at an unprecedented pace. We need to prepare our children for the unknown, unseen and unpredictable.</em>
+<p><em>Updating in Progress..</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
