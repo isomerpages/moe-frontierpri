@@ -28,16 +28,6 @@ variant: tiptap
 <br>SH / Student Well Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Idzmaidar Bte Amir Wahid,
-<br>ST / Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Teng - Lim Li-Chern, Anisia,
-<br>ST / Learning Needs (Educational Support)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Chen Peishi</p>
 </td>
 </tr>
@@ -55,6 +45,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wang Haijing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mardiana Binte Abdul Manap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
