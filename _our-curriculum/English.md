@@ -37,7 +37,8 @@ variant: tiptap
 <br>ST / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Suat Peng, Tina</p>
+<p>Mrs Teng - Lim Li-Chern, Anisia
+<br>ST/Learning Needs (Educational Support)</p>
 </td>
 </tr>
 <tr>
