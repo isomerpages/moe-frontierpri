@@ -65,13 +65,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Magdalein Goh (FAJT)</p>
+<p>Selina Ng Hui Min (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Renee Kwan Pui Leng (RT)</p>
+<p>Vineetha Kalathil Thomas (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Khuan Pheng (FAJT)</p>
 </td>
 </tr>
 </tbody>
