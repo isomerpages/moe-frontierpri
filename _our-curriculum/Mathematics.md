@@ -38,7 +38,7 @@ variant: tiptap
 <br>(Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmahwaty Binte Abdullah</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -49,15 +49,15 @@ variant: tiptap
 <p>Mdm Elaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shannon Lim</p>
+<p>Mdm Asmahwaty Binte Abdullah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Lay Koon</p>
+<p>Mdm Yap Lay Koon (CAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Oon Saw Kim Eileen</p>
+<p>Mdm Oon Saw Kim Eileen (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Yue Hui Xian (FAJT)</p>
