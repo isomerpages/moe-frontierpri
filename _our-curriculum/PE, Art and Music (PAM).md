@@ -29,7 +29,8 @@ variant: tiptap
 <br>(Art Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ang Tam Hui Yun Lea,
+<br>SH / Aesthetics (Internal)</p>
 </td>
 </tr>
 <tr>
