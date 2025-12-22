@@ -60,7 +60,8 @@ variant: tiptap
 <p>Mrs Geena Chong -&nbsp; Er Qian Hui (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Siti Fadhilah Atkha Binte Mohamed Sani
+<br>(SEN Officer)</p>
 </td>
 </tr>
 <tr>
@@ -68,25 +69,8 @@ variant: tiptap
 <p>Mdm Nur Aisha Binte Nordin (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Umairah Insyirah Binte Abdul Rahman
 <br>(SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Siti Fadhilah Atkha Binte Mohamed Sani
-<br>(SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
