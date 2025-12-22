@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nellie Soh, Year Head (Primary 4 and 5)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Francesca D'armancourt</p>
