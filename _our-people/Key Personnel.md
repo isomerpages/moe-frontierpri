@@ -121,6 +121,8 @@ variant: tiptap
 <p><strong><em>LH / Mathematics</em></strong>
 <br><strong><em>(covering HOD/MA)</em></strong>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"I believe every student wants to and can learn. It is my responsibility as an educator to provide a safe environment that will foster maximum learning and meet each student's individual needs. I also aim to develop a growth mindset in my students by helping them understand that with effective effort, practice and perseverance, all students can succeed."</em>
@@ -429,6 +431,19 @@ variant: tiptap
 <p>Tel ext:</p>
 <p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Ang - Tam Hui Yun Lea" src="/images/Org Chart Photos/Mrs_Ang___Tam_Hui_Yun_Lea.jpg">
+</div>
+<p><strong>Mrs Ang - Tam Hui Yun Lea</strong>
+<br><strong>SH/ Aesthetics (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
