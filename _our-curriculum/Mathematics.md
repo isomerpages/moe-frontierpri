@@ -60,18 +60,18 @@ variant: tiptap
 <p>Mdm Oon Saw Kim Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yue Hui Xian</p>
+<p>Miss Yue Hui Xian (FAJT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw Yong Wai Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wee Siew Kuan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Siew Kuan (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Angie Wong (FAJT)</p>
 </td>
 </tr>
 </tbody>
