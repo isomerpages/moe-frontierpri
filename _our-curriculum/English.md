@@ -49,7 +49,7 @@ variant: tiptap
 <p>Miss Sandra Phong Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Zhang</p>
+<p>Mdm Lim Suat Peng Tina</p>
 </td>
 </tr>
 <tr>
@@ -58,6 +58,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Harsharan Kaur d/o T S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Eliza Law Wen Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
