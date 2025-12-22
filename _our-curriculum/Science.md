@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Atiqah Syahirah</p>
+<p>Mrs Carrie Laksman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Renyi</p>
@@ -48,10 +48,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Macus Rouis Quek Weng Sung</p>
+<p>Olivia Ng Wei Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Tan Soh Soke Mei</p>
+<p>Mrs Michelle Tan Soh Soke Mei (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Macus Rouis Quek Weng Sung (FAJT)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Derek Lee (RT)</p>
 </td>
 </tr>
 </tbody>
