@@ -318,11 +318,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="norhayati_ibnor@schools.gov.sg" src="/images/mtl17.jpg">
 </div>
 <p><strong>Mdm Norhayati Binte Ibnor</strong>
 </p>
-<p><strong><em>SH / Malay Language</em></strong>
+<p><strong><em>SH / Malay Language (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
