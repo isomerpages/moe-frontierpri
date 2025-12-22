@@ -55,7 +55,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Ang Cheng Chew Teh Ai Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julia Zheng Xiufen</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Yap Lay Koon (CAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Siew Kuan (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oon Saw Kim Eileen (FAJT)</p>
@@ -69,10 +80,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wee Siew Kuan (FAJT)</p>
+<p>Angie Wong (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angie Wong (FAJT)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
