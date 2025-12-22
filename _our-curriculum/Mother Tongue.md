@@ -22,8 +22,8 @@ variant: tiptap
 <br>SH / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Arianti Bte Ariffin,
-<br>SH / Malay &amp; Tamil Language</p>
+<p>Mdm Chia Qian Lin,
+<br>ST / Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -32,12 +32,10 @@ variant: tiptap
 <br>ST / Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Qian Lin,
-<br>ST / Chinese Language</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Wei Shen,
-<br>LT / Chinese Language</p>
+<p></p>
 </td>
 </tr>
 <tr>
