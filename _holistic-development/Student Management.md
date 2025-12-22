@@ -17,21 +17,23 @@ variant: tiptap
 <p>Mrs Teo - Lim Ming Hui, Head of Department (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Huie Yuan, Head of Department (Curriculum)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Lim - Su-en Loh, Subject Head
 <br>(Student Management)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Marie Ow Yong</p>
+<p>Mr Chan Chok Seng, Year Head (Primary 1 and 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Luk Meng Lee, Year Head (Primary 2 and 6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Chok Seng, Year Head (Primary 1 and 2)</p>
+<p>Audrey Leong,
+<br>Year Head
+<br>(Primary 4 and 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suria Bte Mohamed Sani</p>
@@ -39,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Luk Meng Lee, Year Head (Primary 3 and 6)</p>
+<p>Mrs Marie Ow Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yi Cong&nbsp;</p>
