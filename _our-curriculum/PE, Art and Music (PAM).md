@@ -29,7 +29,7 @@ variant: tiptap
 <br>(Art Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Isaac Leng Song Dao</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -45,23 +45,23 @@ variant: tiptap
 <p>Mr Muhammad Hisham Bin Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Isaac Leng Song Dao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Kim Keat</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lew Ern Nah (FAJT/Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lew Ern Nah (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Er Kia Hui (FAJT)</p>
+<p>Mdm Er Kia Hui (FAJT/Art)</p>
 </td>
 </tr>
 </tbody>
