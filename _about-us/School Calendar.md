@@ -371,149 +371,289 @@ variant: tiptap
 <p>2 Feb, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Oct, Mon</p>
+<p>3 Feb, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>Start of P4 to P5 Remedial</p>
+</li>
+<li>
+<p>P6 Remedial</p>
+</li>
+<li>
+<p>*Start of P4 &amp; P5 E2K Math</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Oct, Tue</p>
+<p>4 Feb, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>*Community Outreach Experience (Collab With Maker) #1-1</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Oct, Wed</p>
+<p>5 Feb, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 &amp; P5 Support Programme (for selected
-classes)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 SwimSafer and Coding Programme</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 GEP Selection Exercise (for selected
-P3 students)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-1, 3-2, 3-4)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Science</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Oct, Mon</p>
+<p>6 Feb, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deepavali Holiday</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Oct, Fri</p>
+<p>9 Feb, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Higher Mother Tongue Languages
-End-of-Year Examination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+<li>
+<p>*Community Outreach Experience #1-2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct, Mon</p>
+<p>10 Feb, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Science End-of-Year Examination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Math</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Oct, Tue</p>
+<p>11 Feb, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 English Language Paper 2 End-of-Year
-Examination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tech skills programme (4-4)</p>
+</li>
+<li>
+<p>*P5 Science Stretch #5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Oct, Wed</p>
+<p>12 Feb, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Mother Tongue Languages Paper
-2 End-of-Year Examination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-1, 3-2, 3-4)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Science</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Oct, Thu</p>
+<p>13 Feb, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Mathematics End-of-Year Examination</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SHINE Learning Journey (for selected students)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>November</strong>
+<td rowspan="1" colspan="1">
+<p>16 Feb, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CNY School Celebration &amp; TDD Commemoration</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Feb, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese New Year Public Holiday</strong>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Nov, Mon</p>
+<p>18 Feb, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 CCA Fair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Nov, Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Singapore
-Repertory Theatre</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Nov, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School eLF Council Meet (for selected
-school eLF)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMBRACE SG (for selected students)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gratitude Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 Nov, Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Early dismissal for all students at 12 p.m. (from 10 Nov to 19 Nov)</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Chinese New Year Public Holiday</strong>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Nov, Tue</p>
+<p>20 Feb, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administration Day (No school for
-P1 to P6 students)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tech skills programme (4-1, 4-2, 4-3)</p>
+</li>
+<li>
+<p>*P5 Science Stretch #4</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 Nov, Wed</p>
+<p>23 Feb, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to Singapore Chinese
-Cultural Centre (6LO1, 6LO2, 6LO4 students taking CL)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+<li>
+<p>*Community Outreach Experience #1-3</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Feb, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P5 IPW</p>
+</li>
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Math</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Feb, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P5 IPW</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Feb, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P5 IPW</p>
+</li>
+<li>
+<p>P3 SwimSafer (3-1, 3-2, 3-4)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Science</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Feb, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P5 IPW</p>
+</li>
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
