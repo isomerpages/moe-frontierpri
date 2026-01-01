@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/shikin" rel="noopener" target="_blank">Mdm Nurashikin Mohamed Zamrabi</a>
+<p><a href="/rachel" rel="noopener" target="_blank">Mdm Chia Tze Miang, Rachel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/hanna" rel="noopener" target="_blank">Mdm Hannaria Srihanum Tumbuck</a>
+<p><a href="/shirin" rel="noopener" target="_blank">Mdm Nur Shirin Bte Yaman Yuen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,8 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -103,6 +102,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/hanna" rel="noopener" target="_blank">Mdm Hannaria Srihanum Tumbuck</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -120,7 +121,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/chokseng" rel="noopener" target="_blank">Mr Chan Chok Seng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +148,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/suria" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
+<p><a href="/valerie/" rel="noopener" target="_blank">Mrs Valerie Teo - Low Baoqin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,8 +156,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/shirin" rel="noopener" target="_blank">Mdm Nur Shirin Bte Yaman Yuen</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -169,7 +170,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/valerie/" rel="noopener" target="_blank">Mrs Valerie Teo - Low Baoqin</a>
+<p><a href="/shikin" rel="noopener" target="_blank">Mdm Nurashikin Mohamed Zamrabi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +178,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/shaohui/" rel="noopener" target="_blank">Mrs Cheong - Li Shaohui</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -186,14 +188,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/shaohui/" rel="noopener" target="_blank">Mrs Cheong - Li Shaohui</a>
+<p><a href="/lea" rel="noopener" target="_blank">Mrs Ang - Tam Hui Yun Lea</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/juliet" rel="noopener" target="_blank">Mdm Robert Juliet</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -220,14 +222,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/rachel" rel="noopener" target="_blank">Mdm Chia Tze Miang, Rachel</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -245,6 +247,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/asmah" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
+</p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -262,7 +267,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/juliet" rel="noopener" target="_blank">Mdm Robert Juliet</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -272,7 +278,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/asmah" rel="noopener" target="_blank">Mdm Asmahwaty Binte Abdullah</a>
+<p><a href="/suria" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
 </p>
 <p></p>
 </td>
@@ -281,8 +287,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/chokseng" rel="noopener" target="_blank">Mr Chan Chok Seng</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
