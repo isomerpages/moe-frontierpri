@@ -65,10 +65,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Khuan Pheng (FAJT)</p>
+<p>Mr Tan Khuan Pheng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selina Ng Hui Min (FAJT)</p>
+<p>Mdm Selina Ng Hui Min (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
@@ -79,7 +79,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vineetha Kalathil Thomas (RT)</p>
+<p>Mdm Vineetha Kalathil Thomas (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
