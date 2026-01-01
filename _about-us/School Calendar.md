@@ -14,162 +14,342 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>September</strong>
+<p><strong>January</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Sep, Mon</p>
+<p>2 Jan, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of Term 4</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P5 CCA (Mondays)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Sep, Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Listening Comprehension (No school
-for P1 to P5 students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Sep, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAINBOWS Programme (for selected students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Sep, Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Remedial</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Sep, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P5 CCA (Fridays)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 Sep, Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 and P4 Oral Examination (afternoon)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home-based Learning (HBL) for P5 students</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE English Language (Written)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Sep, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 and P4 Oral Examination (afternoon)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home-based Learning (HBL) for P5 students</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Mathematics (Written)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Sep, Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Mother Tongue Languages (Written)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home-based Learning (HBL) for P4 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Sep, Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Science (Written)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home-based Learning (HBL) for P3 students</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School eLF Council Meet (for selected
-school eLF)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>October</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Start of school for P1 students only</p>
+</li>
+<li>
+<p>Start of P1 Transition Programme <em>(early dismissal @1pm from 2 to 7 Jan)</em>
 </p>
+</li>
+<li>
+<p>P1 Parents Engagement</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Oct, Wed</p>
+<p>5 Jan, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Higher Mother Tongue Languages
-(Written)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAINBOWS Programme (for selected
-students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Oct, Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day Celebration and Lower
-Primary Games Day</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Start of school for P2 to P6 students</p>
+</li>
+<li>
+<p>P1 Transition Programme Day 2</p>
+</li>
+<li>
+<p>Back to Frontier for P2 to P6 students Day 1</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Oct, Fri</p>
+<p>6 Jan, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day School Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Oct, Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P5 Oral Examination (afternoon)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P6 post-PSLE activities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 Transition Programme Day 3</p>
+</li>
+<li>
+<p>Back to Frontier for P2 to P6 students Day 2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Oct, Tue</p>
+<p>7 Jan, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P5 Oral Examination (afternoon)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of SwimSafer sessions for
-P6 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 Oct, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAINBOWS Programme (for selected
-students)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 Transition Programme Day 4</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Oct, Thu</p>
+<p>8 Jan, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 English Paper 1 and Listening
-Comprehension End-of- Year Examination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer #1 (3-1, 3-2, 3-4)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Jan, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 – P5 Math Stretch #1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Jan, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 – P4 Math Stretch #2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jan, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 Code For Fun (4-2, 4-4, 4-6)</p>
+</li>
+<li>
+<p>P3 SwimSafer #1 (3-3, 3-5, 3-6)</p>
+</li>
+<li>
+<p>P5 Tech Skills (5-1 &amp; 5-2)</p>
+</li>
+<li>
+<p>*P5 Math Stretch #2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Jan, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 Code For Fun (4-2, 4-4, 4-6)</p>
+</li>
+<li>
+<p>P5 Tech Skills (5-3 &amp; 5-6)</p>
+</li>
+<li>
+<p>*P3 – P5 Math Stretch #3</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-1, 3-2- 3-4)</p>
+</li>
+<li>
+<p>P5 Tech Skills (5-4 &amp; 5-5)</p>
+</li>
+<li>
+<p>*P4 E2K Science Interview</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Jan, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P2 to P6 PTM</p>
+</li>
+<li>
+<p>9am to 1015am P5 and P6 PTM (virtual)</p>
+</li>
+<li>
+<p>1015am to 1130am P3 &amp; P4 PTM (virtual)</p>
+</li>
+<li>
+<p>1130am to 1245pm P2 PTM (virtual)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jan, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Start of P4 to P6 CCA (Monday)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jan, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 Code For Fun (4-1, 4-3, 4-5)</p>
+</li>
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>Start of P6 Remedial</p>
+</li>
+<li>
+<p>*P5 Science Stretch #1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Jan, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 Code For Fun (4-1, 4-3, 4-5)</p>
+</li>
+<li>
+<p>*P3 - P5 Math Stretch #4</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Jan, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-1, 3-2- 3-4)</p>
+</li>
+<li>
+<p>P6 Remedial</p>
+</li>
+<li>
+<p>*P5 Science Stretch #2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jan, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Start of P4 to P6 CCA (Friday)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jan, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jan, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>P6 Remedial</p>
+</li>
+<li>
+<p>*P5 Science Stretch #3</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>*EMBRACE SG #1</p>
+</li>
+<li>
+<p>*Gratitude Programme #1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Jan, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-1, 3-2, 3-4)</p>
+</li>
+<li>
+<p>P6 Remedial</p>
+</li>
+<li>
+<p>*Start of P4 &amp; P5 E2K Science</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jan, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 Transition Graduation Day &amp; Parent Teacher Engagement</p>
+</li>
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
