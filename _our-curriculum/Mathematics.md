@@ -38,7 +38,8 @@ variant: tiptap
 <br>(Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmahwaty Binte Abdullah</p>
+<p>Mdm Siti Idzmaidar Binte Amir Wahid</p>
+<p>ST/Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -49,26 +50,37 @@ variant: tiptap
 <p>Mdm Elaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shannon Lim</p>
+<p>Mdm Asmahwaty Binte Abdullah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Lay Koon</p>
+<p>Mrs Ang Cheng Chew Teh Ai Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Oon Saw Kim Eileen</p>
+<p>Miss Julia Zheng Xiufen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yue Hui Xian</p>
+<p>Mdm Yap Lay Koon (CAJT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw Yong Wai Leng</p>
+<p>Mdm Wee Siew Kuan (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wee Siew Kuan</p>
+<p>Mdm Oon Saw Kim Eileen (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Yue Hui Xian (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Angie Wong (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

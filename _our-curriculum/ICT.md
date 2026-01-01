@@ -23,15 +23,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap Lena Chua</p>
+<p>Mdm Yap Huie Yuan,</p>
+<p>HOD/Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eliza Law</p>
+<p>Mdm Rasidah Bte Mohd Rasit,
+<br>School Staff Developer (SSD)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Carrie Laksman</p>
+<p>Mr Chan Wei Shen,
+<br>LT/Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cham Kah Mien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Lan Shii</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Robert Juliet</p>
@@ -39,10 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cham Kah Mien</p>
+<p>Ms Sukainah Bte Mohd Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lan Shii</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -247,7 +258,7 @@ learn to program a machine and creating their own simple applications.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tentative Term</strong>
+<p><strong>Term</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

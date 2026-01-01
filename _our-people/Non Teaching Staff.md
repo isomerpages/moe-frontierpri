@@ -99,7 +99,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ALICE.jpg">
 </div>
 <p><strong>Mdm Alice Tan Gek Cheng</strong>
-<br><strong><em>Corporate Support Officer</em></strong>
+<br><strong>Admin Executive/MK</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,19 +171,6 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas14.jpg">
 </div>
 <p><strong>Mdm Manjeet Kaur d/o/ Kapoor Singh</strong>
-<br><strong><em>Operations Support Officer</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ASIFA_IFA.jpg">
-</div>
-<p><strong>Mdm Noer Asifa Poernomo</strong>
 <br><strong><em>Operations Support Officer</em></strong>
 </p>
 </td>

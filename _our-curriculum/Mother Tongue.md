@@ -22,8 +22,8 @@ variant: tiptap
 <br>SH / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Arianti Bte Ariffin,
-<br>SH / Malay &amp; Tamil Language</p>
+<p>Mdm Chia Qian Lin,
+<br>ST / Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -32,60 +32,8 @@ variant: tiptap
 <br>ST / Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Qian Lin,
-<br>ST / Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chen Wei Shen,
-<br>LT / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rasidah Bte Mohd Rasit,
-<br>School Staff Developer (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammed Nidzam Bin Zakariah,
-<br>SH / ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ow Kah Leong,
-<br>HOD / ICT &amp; Data Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Teo Ming Hui,
-<br>HOD / Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Luk Meng Lee,
-<br>Year Head P3/6
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms M B Sheirin Habibah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Robert Juliet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noryanti Bte Mohamed Yahya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wang Wan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norhayati Bte Ibnor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mardiana Bte Abdul Manap</p>
+<p>Mdm Norhayati Binte Ibnor,
+<br>SH / Malay Language (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Huang Fang</p>
@@ -93,11 +41,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Karthikeyan Indhumathi</p>
+<p>Ms Wang Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Azrina</p>
-<p></p>
+<p>Mr Li Lei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liew Mei Lian</p>
@@ -105,36 +52,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cham Kah Mien</p>
+<p>Mdm Noryanti Bte Mohamed Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hee Ming Min</p>
+<p>Mdm Karthikeyan Indhumathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Li Lei</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Lan Shii</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Qin Ling Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wang Hai Jing</p>
+<p>Mdm Qin Ling Jun (CAJT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hee Ming Min (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Nan Qiang Simon</p>
+<p>Mr Chen Nan Qiang Simon (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Beh Ay Dih
+<br>(FAJT)</p>
 </td>
 </tr>
 </tbody>

@@ -121,6 +121,8 @@ variant: tiptap
 <p><strong><em>LH / Mathematics</em></strong>
 <br><strong><em>(covering HOD/MA)</em></strong>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"I believe every student wants to and can learn. It is my responsibility as an educator to provide a safe environment that will foster maximum learning and meet each student's individual needs. I also aim to develop a growth mindset in my students by helping them understand that with effective effort, practice and perseverance, all students can succeed."</em>
@@ -318,18 +320,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="norhayati_ibnor@schools.gov.sg" src="/images/mtl17.jpg">
 </div>
-<p><strong>Mdm Sri Arianti Bte Ariffin</strong>
+<p><strong>Mdm Norhayati Binte Ibnor</strong>
 </p>
-<p><strong><em>SH / Malay &amp; Tamil Language</em></strong>
+<p><strong><em>SH / Malay Language (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“An old African proverb says “It takes a whole village to raise a child”. This is true to my belief that the responsibility of moulding the child belongs to everyone. As such, with proper guidance and discipline, I feel that each and every child can and is able to learn AND reach his potential.”</em>
+<p>"<em>As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them."</em>
 </p>
-<p>Tel ext: 204</p>
-<p>Email:&nbsp;<a href="mailto:sri_arianti_ariffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sri_arianti_ariffin@schools.gov.sg</a>
+<p>Tel ext: 253</p>
+<p>Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibnor@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -429,6 +431,24 @@ variant: tiptap
 <p>Tel ext:</p>
 <p>Email:&nbsp;<a href="mailto:lim_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Ang - Tam Hui Yun Lea" src="/images/Org Chart Photos/Mrs_Ang___Tam_Hui_Yun_Lea.jpg">
+</div>
+<p><strong>Mrs Ang - Tam Hui Yun Lea</strong>
+<br><strong>SH/ Aesthetics (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"There are people who love learning, and there are people who develop the love for learning. The beauty of being a teacher is creating opportunities for students to develop, or further, this love for learning. Every child should be given a safe space to make mistakes and learn from them, building them up to be critical thinkers and movers. I am a firm believer that character-building plays a big part in developing students holistically in this everchanging landscape. Learning can be fun yet challenging!"</em>
+<br>
+<br>Tel Ext: 268</p>
+<p>Email: <a href="mailto:Tam_Hui_Yun_Lea@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tam_Hui_Yun_Lea@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -684,20 +704,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp31.jpg">
-</div>
-<p><strong>Mdm Soh Wee Hong, Nellie</strong>
+<p><strong>Mdm Audrey Leong</strong>
 </p>
 <p><strong><em>Year Head P4/5</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“I believe that every child should enjoy going to school and gain meaningful experiences each day of their school life. To me, being a teacher to a child, it is important for me to bond with the pupils as well as to inculcate in them the right values; apart from teaching them the curriculum.”</em>
+<p><em>" "</em>
 </p>
 <p>Tel ext: 125</p>
-<p>Email:&nbsp;<a href="mailto:nellie_soh_wee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nellie_soh_wee_hong@schools.gov.sg</a>
-</p>
+<p>Email:</p>
 </td>
 </tr>
 <tr>

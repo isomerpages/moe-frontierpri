@@ -37,7 +37,8 @@ variant: tiptap
 <br>ST / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Suat Peng, Tina</p>
+<p>Mrs Teng - Lim Li-Chern, Anisia
+<br>ST/Learning Needs (Educational Support)</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +49,7 @@ variant: tiptap
 <p>Miss Sandra Phong Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Zhang</p>
+<p>Mdm Lim Suat Peng Tina</p>
 </td>
 </tr>
 <tr>
@@ -59,15 +60,26 @@ variant: tiptap
 <p>Miss Harsharan Kaur d/o T S</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Eliza Law Wen Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Khuan Pheng (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Selina Ng Hui Min (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Cheong Yueh Tinng Evelyn (CAJT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Magdalein Goh (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Renee Kwan Pui Leng (RT)</p>
+<p>Mdm Vineetha Kalathil Thomas (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
