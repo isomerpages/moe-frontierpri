@@ -665,56 +665,161 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>13 Nov, Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to Singapore Chinese
-Cultural Centre (6LO3, 6LO5, 6LO6 students taking CL)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SHINE End-of-Year Celebration</p>
+<td rowspan="1" colspan="2">
+<p><strong>March</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Nov, Fri</p>
+<p>2 Mar, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Graduation Day (Last day of school
-for P6 students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Nov, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S-eLF-LESS C (P3 to P6 school eLFs)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last day of school for P1 to P5
-students</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+<li>
+<p>*Community Outreach Experience #1-4</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Nov, Thu</p>
+<p>3 Mar, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontier Celebrates! PRIDE Day (for prize-winners
-and performers; no school for P1 to P5 students)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P5 Learning Journey to Indian Heritage Centre (5-1, 5-4)</p>
+</li>
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial (Except 5-1, 5-4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Nov, Fri</p>
+<p>4 Mar, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 Orientation</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff Engagement Day (No school for P1
-to P5 students)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health Screening for all levels&nbsp; (4 Mar – 6 Mar)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Mar, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-1, 3-2, 3-4)</p>
+</li>
+<li>
+<p>P4 to P6 Remedial</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Science</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Mar, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Mar, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Health Screening for all levels&nbsp; (9 Mar – 12 Mar)</p>
+</li>
+<li>
+<p>P4 to P6 CCA</p>
+</li>
+<li>
+<p>MakerEd Workshop #2</p>
+</li>
+<li>
+<p>P5 CCA Leadership Course Day #1/2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Mar, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 SwimSafer (3-3, 3-5- 3-6)</p>
+</li>
+<li>
+<p>P6 S-eLF-LESS A (S-eLFs only)</p>
+</li>
+<li>
+<p>*P4 &amp; P5 E2K Math</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Mar, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Tech skills programme (4-5, 4-6)</p>
+</li>
+<li>
+<p>*P5 Science Stretch #6</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Mar, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P4 to P6 Sports Day</p>
+</li>
+<li>
+<p>P1 to P3 Lower Primary Games Day</p>
+</li>
+<li>
+<p>*P3 – P5 S-eLF-L.E.S.S A (S-eLFs &amp; P5 CCA Leaders)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;**Information above is accurate as of 3 September 2025. Details
-of the specific events will be provided in separate letters and consent
-forms nearer the dates. Please note that events in the School Calendar
-are subject to change.</p>
+<p>&nbsp;**Information above is accurate as of 1 January 2026. Details of
+the specific events will be provided in separate letters and consent forms
+nearer the dates. Please note that events in the School Calendar are subject
+to change.</p>
