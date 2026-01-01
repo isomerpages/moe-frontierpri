@@ -361,14 +361,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>February</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>10 Oct, Fri</p>
+<p>2 Feb, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Mother Tongue Languages
-Paper 1 and Listening Comprehension End-of-Year Examination</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School eLF Council Meet (for selected
-school eLF)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -376,10 +379,7 @@ school eLF)</p>
 <p>13 Oct, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 &amp; P5 Support Programme (For
-selected classes)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 SwimSafer and Coding Programme</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -387,12 +387,7 @@ selected classes)</p>
 <p>14 Oct, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Marking</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 &amp; P5 Support Programme (for selected
-classes)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 SwimSafer and P6 Coding programme</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 GEP Selection Exercise (for selected
-P3 students)</p>
+<p></p>
 </td>
 </tr>
 <tr>
