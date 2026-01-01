@@ -4,7 +4,7 @@ permalink: /form-teachers/
 description: ""
 variant: tiptap
 ---
-<p><strong>The list of Form Teachers in 2025 can be found below. To view a teacher's contact information, please click on his or her name.</strong>
+<p><strong>The list of Form Teachers in 2026 can be found below. To view a teacher's contact information, please click on his or her name.</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -182,8 +182,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/shaohui/" rel="noopener" target="_blank">Mrs Cheong - Li Shaohui</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -216,11 +215,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/hisham" rel="noopener" target="_blank">Mr Muhammad Hisham Bin Kamsani</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -289,7 +286,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/suria" rel="noopener" target="_blank">Mdm Suria Bte Mohamed Sani</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/menglee" rel="noopener" target="_blank">Mdm Luk Meng Lee</a>
@@ -310,7 +306,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Julia Zheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/indhu" rel="noopener" target="_blank">Mrs Karthikeyan Indhumathi</a>
@@ -327,14 +323,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/serene" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
+<p><a href="/patrick/" rel="noopener" target="_blank">Mr Chua Cherng Haur, Patrick</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sukainah Binte Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sum Yuan Liang</p>
 <p></p>
 </td>
 </tr>
@@ -346,7 +342,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/jessica" rel="noopener noreferrer nofollow" target="_blank">Ms Kho Siok Ching. Jessica</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/rasidah" rel="noopener" target="_blank">Mdm Rasidah Bte Mohd Rasit</a>
@@ -355,7 +350,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/siwei" rel="noopener" target="_blank">Mdm Chua Si Wei</a>
 </p>
-<p></p>
 <p></p>
 <p></p>
 </td>
@@ -370,10 +364,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
+<p><a href="/mages" rel="noopener" target="_blank">Mrs Sudhakar - Mages Wari Ramasamy</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -445,7 +437,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/patrick/" rel="noopener" target="_blank">Mr Chua Cherng Haur, Patrick</a>
+<p><a href="/serene" rel="noopener" target="_blank">Mdm Ng Xiao Wei, Serene</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -481,10 +473,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/kahmien" rel="noopener noreferrer nofollow" target="_blank">Mdm Cham Kah Mien</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/dorcas" rel="noopener" target="_blank">Mdm Lee Hao Yih, Dorcas</a>
+<p><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -508,8 +502,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/isaac" rel="noopener" target="_blank">Mr Leng Song Dao, Isaac</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -549,7 +542,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lim Xin Yue</p>
 <p></p>
 </td>
 </tr>
@@ -567,7 +560,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Audrey Leong</p>
 <p></p>
 <p></p>
 </td>
@@ -582,7 +575,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Khuan Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -595,11 +588,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/sabrina/" rel="noopener" target="_blank">Mrs Sabrina Zhang - Ng Mei Qi</a>
+<p><a href="/isaac" rel="noopener" target="_blank">Mr Leng Song Dao, Isaac</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/dorcas" rel="noopener" target="_blank">Mdm Lee Hao Yih, Dorcas</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -711,7 +705,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/mages" rel="noopener" target="_blank">Mrs Sudhakar - Mages Wari Ramasamy</a>
+<p><a href="/minghui" rel="noopener" target="_blank">Mrs Teo - Lim Ming Hui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -749,8 +743,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/anderson" rel="noopener" target="_blank">Mr Tan Choon Seng Anderson</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -774,7 +767,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/magdalein/" rel="noopener" target="_blank">Mdm Magdalein Goh</a>
+<p><a href="/huixian" rel="noopener noreferrer nofollow" target="_blank">Miss Yue Hui Xian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -784,7 +777,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/mr-macus-rouis-quek-weng-sung/" rel="noopener nofollow" target="_blank">Mr Macus Rouis Quek Weng Sung</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lew Ern Nah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/simon/" rel="noopener" target="_blank">Mr Chen Dunqiang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/aydih" rel="noopener noreferrer nofollow" target="_blank">Mdm Beh Ay Dih</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/huangfang" rel="noopener" target="_blank">Ms Huang Fang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/shaohui/" rel="noopener" target="_blank">Mrs Cheong - Li Shaohui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -792,58 +806,35 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/simon/" rel="noopener" target="_blank">Mr Chen Dunqiang</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/huixian" rel="noopener noreferrer nofollow" target="_blank">Miss Yue Hui Xian</a>
-</p>
+<p>Mdm Er Kia Hui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/aydih" rel="noopener noreferrer nofollow" target="_blank">Mdm Beh Ay Dih</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mdm-siti-azura-binte-saripi-julya/" rel="noopener nofollow" target="_blank">Mdm Siti Azura Binte Saripi @ Julya</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/mr-macus-rouis-quek-weng-sung/" rel="noopener nofollow" target="_blank">Mr Macus Rouis Quek Weng Sung</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lew Ern Nah</p>
+<p>Miss Kwan Pui Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wee Siew Kwan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Er Kia Hui</p>
-<p></p>
+<p>Mdm Vineetha Kalathil Thomas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Arumugam Geethasankari</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vineetha Kalathil Thomas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Kwan Pui Leng</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Arumugam Geethasankari</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -869,7 +860,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="/mdm-siti-azura-binte-saripi-julya/" rel="noopener nofollow" target="_blank">Mdm Siti Azura Binte Saripi @ Julya</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
