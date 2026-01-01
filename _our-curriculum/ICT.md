@@ -37,20 +37,20 @@ variant: tiptap
 <br>LT/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Cham Kah Mien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Lan Shii</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Robert Juliet</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cham Kah Mien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Lan Shii</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sukainah Bte Mohd Mohsen</p>
+<p>Ms Sukainah Bte Mohd Mohsen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -258,7 +258,7 @@ learn to program a machine and creating their own simple applications.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tentative Term</strong>
+<p><strong>Term</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
