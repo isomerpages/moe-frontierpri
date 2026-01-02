@@ -60,7 +60,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>"Learning comes in many forms. As an educator, I hope that I can model learning for my pupils and engage them effectively and positively. I strongly believe that pupils can learn not just from what we teach but also from the experiences we can give them”</em>
 </p>
-<p>Tel ext: 242</p>
+<p>Tel ext: 228</p>
 <p>Email:&nbsp;<a href="mailto:nur_shirin_yaman_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shirin_yaman_yuen@schools.gov.sg</a>
 </p>
 </td>
@@ -98,6 +98,24 @@ variant: tiptap
 </p>
 <p>Tel Ext: 282</p>
 <p>Email:&nbsp;<a href="mailto:nurashikin_mohamed_zaa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurashikin_mohamed_zaa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
+</div>
+<p><strong>Mdm Lim Li-Chern, Anisia</strong>
+</p>
+<p><strong><em>ST / Learning Needs (Educational Support)</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>“I believe that all children are gifted. My duty as a teacher is to uncover the children’s potential and steer them in the right direction so that they will fulfill their potential.”</em>
+</p>
+<p>Tel ext: 204</p>
+<p>Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li-chern_anisia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -205,6 +223,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/kp24.jpg">
+</div>
+<p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
+</p>
+<p><strong><em>ST / Educational Support</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>“In a classroom that instills a caring, safe and respectful environment, every student can blossom and grow. I believe that by engaging my students in meaningful learning experiences and guiding them through with the right values, they will grow to be motivated learners who are responsible, compassionate and have good self-awareness of their own strengths and potential.”</em>
+</p>
+<p>Tel ext: 279</p>
+<p>Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_idzmaidar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -267,7 +303,7 @@ variant: tiptap
 </p>
 <p><em>I seek to empower every learner to be their own agent of change, so that they can be free to uncover their individual passion for knowledge."</em>
 </p>
-<p>Tel Ext: 301</p>
+<p>Tel Ext: 283</p>
 <p>Email:&nbsp;<a href="mailto:Ganges_Lim_Zi_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ganges_Lim_Zi_Yang@schools.gov.sg</a>
 </p>
 </td>
@@ -330,7 +366,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>"<em>As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them."</em>
 </p>
-<p>Tel ext: 253</p>
+<p>Tel ext: 281</p>
 <p>Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibnor@schools.gov.sg</a>
 </p>
 </td>
@@ -348,7 +384,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>“I chose teaching as a career because my teachers made a large impact in my life and I aspire to be like them. Teaching offers me the opportunity to inspire students everyday so that they can become creative thinkers and future leaders. I hope that I can be the one to help them discover their potential.”</em>
 </p>
-<p>Tel ext: 273</p>
+<p>Tel ext: 225</p>
 <p>Email:&nbsp;<a href="mailto:chia_qian_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_qian_lin@schools.gov.sg</a>
 </p>
 </td>
@@ -439,13 +475,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Mrs Ang - Tam Hui Yun Lea" src="/images/Org Chart Photos/Mrs_Ang___Tam_Hui_Yun_Lea.jpg">
 </div>
 <p><strong>Mrs Ang - Tam Hui Yun Lea</strong>
-<br><strong>SH/ Aesthetics (Internal)</strong>
+<br><strong>SH / Aesthetics (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"There are people who love learning, and there are people who develop the love for learning. The beauty of being a teacher is creating opportunities for students to develop, or further, this love for learning. Every child should be given a safe space to make mistakes and learn from them, building them up to be critical thinkers and movers. I am a firm believer that character-building plays a big part in developing students holistically in this everchanging landscape. Learning can be fun yet challenging!"</em>
 <br>
-<br>Tel Ext: 268</p>
+<br>Tel Ext: 234</p>
 <p>Email: <a href="mailto:Tam_Hui_Yun_Lea@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tam_Hui_Yun_Lea@schools.gov.sg</a>
 </p>
 <p></p>
@@ -509,44 +545,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>"Believe that you can and you will!" A teacher believing in her students; parents believing in their children as well as a child believing in himself/herself will go a long way in achieving success in their own ways."</em>
 </p>
-<p>Tel Ext: 215</p>
+<p>Tel Ext: 219</p>
 <p>Email:&nbsp;<a href="mailto:siti_nur_aishah_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_aishah_mohamad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp24.jpg">
-</div>
-<p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
-</p>
-<p><strong><em>ST / Educational Support</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>“In a classroom that instills a caring, safe and respectful environment, every student can blossom and grow. I believe that by engaging my students in meaningful learning experiences and guiding them through with the right values, they will grow to be motivated learners who are responsible, compassionate and have good self-awareness of their own strengths and potential.”</em>
-</p>
-<p>Tel ext: 279</p>
-<p>Email:&nbsp;<a href="mailto:siti_idzmaidar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_idzmaidar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
-</div>
-<p><strong>Mdm Lim Li-Chern, Anisia</strong>
-</p>
-<p><strong><em>ST / Learning Needs (Educational Support)</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>“I believe that all children are gifted. My duty as a teacher is to uncover the children’s potential and steer them in the right direction so that they will fulfill their potential.”</em>
-</p>
-<p>Tel ext: 281</p>
-<p>Email:&nbsp;<a href="mailto:lim_li-chern_anisia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li-chern_anisia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -691,7 +691,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Chan Chok Seng</strong>
 </p>
-<p><strong><em>Year Head P1/2</em></strong>
+<p><strong><em>Year Head P1/3</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -704,7 +704,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Audrey Leong</strong>
+<p><strong>Mdm Audrey Leong Mei Ern</strong>
 </p>
 <p><strong><em>Year Head P4/5</em></strong>
 </p>
@@ -712,8 +712,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>" "</em>
 </p>
-<p>Tel ext: 125</p>
-<p>Email:</p>
+<p>Tel ext: 132</p>
+<p>Email: <a href="mailto:audrey_leong_mei_ern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_leong_mei_ern@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -723,13 +724,13 @@ variant: tiptap
 </div>
 <p><strong>Mdm Luk Meng Lee</strong>
 </p>
-<p><strong><em>Year Head P3/6</em></strong>
+<p><strong><em>Year Head P2/6</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"As a teacher, I believe all pupils can be nurtured to be wholesome individuals. With our total curriculum in place, I am confident that pupils' potential can be realized to the fullest, and they will be equipped to pursue their passions and serve the community."</em>
 </p>
-<p>Tel ext: 132</p>
+<p>Tel ext: 125</p>
 <p>Email:&nbsp;<a href="mailto:luk_meng_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luk_meng_lee@schools.gov.sg</a>
 </p>
 </td>
