@@ -4,7 +4,11 @@ permalink: /chokseng/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ description: ""
 </div>
 <p><strong>Mr Chan Chok Seng</strong>
 </p>
-<p><strong><em>Year Head P1/2</em></strong>
+<p><strong><em>Year Head P1/3</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
