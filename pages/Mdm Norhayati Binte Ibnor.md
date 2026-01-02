@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -18,7 +22,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><em>"As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them."</em>
 </p>
-<p>Tel Ext: 253</p>
+<p>Tel Ext: 281</p>
 <p>Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibnor@schools.gov.sg</a>
 </p>
 </td>
