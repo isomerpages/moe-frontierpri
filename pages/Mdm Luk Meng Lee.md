@@ -17,7 +17,7 @@ description: ""
 </div>
 <p><strong>Mdm Luk Meng Lee</strong>
 </p>
-<p><strong><em>Year Head P3/6</em></strong>
+<p><strong><em>Year Head P2/6</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
