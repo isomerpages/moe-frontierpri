@@ -41,7 +41,7 @@ variant: tiptap
 <p>Cold Drinks/Snacks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_1__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/Watermelon_Stall_1.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Muslim Rice (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_2__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/sweet_corn_stall_2.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Chinese&nbsp;Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_3__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/fresh_cabbage_stall_3.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <p>Muslim Noodles (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_4__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/french_beans_stall_4.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>Hot Drinks/Snacks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_5__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/beans_grains_stall_5.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>Chinese Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_6__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/cauliflower_stall_6.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>Japanese Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_7__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/cherry_tomato_stall_7.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ variant: tiptap
 <p>Western Food (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/STALLS PRICELISTS/pricelist_stall_8__T4_2024_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/STALLS PRICELISTS/bell_pepper_stall_8.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
