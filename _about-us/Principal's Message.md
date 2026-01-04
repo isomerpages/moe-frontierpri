@@ -17,12 +17,12 @@ whose visionary leadership and unwavering commitment brought Frontier to
 its next height as a young yet well-established school. Under her stewardship,
 Frontier established a clear educational philosophy, strong signature programmes,
 and a culture of care and professionalism that continue to guide our work
-today.
-<br>
+today.</p>
+<p>
 <br>At Frontier Primary School, we remain anchored in our philosophy of building
 Strong Fundamentals for Future Learning. This philosophy shapes not only
-what our students learn, but who they become. Our distinctive programmes—the
-Applied Learning Programme, Nurturing the Thinking F.A.C.E. for Tomorrow,
+what our students learn, but who they become. Our distinctive programmes
+— the Applied Learning Programme, Nurturing the Thinking F.A.C.E. for Tomorrow,
 and the Learning for Life Programme, danceFRONT—provide rich and meaningful
 learning experiences that prepare every Frontierer to navigate an increasingly
 complex and dynamic world with confidence and purpose. Together, these
@@ -40,12 +40,14 @@ their strengths to make positive contributions.
 to support our students’ learning and well-being, and to build a caring
 and inclusive school community where every Frontierer feels a sense of
 belonging and purpose. Supported by our dedicated staff, and strong partnerships,
-Frontier Primary School will continue to grow as a learning organisation—remaining
-focused on what matters most: the holistic development of every child.
+Frontier Primary School will continue to grow as a learning organization
+— remaining focused on what matters most: the holistic development of every
+child.
 <br>
 <br>As we journey forward together, our school motto continues to guide us:
 <br>Make a Difference, Be the Difference—not only in what we achieve, but
 in who we become.
+<br>
 <br>
 <br>Mdm Jessie Ang
 <br>Principal
