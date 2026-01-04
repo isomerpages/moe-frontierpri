@@ -29,10 +29,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Ms Ngiam Wee Heng" src="/images/Org Chart Photos/Ms_Ngiam_Wee_Heng.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Ms_Ngiam.jpg">
 </div>
-<p>
-<br><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
+<p><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
