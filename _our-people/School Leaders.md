@@ -9,8 +9,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Jessie Heng (Ang Chai Ting)<em><br></em></strong><em>Principal</em>
 </p>
-<p><em>Updating in Progress...</em>
-</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
