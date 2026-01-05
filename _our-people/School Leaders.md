@@ -53,7 +53,6 @@ variant: tiptap
 <p>I believe that every child can grow at their own pace whilst being challenged
 to become the best version of themselves. This means recognising that each
 child's journey is unique, yet ensuring that all can reach their full potential.</p>
-<p>&nbsp;</p>
 <p>Central to my approach is cultivating the right attitude in children.
 I hope that our children develop gratitude for everything in their lives—both
 for what they have and what they do not have. This sense of appreciation
@@ -63,7 +62,6 @@ problems, but as possibilities waiting to be discovered. When faced with
 challenges, I want them to ask, "what can I learn from this?" rather than
 "why is this happening to me?" This shift in mindset transforms obstacles
 into stepping stones for growth.</p>
-<p>&nbsp;</p>
 <p>My greatest hope is to walk alongside each child as they discover their
 own path to becoming <strong><em>confident thinkers, adaptable individuals, and passionate leaders, </em></strong>knowing
 that the work we do together shapes the future our children will create.</p>
@@ -76,7 +74,4 @@ that the work we do together shapes the future our children will create.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Ms_Ngiam.jpg">
-</div>
 <p></p>
