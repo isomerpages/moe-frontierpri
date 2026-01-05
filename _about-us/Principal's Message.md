@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h4><strong>Principal's Message</strong></h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mrs_Jessie_Heng__Ang_Chai_Ting_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
 </div>
+<p></p>
 <p>It is with deep humility and a strong sense of purpose that I assume the
 role of the 3rd Principal of Frontier Primary School. I am honoured to
 build upon the strong foundations laid by my predecessor, Mrs Tonnine Chua,
