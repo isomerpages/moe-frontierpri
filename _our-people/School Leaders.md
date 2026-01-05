@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Mrs Jessie Heng (Ang Chai Ting)" src="/images/Org Chart Photos/Mrs_Jessie_Heng__Ang_Chai_Ting_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
 </div>
 <p><strong>Mrs Jessie Heng (Ang Chai Ting)<em><br></em></strong><em>Principal</em>
 </p>
@@ -21,21 +21,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Mrs Claudia Choon" src="/images/VP_Mrs_Choon.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Mrs Claudia Choon" src="/images/VP_Mrs_Choon.jpg">
 </div>
 <p><strong>Mrs Claudia Choon<em><br></em></strong><em>Vice-Principal</em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Ms_Ngiam.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="ngiam" src="/images/Org Chart Photos/miss_ngiam_wee_heng.jpg">
 </div>
 <p><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/sl4.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/sl4.jpeg">
 </div>
 <p><strong>Mr Ang Boon Chin<em><br></em></strong><em>Vice-Principal (Administration)</em>
 </p>
@@ -49,8 +50,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Updating in Progress..</em>
-</p>
+<p>I believe that every child can grow at their own pace whilst being challenged
+to become the best version of themselves. This means recognising that each
+child's journey is unique, yet ensuring that all can reach their full potential.</p>
+<p>Central to my approach is cultivating the right attitude in children.
+I hope that our children develop gratitude for everything in their lives—both
+for what they have and what they do not have. This sense of appreciation
+forms the foundation for resilience, which is one of our school values.
+I hope that we can teach our children to approach setbacks not as insurmountable
+problems, but as possibilities waiting to be discovered. When faced with
+challenges, I want them to ask, "what can I learn from this?" rather than
+"why is this happening to me?" This shift in mindset transforms obstacles
+into stepping stones for growth.</p>
+<p>My greatest hope is to walk alongside each child as they discover their
+own path to becoming <strong><em>confident thinkers, adaptable individuals, and passionate leaders, </em></strong>knowing
+that the work we do together shapes the future our children will create.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>The world is changing at an unprecedented pace. We need to prepare our children for the unknown, unseen and unpredictable. I believe the education today is about teaching the right values and giving our students the skills they need to succeed in this new world; and helping them grow the confidence to practice those skills to deal with unpredictability and change, and to overcome any future challenges.”</em>
@@ -60,7 +74,4 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Ms_Ngiam.jpg">
-</div>
 <p></p>
