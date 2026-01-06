@@ -29,7 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="ngiam" src="/images/Org Chart Photos/miss_ngiam_wee_heng.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="ngiam" src="/images/Org Chart Photos/miss_ngiam_wee_heng.jpg">
 </div>
 <p><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
 </p>
