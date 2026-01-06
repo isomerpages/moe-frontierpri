@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="jessie ang" src="/images/Org Chart Photos/Principal_Jessie_Ang.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="jessie ang" src="/images/Org Chart Photos/Principal_Jessie_Ang.jpg">
 </div>
 <p>It is with deep humility and a strong sense of purpose that I assume the
 role of the 3rd Principal of Frontier Primary School. I am honoured to
