@@ -36,7 +36,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/sl4.jpeg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/sl4.jpeg">
 </div>
 <p><strong>Mr Ang Boon Chin<em><br></em></strong><em>Vice-Principal (Administration)</em>
 </p>
