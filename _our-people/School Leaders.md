@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
 </div>
 <p><strong>Mrs Jessie Heng (Ang Chai Ting)<em><br></em></strong><em>Principal</em>
 </p>
@@ -29,14 +29,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="ngiam" src="/images/Org Chart Photos/miss_ngiam_wee_heng.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="ngiam" src="/images/Org Chart Photos/miss_ngiam_wee_heng.jpg">
 </div>
 <p><strong>Ms Ngiam Wee Heng<em><br></em></strong><em>Vice-Principal</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/sl4.jpeg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/sl4.jpeg">
 </div>
 <p><strong>Mr Ang Boon Chin<em><br></em></strong><em>Vice-Principal (Administration)</em>
 </p>
