@@ -22,7 +22,7 @@ on school's programme and activities.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>PG Mobile App (Absence Notification):</strong>
+<p><strong>Parents Gateway Mobile Application (<u>Absence Notification</u>):</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +30,7 @@ on school's programme and activities.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (FAQs) </a></strong>
+<p><strong><a href="/files/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (FAQs)</a></strong>
 </p>
 </li>
 </ul>
