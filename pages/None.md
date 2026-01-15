@@ -1,6 +1,6 @@
 ---
-title: Forms
-permalink: /forms/
+title: None
+permalink: /none/
 description: ""
 variant: tiptap
 ---
