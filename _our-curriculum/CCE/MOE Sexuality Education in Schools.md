@@ -43,7 +43,7 @@ ones.</p>
 </ul>
 <p>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>OVERVIEW OF FRONTIER PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF FRONTIER PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -72,9 +72,9 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong>At Frontier Primary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong>
+<p><strong>At Frontier Primary School, the following Sexuality Education lessons will be taught in <u>2026:</u></strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 <br>
 <br><strong>Primary 5</strong>
 </p>
@@ -163,7 +163,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Primary 6</strong>
 </p>
