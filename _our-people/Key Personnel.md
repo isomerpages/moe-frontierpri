@@ -704,6 +704,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/Org Chart Photos/2026/mdm_audrey_leong_mei_ern.jpg">
+</div>
 <p><strong>Mdm Audrey Leong Mei Ern</strong>
 </p>
 <p><strong><em>Year Head P4/5</em></strong>
