@@ -1,6 +1,6 @@
 ---
-title: MK Virtual Tour
-permalink: /mk-virtual-tour/
+title: Our MK Virtual Tour
+permalink: /our-mk-virtual-tour/
 description: ""
 variant: tiptap
 ---

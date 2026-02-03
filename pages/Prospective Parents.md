@@ -4,6 +4,9 @@ permalink: /prospective-parents/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -28,6 +31,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">P1 Registration</a>
+<br><a href="https://for.edu.sg/fps-corporate-video" rel="noopener nofollow" target="_blank">School Experiences Video</a>
 </p>
 </td>
 </tr>

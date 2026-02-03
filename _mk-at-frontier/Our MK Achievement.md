@@ -1,6 +1,6 @@
 ---
-title: MK Achievement
-permalink: /mk-achievement/
+title: Our MK Achievement
+permalink: /our-mk-achievement/
 variant: tiptap
 description: ""
 ---

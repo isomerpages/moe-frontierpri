@@ -1,6 +1,6 @@
 ---
-title: MK Curriculum
-permalink: /mk-curriculum/
+title: Our MK Curriculum
+permalink: /our-mk-curriculum/
 description: ""
 variant: tiptap
 ---

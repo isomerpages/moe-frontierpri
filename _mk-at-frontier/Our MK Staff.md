@@ -1,23 +1,28 @@
 ---
-title: MK Teaching Staff
-permalink: /mk-teaching-staff/
+title: Our MK Staff
+permalink: /our-mk-staff/
 description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
-</div>
-<p><strong>Mrs Jessie Heng (Ang Chai Ting)</strong><em><br>Principal</em>
-</p>
-<p><em>"Every child is unique with his own strengths, temperaments and needs. The child as a learner is sincere and earnest in his quest for knowledge and excellence. Given the right nurturing care and environment, every child will be able to succeed and contribute in his own ways. A child's success should be celebrated to spur him on and his failure should be forgiven so that he is not afraid to explore and attempt. Thus, each child should be appreciated in his own merits and be encouraged to pursue and excel in his areas of interests and strengths. Every child symbolizes hope for the country and should be cherished, nurtured and developed to become a useful citizen."</em>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
+</div>
+<p><strong>Mdm Jessie Ang</strong><em><br>Principal</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -88,21 +93,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Prevena.jpg">
-</div>
-<p><strong>Ms Prevena D/O Kannathass</strong>
-<br><em>Senior Teacher</em> / EL (Int)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>""Educating the mind without educating the heart is no education at all"- Aristotle"</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:prevena_kannathass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prevena_kannathass</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ts11.png">
 </div>
 <p><strong>Ms Khong Mei Chan</strong>
@@ -112,22 +102,6 @@ variant: tiptap
 <p><em>"Children can reach for the stars when provided with an environment that is safe for exploration."</em>
 </p>
 <p>Email:&nbsp;<a href="mailto:khong_mei_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khong_mei_chen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Khoo Ann Yee.jpg">
-</div>
-<p><strong>Ms Khoo Ann Yee</strong>
-<br><em>English Language Teacher</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:khoo_ann_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ann_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -223,7 +197,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>“Encouragement should be given to students to ask questions, explore, and seek answers independently.”</em>
 </p>
-<p>Email:</p>
+<p>Email: <a href="mailto:shi_jiali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_jiali@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -422,6 +397,22 @@ with a wide range of knowledge, skills and tasks”</p>
 to nurture their learning through values such as kindness, respect, and
 empathy, while supporting them to grow into confident learners.”</p>
 <p>Email: <a href="mailto:Nurul_Haziqah_Mohd_Nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Haziqah_Mohd_Nordin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nurhidayu binte Mustafa" src="/images/Org Chart Photos/2026/Nurhidayu_binte_mustafa.png">
+</div>
+<p><strong>Ms Nurhidayu Binte Mustafa</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“Children are full of curiosity and energy as they learn about the world
+around them. They grow through play, exploration, and everyday experiences.”</p>
+<p>Email: <a href="mailto:nurhidayu_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhidayu_mustafa@schools.gov.sg</a>
 </p>
 </td>
 </tr>

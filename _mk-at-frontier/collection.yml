@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - About MK.md
-      - MK Achievement.md
-      - MK Virtual Tour.md
-      - MK Teaching Staff.md
-      - MK Curriculum.md
-      - MK Collaborations.md
+      - Our MK Achievement.md
+      - Our MK Virtual Tour.md
+      - Our MK Staff.md
+      - Our MK Curriculum.md
+      - Our MK Collaborations.md
       - Current MK Parents.md
       - Prospective MK Parents.md

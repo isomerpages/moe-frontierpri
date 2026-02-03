@@ -1,6 +1,6 @@
 ---
-title: MK Collaborations
-permalink: /mk-collaborations/
+title: Our MK Collaborations
+permalink: /our-mk-collaborations/
 description: ""
 variant: tiptap
 ---

@@ -4,6 +4,33 @@ permalink: /key-personnel-2/
 description: ""
 variant: tiptap
 ---
+<h4><br><strong>HOD/Curriculum</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yap huie yuan.jpg">
+</div>
+<p><strong>Mdm Yap Huie Yuan</strong>
+</p>
+<p><strong><em>HOD / Curriculum</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
+</p>
+<p>Tel ext: 120</p>
+<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_huie_yuan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>English Language Department</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -90,6 +117,8 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
+</p>
+<p>
 <br><strong><em>ST / English Language</em></strong>
 </p>
 </td>
@@ -137,7 +166,7 @@ variant: tiptap
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
 <p><strong><em>LH / Mathematics</em></strong>
-<br><strong><em>(covering HOD/MA)</em></strong>
+<br><strong><em>(covering HOD/Mathematics)</em></strong>
 </p>
 <p></p>
 <p></p>
@@ -292,8 +321,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
-<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>ST / Science</strong>
+<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong>
+</p>
+<p><strong><em>ST / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,7 +354,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_fong_mei_ying.jpg">
 </div>
 <p><strong>Mdm Fong Mei Ying</strong>
-<br><strong><em>HOD / Mother Tongue</em></strong>
+</p>
+<p><strong><em>HOD / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -350,24 +381,6 @@ variant: tiptap
 </p>
 <p>Tel ext: 229</p>
 <p>Email:&nbsp;<a href="mailto:lee_hao_yih_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hao_yih_dorcas@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="norhayati_ibnor@schools.gov.sg" src="/images/mtl17.jpg">
-</div>
-<p><strong>Mdm Norhayati Binte Ibnor</strong>
-</p>
-<p><strong><em>SH / Malay Language (Internal)</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"<em>As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them."</em>
-</p>
-<p>Tel ext: 281</p>
-<p>Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibnor@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -407,6 +420,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="norhayati_ibnor@schools.gov.sg" src="/images/mtl17.jpg">
+</div>
+<p><strong>Mdm Norhayati Binte Ibnor</strong>
+</p>
+<p><strong><em>SH / Malay Language (Internal)</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"<em>As an educator, I believe that academic achievements and character development are equally important. Children will grow up to be good and useful citizens when we inculcate the right values and habits in them."</em>
+</p>
+<p>Tel ext: 281</p>
+<p>Email:&nbsp;<a href="mailto:norhayati_ibnor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibnor@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -424,7 +455,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Tan Choon Seng, Anderson</strong>
 </p>
-<p><strong><em>HOD / PAM &amp; CCA</em></strong>
+<p><strong><em>HOD / PAM &amp; </em>Co-Curricular Activities (CCAs)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -442,7 +473,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
-<p><strong><em>SH / PE &amp; Sports</em></strong>
+<p><strong><em>SH / Physical Education &amp; Sports</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -458,7 +489,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
 </div>
-<p><strong>Mdm Jessica Kho Siok Ching<br>ST / Art</strong>
+<p><strong>Mdm Jessica Kho Siok Ching</strong>
+</p>
+<p><strong><em>ST / Art</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -475,7 +508,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Mrs Ang - Tam Hui Yun Lea" src="/images/Org Chart Photos/Mrs_Ang___Tam_Hui_Yun_Lea.jpg">
 </div>
 <p><strong>Mrs Ang - Tam Hui Yun Lea</strong>
-<br><strong>SH / Aesthetics (Internal)</strong>
+</p>
+<p>
+<br><strong><em>SH / Aesthetics (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -601,7 +636,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
-<p><strong>Mr Chan Wei Shen<br>LT / Chinese Language</strong>
+<p><strong>Mr Chan Wei Shen</strong>
+</p>
+<p><strong><em>LT / Chinese Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -705,24 +742,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/Org Chart Photos/2026/mdm_audrey_leong_mei_ern.jpg">
-</div>
-<p><strong>Mdm Audrey Leong Mei Ern</strong>
-</p>
-<p><strong><em>Year Head P4/5</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"<em>I believe that every child has the potential to succeed when given the right support and opportunities. I seek to inspire hope and growth in my students, guide them towards strong values, and equip them with essential skills for life. In doing so, I hope to help them face challenges with confidence and grow into caring, responsible individuals."</em>
-</p>
-<p>Tel ext: 132</p>
-<p>Email: <a href="mailto:audrey_leong_mei_ern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_leong_mei_ern@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/kp32.jpg">
 </div>
 <p><strong>Mdm Luk Meng Lee</strong>
@@ -741,18 +760,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yap huie yuan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/Org Chart Photos/2026/mdm_audrey_leong_mei_ern.jpg">
 </div>
-<p><strong>Mdm Yap Huie Yuan</strong>
+<p><strong>Mdm Audrey Leong Mei Ern</strong>
 </p>
-<p><strong><em>HOD / Curriculum</em></strong>
+<p><strong><em>Year Head P4/5</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
+<p>"<em>I believe that every child has the potential to succeed when given the right support and opportunities. I seek to inspire hope and growth in my students, guide them towards strong values, and equip them with essential skills for life. In doing so, I hope to help them face challenges with confidence and grow into caring, responsible individuals."</em>
 </p>
-<p>Tel ext: 120</p>
-<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_huie_yuan@schools.gov.sg</u></a>
+<p>Tel ext: 132</p>
+<p>Email: <a href="mailto:audrey_leong_mei_ern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_leong_mei_ern@schools.gov.sg</a>
 </p>
 </td>
 </tr>
