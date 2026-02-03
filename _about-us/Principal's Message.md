@@ -18,8 +18,7 @@ its next height as a young yet well-established school. Under her stewardship,
 Frontier established a clear educational philosophy, strong signature programmes,
 and a culture of care and professionalism that continue to guide our work
 today.</p>
-<p>
-<br>At Frontier Primary School, we remain anchored in our philosophy of building
+<p>At Frontier Primary School, we remain anchored in our philosophy of building
 Strong Fundamentals for Future Learning. This philosophy shapes not only
 what our students learn, but who they become. Our distinctive programmes
 — the Applied Learning Programme, Nurturing the Thinking F.A.C.E. for Tomorrow,
