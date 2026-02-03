@@ -5,18 +5,24 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
-</div>
-<p><strong>Mrs Jessie Heng (Ang Chai Ting)</strong><em><br>Principal</em>
-</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
+</div>
+<p><strong>Mrs Jessie Heng (Ang Chai Ting)</strong><em><br>Principal</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
