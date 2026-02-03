@@ -4,7 +4,7 @@ permalink: /key-personnel-2/
 description: ""
 variant: tiptap
 ---
-<h4><strong>English Language Department</strong></h4>
+<h4><br><strong>HOD/Curriculum</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,6 +29,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>English Language Department</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
