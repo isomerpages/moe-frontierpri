@@ -117,6 +117,8 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
+</p>
+<p>
 <br><strong><em>ST / English Language</em></strong>
 </p>
 </td>
@@ -164,7 +166,7 @@ variant: tiptap
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
 <p><strong><em>LH / Mathematics</em></strong>
-<br><strong><em>(covering HOD/MA)</em></strong>
+<br><strong><em>(covering HOD/Mathematics)</em></strong>
 </p>
 <p></p>
 <p></p>
@@ -319,8 +321,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
 </div>
-<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong> 
-<br><strong>ST / Science</strong>
+<p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong>
+</p>
+<p><strong><em>ST / Science</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -351,7 +354,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_fong_mei_ying.jpg">
 </div>
 <p><strong>Mdm Fong Mei Ying</strong>
-<br><strong><em>HOD / Mother Tongue</em></strong>
+</p>
+<p><strong><em>HOD / Mother Tongue</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +455,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Tan Choon Seng, Anderson</strong>
 </p>
-<p><strong><em>HOD / PAM &amp; CCA</em></strong>
+<p><strong><em>HOD / PAM &amp; </em>Co-Curricular Activities (CCAs)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,7 +473,7 @@ variant: tiptap
 </div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
-<p><strong><em>SH / PE &amp; Sports</em></strong>
+<p><strong><em>SH / Physical Education &amp; Sports</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -485,7 +489,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
 </div>
-<p><strong>Mdm Jessica Kho Siok Ching<br>ST / Art</strong>
+<p><strong>Mdm Jessica Kho Siok Ching</strong>
+</p>
+<p><strong><em>ST / Art</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -502,7 +508,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Mrs Ang - Tam Hui Yun Lea" src="/images/Org Chart Photos/Mrs_Ang___Tam_Hui_Yun_Lea.jpg">
 </div>
 <p><strong>Mrs Ang - Tam Hui Yun Lea</strong>
-<br><strong>SH / Aesthetics (Internal)</strong>
+</p>
+<p>
+<br><strong><em>SH / Aesthetics (Internal)</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -628,7 +636,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
 </div>
-<p><strong>Mr Chan Wei Shen<br>LT / Chinese Language</strong>
+<p><strong>Mr Chan Wei Shen</strong>
+</p>
+<p><strong><em>LT / Chinese Language</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
