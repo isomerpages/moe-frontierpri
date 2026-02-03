@@ -12,7 +12,6 @@ description: ""
 </li>
 </ol>
 <hr>
-<h4><strong>MK Registration <u>Closed</u></strong> 📢<br>📅 7 February 2025, 9AM – 17 February 2025, 4PM</h4>
 <p></p>
 <h4><strong>Open House</strong></h4>
 <ol data-tight="true" class="tight">
