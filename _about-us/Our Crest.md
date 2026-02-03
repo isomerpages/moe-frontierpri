@@ -4,8 +4,9 @@ permalink: /school-crest/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Frontier-Logo.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="logo" src="/images/Frontier_Logo_High_Quality_for_Print.jpg">
 </div>
 <p>The word ‘Frontier’ urges Frontierers to dare to forge ahead to achieve
 breakthroughs in boundaries.&nbsp; Hence we have consciously included the
