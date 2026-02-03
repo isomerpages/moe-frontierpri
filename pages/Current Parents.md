@@ -22,10 +22,6 @@ description: ""
 (<a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">about LOA</a>)</p>
 </li>
 <li>
-<p><a href="/files/FORMS/Application_for_Leave_During_School_Days_v202504.pdf" rel="noopener nofollow" target="_blank">Application for Leave During School Days</a>
-</p>
-</li>
-<li>
 <p><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order</a>
 </p>
 </li>
