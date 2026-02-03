@@ -430,6 +430,22 @@ empathy, while supporting them to grow into confident learners.”</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nurhidayu binte Mustafa" src="/images/Org Chart Photos/2026/Nurhidayu_binte_mustafa.png">
+</div>
+<p><strong>Ms Nurhidayu Binte Mustafa</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“Children are full of curiosity and energy as they learn about the world
+around them. They grow through play, exploration, and everyday experiences.”</p>
+<p>Email: <a href="mailto:nurhidayu_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhidayu_mustafa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
