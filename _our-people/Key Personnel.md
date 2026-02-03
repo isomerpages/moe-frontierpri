@@ -14,6 +14,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yap huie yuan.jpg">
+</div>
+<p><strong>Mdm Yap Huie Yuan</strong>
+</p>
+<p><strong><em>HOD / Curriculum</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
+</p>
+<p>Tel ext: 120</p>
+<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_huie_yuan@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/kp1.jpg">
 </div>
 <p><strong>Mr Chua Boon Meng, Vincent</strong>
@@ -740,20 +758,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yap huie yuan.jpg">
-</div>
-<p><strong>Mdm Yap Huie Yuan</strong>
-</p>
-<p><strong><em>HOD / Curriculum</em></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Anchoring on the belief that every individual matters, space and opportunities must be provided for our children to make decisions and solve problems. I will continue to lead, care and inspire so as to encourage my fellow teachers to engage in continual learning and be the difference to our children."</em>
-</p>
-<p>Tel ext: 120</p>
-<p>Email:&nbsp;<a href="mailto:yap_huie_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_huie_yuan@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
