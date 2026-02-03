@@ -50,20 +50,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mr_lian_tian_teng.jpg">
-</div>
-<p><strong>Mr Lian Tian Teng</strong>
-<br><strong><em>Operations Manager @ MK</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email:&nbsp;<a href="mailto:Lian_Tian_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lian_Tian_Teng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas3.jpg">
 </div>
 <p><strong>Mdm Serene Hwee Kee Lim</strong>
@@ -99,7 +85,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ALICE.jpg">
 </div>
 <p><strong>Mdm Alice Tan Gek Cheng</strong>
-<br><strong>Admin Executive/MK</strong>
+<br><strong><em>Admin Executive/MK</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
