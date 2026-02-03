@@ -170,7 +170,7 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/eas16.jpg">
 </div>
 <p><strong>Mdm Nina Bte Osman</strong>
-<br><strong><em>Operations Support Officer</em></strong>
+<br><strong><em>MK Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
