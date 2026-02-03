@@ -93,21 +93,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:75%;;" height="auto" width="100%" src="/images/Prevena.jpg">
-</div>
-<p><strong>Ms Prevena D/O Kannathass</strong>
-<br><em>Senior Teacher</em> / EL (Int)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>""Educating the mind without educating the heart is no education at all"- Aristotle"</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:prevena_kannathass@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prevena_kannathass</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" src="/images/ts11.png">
 </div>
 <p><strong>Ms Khong Mei Chan</strong>
@@ -117,22 +102,6 @@ variant: tiptap
 <p><em>"Children can reach for the stars when provided with an environment that is safe for exploration."</em>
 </p>
 <p>Email:&nbsp;<a href="mailto:khong_mei_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khong_mei_chen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%;" height="auto" width="100%" src="/images/Khoo Ann Yee.jpg">
-</div>
-<p><strong>Ms Khoo Ann Yee</strong>
-<br><em>English Language Teacher</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>"I believe the importance of building respectful and reciprocal relationships with children and families are key to quality learning."</em>
-</p>
-<p>Email:&nbsp;<a href="mailto:khoo_ann_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ann_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -228,7 +197,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>“Encouragement should be given to students to ask questions, explore, and seek answers independently.”</em>
 </p>
-<p>Email:</p>
+<p>Email: <a href="mailto:shi_jiali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_jiali@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
