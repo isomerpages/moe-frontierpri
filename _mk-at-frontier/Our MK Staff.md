@@ -10,8 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Mrs Jessie Heng (Ang Chai Ting)</strong><em><br>Principal</em>
 </p>
-<p><em>"Every child is unique with his own strengths, temperaments and needs. The child as a learner is sincere and earnest in his quest for knowledge and excellence. Given the right nurturing care and environment, every child will be able to succeed and contribute in his own ways. A child's success should be celebrated to spur him on and his failure should be forgiven so that he is not afraid to explore and attempt. Thus, each child should be appreciated in his own merits and be encouraged to pursue and excel in his areas of interests and strengths. Every child symbolizes hope for the country and should be cherished, nurtured and developed to become a useful citizen."</em>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
