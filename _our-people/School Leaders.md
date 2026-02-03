@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="jessie" src="/images/Org Chart Photos/mdm_jessie_ang.jpg">
 </div>
-<p><strong>Mrs Jessie Heng (Ang Chai Ting)<em><br></em></strong><em>Principal</em>
+<p><strong>Mdm Jessie Ang<em><br></em></strong><em>Principal</em>
 </p>
 <p></p>
 <p></p>
