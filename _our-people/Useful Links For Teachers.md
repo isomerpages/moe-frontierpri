@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg/owa" rel="noopener nofollow" target="_blank">CES Outlook (web version - Chrome)</a>
+<p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener nofollow" target="_blank">CES Outlook (web version - Chrome)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
