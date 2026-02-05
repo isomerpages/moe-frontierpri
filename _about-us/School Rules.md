@@ -4,8 +4,14 @@ permalink: /school-rules-regulations/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Cover Page" src="/images/School Rules/Cover_Page.jpg">
+</div>
 <p>Students of Frontier Primary School must uphold the good name of the school
-and abide by the school rules.</p>
+and abide by the school rules.
+<br>
+</p>
 <p><strong>SINGING OF NATIONAL ANTHEM &amp; PLEDGE TAKING</strong>
 </p>
 <p>• Students who are Singapore Citizens must sing the National Anthem and
@@ -66,12 +72,12 @@ the classroom.
 <p></p>
 <p></p>
 <p>Grooming</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Grooming-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="hair cut" src="/images/School Rules/hair_cut.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Grooming-2.jpeg">
-</div>
+<p></p>
+<p></p>
 <p>Students will wear the school uniform as shown below:</p>
 <p>Name tags are to be secured to the shirt in the following manner:</p>
 <table style="minWidth: 75px">
