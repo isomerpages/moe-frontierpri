@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/ ictfrontier/home" rel="noopener nofollow" target="_blank">ICT Google Site (Service request / fault reporting)</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ictfrontier/home" rel="noopener nofollow" target="_blank">ICT Google Site (Service request / fault reporting)</a>
 </p>
 </td>
 </tr>
