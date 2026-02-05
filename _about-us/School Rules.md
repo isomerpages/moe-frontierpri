@@ -40,14 +40,31 @@ the classroom.
 </div>
 <p><strong>School Attire and Personal Grooming</strong>
 </p>
-<p>Frontier PE Attire</p>
+<p>School Attire</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Attire-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Student attire 01" src="/images/School Rules/Student_attire_01.png">
 </div>
-<p>Frontier Formal School Attire and School eLF Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Attire-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Student attire 02" src="/images/School Rules/Student_attire_02.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p>Grooming</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/Grooming-1.jpeg">
