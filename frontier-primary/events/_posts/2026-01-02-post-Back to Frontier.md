@@ -15,13 +15,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="717" src="/images/EVENTS/BACK TO FRONTIER/IMG_0717.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="690" src="/images/EVENTS/BACK TO FRONTIER/IMG_0690.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="657" src="/images/EVENTS/BACK TO FRONTIER/IMG_0657.jpg">
 </div>
@@ -30,7 +28,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="690" src="/images/EVENTS/BACK TO FRONTIER/IMG_0690.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="717" src="/images/EVENTS/BACK TO FRONTIER/IMG_0717.jpg">
 </div>
 </td>
 </tr>
