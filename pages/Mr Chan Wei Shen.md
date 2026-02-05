@@ -4,13 +4,14 @@ permalink: /weishen/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
-</div>
 <p><strong>Mr Chan Wei Shen</strong>
 </p>
 <p><strong>LT/Chinese Language</strong>
