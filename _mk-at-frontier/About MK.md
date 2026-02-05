@@ -4,6 +4,7 @@ permalink: /about-mk/
 description: ""
 variant: markdown
 ---
+
 <h4 style="text-align: center;"><strong>Vision, Mission &amp; Values</strong></h4>
 <p style="text-align: center;"><strong>Our Vision and Mission</strong></p>
 <p style="text-align: center;">Our vision is to provide a strong start for every child. We seek to do so through providing quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.</p>
@@ -18,9 +19,9 @@ variant: markdown
 
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody><tr>
+<tbody style="text-align: center;"><tr>
 <td style="width: 100%;">
-<h4 class="fl-heading" style="text-align: center;"><span class="fl-heading-text">MK Announcements</span></h4>
+<h4 class="fl-heading"><span class="fl-heading-text">MK Announcements</span></h4>
 
 </td>
 </tr>
