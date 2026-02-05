@@ -71,14 +71,14 @@ the classroom.
 </table>
 <p></p>
 <p></p>
-<p>Grooming</p>
+<p>Personal Grooming</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="hair cut" src="/images/School Rules/hair_cut.png">
 </div>
 <p></p>
 <p></p>
-<p>Students will wear the school uniform as shown below:</p>
+<p></p>
 <p>Name tags are to be secured to the shirt in the following manner:</p>
 <table style="minWidth: 75px">
 <colgroup>
