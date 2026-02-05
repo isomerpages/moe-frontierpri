@@ -40,10 +40,13 @@ the classroom.
 <br>• Students should maintain the cleanliness of the school environment.
 <br>• Students should take care of their own belongings.
 <br>• Students should have integrity in words and deeds.</p>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Fashion-Check.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="rules2026" src="/images/School Rules/rules.png">
 </div>
 <hr>
+<p></p>
+<h4><strong>School Attire and Grooming</strong></h4>
 <p></p>
 <p><strong>Frontier Attire</strong>
 </p>
@@ -76,7 +79,7 @@ the classroom.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="hair cut" src="/images/School Rules/hair_cut.png">
 </div>
-<p></p>
+<p>Hair must be neat and in its natural colour and not tinted/dyed.</p>
 <hr>
 <p></p>
 <p></p>
