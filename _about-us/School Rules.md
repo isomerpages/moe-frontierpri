@@ -44,9 +44,9 @@ the classroom.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Fashion-Check.jpeg">
 </div>
-<p><strong>School Attire and Personal Grooming</strong>
+<p><strong>Frontier Attire and Personal Grooming</strong>
 </p>
-<p>School Attire</p>
+<p>Frontier Attire</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -103,24 +103,13 @@ the classroom.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE Attire</p>
+<p>Frontier Attire</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 cm above the school logo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Formal uniform</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 mm above school logo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For the boys’ uniform, the name tag is on the pocket</p>
 </td>
 </tr>
 </tbody>
