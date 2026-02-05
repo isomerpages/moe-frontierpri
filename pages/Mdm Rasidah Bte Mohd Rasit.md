@@ -4,13 +4,14 @@ permalink: /rasidah/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp26.jpg">
-</div>
 <p><strong>Mdm Rasidah Bte Mohd Rasit</strong>
 </p>
 <p><strong><em>School Staff Developer (SSD)</em></strong>
