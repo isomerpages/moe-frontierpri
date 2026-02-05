@@ -7,9 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -18,21 +17,22 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="0717" src="/images/EVENTS/BACK TO FRONTIER/IMG_0717.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="717" src="/images/EVENTS/BACK TO FRONTIER/IMG_0717.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="0657" src="/images/EVENTS/BACK TO FRONTIER/IMG_0657.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="657" src="/images/EVENTS/BACK TO FRONTIER/IMG_0657.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="0690" src="/images/EVENTS/BACK TO FRONTIER/IMG_0690.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="690" src="/images/EVENTS/BACK TO FRONTIER/IMG_0690.jpg">
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
