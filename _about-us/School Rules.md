@@ -13,8 +13,7 @@ and abide by the school rules.
 <br>
 </p>
 <p><strong>SINGING OF NATIONAL ANTHEM &amp; PLEDGE TAKING</strong>
-</p>
-<p>• Students who are Singapore Citizens must sing the National Anthem and
+<br>• Students who are Singapore Citizens must sing the National Anthem and
 take the Pledge.
 <br>• Students will take the Pledge with the right fist placed over the heart.</p>
 <p><strong>General Appearance and School Attire</strong>
@@ -44,9 +43,10 @@ the classroom.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Fashion-Check.jpeg">
 </div>
-<p><strong>Frontier Attire and Personal Grooming</strong>
+<hr>
+<p></p>
+<p><strong>Frontier Attire</strong>
 </p>
-<p>Frontier Attire</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -69,14 +69,15 @@ the classroom.
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<p></p>
-<p>Personal Grooming</p>
-<p></p>
+<p><strong>Personal Grooming</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="hair cut" src="/images/School Rules/hair_cut.png">
 </div>
 <p></p>
+<hr>
 <p></p>
 <p></p>
 <p>Name tags are to be secured to the shirt in the following manner:</p>
