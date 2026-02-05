@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/ictfrontier/home" rel="noopener nofollow" target="_blank">ICT Google Site (Service request / fault reporting)</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ictfrontier/home" rel="noopener nofollow" target="_blank">ICT Google Site (Service Request)</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.hrp.gov.sg" rel="noopener nofollow" target="_blank">Human Resource Portal (HRP)</a>
+<p><a href="https://www.hrp.gov.sg" rel="noopener nofollow" target="_blank">Human Resource Portal (HRP)</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.koobits.com" rel="noopener nofollow" target="_blank">Koobits</a>
+<p><a href="https://www.koobits.com/" rel="noopener nofollow" target="_blank">Koobits</a>
 </p>
 </td>
 </tr>
