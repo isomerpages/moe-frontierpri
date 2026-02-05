@@ -12,9 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp32.jpg">
-</div>
 <p><strong>Mdm Luk Meng Lee</strong>
 </p>
 <p><strong><em>Year Head P2/6</em></strong>
