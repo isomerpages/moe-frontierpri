@@ -13,9 +13,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%;" height="auto" width="100%" src="/images/eng1.jpg">
-</div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi</strong>
 </p>
 <p></p>
