@@ -12,9 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/kp29.jpg">
-</div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
 <p><strong><em>SH/Student Management</em></strong>
