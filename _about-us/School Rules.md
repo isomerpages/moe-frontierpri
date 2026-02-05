@@ -115,24 +115,8 @@ the classroom.
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/name_tag_01.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="NAMETAG" src="/images/School Rules/nametag.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/name_tag_02.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
