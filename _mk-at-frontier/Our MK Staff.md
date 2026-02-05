@@ -407,6 +407,7 @@ empathy, while supporting them to grow into confident learners.”</p>
 <img style="width: 100%" height="auto" width="100%" alt="Nurhidayu binte Mustafa" src="/images/Org Chart Photos/2026/Nurhidayu_binte_mustafa.png">
 </div>
 <p><strong>Ms Nurhidayu Binte Mustafa</strong>
+<br><em>English Language Teacher</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg/owa" rel="noopener nofollow" target="_blank">CES Outlook (web version - Chrome)</a>
+<p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener nofollow" target="_blank">CES Outlook (web version - Chrome)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/ ictfrontier/home" rel="noopener nofollow" target="_blank">ICT Google Site (Service request / fault reporting)</a>
+<p><a href="https://sites.google.com/moe.edu.sg/ictfrontier/home" rel="noopener nofollow" target="_blank">ICT Google Site (Service Request)</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.hrp.gov.sg" rel="noopener nofollow" target="_blank">Human Resource Portal (HRP)</a>
+<p><a href="https://www.hrp.gov.sg" rel="noopener nofollow" target="_blank">Human Resource Portal (HRP)</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -98,7 +99,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.koobits.com" rel="noopener nofollow" target="_blank">Koobits</a>
+<p><a href="https://www.koobits.com/" rel="noopener nofollow" target="_blank">Koobits</a>
 </p>
 </td>
 </tr>

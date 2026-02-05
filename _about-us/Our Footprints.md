@@ -1,7 +1,8 @@
 ---
-title: Our History
-permalink: /school-history/
+title: Our Footprints
+permalink: /our-footprints/
 description: ""
+variant: tiptap
 ---
 <p style="text-align: justify;">Frontier Primary School was established in 2011. The school is currently located at 20 Jurong West Street 61 and was officially declared open in 2014.</p>
 <p style="text-align: justify;">Since its early years, the school has regularly engaged parents on their hopes and aspirations for their children. The school has articulated these in its Vision, Mission and Values and continues to make reference to these, along with inputs from internal and external scans, in the conceptualization and design of its learning experiences.</p>

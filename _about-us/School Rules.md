@@ -4,11 +4,16 @@ permalink: /school-rules-regulations/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Cover Page" src="/images/School Rules/Cover_Page.jpg">
+</div>
 <p>Students of Frontier Primary School must uphold the good name of the school
-and abide by the school rules.</p>
-<p><strong>SINGING OF NATIONAL ANTHEM &amp; PLEDGE TAKING</strong>
+and abide by the school rules.
+<br>
 </p>
-<p>• Students who are Singapore Citizens must sing the National Anthem and
+<p><strong>SINGING OF NATIONAL ANTHEM &amp; PLEDGE TAKING</strong>
+<br>• Students who are Singapore Citizens must sing the National Anthem and
 take the Pledge.
 <br>• Students will take the Pledge with the right fist placed over the heart.</p>
 <p><strong>General Appearance and School Attire</strong>
@@ -35,27 +40,49 @@ the classroom.
 <br>• Students should maintain the cleanliness of the school environment.
 <br>• Students should take care of their own belongings.
 <br>• Students should have integrity in words and deeds.</p>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Fashion-Check.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="rules2026" src="/images/School Rules/rules.png">
 </div>
-<p><strong>School Attire and Personal Grooming</strong>
+<hr>
+<p></p>
+<h4><strong>School Attire and Grooming</strong></h4>
+<p></p>
+<p><strong>Frontier Attire</strong>
 </p>
-<p>Frontier PE Attire</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Attire-2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Student attire 01" src="/images/School Rules/Student_attire_01.png">
 </div>
-<p>Frontier Formal School Attire and School eLF Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Attire-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Student attire 02" src="/images/School Rules/Student_attire_02.png">
 </div>
-<p>Grooming</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
+<p><strong>Personal Grooming</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Grooming-1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="hair cut" src="/images/School Rules/hair_cut.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Grooming-2.jpeg">
-</div>
-<p>Students will wear the school uniform as shown below:</p>
+<p>Hair must be neat and in its natural colour and not tinted/dyed.</p>
+<hr>
+<p></p>
+<p></p>
 <p>Name tags are to be secured to the shirt in the following manner:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -80,7 +107,7 @@ the classroom.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE Attire</p>
+<p>Frontier Attire</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 cm above the school logo</p>
@@ -89,37 +116,10 @@ the classroom.
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Formal uniform</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 mm above school logo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For the boys’ uniform, the name tag is on the pocket</p>
-</td>
-</tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/name_tag_01.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="NAMETAG" src="/images/School Rules/nametag.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/name_tag_02.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
