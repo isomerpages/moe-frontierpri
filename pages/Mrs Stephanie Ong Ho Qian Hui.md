@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/pam9.jpg">
-</div>
 <p><strong>Mrs Stephanie Ong - Ho Qian Hui</strong>
 </p>
 </td>
