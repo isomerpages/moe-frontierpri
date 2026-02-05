@@ -12,9 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp30.jpg">
-</div>
 <p><strong>Mr Chan Chok Seng</strong>
 </p>
 <p><strong><em>Year Head P1/3</em></strong>
