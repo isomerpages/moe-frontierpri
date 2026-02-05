@@ -12,9 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp5.jpg">
-</div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 <br>
 <br><strong>LT / Learning Needs</strong>
