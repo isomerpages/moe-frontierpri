@@ -4,9 +4,6 @@ permalink: /about-mk/
 description: ""
 variant: markdown
 ---
-style="text-align: center;"
-
-
 <h4 style="text-align: center;"><strong>Vision, Mission &amp; Values</strong></h4>
 <p style="text-align: center;"><strong>Our Vision and Mission</strong></p>
 <p style="text-align: center;">Our vision is to provide a strong start for every child. We seek to do so through providing quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.</p>
