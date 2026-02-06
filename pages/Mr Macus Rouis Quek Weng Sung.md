@@ -12,9 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="MACUS" src="/images/Org Chart Photos/MACUS.jpg">
-</div>
 <p><strong>Mr Macus Rouis Quek Weng Sung</strong>
 </p>
 </td>

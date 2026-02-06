@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_cham_kah_mien.jpg">
-</div>
 <p><strong>Mdm Cham Kah Mien</strong>
 </p>
 </td>

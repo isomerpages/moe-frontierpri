@@ -13,9 +13,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%;" height="auto" width="100%" src="/images/ae1.jpg">
-</div>
 <p><strong>Mdm Joyce Siew Phui Yee</strong>
 </p>
 <p><em>Senior School Counsellor</em>

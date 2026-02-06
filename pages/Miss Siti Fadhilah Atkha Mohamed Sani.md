@@ -14,9 +14,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Fadhilah.jpg">
-</div>
 <p><strong>Miss Siti Fadhilah Atkha Mohamed Sani</strong>
 </p>
 <p><em>Special Education Needs Officer</em>
