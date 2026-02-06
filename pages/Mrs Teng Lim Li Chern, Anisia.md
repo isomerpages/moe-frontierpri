@@ -4,13 +4,14 @@ permalink: /anisia/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
-</div>
 <p><strong>Mrs Teng - Lim Li-Chern, Anisia</strong>
 </p>
 <p><strong><em>ST/Learning Needs (Educational Support)</em></strong>
