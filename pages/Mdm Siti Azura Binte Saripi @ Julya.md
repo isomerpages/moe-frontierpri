@@ -13,9 +13,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="JULYA" src="/images/Org Chart Photos/Mdm_Siti_Azura_Binte_Saripi___Julya.jpg">
-</div>
 <p><strong>Mdm Siti Azura Binte Saripi @ Julya</strong>
 </p>
 </td>
