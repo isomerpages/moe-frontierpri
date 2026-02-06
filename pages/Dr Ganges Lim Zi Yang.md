@@ -13,9 +13,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
-</div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong>
 </p>
 <p><strong>ST/Science</strong>
