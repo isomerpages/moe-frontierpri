@@ -38,14 +38,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>🎉 Don’t miss out! Join the fun at MK @ Frontier’s Open House!</p>
-<p>📲 Sign up now by scanning the QR code or <a href="https://mkfrontier-openhouse2026.app.entry.gov.sg/form/d3687375-9258-48d7-a56b-57268b2a717b" rel="noopener nofollow" target="_blank">clicking here:</a>
+<p>🎉 Don’t miss out! Join the fun at MK @ Frontier’s Open House!
+<br>📲 Sign up now by scanning the QR code or <a href="https://mkfrontier-openhouse2026.app.entry.gov.sg/form/d3687375-9258-48d7-a56b-57268b2a717b" rel="noopener nofollow" target="_blank">clicking here:</a>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="2026 mk qr code" src="/images/MK RESOURCES/2026_mk_qr_code.jpg">
 </div>
-<p></p>
+<p>We can’t wait to see you there! 🌈✨</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
