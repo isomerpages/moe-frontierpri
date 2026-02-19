@@ -12,7 +12,6 @@ description: ""
 </li>
 </ol>
 <hr>
-<p></p>
 <h4><strong>Open House</strong></h4>
 <p><strong><u>🎉✨ MK @ Frontier Open House 2026 ✨🎉</u></strong>
 </p>
