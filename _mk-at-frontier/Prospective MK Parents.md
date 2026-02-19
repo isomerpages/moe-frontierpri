@@ -45,7 +45,6 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="2026 mk qr code" src="/images/MK RESOURCES/2026_mk_qr_code.jpg">
 </div>
 <p>We can’t wait to see you there! 🌈✨</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1luKcTUdIVuT0V-z3UVND0tg25n6RCk1x/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Welcome Address By Principal</a>
@@ -64,6 +63,18 @@ description: ""
 </p>
 </li>
 </ol>
+<hr>
+<p><u>🚨 </u><strong><u>MK Registration Exercise 2026</u></strong><u> 🎒✨</u>
+</p>
+<p>Online registration for <strong>2027 K1 admissions</strong> for Open Admissions
+(OA) and Early Years Centre (EYC) children:</p>
+<p>🗓 <strong>Registration Period</strong>
+<br>📌 Opens: <em>9.00am, 23 March 2026 (Monday)</em>
+<br>📌 Closes: <em>4.30pm, 31 March 2026 (Tuesday)</em>
+</p>
+<p>🔗 <strong>Register now with MOE Kindergarten here: <a href="http://www.moe.gov.sg/mk-howtoregister" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a></strong>
+</p>
+<p></p>
 <hr>
 <h4><a href="https://for.edu.sg/2025mkopenhouse" rel="noopener nofollow" target="_blank">Exciting Moments from Our Open House!</a></h4>
 <p><em>For parents who were unable to attend our Open House on 8 February 2025, we invite you to watch this video created by Mr Timothy Boay, a parent who visited us during the event.</em>
