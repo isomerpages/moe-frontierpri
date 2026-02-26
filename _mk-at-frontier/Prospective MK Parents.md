@@ -44,25 +44,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="2026 mk qr code" src="/images/MK RESOURCES/2026_mk_qr_code.jpg">
 </div>
-<p>We can’t wait to see you there! 🌈✨</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://drive.google.com/file/d/1luKcTUdIVuT0V-z3UVND0tg25n6RCk1x/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Welcome Address By Principal</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1xGfPTSIeU3OhN53ojw0IPhQGMElXDoxy/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MK@Frontier Programme Sharing</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1nXzn04dm5xMloKNm0c-CnHrtw7cpci04/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MK@Frontier Overview Sharing</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1hM1KH1R4OLKy4ne41QqOFJ4CXS0ADHEj/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MK@Frontier KCare</a>
-</p>
-</li>
-</ol>
+<p></p>
 <hr>
 <p><u>🚨 </u><strong><u>MK Registration Exercise 2026</u></strong><u> 🎒✨</u>
 </p>
