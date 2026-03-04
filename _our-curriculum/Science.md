@@ -126,7 +126,7 @@ and foster values, ethics, and attitudes in our students.</p>
 </div>
 <p><strong>Learning Experiences In Frontier Eco-Wonders</strong>
 </p>
-<p>The Frontier Eco-Wonder&nbsp; is a vibrant outdoor learning space filled
+<p>The Frontier Eco-Wonders&nbsp; is a vibrant outdoor learning space filled
 with diverse biodiversity, from colourful flowers to freshly grown vegetables.
 The garden fosters curiosity and facilitates a deeper understanding of
 scientific concepts as Frontierers explore and learn more about the interconnectedness
