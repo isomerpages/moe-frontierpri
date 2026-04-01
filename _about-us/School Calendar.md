@@ -14,8 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>March</strong>
-</p>
+<h4><strong>March</strong></h4>
 </td>
 </tr>
 <tr>
@@ -78,8 +77,7 @@ Heritage Gallery (3RY2 and 3RY6)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>April</strong>
-</p>
+<h4><strong>April</strong></h4>
 </td>
 </tr>
 <tr>
@@ -186,8 +184,7 @@ Museum (6LO1, 6LO4, 6LO6)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>May</strong>
-</p>
+<h4><strong>May</strong></h4>
 </td>
 </tr>
 <tr>
