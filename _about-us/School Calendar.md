@@ -267,7 +267,6 @@ CC</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 English)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timed Practice 2 for P6 (11 to 22
 May)</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -278,6 +277,14 @@ May)</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tuesday, 12 May</p>
