@@ -267,6 +267,7 @@ CC</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 English)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timed Practice 2 for P6 (11 to 22
 May)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
