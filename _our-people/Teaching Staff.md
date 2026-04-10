@@ -777,7 +777,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/mr-macus-rouis-quek-weng-sung/" rel="noopener nofollow" target="_blank">Mr Macus Rouis Quek Weng Sung</a>
+<p><a href="/angie" rel="noopener nofollow" target="_blank">Mdm Angie Wong Wei Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -828,22 +828,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/xiewei" rel="noopener nofollow" target="_blank">Mdm Xie Wei</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/angie" rel="noopener nofollow" target="_blank">Mdm Angie Wong Wei Ling</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
