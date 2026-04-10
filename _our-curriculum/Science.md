@@ -56,11 +56,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Macus Rouis Quek Weng Sung (FAJT)</p>
+<p>Mr Derek Lee (RT)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Lee (RT)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
