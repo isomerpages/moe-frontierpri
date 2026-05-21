@@ -44,9 +44,9 @@ only by the School Counsellor, Ms Joyce Siew.&nbsp;</p>
 <p><em>Note: For the purpose of this policy, ‘school’ refers to all school premises, including classrooms, common areas, and school grounds.”</em>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="message box" src="/images/Student Management/Message_Box_outside_Counselling_Room.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Message Box outside Counselling Room" src="/images/Student Management/Message_Box_outside_Counselling_Room.jpg">
 </div>
-<p>Message Box outside Counselling Room&nbsp;</p>
+<p>Message Box outside Counselling Room</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Parent can email to the school (email address:
 <a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>) and please include your child’s name and class.&nbsp;</p>
 <p><strong><u>Definition of Bullying</u></strong>
@@ -99,8 +99,9 @@ resources.<strong>&nbsp;</strong>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">Table 1</a></strong>
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[WSl(1]</a>&nbsp;<strong>: MOE Baseline Consequences for Bullying&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE Baseline Consequences for Bullying" src="/images/Student Management/Table_1_MOE_Baseline_Consequences_for_Bullying.png">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Respect for self and others (the Frontierer Identity)</strong>
