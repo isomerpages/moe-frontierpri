@@ -41,11 +41,11 @@ for example, Form Teachers, Subject Teachers and Year Head
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp; Students can drop a written message into the
 letter box outside Counselling Room at Level 2. The messages are retrieved
 only by the School Counsellor, Ms Joyce Siew.&nbsp;</p>
-<p><em>Note: For the purpose of this policy, ‘school’ refers to all school premises, including classrooms, common areas, and school grounds.”</em>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><em>Note: For the purpose of this policy, ‘school’ refers to all school premises, including classrooms, common areas, and school grounds.”</em>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="message box" src="/images/Student Management/Message_Box_outside_Counselling_Room.jpg">
+</div>
 <p>Message Box outside Counselling Room&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Parent can email to the school (email address:
 <a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>) and please include your child’s name and class.&nbsp;</p>
