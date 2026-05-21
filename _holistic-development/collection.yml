@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Student Management Section/Policy against Bullying.md
       - Student Management Section/Student Management.md
       - Student Management Section/.keep
       - Signature Programme (Applied Learning Programme (ALP)).md
