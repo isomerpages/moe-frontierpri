@@ -2,12 +2,6 @@ collections:
   holistic-development:
     output: true
     order:
-      - Student Management Section/.keep
-      - Student Management Section/Student Management.md
-      - Student Management Section/Policy against Bullying.md
-      - Student Management Section/Policy on the Possession and Use of
-        Electronic Devices in School.md
-      - Student Management Section/Guidelines for Anti Vaping.md
       - Signature Programme (Applied Learning Programme (ALP)).md
       - Signature Programme (Learning for Life Programme (LLP)).md
       - Co Curricular Activities (CCA)/.keep
@@ -16,6 +10,12 @@ collections:
       - Co Curricular Activities (CCA)/Structured Co–Curricular Activities
         (SCCA).md
       - Programme for Active Learning (PAL).md
+      - Student Management Section/.keep
+      - Student Management Section/Student Management.md
+      - Student Management Section/Policy against Bullying.md
+      - Student Management Section/Policy on the Possession and Use of
+        Electronic Devices in School.md
+      - Student Management Section/Guidelines for Anti Vaping.md
       - Student Leadership.md
       - Think Tech Grow.md
       - Trips for Internationalisation Experience (TIE).md
