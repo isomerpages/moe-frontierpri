@@ -43,11 +43,9 @@ suspension, based on school's assessment of the case.</p>
 <p>Frontier Primary School reserves the right to mete out school-based disciplinary
 measures <u>in addition to</u> the baseline consequences (Please refer to
 Table 2 above) and the national penalties imposed by HSA (Please refer
-to Table 1 above).[WSl(1]&nbsp;[LMH(2]&nbsp;</p>
-<p>&nbsp;</p>
+to Table 1 above).&nbsp;</p>
 <p><strong>Personal Responsibility of a Frontierer</strong>
-</p>
-<p>Vaporisers are harmful to health and Singapore takes a <strong>zero-tolerance</strong> approach
+<br>Vaporisers are harmful to health and Singapore takes a <strong>zero-tolerance</strong> approach
 against vaping.* In aligning the school guidelines with policies from HAS
 and MOE, the school uses the following approach to support a safe, orderly,
 and focused learning environment for students.</p>
