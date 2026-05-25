@@ -37,7 +37,11 @@ suspension, based on school's assessment of the case.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Table 2 MOE Baseline Consequences for Vaping" src="/images/Student Management/Table_2_MOE_Baseline_Consequences_for_Vaping.png">
 </div>
-<p></p>
+<p><em>Notes:<br>1.	Students caught selling and trafficking of e-vaporisers may be considered for additional school-based consequences, including expulsion (for secondary schools and JCs/MI).<br>2.	International students are to note that in line with national policy, repeated vaping offenders or those caught possessing or using etomidate e-vaporisers or who test positive for etomidate may have their Student's Pass revoked and be deported and banned from re-entering Singapore thereafter. </em>
+</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
