@@ -11,8 +11,7 @@ will be deemed to have committed <strong><u>a serious offence</u></strong> and
 will be subjected to disciplinary action, in accordance with school rules
 and national regulations.&nbsp;</p>
 <p><strong>Consequences on Vaping</strong>
-</p>
-<p>1.Student offenders will be subjected to national penalties imposed by
+<br>1.Student offenders will be subjected to national penalties imposed by
 Health Science Authority (HSA) as seen from Tables 1A and 1B.</p>
 <p></p>
 <p>Table 1A : <strong>HSA Baseline Consequences for Regular Vapes</strong>
