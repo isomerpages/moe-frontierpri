@@ -51,9 +51,6 @@ and MOE, the school uses the following approach to support a safe, orderly,
 and focused learning environment for students.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; For students who want to quit vaping but need
 support, they may contact:</p>
-<p></p>
-<p></p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Health Promotion Board (HPB)’s QuitLine: 1800 438 2000</p>
@@ -78,21 +75,29 @@ support, they may contact:</p>
 <li>
 <p>Fei Yue Community Services: 6485 8749 / <a href="mailto:feiyuevapecessation@fycs.org" rel="noopener noreferrer nofollow" target="_blank">feiyuevapecessation@fycs.org</a>
 </p>
+<p></p>
+</li>
+</ul>
+<p></p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; For students who need to bring an incident
+or a student to the school’s attention, the student can reach out to school
+via any of the following methods:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inform Form Teachers of your class.</p>
+</li>
+<li>
+<p>Parent can contact the school via the office contact number; 6578 9555</p>
+</li>
+<li>
+<p>Parent can email the school at <a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>
+</p>
 </li>
 </ul>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; For students who need to bring an incident
-or a student to the school’s attention, the student can reach out to school
-via any of the following methods:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform Form Teachers of your class.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent can contact the school via
-the office contact number; 6578 9555</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent can email the school at
-<a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>
-</p>
 <p>&nbsp;</p>
 <p>Frontier Primary School takes a firm stance against students who are caught
 vaping and we seek parents’ support in partnering with us when your children
