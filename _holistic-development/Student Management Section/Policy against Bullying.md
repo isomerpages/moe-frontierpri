@@ -21,18 +21,27 @@ support.
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp; We need the support from parents to nurture
 empathy, strengthen relationships, and guide our students to make positive
 choices that reflect responsibility, respect and care for others.&nbsp;</p>
+<p></p>
 <p><strong>Enabling a caring and supportive environment for all students</strong>
-<br>All staff of Frontier Primary School seek to:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; foster the class and school
-environment, with positive teacher-student relationships and strong peer
-support structure with trained student leaders and peer support leaders
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conduct Character &amp; Citizenship
-Education lessons on empathy, conflict management, resilience and cyber
-wellness
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conduct regular chitchat sessions
-with students (Heart-to-Heart Talk)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; take a firm stance against
-use of unkind words and hurtful behaviours&nbsp;</p>
+<br>All staff of Frontier Primary School seek to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>foster the class and school environment, with positive teacher-student
+relationships and strong peer support structure with trained student leaders
+and peer support leaders</p>
+</li>
+<li>
+<p>conduct Character &amp; Citizenship Education lessons on empathy, conflict
+management, resilience and cyber wellness</p>
+</li>
+<li>
+<p>conduct regular chitchat sessions with students (Heart-to-Heart Talk)</p>
+</li>
+<li>
+<p>take a firm stance against use of unkind words and hurtful behaviours&nbsp;</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Support students in reporting Bullying</strong>
 <br>Students and /or parents can reach out to the school in the following
 ways:
@@ -40,7 +49,9 @@ ways:
 for example, Form Teachers, Subject Teachers and Year Head
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp; Students can drop a written message into the
 letter box outside Counselling Room at Level 2. The messages are retrieved
-only by the School Counsellor, Ms Joyce Siew.&nbsp;</p>
+only by the School Counsellor, Ms Joyce Siew.&nbsp;
+<br>
+</p>
 <p><em>Note: For the purpose of this policy, ‘school’ refers to all school premises, including classrooms, common areas, and school grounds.”</em>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -53,16 +64,24 @@ only by the School Counsellor, Ms Joyce Siew.&nbsp;</p>
 <br>Bullying involves persistent and intentional hurtful acts, while other
 hurtful behaviours include once-off insensitive comments and physical fights.&nbsp;</p>
 <p>Bullying and hurtful behaviours can take various forms, including verbal,
-social, physical and cyber:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verbal: Name-calling, spreading
-rumours, or making threats
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social exclusion: Deliberately
-leaving someone out, or encouraging others to ignore someone
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical actions: Pushing,
-hitting, or damaging someone's belongings
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber bullying: Using online
-technology like phones, computers, or social media to hurt or embarrass
-others on purpose and repeatedly&nbsp;</p>
+social, physical and cyber:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Verbal: Name-calling, spreading rumours, or making threats</p>
+</li>
+<li>
+<p>Social exclusion: Deliberately leaving someone out, or encouraging others
+to ignore someone</p>
+</li>
+<li>
+<p>Physical actions: Pushing, hitting, or damaging someone's belongings</p>
+</li>
+<li>
+<p>Cyber bullying: Using online technology like phones, computers, or social
+media to hurt or embarrass others on purpose and repeatedly&nbsp;</p>
+</li>
+</ul>
+<p></p>
 <p>Case Management will only be initiated once we have ascertained that the
 incident constitutes a bullying case. For behaviours that do not constitute
 bullying, we will still address them appropriately through other means
