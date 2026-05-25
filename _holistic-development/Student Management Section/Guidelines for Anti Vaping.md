@@ -25,10 +25,10 @@ Health Science Authority (HSA) as seen from Tables 1A and 1B.</p>
 </div>
 <p>2.The school will take reference from Table 2, which shows the <strong><u>baseline</u> school-based disciplinary consequences (<u>i.e. minimum</u></strong>)
 shared by MOE, to mete out the disciplinary consequences of the student
-who was found vaping.</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp; For caning, schools will consider mitigating
+who was found vaping.
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp; For caning, schools will consider mitigating
 factors, including age, profile/maturity of the student offender, and whether
 the student offender has special educational needs and/or mental wellbeing
-issues.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp; Suspension can be in-school or out-of-school
+issues.
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp; Suspension can be in-school or out-of-school
 suspension, based on school's assessment of the case.</p>
