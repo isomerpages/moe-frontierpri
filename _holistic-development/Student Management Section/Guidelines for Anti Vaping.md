@@ -32,7 +32,8 @@ the student offender has special educational needs and/or mental wellbeing
 issues.
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp; Suspension can be in-school or out-of-school
 suspension, based on school's assessment of the case.</p>
-<p></p>
+<p>Table 2 : <strong>MOE Baseline Consequences for Vaping</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Table 2 MOE Baseline Consequences for Vaping" src="/images/Student Management/Table_2_MOE_Baseline_Consequences_for_Vaping.png">
 </div>
