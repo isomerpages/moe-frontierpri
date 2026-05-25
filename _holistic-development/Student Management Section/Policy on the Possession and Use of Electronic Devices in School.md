@@ -37,3 +37,33 @@ possession will be confiscated and managed in accordance with school procedures.
 the Student Handbook for full details.)
 <br><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; The school reserves the right to conduct checks on students’ belongings, including bags, as part of its discipline and safety protocols to ensure compliance with school rules.</strong>
 </p>
+<p>
+<br><strong>Personal Safety of Frontierers</strong>
+<br>As advised by the Singapore Police Force, members of the public should
+avoid using electronic devices, such as mobile phones and smartwatches,
+when walking or crossing roads, as such usage may distract them from surrounding
+traffic conditions and the movement of vehicles.&nbsp;</p>
+<p>Students are expected to remain vigilant at all times and take responsibility
+for their own safety and that of others. The key concerns are as follows:
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>Safety Risks in Public Spaces</u>
+<br>The use of mobile phones and smartwatches (e.g. texting, listening to
+music) while walking or crossing roads significantly increases the risk
+of accidents.
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp; <u>Risk of Theft</u>
+<br>Students carrying mobile phones, smartwatches, and other valuable devices
+may be vulnerable to theft, including snatch theft or robbery.&nbsp;</p>
+<p>Personal devices pose a significant distraction to students through calls,
+messages, social media, and games, which can hinder their focus and learning
+progress. We seek parents' partnership in ensuring your child adheres to
+these guidelines to maintain a safe environment. Together, we can foster
+a focused learning environment that supports every Frontierer's academic
+and personal development.</p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
