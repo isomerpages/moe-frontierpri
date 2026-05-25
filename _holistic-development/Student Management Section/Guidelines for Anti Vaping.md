@@ -107,12 +107,7 @@ appropriate;
 school-based disciplinary consequences as this offence is considered <strong><u>a serious offence</u></strong>,
 in addition to the national penalties imposed by Health Science Authority
 (HSA), if applicable.&nbsp;&nbsp;</p>
-<p><em>Note: <a rel="noopener noreferrer nofollow" target="_blank">To prevent the use of vaporisers, the possession, use or purchase of vaporisers has been banned in Singapore since 2018. To deter the use of vaporisers, tougher penalties for both regular and etomidate have been introduced since Sep 2025. From 1 May 2026, in accordance with the new Tobacco and Vaping Control Act (TVCA) and in addition to school-based consequences, <u>repeat users of vapes now face enhanced penalties. </u></a><a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[WSl(3]</a>&nbsp;</em>
+<p><em>Note: To prevent the use of vaporisers, the possession, use or purchase of vaporisers has been banned in Singapore since 2018. To deter the use of vaporisers, tougher penalties for both regular and etomidate have been introduced since Sep 2025. From 1 May 2026, in accordance with the new Tobacco and Vaping Control Act (TVCA) and in addition to school-based consequences, repeat users of vapes now face enhanced penalties.</em>
 </p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[WSl(1]</a>Does this refer to the baseline consequences
-imposed by HSA or MOE’s school-based disciplinary consequences? Table 2
-seems to be MOE baseline consequences - they are identical to Table 1 in
-the Bullying policy.</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[LMH(2]</a>Yes, they are identical</p>
-<p>&nbsp;<a href="#_msoanchor_3" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[WSl(3]</a>Avoid asterisks. Use footnotes.</p>
+<p></p>
