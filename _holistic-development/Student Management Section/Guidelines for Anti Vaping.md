@@ -90,26 +90,20 @@ via any of the following methods:</p>
 <p>Parent can contact the school via the office contact number; 6578 9555</p>
 </li>
 <li>
-<p>Parent can email the school at <a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>
-</p>
+<p>Parent can email the school at <a href="mailto:frontier_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">frontier_ps@moe.edu.sg</a>&nbsp;</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
 <p>Frontier Primary School takes a firm stance against students who are caught
 vaping and we seek parents’ support in partnering with us when your children
-are caught vaping:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; The school will inform parents on the student’s
-offence.&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; The school will refer student offender for
-counselling and cessation support as follows:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp; Register student offenders for QuitLine;</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp; Refer student for additional support where
-appropriate;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; The school will mete out appropriate baseline
+are caught vaping:
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp; The school will inform parents on the student’s
+offence.&nbsp;
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp; The school will refer student offender for
+counselling and cessation support as follows:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp; Register student offenders for QuitLine;
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp; Refer student for additional support where
+appropriate;
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp; The school will mete out appropriate baseline
 school-based disciplinary consequences as this offence is considered <strong><u>a serious offence</u></strong>,
 in addition to the national penalties imposed by Health Science Authority
 (HSA), if applicable.&nbsp;&nbsp;</p>
