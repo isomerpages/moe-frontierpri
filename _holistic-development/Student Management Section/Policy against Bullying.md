@@ -119,7 +119,7 @@ resources.<strong>&nbsp;</strong>
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[WSl(1]</a>&nbsp;<strong>: MOE Baseline Consequences for Bullying&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MOE Baseline Consequences for Bullying" src="/images/Student Management/Table_1_MOE_Baseline_Consequences_for_Bullying.png">
+<img style="width: 70%;" height="auto" width="100%" alt="MOE Baseline Consequences for Bullying" src="/images/Student Management/Table_1_MOE_Baseline_Consequences_for_Bullying.png">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
