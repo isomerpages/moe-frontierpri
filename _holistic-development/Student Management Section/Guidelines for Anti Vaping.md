@@ -51,24 +51,39 @@ and MOE, the school uses the following approach to support a safe, orderly,
 and focused learning environment for students.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; For students who want to quit vaping but need
 support, they may contact:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Promotion Board (HPB)’s QuitLine:
-1800 438 2000</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Addictions Management Service:
-6389 2200 /<a href="mailto: quitevape@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<p></p>
+<p></p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health Promotion Board (HPB)’s QuitLine: 1800 438 2000</p>
+</li>
+<li>
+<p>National Addictions Management Service: 6389 2200 /<a href="mailto: quitevape@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
 <a href="mailto:quitevape@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">quitevape@nhghealth.com.sg</a>/ <a href="https://for.sg/quitvapeappt" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/quitvapeappt</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WE CARE Community Services: 3165
-8017 or 8391 3023 (WhatsApp) / <a href="mailto:help@wecare.org.sg" rel="noopener noreferrer nofollow" target="_blank">help@wecare.org.sg</a>
+</li>
+<li>
+<p>WE CARE Community Services: 3165 8017 or 8391 3023 (WhatsApp) / <a href="mailto:help@wecare.org.sg" rel="noopener noreferrer nofollow" target="_blank">help@wecare.org.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Anti-Narcotics Association:
-6732 1122 / <a href="mailto:sana@sana.org.sg" rel="noopener noreferrer nofollow" target="_blank">sana@sana.org.sg</a>
+</li>
+<li>
+<p>Singapore Anti-Narcotics Association: 6732 1122 / <a href="mailto:sana@sana.org.sg" rel="noopener noreferrer nofollow" target="_blank">sana@sana.org.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thye Hua Kwan Moral Charities: 6337
-1201 / <a href="mailto:thkms-hq@thkms.org.sg" rel="noopener noreferrer nofollow" target="_blank">thkms-hq@thkms.org.sg</a>
+</li>
+<li>
+<p>Thye Hua Kwan Moral Charities: 6337 1201 / <a href="mailto:thkms-hq@thkms.org.sg" rel="noopener noreferrer nofollow" target="_blank">thkms-hq@thkms.org.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fei Yue Community Services: 6485
-8749 / <a href="mailto:feiyuevapecessation@fycs.org" rel="noopener noreferrer nofollow" target="_blank">feiyuevapecessation@fycs.org</a>
+</li>
+<li>
+<p>Fei Yue Community Services: 6485 8749 / <a href="mailto:feiyuevapecessation@fycs.org" rel="noopener noreferrer nofollow" target="_blank">feiyuevapecessation@fycs.org</a>
 </p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; For students who need to bring an incident
 or a student to the school’s attention, the student can reach out to school
 via any of the following methods:</p>
