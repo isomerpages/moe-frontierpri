@@ -3,6 +3,7 @@ title: School Rules
 permalink: /school-rules-regulations/
 description: ""
 variant: tiptap
+third_nav_title: School Discipline
 ---
 <p></p>
 <div class="isomer-image-wrapper">
