@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Discipline/.keep
       - Principal's Message.md
       - Our Footprints.md
       - Our Vision, Mission & Values.md
