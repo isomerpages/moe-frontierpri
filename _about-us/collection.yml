@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Discipline/School Rules.md
-      - School Discipline/.keep
       - Principal's Message.md
       - Our Footprints.md
       - Our Vision, Mission & Values.md
@@ -11,6 +9,8 @@ collections:
       - Our School Song.md
       - Our GREAT Culture.md
       - The Frontier Inspiration.md
+      - School Discipline/.keep
+      - School Discipline/School Rules.md
       - School Virtual Tour.md
       - School Calendar.md
       - Contact Us.md
