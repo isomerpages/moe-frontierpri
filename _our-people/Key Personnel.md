@@ -37,9 +37,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp1.jpg">
-</div>
 <p><strong>Mr Chua Boon Meng, Vincent</strong>
 </p>
 <p><strong><em>HOD / English Language</em></strong>
@@ -55,9 +52,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp2.jpg">
-</div>
 <p><strong>Mdm Toh Bee Choo, Ann</strong>
 </p>
 <p><strong><em>LH / English Language</em></strong>
@@ -73,9 +67,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp3.jpg">
-</div>
 <p><strong>Mdm Nur Shirin Bte Yaman Yuan</strong>
 </p>
 <p><strong><em>LH / English Language</em></strong>
@@ -91,9 +82,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp5.jpg">
-</div>
 <p><strong>Miss Lim Weiqing, Eulindra</strong>
 </p>
 <p><strong><em>LT / Learning Needs (High Ability Learners)</em></strong>
@@ -110,9 +98,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
-</div>
 <p><strong>Mdm Nurashikin Mohamed Zamrabi</strong>
 </p>
 <p>
@@ -129,10 +114,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp6.jpg">
-</div>
-<p><strong>Mdm Lim Li-Chern, Anisia</strong>
+<p><strong>Mdm Lim</strong>
+<br><strong>Li-Chern, Anisia</strong>
 </p>
 <p><strong><em>ST / Learning Needs (Educational Support)</em></strong>
 </p>
@@ -157,9 +140,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp8.jpg">
-</div>
 <p><strong>Miss Neo Jie Qi</strong>
 </p>
 <p><strong><em>LH / Mathematics</em></strong>
