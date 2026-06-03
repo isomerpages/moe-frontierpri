@@ -158,9 +158,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp9.jpg">
-</div>
 <p><strong>Miss Eugena Ooi Weiling</strong>
 </p>
 <p><strong><em>LH / Mathematics</em></strong>
@@ -176,9 +173,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp10.jpg">
-</div>
 <p><strong>Mr Soh Boon Yew, Vincent</strong>
 </p>
 <p><strong><em>ST / Mathematics</em></strong>
@@ -194,9 +188,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp11.jpg">
-</div>
 <p><strong>Mdm Chua Si Wei</strong>
 </p>
 <p><strong><em>ST / Mathematics</em></strong>
@@ -213,9 +204,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp23.jpg">
-</div>
 <p><strong>Mdm Hannaria Srihanum Tumbuck</strong>
 </p>
 <p><strong><em>ST / Learning Needs (Lower Primary)</em></strong>
@@ -231,9 +219,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp24.jpg">
-</div>
 <p><strong>Mdm Siti Idzmaidar Binte Amir Wahid</strong>
 </p>
 <p><strong><em>ST / Educational Support</em></strong>
@@ -259,9 +244,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp12.jpg">
-</div>
 <p><strong>Miss Lee Yan Ling, Aderine Andrielle</strong>
 </p>
 <p><strong><em>HOD / Science</em></strong>
@@ -277,9 +259,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp13.jpg">
-</div>
 <p><strong>Mrs Chong - Pang Chu Keng</strong>
 </p>
 <p><strong><em>LH / Science</em></strong>
@@ -295,9 +274,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%;" height="auto" width="100%" src="/images/sci9.jpg">
-</div>
 <p><strong>Dr</strong>  <strong>Ganges Lim Zi Yang</strong>
 </p>
 <p><strong><em>ST / Science</em></strong>
@@ -327,9 +303,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_fong_mei_ying.jpg">
-</div>
 <p><strong>Mdm Fong Mei Ying</strong>
 </p>
 <p><strong><em>HOD / Mother Tongue</em></strong>
@@ -345,9 +318,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp15.jpg">
-</div>
 <p><strong>Mdm Lee Hao Yih, Dorcas</strong>
 </p>
 <p><strong><em>SH / Mother Tongue</em></strong>
@@ -363,9 +333,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp17.jpg">
-</div>
 <p><strong>Mdm Chia Qian Lin</strong>
 </p>
 <p><strong><em>ST / Chinese Language</em></strong>
@@ -381,9 +348,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp18.jpg">
-</div>
 <p><strong>Mrs Mageswari Sudhakar</strong>
 </p>
 <p><strong><em>ST / Tamil Language</em></strong>
@@ -399,9 +363,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="norhayati_ibnor@schools.gov.sg" src="/images/mtl17.jpg">
-</div>
 <p><strong>Mdm Norhayati Binte Ibnor</strong>
 </p>
 <p><strong><em>SH / Malay Language (Internal)</em></strong>
