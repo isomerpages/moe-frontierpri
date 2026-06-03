@@ -388,9 +388,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp19.jpg">
-</div>
 <p><strong>Mr Tan Choon Seng, Anderson</strong>
 </p>
 <p><strong><em>HOD / PAM &amp; </em>Co-Curricular Activities (CCAs)</strong>
@@ -406,9 +403,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp20.jpg">
-</div>
 <p><strong>Mr Choo Wee Pin</strong>
 </p>
 <p><strong><em>SH / Physical Education &amp; Sports</em></strong>
@@ -424,9 +418,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mdm_Jessica_Kho_Siok_Ching.jpg">
-</div>
 <p><strong>Mdm Jessica Kho Siok Ching</strong>
 </p>
 <p><strong><em>ST / Art</em></strong>
@@ -442,9 +433,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mrs Ang - Tam Hui Yun Lea" src="/images/Org Chart Photos/Mrs_Ang___Tam_Hui_Yun_Lea.jpg">
-</div>
 <p><strong>Mrs Ang - Tam Hui Yun Lea</strong>
 </p>
 <p>
@@ -471,9 +459,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp21.jpg">
-</div>
 <p><strong>Miss Jeannett Lay Jia Xin</strong>
 </p>
 <p><strong><em>HOD / Character and Citizenship Education</em></strong>
@@ -489,9 +474,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp22.jpg">
-</div>
 <p><strong>Mdm Nusraat Begum Bte Akbar Ali</strong>
 </p>
 <p><strong><em>SH / Character and Citizenship Education</em></strong>
@@ -507,9 +489,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/Org Chart Photos/mdm_siti_nur_aishah_bte_mohamad_zainudin.jpg">
-</div>
 <p><strong>Mdm Siti Nur Aishah Mohamad Zainudin</strong>
 </p>
 <p><strong><em>SH / Student Well Being</em></strong>
@@ -535,9 +514,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ow_Kah_Leong.jpeg">
-</div>
 <p><strong>Mr Ow Kah Leong</strong>
 </p>
 <p><strong><em>HOD / ICT &amp; Data Management</em></strong>
@@ -553,9 +529,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp25.jpg">
-</div>
 <p><strong>Mr Mohammed Nidzam Bin Zakariah</strong>
 </p>
 <p><strong><em>SH / ICT</em></strong>
@@ -571,9 +544,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Chart Photos/Mr_Chan_Wei_Shen.jpg">
-</div>
 <p><strong>Mr Chan Wei Shen</strong>
 </p>
 <p><strong><em>LT / Chinese Language</em></strong>
@@ -598,9 +568,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp26.jpg">
-</div>
 <p><strong>Mdm Rasidah Bte Mohd Rasit</strong>
 </p>
 <p><strong><em>School Staff Developer (SSD)</em></strong>
@@ -625,9 +592,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp27.jpg">
-</div>
 <p><strong>Mrs Teo Ming Hui</strong>
 </p>
 <p><strong><em>HOD / Student Management</em></strong>
@@ -643,9 +607,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp29.jpg">
-</div>
 <p><strong>Mrs Lim - Su-en Loh</strong>
 </p>
 <p><strong><em>SH / Student Management</em></strong>
@@ -661,9 +622,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp30.jpg">
-</div>
 <p><strong>Mr Chan Chok Seng</strong>
 </p>
 <p><strong><em>Year Head P1/3</em></strong>
@@ -679,9 +637,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/kp32.jpg">
-</div>
 <p><strong>Mdm Luk Meng Lee</strong>
 </p>
 <p><strong><em>Year Head P2/6</em></strong>
@@ -697,9 +652,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="audrey" src="/images/Org Chart Photos/2026/mdm_audrey_leong_mei_ern.jpg">
-</div>
 <p><strong>Mdm Audrey Leong Mei Ern</strong>
 </p>
 <p><strong><em>Year Head P4/5</em></strong>
