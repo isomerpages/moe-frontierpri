@@ -17,9 +17,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mr_hiew_zi_jie.jpg">
-</div>
 <p><strong>Mr Hiew Zi Jie</strong>
 <br><strong><em>Administrative Manager</em></strong>
 </p>
@@ -33,9 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas1.jpg">
-</div>
 <p><strong>Mr Wong Teong Man</strong>
 <br><strong><em>Operations Manager</em></strong>
 </p>
@@ -49,9 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas3.jpg">
-</div>
 <p><strong>Mdm Serene Hwee Kee Lim</strong>
 <br><strong><em>Administrative Executive</em></strong>
 </p>
@@ -65,9 +56,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="aisha idris" src="/images/Org Chart Photos/miss_nur_aisha_binte_idris.jpg">
-</div>
 <p><strong>Miss Nur Aisha Idris</strong>
 <br><strong><em>ICT Manager</em></strong>
 </p>
@@ -81,9 +69,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/ALICE.jpg">
-</div>
 <p><strong>Mdm Alice Tan Gek Cheng</strong>
 <br><strong><em>Admin Executive/MK</em></strong>
 </p>
@@ -95,9 +80,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas4.jpg">
-</div>
 <p><strong>Mdm Jumilah Binte Sumonor</strong>
 <br><strong><em>Corporate Support Officer</em></strong>
 </p>
@@ -111,9 +93,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/mdm_zarina_begam_d_o_walli_mohamed.jpg">
-</div>
 <p><strong>Ms Zarina Begam d/o Walli Mohamed</strong>
 <br><strong><em>Corporate Support Officer</em></strong>
 </p>
@@ -127,9 +106,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas12.jpg">
-</div>
 <p><strong>Mr Amir Parus</strong>
 <br><strong><em>Operations Support Officer</em></strong>
 </p>
@@ -140,9 +116,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas13.jpg">
-</div>
 <p><strong>Mdm Anisah Bte Amat</strong>
 <br><strong><em>Operations Support Officer</em></strong>
 </p>
@@ -153,9 +126,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas14.jpg">
-</div>
 <p><strong>Mdm Manjeet Kaur d/o/ Kapoor Singh</strong>
 <br><strong><em>Operations Support Officer</em></strong>
 </p>
@@ -166,9 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas16.jpg">
-</div>
 <p><strong>Mdm Nina Bte Osman</strong>
 <br><strong><em>MK Operations Support Officer</em></strong>
 </p>
@@ -179,9 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mdm Yeo Shiow Ching" src="/images/Org Chart Photos/MDM_YEO_SHIOW_CHING.jpg">
-</div>
 <p><strong><em>Mdm Yeo Shiow Ching</em></strong>
 <br><strong><em>Operations Support Officer</em></strong>
 </p>
@@ -197,9 +161,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas8.jpg">
-</div>
 <p><strong>Mr Muhammad Basri Bin Ispandi</strong>
 <br><strong><em>Desktop Engineer (NCS)</em></strong>
 </p>
@@ -211,9 +172,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/eas9.jpg">
-</div>
 <p><strong>Miss Nur Ilyanah Binte Slamat</strong>
 <br><strong><em>Desktop Engineer (NCS)</em></strong>
 </p>
@@ -225,9 +183,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart Photos/SUHANA.jpg">
-</div>
 <p><strong>Mdm Suhana Binte Sulaiman</strong>
 <br><strong><em>Library Assistant</em></strong>
 </p>
@@ -238,9 +193,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fairuz" src="/images/Org Chart Photos/FAIRUZ.jpg">
-</div>
 <p><strong>Mr Muhammad Fairuz Bin Salim</strong>
 <br><strong><em>Science Lab Technician</em></strong>
 </p>
@@ -251,9 +203,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="yvonne" src="/images/Org Chart Photos/YVONNE.jpg">
-</div>
 <p><strong>Mdm Chong Yu Lynn, Yvonne</strong>
 <br><strong><em>Office Assistant</em></strong>
 </p>
@@ -265,9 +214,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="angela" src="/images/Org Chart Photos/ANGELA.jpg">
-</div>
 <p><strong>Mdm Yap Geok Swan, Angela</strong>
 <br><strong><em>Receptionist</em></strong>
 </p>
