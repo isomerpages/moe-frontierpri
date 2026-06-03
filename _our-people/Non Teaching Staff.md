@@ -201,27 +201,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Chong Yu Lynn, Yvonne</strong>
-<br><strong><em>Office Assistant</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Mdm Yap Geok Swan, Angela</strong>
-<br><strong><em>Receptionist</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
