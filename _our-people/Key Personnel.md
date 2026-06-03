@@ -13,12 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yap huie yuan.jpg">
-</div>
 <p><strong>Mdm Yap Huie Yuan</strong>
-</p>
-<p><strong><em>HOD / Curriculum</em></strong>
+<br>
+<br><strong><em>HOD / Curriculum</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +113,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/eng1.jpg">
 </div>
-<p><strong>Mdm Nurashikin Mohamed Zamrabi </strong>
+<p><strong>Mdm Nurashikin Mohamed Zamrabi</strong>
 </p>
 <p>
 <br><strong><em>ST / English Language</em></strong>
