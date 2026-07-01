@@ -19,60 +19,72 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 23 March</p>
+<p>29 Jun, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hari Raya Puasa (<em>school off-in-lieu</em>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Thursday, 26 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 Learning Journey to Drama Centre,
-National Library</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 Learning Journey to Geylang Serai
-Heritage Gallery (3 RY1 and 3 RY5)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P3 to P5 Monday CCAs</p>
+</li>
+<li>
+<p>Start of Term 3</p>
+</li>
+<li>
+<p>Back To Frontier 2</p>
+</li>
+</ul>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 27 March</p>
+<p>30 Jun, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P6 CCA (Fridays)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 30 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P6 CCA (Mondays)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #7</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 30 March to Thursday, 2 April</p>
+<p>1 Jul, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 Interdisciplinary Project
-Work (IPW)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand
+(PLAH) (For selected P6 students only)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dance of the Nation
+Training (P5 CCA Leaders)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Embrace SG for
+New IS/PR</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Tuesday, 31 March</p>
+<p>2 Jul, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P6 Remedial</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 Learning Journey to Geylang Serai
-Heritage Gallery (3RY2 and 3RY6)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STEM Challenge
+(For selected students only)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 and P5 E2K
+Science</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Jul, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Friday CCAs</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
