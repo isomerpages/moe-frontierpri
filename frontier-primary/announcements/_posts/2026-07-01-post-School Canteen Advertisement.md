@@ -83,11 +83,10 @@ School’s General Office by the closing date.</p>
 <p>Nearest MRT: Pioneer</p>
 </li>
 <li>
-<p>Bus number: 241, 179 and 974</p>
+<p>Bus number: 241, 179 and 974<strong>&nbsp;</strong>
+</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Interested applicants must meet the following criteria:</strong>
 </p>
 <table style="minWidth: 25px">
