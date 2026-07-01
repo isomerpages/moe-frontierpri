@@ -68,7 +68,8 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 65789555</p>
 </li>
 <li>
-<p>Email: hiew_zi_jie@schools.gov.sg</p>
+<p>Email: <a href="hiew_zi_jie@schools.gov.sg" rel="noopener nofollow" target="_blank">hiew_zi_jie@schools.gov.sg</a>
+</p>
 </li>
 <li>
 <p>Contact Person: Mr. Hiew Zi Jie</p>
