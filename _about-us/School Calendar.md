@@ -391,7 +391,8 @@ students only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>-</p>
+<p>PSLE Oral
+<br>(No school for P1 to P5)</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +401,9 @@ students only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>-</p>
+<p>PSLE Oral
+<br>(No school for P1 to P5)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -474,7 +477,6 @@ students only)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA – 2CA1, 2CA2, 2CA3, 2CA4
 (Session 2)</p>
 <p></p>
-<p>&nbsp;Prelim Make-up (Day 3)</p>
 </td>
 </tr>
 <tr>
