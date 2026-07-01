@@ -574,7 +574,7 @@ P6 students only)</p>
 <p>4 Sep, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Teachers’ Day School Holiday</p>
 </td>
 </tr>
 <tr>
@@ -582,7 +582,7 @@ P6 students only)</p>
 <p>11 Sep, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Holiday Classes</p>
 </td>
 </tr>
 </tbody>
