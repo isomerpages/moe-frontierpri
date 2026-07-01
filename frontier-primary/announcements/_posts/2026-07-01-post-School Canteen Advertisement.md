@@ -8,6 +8,70 @@ image: ""
 variant: tiptap
 ---
 <h4>Application Procedure</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bidder may propose 1-2 new main/side dishes.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lontong</p>
+</li>
+<li>
+<p>Nasi Lemak</p>
+</li>
+<li>
+<p>Curry Chicken Rice</p>
+</li>
+<li>
+<p>Nasi Padang</p>
+</li>
+<li>
+<p>Chicken Rice</p>
+</li>
+<li>
+<p>Chicken Porridge</p>
+</li>
+<li>
+<p>Chicken Briyani</p>
+</li>
+<li>
+<p>Fried Rice</p>
+</li>
+<li>
+<p>Roti Prata Set</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the Application Form (click on the link below).
