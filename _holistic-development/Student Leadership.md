@@ -102,7 +102,9 @@ and Sensibilities (S-eLF-L.E.S.S.) comprises a series of enhanced trainings
 </tr>
 </tbody>
 </table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="self 1" src="/images/Student Management/S ELF programme/IMG_7014.jpg">
+</div>
 <p>The Student Leaders Investiture is to formally recognise and affirm the
 appointment of School eLF and P5 CCA Leaders who have been entrusted with
 leadership responsibilities within the school.</p>
@@ -149,4 +151,5 @@ beyond the classroom — into their families, communities, and beyond.</p>
 <p>
 <br>
 </p>
+<p></p>
 <p></p>
