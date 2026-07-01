@@ -57,7 +57,7 @@ and Sensibilities (S-eLF-L.E.S.S.) comprises a series of enhanced trainings
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="self 1" src="/images/Student Management/S ELF programme/IMG_7014.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="self 7" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_03_24_at_14_35_20.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -73,7 +73,6 @@ and Sensibilities (S-eLF-L.E.S.S.) comprises a series of enhanced trainings
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="self 4" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_04_29_at_16_08_42__2_.jpg">
 </div>
@@ -81,30 +80,24 @@ and Sensibilities (S-eLF-L.E.S.S.) comprises a series of enhanced trainings
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="self 5" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_04_29_at_16_08_41__4_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="self 6" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_04_29_at_16_08_41__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="self 8" src="/images/Student Management/S ELF programme/WhatsApp_Image_2025_03_14_at_14_50_04.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="self 7" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_03_24_at_14_35_20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="self 6" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_04_29_at_16_08_41__3_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="self 8" src="/images/Student Management/S ELF programme/WhatsApp_Image_2025_03_14_at_14_50_04.jpg">
-</div>
 </td>
 </tr>
 </tbody>
@@ -144,10 +137,9 @@ leadership responsibilities within the school.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>As our student leaders continue to grow and inspire those around them,
-we look forward to seeing them carry the spirit of servant leadership beyond
-the classroom — into their families, communities, and beyond.</p>
+<p>&nbsp;As our student leaders continue to grow and inspire those around
+them, we look forward to seeing them carry the spirit of servant leadership
+beyond the classroom — into their families, communities, and beyond.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
