@@ -15,8 +15,10 @@ and national regulations.&nbsp;</p>
 Health Science Authority (HSA) as seen from Tables 1A and 1B.</p>
 <p></p>
 <p>Table 1A : <strong>HSA Baseline Consequences for Regular Vapes</strong>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/evcollection"><img style="width: 100%" height="auto" width="100%" alt="Table 1A HSA Baseline Consequences for Regular Vapes" src="/images/Student Management/Table_1A_HSA_Baseline_Consequences_for_Regular_Vapes.png"></a>
-<p></p>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Table 1A HSA Baseline Consequences for Regular Vapes" src="/images/Student Management/Table_1A_HSA_Baseline_Consequences_for_Regular_Vapes_Update.jpg">
+</div>
 <p>Table 1B : <strong>HSA Baseline Consequences for Etomidate Vapes</strong>
 </p>
 <div class="isomer-image-wrapper">
