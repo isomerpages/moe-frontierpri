@@ -224,7 +224,8 @@ School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 PRELIM Oral Examination</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #9</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #9
+<br>- P6 PRELIM Oral Examination - P4 MBL LJ</p>
 <p>&nbsp;</p>
 </td>
 </tr>
