@@ -314,89 +314,63 @@ Leaders Programme (Selected P4 and P5 students)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>May</strong></h4>
+<h4><strong>August</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 1 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Labour Day (Public Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 4 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MakerEd Workshop #3 (Digital Making)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 5 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 Learning Journey to Kreta
-Ayer (4IN1 and 4IN4)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 NAPFA (5-Stations)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Wednesday, 6 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment ( P4 English)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Science
-/ Foundation Science)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Thursday, 7 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P3 Science)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 Learning Journey to Frontier
-CC</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 Learning Journey to Kreta Ayer
-(4IN2 and 4IN5)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Friday, 8 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P3 English)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 Learning Journey to Kreta Ayer
-(4IN3 and 4IN6)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Outreach Experience 2
-#2/2</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Monday, 11 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P3 Mother Tongue)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P4 Science)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 English)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Timed Practice 2 for P6 (11 to 22
-May)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -417,103 +391,82 @@ May)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 12 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Foundation
-Mother Tongue)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Wednesday, 13 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P3 Mathematics)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Mother Tongue/
-Foundation Mother Tongue)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Thursday, 14 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P4 Mother Tongue)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Foundation
-Mother Tongue)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 15 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Foundation
-Mother Tongue)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Monday, 18 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P4 Mathematics)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Mathematics)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weighted Assessment (P5 Higher Mother
-Tongue)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P6 Timed Practice 2</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 22 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maker Workshop #4: Digital Making</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 25 May to Saturday, 30 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TIE Trip to Chengdu (For Selected
-P5 Students)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 27 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hari Raya Haji Public (Holiday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 28 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent-Teacher Conference Day 1
-– Virtual</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 29 May</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent-Teacher Conference Day 2
-– Face to Face</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
