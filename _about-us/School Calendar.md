@@ -225,7 +225,8 @@ School</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 PRELIM Oral Examination</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #9
-<br>- P6 PRELIM Oral Examination - P4 MBL LJ</p>
+<br>- P6 PRELIM Oral Examination
+<br>- P4 MBL LJ</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -234,7 +235,7 @@ School</p>
 <p>23 Jul, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>- P3 LJ to Kok Fah Tech Farm (3RY3 &amp; 3RY4)</p>
 </td>
 </tr>
 <tr>
