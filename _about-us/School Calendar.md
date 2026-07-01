@@ -333,7 +333,9 @@ Leaders Programme (Selected P4 and P5 students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision
+<br>
+<br>P3 LJ to Geylang Serai Heritage Gallery (3RY1 &amp; 3RY5)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -345,7 +347,9 @@ Leaders Programme (Selected P4 and P5 students)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *P5 E2K Science LJ to NUS Demo Lab</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #11</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
-students only)</p>
+students only)
+<br>
+<br>P6 PRELIM Listening Comprehension</p>
 <p>&nbsp;</p>
 </td>
 </tr>
