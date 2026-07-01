@@ -8,16 +8,24 @@ image: ""
 variant: tiptap
 ---
 <h4>Application Procedure</h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/files/FORMS/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form for Individual Stallholder</a></strong>
 </p>
 </li>
 </ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>Attached the following documents together with the Application Form:</p>
+</li>
+</ol>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
