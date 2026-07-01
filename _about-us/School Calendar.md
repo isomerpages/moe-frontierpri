@@ -492,6 +492,7 @@ students only)</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
 students only)</p>
+<p>P3 GEP Identification Exercise</p>
 <p>&nbsp;</p>
 </td>
 </tr>
