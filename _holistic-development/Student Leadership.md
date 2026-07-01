@@ -10,6 +10,9 @@ and is designed to achieve the school’s vision of “Passionate Leaders”.</p
 <p><strong><u>Student Leadership Framework</u></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student leadership framework" src="/images/Student Management/student_leadership_framework.png">
+</div>
 <p>The Student Leadership structure at Frontier Primary School comprises
 3-tiers and guides the planning and delivery of Student Leadership Development
 processes and programmes to achieve student outcomes.&nbsp;</p>
