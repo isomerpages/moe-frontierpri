@@ -114,7 +114,7 @@ and observe readiness of students before starting the restoration of relationshi
 and learning prosocial skills. For cases which require more support for
 students involved, the school will draw on external referrals and community
 resources.</p>
-<p><strong>Table 1[WSl(1] : MOE Baseline Consequences for Bullying&nbsp;</strong>
+<p><strong>Table 1 [WSl(1)] : MOE Baseline Consequences for Bullying&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="MOE Baseline Consequences for Bullying" src="/images/Student Management/Table_1_MOE_Baseline_Consequences_for_Bullying.png">
