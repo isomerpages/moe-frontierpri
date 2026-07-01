@@ -4,8 +4,7 @@ permalink: /calendar-of-events/
 description: ""
 variant: tiptap
 ---
-<p>Frontier Primary School - Term 1 Student Calendar 2026</p>
-<p>&nbsp;</p>
+<p>Frontier Primary School - Term 3 Student Calendar 2026&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
