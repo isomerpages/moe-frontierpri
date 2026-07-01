@@ -31,10 +31,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Rice</p>
+<p><u>Halal Rice</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 July 2026</p>
+<p><u>24 July 2026</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bidder may propose 1-2 new main/side dishes.</p>
