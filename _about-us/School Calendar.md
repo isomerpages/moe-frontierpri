@@ -244,6 +244,8 @@ School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 PRELIM Oral Examination</p>
+<p>- P4 MBL LJ
+<br>- P6 PRELIM Oral Examination</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -263,7 +265,8 @@ School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision
+<br>-P6 Prelim Oral (Make Up)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
