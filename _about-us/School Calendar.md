@@ -201,7 +201,8 @@ School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision
+<br>- Racial Harmony Day Commemoration (during assembly)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
