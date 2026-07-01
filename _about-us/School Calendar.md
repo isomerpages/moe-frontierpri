@@ -22,17 +22,9 @@ variant: tiptap
 <p>29 Jun, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>P3 to P5 Monday CCAs</p>
-</li>
-<li>
-<p>Start of Term 3</p>
-</li>
-<li>
-<p>Back To Frontier 2</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs
+<br>- Start of Term 3
+<br>- Back To Frontier 2</p>
 <p></p>
 </td>
 </tr>
@@ -66,7 +58,8 @@ New IS/PR</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STEM Challenge
 (For selected students only)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 and P5 E2K
-Science</p>
+Science
+<br>- P2 LJ to Orchid Garden Park</p>
 <p>&nbsp;</p>
 </td>
 </tr>
