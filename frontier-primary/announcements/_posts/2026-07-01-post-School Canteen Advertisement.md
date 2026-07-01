@@ -7,49 +7,46 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Application Procedure</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
+<h4>Application Procedure</h4>
 <p>Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
+<p><u>Application Form for individual stallholder</u>
 </p>
 </li>
 </ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p>Attached the following documents together with the Application Form:</p>
-</li>
-</ol>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>For Individuals</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front
-and back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu and
-pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates
-such as Food Safety Course Level 1, etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
