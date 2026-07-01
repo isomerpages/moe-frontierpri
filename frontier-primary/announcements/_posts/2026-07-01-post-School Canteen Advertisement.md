@@ -153,4 +153,4 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_3" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SAS3]</a>School to provide these information</p>
+<p></p>
