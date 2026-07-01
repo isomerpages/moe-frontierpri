@@ -566,7 +566,7 @@ P6 students only)</p>
 <p>3 Sep, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Teachers’ Day Celebration</p>
 </td>
 </tr>
 <tr>
