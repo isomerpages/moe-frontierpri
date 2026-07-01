@@ -87,7 +87,12 @@ Science
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision (except 6LO2, 6LO3, 6LO5)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4 and P5 Math E2K</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4 and P5 Math E2K
+<br>
+</p>
+<p>- P6 LJ to ACM (6LO2, 6LO3, 6LO5)</p>
+<p>- P3 LJ to Kok Fah Tech Farm (3RY2 &amp; 3RY6)</p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 </tr>
