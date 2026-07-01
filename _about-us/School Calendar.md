@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>March</strong></h4>
+<h4><strong>June/July</strong></h4>
 </td>
 </tr>
 <tr>
