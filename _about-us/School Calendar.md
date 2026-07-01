@@ -266,7 +266,7 @@ School</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision
-<br>-P6 Prelim Oral (Make Up)</p>
+<br>- P6 Prelim Oral (Make Up)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
