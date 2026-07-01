@@ -17,7 +17,7 @@ General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><u>Application Form for individual stallholder</u>
+<p><strong><a href="/files/FORMS/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form for Individual Stallholder</a></strong>
 </p>
 </li>
 </ul>
