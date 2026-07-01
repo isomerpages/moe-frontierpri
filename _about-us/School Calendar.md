@@ -365,7 +365,9 @@ students only)</p>
 <p>7 Aug, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; National Day Celebration
+<br><em>(Dismissal @1.30pm)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -373,8 +375,7 @@ students only)</p>
 <p>10 Aug, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>-</p>
+<p>National Day PH (off in-lieu)</p>
 </td>
 </tr>
 <tr>
@@ -382,7 +383,7 @@ students only)</p>
 <p>11 Aug, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;PSLE Oral Set-up (PM)</p>
 </td>
 </tr>
 <tr>
