@@ -47,7 +47,46 @@ a positive influence within the school body and community.</p>
 and Sensibilities (S-eLF-L.E.S.S.) comprises a series of enhanced trainings
 (S-eLF-L.E.S.S. A, B, C) to further hone leadership skills in our Tier
 2 and 3 student leaders.</p>
-<p>[insert photos on S-eLFs programme]</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="self 1" src="/images/Student Management/S ELF programme/IMG_7014.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="self 2" src="/images/Student Management/S ELF programme/IMG_20260313_WA0005.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="self 3" src="/images/Student Management/S ELF programme/WhatsApp_Image_2026_04_29_at_16_08_43__2_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>The Student Leaders Investiture is to formally recognise and affirm the
 appointment of School eLF and P5 CCA Leaders who have been entrusted with
 leadership responsibilities within the school.</p>
