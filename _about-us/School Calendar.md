@@ -110,58 +110,191 @@ students only)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 Jul, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 CL Cultural Performance Exposure Scheme (CPES)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4&nbsp; &amp; P5 E2K Science</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10 Jul, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Friday CCAs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *MakerEd Workshop #5 @Commonwealth Secondary
+School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11 Jul, Sat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;-P5 NE Show</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>13 Jul, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Jul, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4 &amp; P5 Math E2K</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P5 National Mathematical Olympiad of Spore
+(NMOS)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jul, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp; Project Lend-a-hand (PLAH) (For selected P6 students only)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Jul, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4&nbsp; &amp; P5 E2K Science</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jul, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Fridays CCAs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *Community Outreach Experience 3 #1/3</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jul, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Jul, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P4 NAPFA (5 stations)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 and P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P5 Math E2K</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Jul, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 PRELIM Oral Examination</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #9</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jul, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Jul, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 PRELIM Oral Examination</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jul, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jul, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Jul, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #10</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber Wellness Peer Support
+Leaders Programme (Selected P4 and P5 students)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH)
+(For selected P6 students only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jul, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4 E2K Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jul , Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Community Outreach Experience 3 #2/3</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; MakerEd Workshop #6 @Commonwealth Sec Sch</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
