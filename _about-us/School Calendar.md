@@ -390,8 +390,7 @@ students only)</p>
 <p>12 Aug, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>PSLE Oral
+<p>&nbsp;PSLE Oral
 <br>(No school for P1 to P5)</p>
 </td>
 </tr>
@@ -400,8 +399,7 @@ students only)</p>
 <p>13 Aug, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>PSLE Oral
+<p>&nbsp;PSLE Oral
 <br>(No school for P1 to P5)</p>
 <p></p>
 </td>
