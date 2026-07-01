@@ -319,58 +319,214 @@ Leaders Programme (Selected P4 and P5 students)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 Aug, Mon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 Aug, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Aug, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P5 E2K Science LJ to NUS Demo Lab</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #11</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
+students only)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 Aug, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P4 E2K Science</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Aug, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Aug, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Aug, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Aug, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Outreach Experience
+3 #3/3</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH)
+(For selected P6 students only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Aug, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Aug, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Aug, Wed</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>-</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Aug, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand
+(PLAH) (For selected P6 students only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA – 2CA1, 2CA2,
+2CA3, 2CA4 (Session 1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Aug, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA – 2CA1, 2CA2, 2CA3, 2CA4
+(Session 2)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Aug, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Aug, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
+students only)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Aug, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 E2K Science LJ to
+Science Centre</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Aug, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA (2CA5, 2CA6, 2CA7) #1</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected
+P6 students only)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Aug, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA (2CA5, 2CA6, 2CA7) #2</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -382,88 +538,48 @@ Leaders Programme (Selected P4 and P5 students)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h4><strong>September</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 Sep, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Sep, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #12</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH)
+(For selected P6 students only)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 Sep, Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 Sep, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>11 Sep, Fri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -471,7 +587,11 @@ Leaders Programme (Selected P4 and P5 students)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;**Information above is accurate as of 25 March 2026. Details of
-the specific events will be provided in separate letters and consent forms
-nearer the dates. Please note that events in the School Calendar are subject
-to change.</p>
+<p></p>
+<p><strong>*For selected students only</strong>
+<br><strong>** Information above is accurate as of 27 June 2026 and is subject to changes. More information of the various activities will be provided by the school at a later date.</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
