@@ -27,7 +27,7 @@ fundamentals in students with character building and leadership development
 which are essential for managing responsibilities and guiding others effectively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student leadership 1" src="/images/Student Management/student_leadership_picture_1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="student leadership 1" src="/images/Student Management/student_leadership_picture_1.png">
 </div>
 <p><strong><u>Key Student Leadership Development Programmes</u></strong>
 </p>
