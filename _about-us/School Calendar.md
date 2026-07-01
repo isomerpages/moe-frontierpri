@@ -473,7 +473,8 @@ students only)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA – 2CA1, 2CA2, 2CA3, 2CA4
 (Session 2)</p>
-<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;Prelim Make-up (Day 3)</p>
 </td>
 </tr>
 <tr>
