@@ -64,7 +64,25 @@ variant: tiptap
 <p>Fried Rice</p>
 </li>
 <li>
-<p>Roti Prata Set</p>
+<p>Begedil</p>
+</li>
+<li>
+<p>Egg (Pan-fried / Boil)</p>
+</li>
+<li>
+<p>Chicken Drumlets</p>
+</li>
+<li>
+<p>Homemade Kueh</p>
+</li>
+<li>
+<p>Fish Fillet</p>
+</li>
+<li>
+<p>Chicken Patties</p>
+</li>
+<li>
+<p>Smoked Chicken</p>
 </li>
 </ul>
 </td>
