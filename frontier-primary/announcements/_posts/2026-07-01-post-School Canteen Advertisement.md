@@ -8,16 +8,24 @@ image: ""
 variant: tiptap
 ---
 <h4>Application Procedure</h4>
-<p>Download and complete the Application Form (click on the link below).
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the Application Form (<em>click on the link below</em>).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p><u>Application Form for individual stallholder</u>
 </p>
 </li>
 </ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>Attached the following documents together with the Application Form:</p>
+</li>
+</ol>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -46,35 +54,32 @@ etc</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
 School’s General Office by the closing date.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Address: 20 Jurong West Street 61. Singapore 648200</a>
-</p>
+<p>Address: 20 Jurong West Street 61. Singapore 648200</p>
 </li>
 <li>
 <p>Contact No: 65789555</p>
 </li>
 <li>
-<p>Email: <a href="mailto:hiew_zi_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hiew_zi_jie@schools.gov.sg</a>
-</p>
+<p>Email: hiew_zi_jie@schools.gov.sg</p>
 </li>
 <li>
 <p>Contact Person: Mr. Hiew Zi Jie</p>
+<p></p>
 </li>
 </ul>
-</li>
-</ol>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nearest MRT: Pioneer</a>
-</p>
+<p>Nearest MRT: Pioneer</p>
 </li>
 <li>
 <p>Bus number: 241, 179 and 974</p>
