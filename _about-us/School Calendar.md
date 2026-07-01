@@ -73,102 +73,90 @@ Science
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<h4><strong>April</strong></h4>
+<td rowspan="1" colspan="1">
+<p>6 Jul, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-Youth Day School Holiday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 1 April</p>
+<p>7 Jul, Tue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature-Taking Exercise</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 3 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good Friday (Public Holiday)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision (except 6LO2, 6LO3, 6LO5)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P4 and P5 Math E2K</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday, 9 April to Saturday, 11 April</p>
+<p>8 Jul, Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P5 Outdoor Adventure Learning Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday,14 April to Friday, 17 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 Interdisciplinary Project Work
-(IPW)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #8</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; *S-eLF-LESS B (for P3 S-eLFs only)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
+students only)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Monday, 20 April</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Friendship Day Commemoration</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last Session for P6 Monday CCAs</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Outreach Experience 2
-#1/2</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 20 April to Wednesday, 22 April</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friendship Beyond Border Programme:
-Visit by Santa Laurensia School (Indonesia)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PAM Splash</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p>Thursday, 23 April</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 Learning Journey to Kok Fah Tech
-Farm (3 RY1 and 3RY5)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Photo-taking Day 1</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 24 April</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Photo-taking Day 2</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Last Session for P6 Friday CCAs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 27 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start Of P6 Revision</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 28 April</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Learning Journey to Asian Civilisations
-Museum (6LO1, 6LO4, 6LO6)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
