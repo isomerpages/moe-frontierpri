@@ -301,45 +301,62 @@ Museum (3RY1 and 3RY5)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Sep, Tue</p>
+<p>Thursday, 3 September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Sep, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #12</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH)
-(For selected P6 students only)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers’ Day Celebration</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Sep, Thu</p>
+<p>Friday, 4 September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers’ Day Celebration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Sep, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Day School Holiday</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers’ Day School Holiday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Sep, Fri</p>
+<p>Friday, 11 September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 Holiday Classes</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Holiday Revision</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 21 September to Tuesday, 23 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Study Break (No school for P6 students
+except for selected students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 24 September to Friday 25 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HBL for P5 students only</p>
+<p>(P5 students do not report to school)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 28 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HBL for P4 students only</p>
+<p>(P4 students do not report to school)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 29 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HBL for P3 students only</p>
+<p>(P3 students do not report to school)</p>
 </td>
 </tr>
 </tbody>
