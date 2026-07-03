@@ -190,221 +190,100 @@ Secondary School)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Aug, Mon</p>
+<p>Tuesday, 4 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 Monday CCAs</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Aug, Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision
-<br>
-<br>P3 LJ to Geylang Serai Heritage Gallery (3RY1 &amp; 3RY5)</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 Learning Journey to Geylang Serai Heritage
+Museum (3RY1 and 3RY5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Aug, Wed</p>
+<p>Wednesday, 5 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P5 E2K Science LJ to NUS Demo Lab</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; *RAINBOWS #11</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
-students only)
-<br>
-<br>P6 PRELIM Listening Comprehension</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Prelim Listening Comprehension</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Aug, Thu</p>
+<p>Friday, 7 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; *P3 to P5 Remedial</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; P4 E2K Science</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day Celebration</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Aug, Fri</p>
+<p>Monday, 10 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; National Day Celebration
-<br><em>(Dismissal @1.30pm)</em>
-</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day Public Holiday (off-in-lieu)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 Aug, Mon</p>
+<p>Wednesday, 12 August to Thursday, 13 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day PH (off in-lieu)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 Aug, Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;PSLE Oral Set-up (PM)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSLE Oral Examination</p>
+<p>(no school for P1 to P5 students)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 Aug, Wed</p>
+<p>Friday, 14 August to Tuesday, 21 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;PSLE Oral
-<br>(No school for P1 to P5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Aug, Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;PSLE Oral
-<br>(No school for P1 to P5)</p>
-<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of P3 to P5 Review 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Aug, Fri</p>
+<p>Monday, 17 August to Friday, 21 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Outreach Experience
-3 #3/3</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH)
-(For selected P6 students only)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Preliminary Written Examinations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Aug, Mon</p>
+<p>Friday, 21 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Aug, Tue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA Session 1 (2CA1, 2CA2, 2CA3, 2CA4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Aug, Wed</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Monday, 24 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>-</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA Session 2 (2CA1, 2CA2, 2CA3, 2CA4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Aug, Thu</p>
+<p>Wednesday, 26 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand
-(PLAH) (For selected P6 students only)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 Aug, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA – 2CA1, 2CA2,
-2CA3, 2CA4 (Session 1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 GEP Identification Exercise</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Aug, Mon</p>
+<p>Friday, 28 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA – 2CA1, 2CA2, 2CA3, 2CA4
-(Session 2)</p>
-<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA Session 1 (2CA5, 2CA6, 2CA7)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Aug, Tue</p>
+<p>Monday, 31 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Aug, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected P6
-students only)</p>
-<p>P3 GEP Identification Exercise</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Aug, Thu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P4 E2K Science LJ to
-Science Centre</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 Aug, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA (2CA5, 2CA6, 2CA7) #1</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Lend-a-hand (PLAH) (For selected
-P6 students only)</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Aug, Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA (2CA5, 2CA6, 2CA7) #2</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 to P5 CCA</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Revision</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 SCCA Session 2 (2CA5, 2CA6, 2CA7)</p>
 </td>
 </tr>
 </tbody>
