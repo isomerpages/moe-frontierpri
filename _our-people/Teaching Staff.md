@@ -4,7 +4,7 @@ permalink: /form-teachers/
 description: ""
 variant: tiptap
 ---
-<p><strong>The list of Form Teachers in 2026 can be found below. </strong>
+<p><strong>The list of Form Teachers in 2026 can be found below.</strong>
 </p>
 <h4><strong>Form Teachers</strong></h4>
 <table style="minWidth: 100px">
