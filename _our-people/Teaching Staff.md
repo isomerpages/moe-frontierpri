@@ -1443,7 +1443,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1481,7 +1481,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Umairah Insyirah Binte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>315</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:umairah_insyirah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">umairah_insyirah_abdul_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
