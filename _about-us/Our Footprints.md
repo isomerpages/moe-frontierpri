@@ -57,7 +57,7 @@ students, as well as to provide a diverse learning experience for them.</p>
 <p>Mrs Tonnine Chua (2018 to 2025)</p>
 </li>
 <li>
-<p><strong>Mdm Ang Chai Ting (2026 to present)</strong>
+<p><strong>Mdm Jessie Ang (2026 to present)</strong>
 </p>
 </li>
 </ul>
