@@ -96,9 +96,8 @@ reading and have a strong foundation in the English Language.</p>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. strengthening our students’ language
 and reading skills
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. promoting a positive learning attitude</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_2.jpg">
 </div>
 <p>Students are immersed in language learning and are exposed to a variety
 of genres that are engaging and age-appropriate. The use of different strategies
@@ -119,7 +118,7 @@ acquire and strengthen their emerging 21<sup>st</sup> Century Competencies
 such as Collaboration, Communication and Information skills<em>.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_3.jpg">
 </div>
 <p>
 <br><strong>EdTech in EL</strong>
@@ -141,7 +140,7 @@ and learning framework to:</p>
 <p>We aim to build strong fundamentals in our students with digital literacy
 and technological skills to prepare them for a technology-transformed world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_4.jpg">
 </div>
 <h4><strong>Key Programmes &amp; Activities</strong></h4>
 <p><strong>Read@Frontier - Young Readers Programme (Primary 1 to 6)</strong>
@@ -152,7 +151,7 @@ Reading activities such as Speech and Drama, Show and Tell and Readers
 Theatre, and regularly visit our school library, <strong><em>Frontopia,</em> </strong>to
 explore and appreciate different book genres.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_5.jpg">
 </div>
 <p>Students get to participate in termly thematic activities during their
 recess at the <strong><em>Exploring English Corner</em></strong>. These
@@ -160,7 +159,7 @@ reading-related activities include quizzes, storytelling sessions and gaining
 new knowledge through information on the notice boards and reading good
 writing pieces on display.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_6.jpg">
 </div>
 <p><strong>Buddy Reading Programme</strong>
 </p>
@@ -172,7 +171,7 @@ before the flag-raising ceremony. These Primary 4 Frontierers exercise
 student agency by acting responsibly and contributing actively to help
 improve the reading proficiency level of their juniors.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_7.jpg">
 </div>
 <p><strong>Write@Frontier - Inkredibles Creative Writing Competition</strong>
 </p>
@@ -184,10 +183,10 @@ meaningful activity for our students and promote student agency in them.
 A total of 25 Frontierers were affirmed for their excellent pieces of writing.
 We look forward to receiving more creative submissions in 2025!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_8.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stellar_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English Department/Stellar_9.jpg">
 </div>
 <h5><strong>Excel@Frontier – English Language Stretch Programme</strong></h5>
 <p>The English Language Stretch Programme aims to develop our students to
