@@ -39,9 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Nur Muhammad Ifwat Abdul Halim</strong>
-</p>
-<p><strong><em>Operations Manager/MK</em></strong>
+<p><strong>Mr Nur Muhammad Ifwat Abdul Halim <em>Operations Manager/MK</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
