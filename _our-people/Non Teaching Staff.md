@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Zarina Begam d/o Walli Mohamed</strong>
+<p><strong>Mdm Zarina Begam d/o Walli Mohamed</strong>
 <br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
@@ -105,8 +105,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Miss Lim Hui Yin</strong>
-</p>
-<p><strong><em>Corporate Support Officer</em></strong>
+<br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
