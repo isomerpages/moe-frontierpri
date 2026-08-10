@@ -91,13 +91,15 @@ that difference.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/pamd1.jpg">
+<img style="width: 57%;" height="auto" width="100%" alt="" src="/images/PAM/pamd1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/pamd2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd2.jpg">
 </div>
 </td>
 </tr>
@@ -152,41 +154,47 @@ all levels</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd8.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd6.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAM/pamd3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd4.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>nstrumental Learning Programme @ Frontier</p>
+<p>Instrumental Learning Programme @ Frontier</p>
 <p><strong>Our Approach</strong>
 </p>
 <p>3Es / 3-Tiers of programmes</p>
@@ -208,8 +216,14 @@ all levels</p>
 </div>
 <p><u>Key Programmes to deliver PAM outcomes and 21<sup>st</sup>&nbsp;Century Competencies</u>
 </p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd10.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -220,18 +234,21 @@ all levels</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd11.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAM/pamd11.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd12.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAM/pamd12.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pamd13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM/pamd13.jpg">
 </div>
 </td>
 </tr>
