@@ -22,8 +22,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Education is the key to infinite possibilities and freedom."</em>
-</p>
 <p>Email:&nbsp;<a href="mailto:hiew_zi_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hiew_zi_jie@schools.gov.sg</a>
 </p>
 </td>
@@ -35,9 +33,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"One of the hallmarks of a well brought up person is manners."</em>
-</p>
 <p>Email:&nbsp;<a href="mailto:wong_teong_man@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teong_man@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Nur Muhammad Ifwat Abdul Halim <em>Operations Manager/MK</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email: <a href="mailto:Nur_muhammad_Ifwat_Abdul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_muhammad_Ifwat_Abdul@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -48,8 +54,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Children are the future of our society. Education is their best tool for learning and growing up."</em>
-</p>
 <p>Email:&nbsp;<a href="mailto:lim_hwee_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_kee@schools.gov.sg</a>
 </p>
 </td>
@@ -61,8 +65,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Growth, is when we look within ourselves and discover who we are, what the purpose of our life. When we understand ourselves, we are able to shape a better future."</em>
-</p>
 <p>Email:&nbsp;<a href="mailto:nur_aisha_idris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_idris@schools.gov.sg</a>
 </p>
 </td>
@@ -85,22 +87,29 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"You don't learn to walk by following the rules. You learn by doing, and falling over."</em>
-</p>
 <p>Email:&nbsp;<a href="mailto:jumilah_sumonor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jumilah_sumonor@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Zarina Begam d/o Walli Mohamed</strong>
+<p><strong>Mdm Zarina Begam d/o Walli Mohamed</strong>
 <br><strong><em>Corporate Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"I share the same believe as John Dewey - 'Education is not the preparation for life, but education is life itself.'"</em>
-</p>
 <p>Email:&nbsp;<a href="mailto:zarina_begam_walli_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zarina_begam_walli_mohamed@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Lim Hui Yin</strong>
+<br><strong><em>Corporate Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email: <a href="mailto:Lim_hui_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_hui_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -136,8 +145,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nina Bte Osman</strong>
-<br><strong><em>MK Operations Support Officer</em></strong>
+<p><strong>Mdm Mehrunnisha Binte Peer Mohamed</strong>
+<br><strong><em>Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,6 +157,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><em>Mdm Yeo Shiow Ching</em></strong>
 <br><strong><em>Operations Support Officer</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nina Bte Osman</strong>
+<br><strong><em>MK Operations Support Officer</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,8 +185,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Positivity is the key to success, and we must instill that mindset in every child for them to continue striving towards a bright future."</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -177,8 +195,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"The great aim of education is not knowledge, but action."</em>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Fairuz Bin Salim</strong>
+<br><strong><em>Science Lab Technician</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -193,8 +220,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Muhammad Fairuz Bin Salim</strong>
-<br><strong><em>Science Lab Technician</em></strong>
+<p><strong>Mdm Saniah Bte Ali</strong>
+<br><strong><em>Admin Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Soh Ham Chion, Karen</strong>
+<br><strong><em>Admin Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Yeo Soh Choo</strong>
+<br><strong><em>Printing Staff</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

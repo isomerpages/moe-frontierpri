@@ -104,25 +104,28 @@ and foster values, ethics, and attitudes in our students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sci5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/sci5.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SCIENCE_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SCIENCE_1.jpg">
 </div>
 <p><strong>Learning Experiences In Frontier Eco-Wonders</strong>
 </p>
@@ -139,7 +142,7 @@ deepen our scientific knowledge and cultivate lifelong values of environmental
 care and stewardship so that we can make a positive difference and be the
 difference in our homes and community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ECOWONDERS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/ECOWONDERS.jpg">
 </div>
 <p>Check out the Frontier Eco-Wonders <a href="https://for.edu.sg/frontier-eco-wonders" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Other Science progammes and resources:</strong>
@@ -152,14 +155,15 @@ learning.</p>
 <p>Engaging in science-related competitions such as Singapore Primary Science
 Olympiad, Singapore Youth Science Fair, Abbott Young Scientist Programme,
 not only sharpens analytical skills but also sparks innovation and creativity.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SCIENCE_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SCIENCE_2.jpg">
 </div>
 <p>In addition, our department has also curated resources such as science
 videos, games and simulations via our Science Digital Space, making science
 concepts accessible and enjoyable. Check out our Science Digital Space
 <a href="https://for.edu.sg/fps-sci-digital-space" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SCIENCE_SPACE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SCIENCE_SPACE.jpg">
 </div>
 <p></p>

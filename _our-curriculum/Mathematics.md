@@ -55,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Cheng Chew Teh Ai Choo</p>
+<p>Mrs Ang Cheng Chew - Teh Ai Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Julia Zheng Xiufen</p>
@@ -167,7 +167,7 @@ to&nbsp;<u>A</u>bstract) Approach is used to develop mathematical concepts.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/MATH_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MATH_1.png">
 </div>
 <p><strong>3. Verbalizing Thinking through Mathematics Reasoning and Communication</strong>
 </p>
@@ -191,32 +191,36 @@ learners.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/maf7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/maf8.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/maf9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/maf10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/maf10.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/MATH_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics/MATH_2.png">
 </div>
 <p><strong><u>Key Programmes</u></strong>
 </p>
