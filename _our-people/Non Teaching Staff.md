@@ -188,8 +188,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Positivity is the key to success, and we must instill that mindset in every child for them to continue striving towards a bright future."</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -199,8 +198,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"The great aim of education is not knowledge, but action."</em>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Fairuz Bin Salim</strong>
+<br><strong><em>Science Lab Technician</em></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -215,8 +223,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Muhammad Fairuz Bin Salim</strong>
-<br><strong><em>Science Lab Technician</em></strong>
+<p><strong>Mdm Saniah Bte Ali</strong>
+<br><strong><em>Admin Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Soh Ham Chion, Karen</strong>
+<br><strong><em>Admin Assistant</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Yeo Soh Choo</strong>
+<br><strong><em>Printing Staff</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
