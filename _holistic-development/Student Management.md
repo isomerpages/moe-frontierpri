@@ -57,10 +57,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Geena Chong -&nbsp; Er Qian Hui (SEN Officer)</p>
+<p>Mrs Geena Chong -&nbsp; Er Qian Hui (Senior SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Fadhilah Atkha Binte Mohamed Sani
+<p>Mdm Siti Fadhilah Atkha Binte Mohamed Sani
 <br>(SEN Officer)</p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ introduced Thumbs Up! Values in Action! to concretise how it would like
 for students to display the school values via specific behaviours. Thumbs
 Up! is aligned to our school Motto, Make a Difference and Be the Difference.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="96" width="576" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXde5nex01_FPNpc4LblIJcc879z-OakgZv36pWoF75vLgYaaW4X7kpTBLUE-Av_BSkYBR7zc0nR7lPbdvTLLkw9we0pM1ExkuGvfF1RrrZ4zM14E6c_CxAzySyQ_n8x922hwHqsEA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thumbs_Up.png">
 </div>
 <p><u>S.T.A.R. Approach</u> 
 <br>
@@ -112,18 +112,15 @@ as they grow and mature.&nbsp;
 </p>
 <p>Whenever faced with a difficult situation, students are taught to use
 the S.T.A.R. Approach. They should STOP. THINK. ACT. and then REFLECT.</p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="243" width="245" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwj2j5BB8wmWilRgIY7Ja3AoUfCdjL7n5MaUAb8jkhs0udmGVz8pV1ZMpsXWeh5k3d6vWWc9-GS3zgNUy_EJbd-6HHqLsSoT1QKvgurf8gyG91REXVm2sIZy-_1XWzv00pukKdPA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STAR.png">
 </div>
 <p>
 <br><u>School Discipline </u>
 <br>In enacting a positive and proactive approach to discipline in school,
 there are three aspects to consider:</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="190" width="320" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5_DycSAPiWTx8xtYipeL9D6879uR4aHV6t3hxF1JJF4FpLFcqMH2Qu9VX805pgxPhpcFf8_AM8lrkoVleKOtqHwbORBPXZ4SKdLSUy6yMsFXkRPgV8L73J8sxeTcEf02m0Epk?key=iq8aTdDzoS6mWuAKu9kmjQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Discipline.png">
 </div>
 <ul>
 <li>
@@ -224,12 +221,9 @@ attitudes. These recognitions are shared and celebrated at the end of each
 term, creating an encouraging and affirming environment where students
 feel valued and motivated to do their best.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="198" width="353" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcloI7z6cwXrJhvfnlh4-1YFjDorv8w_jTQ9nqopcvYxqrI1aqz0iNA3YuMEKjnEJduKF7liaantWdvy3k-k8np-i8djwREpJCaEW18kXowpJ4N7FcEhWdsnzH7VwYMs4gcB-7HNA?key=iq8aTdDzoS6mWuAKu9kmjQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Model_Class_Award.png">
 </div>
-<p></p>
-<p></p>
 <hr>
-<p></p>
 <ul>
 <li>
 <p><u>S.H.I.N.E. Programme</u>
@@ -244,7 +238,7 @@ hours, the programme seeks to create a safe and nurturing environment that
 strengthens students’ resilience, enhances their overall well-being, and
 supports their holistic development.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="242" width="455" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_T2Peyul2-Dn7Y2hl2hNAMIqGZQoqNaEFUk2vjtVqCUmEHzLVoljPMLcPbt-wlpCO3RmeoRSQfIQenylkLQDxol8qv_6rjuaOD420KPFpC8-x_bTWUssJVUJna1enO5jSSL2v2g?key=iq8aTdDzoS6mWuAKu9kmjQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shine.jpg">
 </div>
 <p>
 <br>
