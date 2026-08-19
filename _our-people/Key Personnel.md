@@ -99,9 +99,16 @@ variant: tiptap
 <p>Year Head P4/5</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rasidah Bte Mohd Rasit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Level / Subject Heads</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
