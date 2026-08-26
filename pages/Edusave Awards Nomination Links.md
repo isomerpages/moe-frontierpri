@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <blockquote>
-<p>Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2025</p>
+<p>Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2026</p>
 </blockquote>
 <p>The MOE Edusave Character Award (ECHA) and Frontier Character Award (FCA)
 aim to recognise outstanding Frontierers who demonstrate exemplary character
@@ -19,10 +19,10 @@ Citizens. These awards will be given to deserving students who demonstrate:</p>
 <p>There is a rigorous process of nomination and selection of the students
 by the staff within the school. Parents and students are also encouraged
 to nominate deserving students for our consideration using the following
-links, starting from 01 September 2025 (Monday) to 15 September 2025 (Monday):</p>
-<p><strong>Peer Nomination:</strong>&nbsp;<a href="https://go.gov.sg/studentnomination2025" rel="noopener" target="_blank">https://go.gov.sg/studentnomination2025</a>
+links, starting from 31 August 2026 (Monday) to 14 September 2026 (Monday):</p>
+<p><strong>Peer Nomination:</strong>&nbsp;<a href="https://go.gov.sg/fps-studentnomination2026" rel="noopener" target="_blank">https://go.gov.sg/fps-studentnomination2026</a>
 </p>
-<p><strong>Parent/ Guardian Nomination</strong>:&nbsp;<a href="https://go.gov.sg/parentguardiannomination2025" rel="noopener" target="_blank">https://go.gov.sg/parentguardiannomination2025</a>
+<p><strong>Parent/ Guardian Nomination</strong>:&nbsp;<a href="https://go.gov.sg/fps-parentguardiannomination2026" rel="noopener" target="_blank">https://go.gov.sg/parentguardiannomination2026</a>
 </p>
 <p>--</p>
 <blockquote>
@@ -50,16 +50,16 @@ in school settings and contexts (More details on the list of E21CC can
 be found in the letter that has been sent via Parents Gateway.)</p>
 <p>Similarly to ECHA and FCA, parents and students are encouraged to nominate
 deserving students for our consideration. You can access the forms from
-the following links, starting from 01 September 2025 (Monday) to 15 September
-2025 (Monday):</p>
+the following links, starting from 31 August 2026 (Monday) to 14 September
+2026 (Monday):</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Peer Nomination (P1-2): <a href="https://go.gov.sg/p1-2-eagles-peer-nomination" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1-2-eagles-peer-nomination</a>
+Peer Nomination (P1-2): <a href="https://go.gov.sg/fps-e21ccstduentnomination2026-p1p2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fps-e21ccstduentnomination2026-p1p2</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Peer Nomination (P3): ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/p3-eagles-peer-nomination" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3-eagles-peer-nomination</a>
+Peer Nomination (P3): <a href="https://go.gov.sg/fps-e21ccstduentnomination2026-p3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fps-e21ccstduentnomination2026-p3</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Parent/ Guardian Nomination: <a href="https://go.gov.sg/p1-3-eagles-parents-nomination" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1-3-eagles-parents-nomination</a>
+Parent/ Guardian Nomination: <a href="https://go.gov.sg/fps-e21ccparentnomination2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fps-e21ccparentnomination2026</a>
 </p>
 <p></p>
 <p></p>
