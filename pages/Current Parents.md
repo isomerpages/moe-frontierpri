@@ -42,11 +42,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/edusave-awards-nomination-links/" rel="noopener nofollow" target="_blank">Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2026 Nomination</a>
+<p><a href="/edusave-character-award-echa-and-frontier-character-award-fca-2026/" rel="noopener nofollow" target="_blank">Edusave Character Award (ECHA) and Frontier Character Award (FCA) 2026 Nomination</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/parent-guardiannomination2024-primary1to3" rel="noopener nofollow" target="_blank">Enhancements to Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) Nomination</a>
+<p><a href="/enhancements-to-edusave-awards-for-achievement-good-leadership-service-eagles/" rel="noopener nofollow" target="_blank">Enhancements to Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) Nomination</a>
 </p>
 </li>
 </ol>
